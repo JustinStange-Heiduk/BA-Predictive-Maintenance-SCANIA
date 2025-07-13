@@ -1,0 +1,32 @@
+# Basis
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+
+# Tracking
+mlflow
+tensorboard
+
+# ML
+xgboost
+keras-tuner
+
+# Pipelines & Struktur
+kedro
+kedro-datasets
+
+# Datenqualität & Monitoring
+dvc[gdrive]
+great_expectations
+evidently
+
+# Explainability
+shap
+lime
+
+# Frontend
+streamlit
+plotly

@@ -1,0 +1,19 @@
+{
+  "name": "Bachelorarbeit SCANIA",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "tfapp",
+  "workspaceFolder": "/workspace",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "github.copilot",
+    "eamodio.gitlens",                    // GitLens für Git-UI
+    "mhutchie.git-graph",                // Optional: visuelle Git-Verläufe
+    "GitHub.vscode-pull-request-github"  // Für PRs und Repo-Integration
+  ],
+  "postCreateCommand": "git config --global user.name 'Justin Stange-Heiduk' && git config --global user.email 'JustinHeiduk_99@web.de' && pip install -r requirements.txt",
+  "remoteUser": "root"
+}

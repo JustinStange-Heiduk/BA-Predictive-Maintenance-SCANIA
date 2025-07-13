@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  tfapp:
+    build: .
+    volumes:
+      - .:/workspace
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - TF_CPP_MIN_LOG_LEVEL=2
+    ports:
+      - "8888:8888"     # JupyterLab
+      - "6006:6006"     # TensorBoard
+      - "5000:5000"     # MLflow
+    command: >
+      bash -c "jupyter lab --ip=0.0.0.0 --allow-root --no-browser"
