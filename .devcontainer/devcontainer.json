@@ -10,6 +10,7 @@
     "ms-python.python",
     "ms-toolsai.jupyter",
     "github.copilot",
+    "github.copilot-chat",
     "eamodio.gitlens",                    // GitLens für Git-UI
     "mhutchie.git-graph",                // Optional: visuelle Git-Verläufe
     "GitHub.vscode-pull-request-github"  // Für PRs und Repo-Integration

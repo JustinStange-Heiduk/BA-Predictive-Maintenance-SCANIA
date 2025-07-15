@@ -79,7 +79,7 @@ Beim ersten Push-Versuch wirst du nach deinem GitHub-Benutzernamen und Passwort 
 - **Username:** `JustinStange-Heiduk`
 - **Passwort:** dein [GitHub Personal Access Token (PAT)](https://github.com/settings/tokens)
 
-#### ✅ Token-Speicherung für spätere Pushes
+#### Token-Speicherung für spätere Pushes
 
 Im Container kannst du deinen Token dauerhaft speichern mit:
 
@@ -87,6 +87,6 @@ Im Container kannst du deinen Token dauerhaft speichern mit:
 git config --global credential.helper store
 ```
 
-⚠️ Achtung: Der Token wird dann unverschlüsselt in `~/.git-credentials` gespeichert (nur innerhalb des Containers sichtbar).
+Achtung: Der Token wird dann unverschlüsselt in `~/.git-credentials` gespeichert (nur innerhalb des Containers sichtbar).
 
 ---

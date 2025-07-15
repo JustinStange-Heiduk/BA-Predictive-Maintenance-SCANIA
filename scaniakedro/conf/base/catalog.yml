@@ -1,0 +1,44 @@
+# Here you can define all your datasets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+
+train_specifications:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/train_specifications.csv
+
+train_operational_readouts:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/train_operational_readouts.csv
+
+train_tte:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/train_tte.csv
+
+validation_specifications:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/validation_specifications.csv
+
+validation_operational_readouts:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/validation_operational_readouts.csv
+
+validation_labels:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/validation_labels.csv
+
+test_specifications:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/test_specifications.csv
+
+test_operational_readouts:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/test_operational_readouts.csv
+
+test_labels:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/test_labels.csv
+
+raw_datasets:
+  type: MemoryDataset

@@ -1,32 +1,36 @@
 # Basis
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyterlab
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.10.3
+seaborn==0.13.2
+jupyterlab==4.3.5
+
+# Data Understanding
+scipy==1.12.0
+sweetviz==2.3.1
 
 # Tracking
-mlflow
-tensorboard
+mlflow==3.1.1
+tensorboard==2.17.1
 
 # ML
-xgboost
-keras-tuner
+xgboost==2.1.3
+keras-tuner==1.4.7
 
 # Pipelines & Struktur
-kedro
-kedro-datasets
+kedro==0.19.14
+kedro-datasets==2.1.0
 
 # Datenqualität & Monitoring
-dvc[gdrive]
-great_expectations
-evidently
+dvc[gdrive]==3.61.0
+great-expectations==1.5.5
+evidently==0.7.10
 
 # Explainability
-shap
-lime
+shap==0.48.0
+lime==0.2.0.1
 
 # Frontend
-streamlit
-plotly
+streamlit==1.46.1
+plotly==5.24.1
