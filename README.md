@@ -48,3 +48,78 @@ Einbinden der Metadaten ins Git:
 
 git add data/raw.dvc data/.gitignore
 git commit -m "Track raw SCANIA data with DVC"
+
+
+## 3. Projektstruktur und Workflow mit Kedro
+
+Für die Organisation, Modularisierung und Reproduzierbarkeit des Machine-Learning-Projekts wird [Kedro](https://kedro.org/) verwendet.
+
+### Initialisierung eines Kedro-Projekts
+
+```bash
+kedro new
+# Folge dem Wizard und gib z.B. "scaniakedro" als Projektnamen an
+```
+
+### Wichtige Ordner und Dateien
+
+```
+scaniakedro/
+├── conf/
+│   ├── base/
+│   │   ├── catalog.yml        # Definition aller Datasets
+│   │   ├── parameters.yml     # Globale Parameter
+│   │   └── logging.yml        # Logging-Konfiguration
+│   └── local/                 # Lokale, nicht versionierte Einstellungen
+├── data/
+│   ├── 01_raw/                # Rohdaten (von DVC verwaltet)
+│   ├── 02_intermediate/       # Zwischenergebnisse
+│   ├── 03_primary/            # Modellierbare Daten
+│   └── 04_model_input/        # Daten für Modelltraining
+├── src/
+│   └── scaniakedro/
+│       ├── pipelines/         # Alle Pipelines (z.B. raw_data_loading)
+│       │   └── raw_data_loading/
+│       │       ├── nodes.py   # Funktionen für die Pipeline
+│       │       └── pipeline.py# Pipeline-Definition
+│       ├── __init__.py
+│       └── pipeline_registry.py # Pipeline-Register
+├── notebooks/                 # Jupyter Notebooks für Exploration
+├── requirements.txt           # Paketabhängigkeiten
+└── README.md
+```
+
+### Typischer Workflow mit Kedro
+
+1. **Projekt konfigurieren:**
+   ```python
+   from kedro.framework.project import configure_project
+   configure_project("scaniakedro")
+   ```
+
+2. **Session starten und Pipeline ausführen:**
+   ```python
+   from kedro.framework.session import KedroSession
+   with KedroSession.create() as session:
+       context = session.load_context()
+       result = session.run(pipeline_name="raw_data_loading")
+   ```
+
+3. **Datenkatalog nutzen:**  
+   Die Datasets werden in `conf/base/catalog.yml` definiert und können in Nodes und Pipelines verwendet werden.
+
+4. **Eigene Pipelines und Nodes:**  
+   Neue Pipelines werden im Ordner `src/scaniakedro/pipelines/` angelegt und im `pipeline_registry.py` registriert.
+
+### Vorteile von Kedro
+
+- **Modularität:** Klare Trennung von Daten, Code und Konfiguration.
+- **Reproduzierbarkeit:** Jeder Schritt ist versioniert und nachvollziehbar.
+- **Automatisiertes Datenhandling:** Datasets werden zentral im Data Catalog verwaltet.
+- **Pipeline-Management:** Komplexe Workflows sind einfach abbildbar und ausführbar.
+
+---
+
+Weitere Infos:  
+- [Kedro Dokumentation](https://docs.kedro.org/)
+- [DVC Dokumentation](https://dvc.org/doc)
