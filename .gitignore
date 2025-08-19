@@ -1,0 +1,19 @@
+# Lokale Daten-Layer (Medallion Architecture) – nur Inhalt ignorieren, Ordner behalten
+data/01_raw/*
+data/02_intermediate/*
+data/03_primary/*
+data/04_feature/*
+data/05_model_input/*
+data/06_models/*
+data/07_model_output/*
+data/08_reporting/*
+
+# Leere Ordner erhalten (durch .gitkeep-Dateien)
+!data/01_raw/.gitkeep
+!data/02_intermediate/.gitkeep
+!data/03_primary/.gitkeep
+!data/04_feature/.gitkeep
+!data/05_model_input/.gitkeep
+!data/06_models/.gitkeep
+!data/07_model_output/.gitkeep
+!data/08_reporting/.gitkeep

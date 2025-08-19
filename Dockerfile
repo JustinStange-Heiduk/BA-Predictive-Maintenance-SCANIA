@@ -8,9 +8,6 @@ WORKDIR /workspace
 COPY requirements.txt .
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
-# Copy source code
-COPY ./src ./src
-COPY ./notebooks ./notebooks
 
 # Default command
-CMD ["python", "./src/main.py"]
+# CMD ["python", "./src/main.py"]
