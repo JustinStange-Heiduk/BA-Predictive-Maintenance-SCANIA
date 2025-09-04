@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a0524210c6fc46dcb75a24dd4e5ffc7a/artifacts
+end_time: 1756977561180
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a0524210c6fc46dcb75a24dd4e5ffc7a
+run_name: sedate-lark-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977559837
+status: 3
+tags: []
+user_id: root

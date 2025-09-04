@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7c5a63cb10f6477c876734a099911b34/artifacts
+end_time: 1756974892777
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7c5a63cb10f6477c876734a099911b34
+run_name: amazing-shad-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974890689
+status: 3
+tags: []
+user_id: root

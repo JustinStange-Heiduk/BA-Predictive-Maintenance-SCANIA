@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c79d281136a14fff9c986af94267f715/artifacts
+end_time: 1756977714396
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c79d281136a14fff9c986af94267f715
+run_name: sneaky-moth-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977713030
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e741a7f290ee4d6292e4006118449851/artifacts
+end_time: 1756977580097
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e741a7f290ee4d6292e4006118449851
+run_name: resilient-rat-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977578748
+status: 3
+tags: []
+user_id: root

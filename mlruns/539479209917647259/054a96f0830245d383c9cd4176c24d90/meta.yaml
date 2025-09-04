@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/054a96f0830245d383c9cd4176c24d90/artifacts
+end_time: 1756977839504
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 054a96f0830245d383c9cd4176c24d90
+run_name: salty-loon-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977838137
+status: 3
+tags: []
+user_id: root

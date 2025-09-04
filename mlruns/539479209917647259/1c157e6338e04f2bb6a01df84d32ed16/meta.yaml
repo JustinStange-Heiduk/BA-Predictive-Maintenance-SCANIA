@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1c157e6338e04f2bb6a01df84d32ed16/artifacts
+end_time: 1756978160528
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1c157e6338e04f2bb6a01df84d32ed16
+run_name: shivering-duck-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978158740
+status: 3
+tags: []
+user_id: root

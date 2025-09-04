@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/90ab0c82015540da931038e1384e760a/artifacts
+end_time: 1756977494614
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 90ab0c82015540da931038e1384e760a
+run_name: beautiful-crow-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977493181
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/45aebe2d6a26428da9b383a63197b286/artifacts
+end_time: 1756975524323
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 45aebe2d6a26428da9b383a63197b286
+run_name: nimble-fly-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975522363
+status: 3
+tags: []
+user_id: root

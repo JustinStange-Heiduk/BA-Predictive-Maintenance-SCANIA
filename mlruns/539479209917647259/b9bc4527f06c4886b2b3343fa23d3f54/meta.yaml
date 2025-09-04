@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b9bc4527f06c4886b2b3343fa23d3f54/artifacts
+end_time: 1756975880290
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b9bc4527f06c4886b2b3343fa23d3f54
+run_name: magnificent-auk-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975878176
+status: 3
+tags: []
+user_id: root

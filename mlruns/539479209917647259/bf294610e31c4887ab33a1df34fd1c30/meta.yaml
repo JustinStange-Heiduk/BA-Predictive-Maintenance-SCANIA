@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bf294610e31c4887ab33a1df34fd1c30/artifacts
+end_time: 1756975735650
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bf294610e31c4887ab33a1df34fd1c30
+run_name: nosy-bird-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975737307
+status: 3
+tags: []
+user_id: root

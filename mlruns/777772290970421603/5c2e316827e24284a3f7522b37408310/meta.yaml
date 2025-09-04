@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5c2e316827e24284a3f7522b37408310/artifacts
+end_time: 1756967183349
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5c2e316827e24284a3f7522b37408310
+run_name: likeable-bee-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967177003
+status: 4
+tags: []
+user_id: root

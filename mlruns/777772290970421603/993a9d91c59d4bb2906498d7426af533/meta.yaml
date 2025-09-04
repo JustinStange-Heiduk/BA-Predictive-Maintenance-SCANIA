@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/993a9d91c59d4bb2906498d7426af533/artifacts
+end_time: 1756970534403
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 993a9d91c59d4bb2906498d7426af533
+run_name: bold-gnat-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970529477
+status: 3
+tags: []
+user_id: root

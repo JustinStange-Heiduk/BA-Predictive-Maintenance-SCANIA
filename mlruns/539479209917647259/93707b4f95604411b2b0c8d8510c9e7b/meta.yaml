@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/93707b4f95604411b2b0c8d8510c9e7b/artifacts
+end_time: 1756976189287
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 93707b4f95604411b2b0c8d8510c9e7b
+run_name: judicious-ant-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976187211
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3e6ebb7f6b9b474785c0c2b98d58e475/artifacts
+end_time: 1756913515381
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3e6ebb7f6b9b474785c0c2b98d58e475
+run_name: thoughtful-hog-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913480752
+status: 3
+tags: []
+user_id: root

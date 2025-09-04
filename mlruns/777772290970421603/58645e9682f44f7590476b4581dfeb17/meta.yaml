@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/58645e9682f44f7590476b4581dfeb17/artifacts
+end_time: 1756908749053
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 58645e9682f44f7590476b4581dfeb17
+run_name: casual-grouse-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908726568
+status: 4
+tags: []
+user_id: root

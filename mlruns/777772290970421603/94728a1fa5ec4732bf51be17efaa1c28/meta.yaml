@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/94728a1fa5ec4732bf51be17efaa1c28/artifacts
+end_time: 1756915381759
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 94728a1fa5ec4732bf51be17efaa1c28
+run_name: enthused-ape-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756914496599
+status: 3
+tags: []
+user_id: root

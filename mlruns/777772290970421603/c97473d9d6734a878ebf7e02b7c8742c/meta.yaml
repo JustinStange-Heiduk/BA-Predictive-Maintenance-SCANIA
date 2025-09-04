@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c97473d9d6734a878ebf7e02b7c8742c/artifacts
+end_time: 1756904665319
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c97473d9d6734a878ebf7e02b7c8742c
+run_name: abrasive-skink-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756904645724
+status: 4
+tags: []
+user_id: root

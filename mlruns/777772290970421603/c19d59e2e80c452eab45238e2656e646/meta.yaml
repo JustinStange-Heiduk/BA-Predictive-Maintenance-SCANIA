@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c19d59e2e80c452eab45238e2656e646/artifacts
+end_time: 1756970461337
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c19d59e2e80c452eab45238e2656e646
+run_name: orderly-lark-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970453060
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d1de2ec3ed83459a85766af19172ab7c/artifacts
+end_time: 1756975087963
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d1de2ec3ed83459a85766af19172ab7c
+run_name: caring-chimp-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975083900
+status: 3
+tags: []
+user_id: root

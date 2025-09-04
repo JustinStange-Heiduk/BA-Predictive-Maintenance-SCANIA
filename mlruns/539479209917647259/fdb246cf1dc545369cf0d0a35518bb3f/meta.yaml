@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/fdb246cf1dc545369cf0d0a35518bb3f/artifacts
+end_time: 1756975457610
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: fdb246cf1dc545369cf0d0a35518bb3f
+run_name: brawny-trout-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975455546
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/383418e9ce31475eade8c0c30cab962c/artifacts
+end_time: 1756975717482
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 383418e9ce31475eade8c0c30cab962c
+run_name: thoughtful-auk-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975713243
+status: 3
+tags: []
+user_id: root

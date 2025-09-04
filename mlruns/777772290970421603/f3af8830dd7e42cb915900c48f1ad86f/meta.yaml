@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/f3af8830dd7e42cb915900c48f1ad86f/artifacts
+end_time: 1756895433954
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: f3af8830dd7e42cb915900c48f1ad86f
+run_name: incongruous-croc-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756895402533
+status: 4
+tags: []
+user_id: root

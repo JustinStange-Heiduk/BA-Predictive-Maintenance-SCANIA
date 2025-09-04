@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7292b36dabb342bc9f36a788e7fe600b/artifacts
+end_time: 1756978436375
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7292b36dabb342bc9f36a788e7fe600b
+run_name: capricious-bear-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978434240
+status: 3
+tags: []
+user_id: root

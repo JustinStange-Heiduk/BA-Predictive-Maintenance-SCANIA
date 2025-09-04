@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/586b0e32514041349a67d65706451201/artifacts
+end_time: 1756976039806
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 586b0e32514041349a67d65706451201
+run_name: illustrious-fly-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976015543
+status: 3
+tags: []
+user_id: root

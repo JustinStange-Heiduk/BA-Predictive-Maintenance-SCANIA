@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/45da49fc77e941c884eda51e1d05f218/artifacts
+end_time: 1756974797295
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 45da49fc77e941c884eda51e1d05f218
+run_name: persistent-bear-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974792446
+status: 3
+tags: []
+user_id: root

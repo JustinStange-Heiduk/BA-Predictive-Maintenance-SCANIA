@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/71e241edd51e420e9f80485c91bd0251/artifacts
+end_time: 1756976969913
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 71e241edd51e420e9f80485c91bd0251
+run_name: rumbling-shark-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976967668
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d5a37f167f5140d4b007b4a70d484e31/artifacts
+end_time: 1756920712097
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d5a37f167f5140d4b007b4a70d484e31
+run_name: treasured-bird-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920691810
+status: 3
+tags: []
+user_id: root

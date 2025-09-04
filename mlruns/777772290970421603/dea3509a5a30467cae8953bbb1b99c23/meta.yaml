@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/dea3509a5a30467cae8953bbb1b99c23/artifacts
+end_time: 1756909293566
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: dea3509a5a30467cae8953bbb1b99c23
+run_name: treasured-yak-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909281850
+status: 4
+tags: []
+user_id: root

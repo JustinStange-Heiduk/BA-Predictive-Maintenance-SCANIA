@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/4d3bddfd1b78445bbc3f8a5d6fdffb0b/artifacts
+end_time: 1756908414475
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 4d3bddfd1b78445bbc3f8a5d6fdffb0b
+run_name: bedecked-calf-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908302682
+status: 4
+tags: []
+user_id: root

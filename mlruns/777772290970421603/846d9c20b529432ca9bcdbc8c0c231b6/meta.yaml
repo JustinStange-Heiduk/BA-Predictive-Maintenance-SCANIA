@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/846d9c20b529432ca9bcdbc8c0c231b6/artifacts
+end_time: 1756912159044
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 846d9c20b529432ca9bcdbc8c0c231b6
+run_name: brawny-shrew-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912137194
+status: 4
+tags: []
+user_id: root

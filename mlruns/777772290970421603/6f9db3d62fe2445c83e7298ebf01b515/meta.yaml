@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6f9db3d62fe2445c83e7298ebf01b515/artifacts
+end_time: 1756900520190
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6f9db3d62fe2445c83e7298ebf01b515
+run_name: clean-sheep-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756900196407
+status: 3
+tags: []
+user_id: root

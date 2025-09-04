@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2e830a12d4074ab7985bc772e2f857d0/artifacts
+end_time: 1756977529793
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2e830a12d4074ab7985bc772e2f857d0
+run_name: handsome-ram-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977528245
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2789777c9d9f441b9edb9c47708de96a/artifacts
+end_time: 1756977193434
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2789777c9d9f441b9edb9c47708de96a
+run_name: gifted-shark-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977190247
+status: 3
+tags: []
+user_id: root

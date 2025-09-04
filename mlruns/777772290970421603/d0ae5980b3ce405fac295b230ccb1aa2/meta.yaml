@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d0ae5980b3ce405fac295b230ccb1aa2/artifacts
+end_time: 1756969590491
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d0ae5980b3ce405fac295b230ccb1aa2
+run_name: welcoming-stag-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969587980
+status: 3
+tags: []
+user_id: root

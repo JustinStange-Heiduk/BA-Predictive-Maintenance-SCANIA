@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/811ee6d8fcd04c8689fb79073b00447e/artifacts
+end_time: 1756976849007
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 811ee6d8fcd04c8689fb79073b00447e
+run_name: rumbling-mouse-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976846983
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1623432d1b59428e9e1b57c8416f8f2b/artifacts
+end_time: 1756912488278
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1623432d1b59428e9e1b57c8416f8f2b
+run_name: lyrical-elk-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912463895
+status: 4
+tags: []
+user_id: root

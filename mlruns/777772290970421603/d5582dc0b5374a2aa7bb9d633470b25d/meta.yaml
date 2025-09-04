@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d5582dc0b5374a2aa7bb9d633470b25d/artifacts
+end_time: 1756920917107
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d5582dc0b5374a2aa7bb9d633470b25d
+run_name: adaptable-skink-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920893434
+status: 4
+tags: []
+user_id: root

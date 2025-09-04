@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f84701b9779a44648fc87a421a07deb0/artifacts
+end_time: 1756978398103
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f84701b9779a44648fc87a421a07deb0
+run_name: likeable-shad-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978396256
+status: 3
+tags: []
+user_id: root

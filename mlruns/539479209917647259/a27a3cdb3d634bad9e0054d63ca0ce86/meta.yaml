@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a27a3cdb3d634bad9e0054d63ca0ce86/artifacts
+end_time: 1756975281341
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a27a3cdb3d634bad9e0054d63ca0ce86
+run_name: whimsical-zebra-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975279985
+status: 3
+tags: []
+user_id: root

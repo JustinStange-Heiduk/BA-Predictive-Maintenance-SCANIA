@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/262eb535674d40c38165f9ee23dd5075/artifacts
+end_time: 1756905640980
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 262eb535674d40c38165f9ee23dd5075
+run_name: bustling-crow-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756905622295
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ce2b900f71a84ae29894aab370f06de0/artifacts
+end_time: 1756911980267
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ce2b900f71a84ae29894aab370f06de0
+run_name: funny-ape-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911962061
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0c480ec5c4a243aaa447c1c6765d1491/artifacts
+end_time: 1756976013242
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0c480ec5c4a243aaa447c1c6765d1491
+run_name: salty-crow-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976011203
+status: 3
+tags: []
+user_id: root

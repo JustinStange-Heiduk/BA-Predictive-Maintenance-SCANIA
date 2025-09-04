@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/156171a9612a4b9893b08dcc6762b5b1/artifacts
+end_time: 1756975842143
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 156171a9612a4b9893b08dcc6762b5b1
+run_name: clumsy-shrimp-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975840283
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/50679c6a6619460bb662e4cedcf811ef/artifacts
+end_time: 1756977105309
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 50679c6a6619460bb662e4cedcf811ef
+run_name: unleashed-jay-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977103020
+status: 3
+tags: []
+user_id: root

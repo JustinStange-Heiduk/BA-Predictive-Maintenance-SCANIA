@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2991b7c9162a447a93a4c3009d78f5f6/artifacts
+end_time: 1756912137010
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2991b7c9162a447a93a4c3009d78f5f6
+run_name: respected-lynx-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912114842
+status: 4
+tags: []
+user_id: root

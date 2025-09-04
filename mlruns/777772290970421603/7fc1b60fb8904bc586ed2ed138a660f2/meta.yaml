@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7fc1b60fb8904bc586ed2ed138a660f2/artifacts
+end_time: 1756969440598
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7fc1b60fb8904bc586ed2ed138a660f2
+run_name: delicate-goose-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969439341
+status: 3
+tags: []
+user_id: root

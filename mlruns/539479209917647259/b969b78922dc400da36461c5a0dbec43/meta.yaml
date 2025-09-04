@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b969b78922dc400da36461c5a0dbec43/artifacts
+end_time: 1756977755709
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b969b78922dc400da36461c5a0dbec43
+run_name: stylish-goat-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977753805
+status: 3
+tags: []
+user_id: root

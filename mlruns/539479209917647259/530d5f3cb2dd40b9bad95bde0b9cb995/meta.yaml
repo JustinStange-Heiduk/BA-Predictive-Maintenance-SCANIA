@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/530d5f3cb2dd40b9bad95bde0b9cb995/artifacts
+end_time: 1756976219157
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 530d5f3cb2dd40b9bad95bde0b9cb995
+run_name: polite-steed-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976217356
+status: 3
+tags: []
+user_id: root

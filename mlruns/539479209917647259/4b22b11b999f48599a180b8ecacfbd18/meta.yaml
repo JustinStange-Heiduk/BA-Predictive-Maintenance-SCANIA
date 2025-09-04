@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4b22b11b999f48599a180b8ecacfbd18/artifacts
+end_time: 1756976922291
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4b22b11b999f48599a180b8ecacfbd18
+run_name: puzzled-cow-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976920040
+status: 3
+tags: []
+user_id: root

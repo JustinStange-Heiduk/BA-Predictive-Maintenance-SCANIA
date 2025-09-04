@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/fd45f810e025464ba9b7aa5b27e2edd7/artifacts
+end_time: 1756912093859
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: fd45f810e025464ba9b7aa5b27e2edd7
+run_name: upbeat-mule-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912062904
+status: 3
+tags: []
+user_id: root

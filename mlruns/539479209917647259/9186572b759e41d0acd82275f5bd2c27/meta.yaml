@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9186572b759e41d0acd82275f5bd2c27/artifacts
+end_time: 1756978363186
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9186572b759e41d0acd82275f5bd2c27
+run_name: shivering-snipe-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978361006
+status: 3
+tags: []
+user_id: root

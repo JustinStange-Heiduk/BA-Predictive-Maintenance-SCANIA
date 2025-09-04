@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1b06574a204742daaf0bb490545d1167/artifacts
+end_time: 1756975871940
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1b06574a204742daaf0bb490545d1167
+run_name: awesome-goat-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975869842
+status: 3
+tags: []
+user_id: root

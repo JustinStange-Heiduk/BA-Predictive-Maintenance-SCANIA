@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/86212f04645a4c62b0eb54ff3111e91a/artifacts
+end_time: 1756971801068
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 86212f04645a4c62b0eb54ff3111e91a
+run_name: fearless-boar-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971786520
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/86ade945dd4b4f059bd982a3adcadf07/artifacts
+end_time: 1756976104239
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 86ade945dd4b4f059bd982a3adcadf07
+run_name: rogue-squid-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976102187
+status: 3
+tags: []
+user_id: root

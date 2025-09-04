@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bae3688ec3034f359a2d5d57fc3dae41/artifacts
+end_time: 1756976045247
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bae3688ec3034f359a2d5d57fc3dae41
+run_name: bold-shrew-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976043409
+status: 3
+tags: []
+user_id: root

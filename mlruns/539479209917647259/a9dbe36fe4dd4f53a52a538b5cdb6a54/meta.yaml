@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a9dbe36fe4dd4f53a52a538b5cdb6a54/artifacts
+end_time: 1756977076916
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a9dbe36fe4dd4f53a52a538b5cdb6a54
+run_name: thundering-conch-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977074697
+status: 3
+tags: []
+user_id: root

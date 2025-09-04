@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/01cdac66907f478094c29e0223ef4185/artifacts
+end_time: 1756975555955
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 01cdac66907f478094c29e0223ef4185
+run_name: big-kit-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975553916
+status: 3
+tags: []
+user_id: root

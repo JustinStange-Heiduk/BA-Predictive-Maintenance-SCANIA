@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/71d21f0b1434478abd0131a9c3ae3ddf/artifacts
+end_time: 1756920059480
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 71d21f0b1434478abd0131a9c3ae3ddf
+run_name: sincere-fowl-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920059064
+status: 4
+tags: []
+user_id: root

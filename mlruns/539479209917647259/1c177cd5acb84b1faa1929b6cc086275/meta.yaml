@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1c177cd5acb84b1faa1929b6cc086275/artifacts
+end_time: 1756975464874
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1c177cd5acb84b1faa1929b6cc086275
+run_name: angry-steed-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975462841
+status: 3
+tags: []
+user_id: root

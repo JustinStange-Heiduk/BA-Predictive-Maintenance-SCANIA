@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/4b1bc703cbba47948d67bd561c48713e/artifacts
+end_time: 1756911557490
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 4b1bc703cbba47948d67bd561c48713e
+run_name: rumbling-trout-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911533870
+status: 4
+tags: []
+user_id: root

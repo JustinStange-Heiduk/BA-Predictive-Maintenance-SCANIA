@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3dd5db4370d44909a45a1c5bcb3ad306/artifacts
+end_time: 1756975013944
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3dd5db4370d44909a45a1c5bcb3ad306
+run_name: charming-hare-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975011697
+status: 3
+tags: []
+user_id: root

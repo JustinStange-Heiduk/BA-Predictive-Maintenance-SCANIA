@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/f71ae1d2a8d94fe08bd3a7e7784909b0/artifacts
+end_time: 1756914469511
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: f71ae1d2a8d94fe08bd3a7e7784909b0
+run_name: clean-asp-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756914439167
+status: 4
+tags: []
+user_id: root

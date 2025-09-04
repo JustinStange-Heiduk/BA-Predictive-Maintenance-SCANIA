@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/334a9f4e4fc34f22a26f00907a8bcd96/artifacts
+end_time: 1756974649180
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 334a9f4e4fc34f22a26f00907a8bcd96
+run_name: selective-hare-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974649243
+status: 3
+tags: []
+user_id: root

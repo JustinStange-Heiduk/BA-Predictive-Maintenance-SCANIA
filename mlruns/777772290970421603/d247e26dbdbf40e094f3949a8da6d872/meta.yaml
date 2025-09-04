@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d247e26dbdbf40e094f3949a8da6d872/artifacts
+end_time: 1756909853704
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d247e26dbdbf40e094f3949a8da6d872
+run_name: kindly-lynx-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909841893
+status: 4
+tags: []
+user_id: root

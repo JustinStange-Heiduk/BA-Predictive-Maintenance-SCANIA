@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8dfceb26308847c08699922aad0973ce/artifacts
+end_time: 1756975956950
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8dfceb26308847c08699922aad0973ce
+run_name: fortunate-worm-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975954624
+status: 3
+tags: []
+user_id: root

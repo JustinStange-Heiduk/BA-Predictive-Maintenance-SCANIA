@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ad89280a6e2147b7b8b1ebe70014b5c5/artifacts
+end_time: 1756978070649
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ad89280a6e2147b7b8b1ebe70014b5c5
+run_name: adventurous-pug-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978068510
+status: 3
+tags: []
+user_id: root

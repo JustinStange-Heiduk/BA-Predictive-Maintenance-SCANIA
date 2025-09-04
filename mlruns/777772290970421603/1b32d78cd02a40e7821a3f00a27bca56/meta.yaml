@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1b32d78cd02a40e7821a3f00a27bca56/artifacts
+end_time: 1756904939558
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1b32d78cd02a40e7821a3f00a27bca56
+run_name: defiant-jay-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756904921337
+status: 4
+tags: []
+user_id: root

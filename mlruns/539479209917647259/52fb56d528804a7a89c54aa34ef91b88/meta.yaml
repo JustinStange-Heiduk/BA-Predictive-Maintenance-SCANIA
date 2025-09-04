@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/52fb56d528804a7a89c54aa34ef91b88/artifacts
+end_time: 1756975898386
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 52fb56d528804a7a89c54aa34ef91b88
+run_name: lyrical-mare-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975896185
+status: 3
+tags: []
+user_id: root

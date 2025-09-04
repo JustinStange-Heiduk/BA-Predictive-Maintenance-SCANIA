@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/096fb6d77178455bbc7eda5d1ed5ab55/artifacts
+end_time: 1756911475670
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 096fb6d77178455bbc7eda5d1ed5ab55
+run_name: bright-moose-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911453292
+status: 4
+tags: []
+user_id: root

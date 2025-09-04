@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/29197e208e834be9b7291b0ef2ee7f8f/artifacts
+end_time: 1756975211617
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 29197e208e834be9b7291b0ef2ee7f8f
+run_name: big-moth-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975209759
+status: 3
+tags: []
+user_id: root

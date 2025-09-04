@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f1bd297d79864f20a4c8a56cf4b1ccb3/artifacts
+end_time: 1756975376692
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f1bd297d79864f20a4c8a56cf4b1ccb3
+run_name: adventurous-seal-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975374781
+status: 3
+tags: []
+user_id: root

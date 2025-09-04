@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c4d6b6431feb483cbfb26010c5d734e1/artifacts
+end_time: 1756975098970
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c4d6b6431feb483cbfb26010c5d734e1
+run_name: monumental-fawn-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975094870
+status: 3
+tags: []
+user_id: root

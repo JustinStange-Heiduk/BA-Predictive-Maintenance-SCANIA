@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/e7660f58d7fd4546b4421ca581810a7f/artifacts
+end_time: 1756969656426
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: e7660f58d7fd4546b4421ca581810a7f
+run_name: likeable-auk-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969655142
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0a2cc33c7fbc4619baa58d4ab124f723/artifacts
+end_time: 1756975189173
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0a2cc33c7fbc4619baa58d4ab124f723
+run_name: stylish-bear-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975187494
+status: 3
+tags: []
+user_id: root

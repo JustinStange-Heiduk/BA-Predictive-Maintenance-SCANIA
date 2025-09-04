@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/79a6ef5f73544609a2acc3b3fd7e7775/artifacts
+end_time: 1756978060649
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 79a6ef5f73544609a2acc3b3fd7e7775
+run_name: indecisive-lark-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978059032
+status: 3
+tags: []
+user_id: root

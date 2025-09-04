@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/34d9dc5be0874b96b0b3e2cb1a57adfb/artifacts
+end_time: 1756977731881
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 34d9dc5be0874b96b0b3e2cb1a57adfb
+run_name: nimble-smelt-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977729825
+status: 3
+tags: []
+user_id: root

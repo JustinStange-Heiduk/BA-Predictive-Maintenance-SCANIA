@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ca2d41b7565b4e5e8c2b358c8d5b20ee/artifacts
+end_time: 1756889129067
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ca2d41b7565b4e5e8c2b358c8d5b20ee
+run_name: silent-lamb-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888802957
+status: 3
+tags: []
+user_id: root

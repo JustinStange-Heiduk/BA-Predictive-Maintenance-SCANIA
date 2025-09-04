@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f583f4e2f6d040eebcac8bebfe2f9f5c/artifacts
+end_time: 1756977484660
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f583f4e2f6d040eebcac8bebfe2f9f5c
+run_name: traveling-bird-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977482259
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/53f0aa9750a549b5b95dca18661c2d25/artifacts
+end_time: 1756899105577
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 53f0aa9750a549b5b95dca18661c2d25
+run_name: agreeable-steed-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756898780094
+status: 3
+tags: []
+user_id: root

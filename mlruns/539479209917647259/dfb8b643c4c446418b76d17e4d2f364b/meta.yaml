@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/dfb8b643c4c446418b76d17e4d2f364b/artifacts
+end_time: 1756977576962
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: dfb8b643c4c446418b76d17e4d2f364b
+run_name: unequaled-pig-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977575577
+status: 3
+tags: []
+user_id: root

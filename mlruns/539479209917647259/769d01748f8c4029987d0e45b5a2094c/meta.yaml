@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/769d01748f8c4029987d0e45b5a2094c/artifacts
+end_time: 1756977361956
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 769d01748f8c4029987d0e45b5a2094c
+run_name: abundant-squid-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977360542
+status: 3
+tags: []
+user_id: root

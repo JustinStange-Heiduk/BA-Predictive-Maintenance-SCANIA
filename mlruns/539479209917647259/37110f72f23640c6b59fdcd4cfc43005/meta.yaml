@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/37110f72f23640c6b59fdcd4cfc43005/artifacts
+end_time: 1756976176625
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 37110f72f23640c6b59fdcd4cfc43005
+run_name: selective-sponge-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976174637
+status: 3
+tags: []
+user_id: root

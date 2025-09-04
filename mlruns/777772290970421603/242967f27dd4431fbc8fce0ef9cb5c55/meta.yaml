@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/242967f27dd4431fbc8fce0ef9cb5c55/artifacts
+end_time: 1756972670272
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 242967f27dd4431fbc8fce0ef9cb5c55
+run_name: bustling-flea-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972661100
+status: 3
+tags: []
+user_id: root

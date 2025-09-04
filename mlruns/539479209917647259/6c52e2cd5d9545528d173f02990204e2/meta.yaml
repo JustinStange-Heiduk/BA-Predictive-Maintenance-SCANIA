@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6c52e2cd5d9545528d173f02990204e2/artifacts
+end_time: 1756974751260
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6c52e2cd5d9545528d173f02990204e2
+run_name: merciful-auk-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974749219
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/dbda85fac337489b981de11847104cc4/artifacts
+end_time: 1756975450895
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: dbda85fac337489b981de11847104cc4
+run_name: mercurial-seal-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975448835
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b52c7ba13dce44a88689790240afcc71/artifacts
+end_time: 1756975734874
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b52c7ba13dce44a88689790240afcc71
+run_name: casual-hound-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975730033
+status: 3
+tags: []
+user_id: root

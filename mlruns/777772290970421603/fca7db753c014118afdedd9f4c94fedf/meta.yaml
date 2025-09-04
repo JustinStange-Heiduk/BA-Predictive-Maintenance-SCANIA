@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/fca7db753c014118afdedd9f4c94fedf/artifacts
+end_time: 1756969447611
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: fca7db753c014118afdedd9f4c94fedf
+run_name: mercurial-whale-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969445413
+status: 3
+tags: []
+user_id: root

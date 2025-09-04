@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a25bef5506d4455ca8419a82bd198c4f/artifacts
+end_time: 1756974705510
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a25bef5506d4455ca8419a82bd198c4f
+run_name: powerful-lamb-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974690704
+status: 3
+tags: []
+user_id: root

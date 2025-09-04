@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9332677fb11f400d9c820133f84cb6e4/artifacts
+end_time: 1756975372717
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9332677fb11f400d9c820133f84cb6e4
+run_name: dapper-wasp-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975371024
+status: 3
+tags: []
+user_id: root

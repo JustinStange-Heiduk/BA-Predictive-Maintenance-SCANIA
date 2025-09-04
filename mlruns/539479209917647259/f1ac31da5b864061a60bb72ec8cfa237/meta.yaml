@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f1ac31da5b864061a60bb72ec8cfa237/artifacts
+end_time: 1756977664743
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f1ac31da5b864061a60bb72ec8cfa237
+run_name: bold-goat-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977662701
+status: 3
+tags: []
+user_id: root

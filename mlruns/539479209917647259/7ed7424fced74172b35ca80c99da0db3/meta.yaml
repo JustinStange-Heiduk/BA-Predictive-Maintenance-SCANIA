@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7ed7424fced74172b35ca80c99da0db3/artifacts
+end_time: 1756975191041
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7ed7424fced74172b35ca80c99da0db3
+run_name: resilient-goat-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975189376
+status: 3
+tags: []
+user_id: root

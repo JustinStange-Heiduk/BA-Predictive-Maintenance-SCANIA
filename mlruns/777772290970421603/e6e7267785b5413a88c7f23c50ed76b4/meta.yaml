@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/e6e7267785b5413a88c7f23c50ed76b4/artifacts
+end_time: 1756972713482
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: e6e7267785b5413a88c7f23c50ed76b4
+run_name: melodic-swan-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972706784
+status: 3
+tags: []
+user_id: root

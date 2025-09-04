@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4f97f8cf4e6444cf93316924373363d3/artifacts
+end_time: 1756975216696
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4f97f8cf4e6444cf93316924373363d3
+run_name: indecisive-steed-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975214651
+status: 3
+tags: []
+user_id: root

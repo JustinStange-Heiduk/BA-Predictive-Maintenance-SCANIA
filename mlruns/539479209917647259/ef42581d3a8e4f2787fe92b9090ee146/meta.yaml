@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ef42581d3a8e4f2787fe92b9090ee146/artifacts
+end_time: 1756977562739
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ef42581d3a8e4f2787fe92b9090ee146
+run_name: casual-colt-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977561407
+status: 3
+tags: []
+user_id: root

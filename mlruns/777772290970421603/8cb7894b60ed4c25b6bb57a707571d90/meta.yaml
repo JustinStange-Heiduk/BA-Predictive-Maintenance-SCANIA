@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8cb7894b60ed4c25b6bb57a707571d90/artifacts
+end_time: 1756908616360
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8cb7894b60ed4c25b6bb57a707571d90
+run_name: unique-hawk-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908594395
+status: 4
+tags: []
+user_id: root

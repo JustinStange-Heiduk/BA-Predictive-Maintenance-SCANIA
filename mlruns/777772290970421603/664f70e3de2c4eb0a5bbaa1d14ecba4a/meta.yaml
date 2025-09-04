@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/664f70e3de2c4eb0a5bbaa1d14ecba4a/artifacts
+end_time: 1756908554382
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 664f70e3de2c4eb0a5bbaa1d14ecba4a
+run_name: puzzled-snake-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908519710
+status: 3
+tags: []
+user_id: root

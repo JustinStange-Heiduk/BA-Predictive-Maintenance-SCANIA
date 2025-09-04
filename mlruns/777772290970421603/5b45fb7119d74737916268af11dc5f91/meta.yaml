@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5b45fb7119d74737916268af11dc5f91/artifacts
+end_time: 1756970287747
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5b45fb7119d74737916268af11dc5f91
+run_name: wistful-mink-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970282526
+status: 3
+tags: []
+user_id: root

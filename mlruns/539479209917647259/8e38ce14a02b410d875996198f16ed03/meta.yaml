@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8e38ce14a02b410d875996198f16ed03/artifacts
+end_time: 1756976225782
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8e38ce14a02b410d875996198f16ed03
+run_name: orderly-carp-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976223657
+status: 3
+tags: []
+user_id: root

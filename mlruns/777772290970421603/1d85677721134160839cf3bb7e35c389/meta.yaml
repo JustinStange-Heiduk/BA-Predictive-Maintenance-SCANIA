@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1d85677721134160839cf3bb7e35c389/artifacts
+end_time: 1756923831685
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1d85677721134160839cf3bb7e35c389
+run_name: languid-shark-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756923807409
+status: 4
+tags: []
+user_id: root

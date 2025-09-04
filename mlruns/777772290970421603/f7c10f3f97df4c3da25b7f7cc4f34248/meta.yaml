@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/f7c10f3f97df4c3da25b7f7cc4f34248/artifacts
+end_time: 1756888477381
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: f7c10f3f97df4c3da25b7f7cc4f34248
+run_name: welcoming-fox-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888150034
+status: 3
+tags: []
+user_id: root

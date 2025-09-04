@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cc034770c3f54c83883d6ab22bdef2df/artifacts
+end_time: 1756975377171
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cc034770c3f54c83883d6ab22bdef2df
+run_name: aged-lark-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975378799
+status: 3
+tags: []
+user_id: root

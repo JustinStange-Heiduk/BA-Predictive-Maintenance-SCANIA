@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1757f4befb684705859cdb22d80d9671/artifacts
+end_time: 1756912589698
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1757f4befb684705859cdb22d80d9671
+run_name: aged-horse-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912578413
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/86fd496c9c804a688912994de1003d2f/artifacts
+end_time: 1756973982070
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 86fd496c9c804a688912994de1003d2f
+run_name: lyrical-calf-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973981504
+status: 4
+tags: []
+user_id: root

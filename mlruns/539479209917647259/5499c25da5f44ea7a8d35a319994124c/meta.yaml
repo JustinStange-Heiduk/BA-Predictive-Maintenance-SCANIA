@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5499c25da5f44ea7a8d35a319994124c/artifacts
+end_time: 1756976665744
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5499c25da5f44ea7a8d35a319994124c
+run_name: industrious-foal-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976663693
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0961f433bbba4e0ca5b6f0d9dee078c6/artifacts
+end_time: 1756976491342
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0961f433bbba4e0ca5b6f0d9dee078c6
+run_name: upbeat-worm-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976488408
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a08befa2ba894d3ba0fd88a7e2ce19a4/artifacts
+end_time: 1756906887342
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a08befa2ba894d3ba0fd88a7e2ce19a4
+run_name: painted-ox-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756906019192
+status: 3
+tags: []
+user_id: root

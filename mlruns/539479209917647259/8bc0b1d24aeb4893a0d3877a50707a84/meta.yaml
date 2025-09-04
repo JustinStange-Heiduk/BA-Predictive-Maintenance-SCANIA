@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8bc0b1d24aeb4893a0d3877a50707a84/artifacts
+end_time: 1756977567800
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8bc0b1d24aeb4893a0d3877a50707a84
+run_name: delicate-seal-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977566452
+status: 3
+tags: []
+user_id: root

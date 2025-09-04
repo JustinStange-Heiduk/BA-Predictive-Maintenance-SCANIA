@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/55bd0392577a454ba245c3a161729f58/artifacts
+end_time: 1756903398034
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 55bd0392577a454ba245c3a161729f58
+run_name: respected-hound-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903389528
+status: 4
+tags: []
+user_id: root

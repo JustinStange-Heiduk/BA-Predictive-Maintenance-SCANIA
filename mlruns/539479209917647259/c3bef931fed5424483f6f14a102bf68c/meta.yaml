@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c3bef931fed5424483f6f14a102bf68c/artifacts
+end_time: 1756977013714
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c3bef931fed5424483f6f14a102bf68c
+run_name: nosy-mouse-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977012049
+status: 3
+tags: []
+user_id: root

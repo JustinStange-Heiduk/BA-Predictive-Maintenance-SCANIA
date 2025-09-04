@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/14c4b15e7eaf4e92aad378f8a2a2eacc/artifacts
+end_time: 1756970569536
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 14c4b15e7eaf4e92aad378f8a2a2eacc
+run_name: chill-perch-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970564550
+status: 3
+tags: []
+user_id: root

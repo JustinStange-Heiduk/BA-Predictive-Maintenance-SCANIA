@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3ea2b27433e742ca8afe32ed796740c2/artifacts
+end_time: 1756976230276
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3ea2b27433e742ca8afe32ed796740c2
+run_name: delicate-skink-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976228185
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/fb191d03cfe441edbd2e3c12f92db9b5/artifacts
+end_time: 1756975022676
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: fb191d03cfe441edbd2e3c12f92db9b5
+run_name: nosy-smelt-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975020376
+status: 3
+tags: []
+user_id: root

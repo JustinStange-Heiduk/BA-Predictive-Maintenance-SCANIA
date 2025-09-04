@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a409cf46538b4d92bb2a4e3031d953f1/artifacts
+end_time: 1756969612509
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a409cf46538b4d92bb2a4e3031d953f1
+run_name: auspicious-gull-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969611209
+status: 3
+tags: []
+user_id: root

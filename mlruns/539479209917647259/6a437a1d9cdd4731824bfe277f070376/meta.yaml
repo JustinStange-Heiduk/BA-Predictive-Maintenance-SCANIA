@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6a437a1d9cdd4731824bfe277f070376/artifacts
+end_time: 1756975011483
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6a437a1d9cdd4731824bfe277f070376
+run_name: languid-croc-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975009010
+status: 3
+tags: []
+user_id: root

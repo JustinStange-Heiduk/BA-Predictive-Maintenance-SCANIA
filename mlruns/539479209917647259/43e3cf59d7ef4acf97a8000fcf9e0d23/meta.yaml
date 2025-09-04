@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/43e3cf59d7ef4acf97a8000fcf9e0d23/artifacts
+end_time: 1756977646993
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 43e3cf59d7ef4acf97a8000fcf9e0d23
+run_name: rare-tern-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977645402
+status: 3
+tags: []
+user_id: root

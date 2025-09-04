@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3ca3719d2cda4f03951932464f41814e/artifacts
+end_time: 1756975105596
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3ca3719d2cda4f03951932464f41814e
+run_name: handsome-horse-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975103714
+status: 3
+tags: []
+user_id: root

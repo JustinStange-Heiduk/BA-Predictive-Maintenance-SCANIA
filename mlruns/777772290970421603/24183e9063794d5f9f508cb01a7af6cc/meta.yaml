@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/24183e9063794d5f9f508cb01a7af6cc/artifacts
+end_time: 1756913009082
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 24183e9063794d5f9f508cb01a7af6cc
+run_name: calm-hound-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913004447
+status: 4
+tags: []
+user_id: root

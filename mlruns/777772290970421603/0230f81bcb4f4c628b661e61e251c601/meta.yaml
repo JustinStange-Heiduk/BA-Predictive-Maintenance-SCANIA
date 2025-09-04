@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0230f81bcb4f4c628b661e61e251c601/artifacts
+end_time: 1756972641092
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0230f81bcb4f4c628b661e61e251c601
+run_name: adorable-duck-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972629495
+status: 3
+tags: []
+user_id: root

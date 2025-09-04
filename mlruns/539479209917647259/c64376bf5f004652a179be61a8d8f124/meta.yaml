@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c64376bf5f004652a179be61a8d8f124/artifacts
+end_time: 1756976577444
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c64376bf5f004652a179be61a8d8f124
+run_name: sassy-ox-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976575411
+status: 3
+tags: []
+user_id: root

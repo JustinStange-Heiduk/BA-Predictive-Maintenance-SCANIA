@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f975dadc5ef74e4ab58a25a9fdfa07a5/artifacts
+end_time: 1756978199962
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f975dadc5ef74e4ab58a25a9fdfa07a5
+run_name: grandiose-shad-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978163044
+status: 3
+tags: []
+user_id: root

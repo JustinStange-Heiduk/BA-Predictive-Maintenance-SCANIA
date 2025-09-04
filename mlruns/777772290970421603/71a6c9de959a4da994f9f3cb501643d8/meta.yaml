@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/71a6c9de959a4da994f9f3cb501643d8/artifacts
+end_time: 1756968945101
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 71a6c9de959a4da994f9f3cb501643d8
+run_name: classy-mouse-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968943366
+status: 3
+tags: []
+user_id: root

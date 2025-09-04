@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ef64c2688fb74b6ba159443da18347ff/artifacts
+end_time: 1756969654983
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ef64c2688fb74b6ba159443da18347ff
+run_name: silent-deer-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969653942
+status: 3
+tags: []
+user_id: root

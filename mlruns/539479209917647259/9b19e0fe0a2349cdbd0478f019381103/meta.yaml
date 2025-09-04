@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9b19e0fe0a2349cdbd0478f019381103/artifacts
+end_time: 1756977963034
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9b19e0fe0a2349cdbd0478f019381103
+run_name: smiling-moose-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977961061
+status: 3
+tags: []
+user_id: root

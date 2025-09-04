@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2a5a9949c1bb497888b2e0df331d33ea/artifacts
+end_time: 1756904790245
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2a5a9949c1bb497888b2e0df331d33ea
+run_name: aged-sloth-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756904736614
+status: 3
+tags: []
+user_id: root

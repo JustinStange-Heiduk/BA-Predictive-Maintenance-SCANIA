@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8e0e5ecbb22d4a669c365af99bd1bdf3/artifacts
+end_time: 1756976650154
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8e0e5ecbb22d4a669c365af99bd1bdf3
+run_name: gentle-ape-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976650489
+status: 3
+tags: []
+user_id: root

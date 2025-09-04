@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0525fd87631e477c8c9cf0ad421e592b/artifacts
+end_time: 1756978038843
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0525fd87631e477c8c9cf0ad421e592b
+run_name: caring-squirrel-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978037215
+status: 3
+tags: []
+user_id: root

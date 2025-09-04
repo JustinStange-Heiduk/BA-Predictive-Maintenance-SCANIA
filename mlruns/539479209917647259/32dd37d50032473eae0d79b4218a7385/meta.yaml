@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/32dd37d50032473eae0d79b4218a7385/artifacts
+end_time: 1756977660811
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 32dd37d50032473eae0d79b4218a7385
+run_name: burly-skink-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977658930
+status: 3
+tags: []
+user_id: root

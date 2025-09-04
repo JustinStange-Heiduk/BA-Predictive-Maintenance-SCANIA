@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/dc64d82e33c841b0b88ef170d0eaa8f0/artifacts
+end_time: 1756923446826
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: dc64d82e33c841b0b88ef170d0eaa8f0
+run_name: auspicious-goose-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756923407950
+status: 4
+tags: []
+user_id: root

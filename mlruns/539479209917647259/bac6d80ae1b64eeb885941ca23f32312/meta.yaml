@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bac6d80ae1b64eeb885941ca23f32312/artifacts
+end_time: 1756978042980
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bac6d80ae1b64eeb885941ca23f32312
+run_name: dapper-hawk-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978041158
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6ed1486e2ff14580996e4b354b5b6d57/artifacts
+end_time: 1756967168287
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6ed1486e2ff14580996e4b354b5b6d57
+run_name: silent-doe-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967079450
+status: 3
+tags: []
+user_id: root

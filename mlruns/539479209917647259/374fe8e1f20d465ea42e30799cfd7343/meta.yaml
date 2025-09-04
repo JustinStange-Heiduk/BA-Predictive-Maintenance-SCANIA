@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/374fe8e1f20d465ea42e30799cfd7343/artifacts
+end_time: 1756978411332
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 374fe8e1f20d465ea42e30799cfd7343
+run_name: youthful-slug-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978409458
+status: 3
+tags: []
+user_id: root

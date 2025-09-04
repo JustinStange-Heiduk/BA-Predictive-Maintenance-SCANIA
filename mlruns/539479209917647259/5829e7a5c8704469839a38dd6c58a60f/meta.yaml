@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5829e7a5c8704469839a38dd6c58a60f/artifacts
+end_time: 1756978417533
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5829e7a5c8704469839a38dd6c58a60f
+run_name: thoughtful-crab-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978413864
+status: 3
+tags: []
+user_id: root

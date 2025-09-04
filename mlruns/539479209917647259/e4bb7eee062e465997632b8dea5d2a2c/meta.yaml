@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e4bb7eee062e465997632b8dea5d2a2c/artifacts
+end_time: 1756974649027
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e4bb7eee062e465997632b8dea5d2a2c
+run_name: painted-fish-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974646525
+status: 3
+tags: []
+user_id: root

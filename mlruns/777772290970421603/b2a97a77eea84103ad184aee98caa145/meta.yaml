@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/b2a97a77eea84103ad184aee98caa145/artifacts
+end_time: 1756899757523
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: b2a97a77eea84103ad184aee98caa145
+run_name: vaunted-moth-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756899438528
+status: 3
+tags: []
+user_id: root

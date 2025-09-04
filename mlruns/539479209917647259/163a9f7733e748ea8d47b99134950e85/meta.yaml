@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/163a9f7733e748ea8d47b99134950e85/artifacts
+end_time: 1756974762400
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 163a9f7733e748ea8d47b99134950e85
+run_name: nebulous-shad-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974760304
+status: 3
+tags: []
+user_id: root

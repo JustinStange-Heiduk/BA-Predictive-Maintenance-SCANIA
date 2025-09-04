@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6d44f92f5b2c4fae8006f912eb267ecf/artifacts
+end_time: 1756974905411
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6d44f92f5b2c4fae8006f912eb267ecf
+run_name: rebellious-vole-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974901469
+status: 3
+tags: []
+user_id: root

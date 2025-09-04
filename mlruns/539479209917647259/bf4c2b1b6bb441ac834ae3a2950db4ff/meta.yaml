@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bf4c2b1b6bb441ac834ae3a2950db4ff/artifacts
+end_time: 1756975710815
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bf4c2b1b6bb441ac834ae3a2950db4ff
+run_name: beautiful-grub-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975711063
+status: 3
+tags: []
+user_id: root

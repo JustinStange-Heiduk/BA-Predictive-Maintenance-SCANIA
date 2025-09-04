@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/39449735f023484ea81ec33cdea80430/artifacts
+end_time: 1756976291099
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 39449735f023484ea81ec33cdea80430
+run_name: gaudy-penguin-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976289046
+status: 3
+tags: []
+user_id: root

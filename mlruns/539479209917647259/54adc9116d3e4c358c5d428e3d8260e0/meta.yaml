@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/54adc9116d3e4c358c5d428e3d8260e0/artifacts
+end_time: 1756976561616
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 54adc9116d3e4c358c5d428e3d8260e0
+run_name: indecisive-squid-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976553669
+status: 3
+tags: []
+user_id: root

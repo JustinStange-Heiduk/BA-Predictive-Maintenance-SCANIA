@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7fe96d9cbd634ae6b3b3c373c15a5df9/artifacts
+end_time: 1756977746198
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7fe96d9cbd634ae6b3b3c373c15a5df9
+run_name: dashing-pug-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977744267
+status: 3
+tags: []
+user_id: root

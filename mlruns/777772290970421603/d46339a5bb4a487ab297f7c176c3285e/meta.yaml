@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d46339a5bb4a487ab297f7c176c3285e/artifacts
+end_time: 1756972629336
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d46339a5bb4a487ab297f7c176c3285e
+run_name: judicious-wolf-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972622231
+status: 3
+tags: []
+user_id: root

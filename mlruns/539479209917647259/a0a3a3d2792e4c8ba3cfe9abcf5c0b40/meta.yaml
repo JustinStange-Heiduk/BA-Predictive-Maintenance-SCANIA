@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a0a3a3d2792e4c8ba3cfe9abcf5c0b40/artifacts
+end_time: 1756977544482
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a0a3a3d2792e4c8ba3cfe9abcf5c0b40
+run_name: angry-roo-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977543105
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8d5ac892f41b46c786668d8656e53ab3/artifacts
+end_time: 1756976237794
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8d5ac892f41b46c786668d8656e53ab3
+run_name: rambunctious-sow-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976237476
+status: 3
+tags: []
+user_id: root

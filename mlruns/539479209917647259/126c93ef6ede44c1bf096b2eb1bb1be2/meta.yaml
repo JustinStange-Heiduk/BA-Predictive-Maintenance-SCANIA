@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/126c93ef6ede44c1bf096b2eb1bb1be2/artifacts
+end_time: 1756975379001
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 126c93ef6ede44c1bf096b2eb1bb1be2
+run_name: trusting-sow-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975377381
+status: 3
+tags: []
+user_id: root

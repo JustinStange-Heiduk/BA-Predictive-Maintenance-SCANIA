@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ebafd9c4e8d140fba2bb5dda31aca96a/artifacts
+end_time: 1756896737806
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ebafd9c4e8d140fba2bb5dda31aca96a
+run_name: dashing-robin-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756896409127
+status: 3
+tags: []
+user_id: root

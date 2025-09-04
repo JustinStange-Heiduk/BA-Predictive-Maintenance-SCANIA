@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1a13c7725d9743acb6351e71f03e4061/artifacts
+end_time: 1756909822082
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1a13c7725d9743acb6351e71f03e4061
+run_name: suave-fowl-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909811707
+status: 4
+tags: []
+user_id: root

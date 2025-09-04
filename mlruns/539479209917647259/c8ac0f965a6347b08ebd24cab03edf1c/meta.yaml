@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c8ac0f965a6347b08ebd24cab03edf1c/artifacts
+end_time: 1756975367008
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c8ac0f965a6347b08ebd24cab03edf1c
+run_name: masked-turtle-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975365316
+status: 3
+tags: []
+user_id: root

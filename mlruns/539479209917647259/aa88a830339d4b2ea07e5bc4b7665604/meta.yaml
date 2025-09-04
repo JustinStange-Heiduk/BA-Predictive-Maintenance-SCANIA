@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/aa88a830339d4b2ea07e5bc4b7665604/artifacts
+end_time: 1756977472328
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: aa88a830339d4b2ea07e5bc4b7665604
+run_name: mysterious-doe-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977470243
+status: 3
+tags: []
+user_id: root

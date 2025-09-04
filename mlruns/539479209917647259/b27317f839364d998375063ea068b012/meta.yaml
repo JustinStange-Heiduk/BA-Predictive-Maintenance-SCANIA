@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b27317f839364d998375063ea068b012/artifacts
+end_time: 1756977306730
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b27317f839364d998375063ea068b012
+run_name: merciful-zebra-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977304564
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3162b74ec5e5486399011c7677093990/artifacts
+end_time: 1756978154435
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3162b74ec5e5486399011c7677093990
+run_name: useful-crane-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978152336
+status: 3
+tags: []
+user_id: root

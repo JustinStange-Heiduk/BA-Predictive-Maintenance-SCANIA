@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cc46d9d9ed2b4cc5bf86e7525e71e17e/artifacts
+end_time: 1756975370818
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cc46d9d9ed2b4cc5bf86e7525e71e17e
+run_name: skillful-hare-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975369041
+status: 3
+tags: []
+user_id: root

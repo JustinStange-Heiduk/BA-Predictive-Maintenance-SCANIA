@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/609b73938f5b4e17a67e50c74a761dff/artifacts
+end_time: 1756975413838
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 609b73938f5b4e17a67e50c74a761dff
+run_name: wise-frog-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975411615
+status: 3
+tags: []
+user_id: root

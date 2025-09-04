@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4a9cc7768b2b4abbadc87021ba9674a7/artifacts
+end_time: 1756977098269
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4a9cc7768b2b4abbadc87021ba9674a7
+run_name: fortunate-steed-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977096303
+status: 3
+tags: []
+user_id: root

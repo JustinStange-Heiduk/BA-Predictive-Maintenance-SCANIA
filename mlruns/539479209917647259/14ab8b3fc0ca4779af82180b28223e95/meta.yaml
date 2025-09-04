@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/14ab8b3fc0ca4779af82180b28223e95/artifacts
+end_time: 1756976732883
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 14ab8b3fc0ca4779af82180b28223e95
+run_name: thundering-hare-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976731096
+status: 3
+tags: []
+user_id: root

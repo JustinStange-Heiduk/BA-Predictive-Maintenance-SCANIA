@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ed4fe7041dcd4cd5881b7681444acb46/artifacts
+end_time: 1756978079271
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ed4fe7041dcd4cd5881b7681444acb46
+run_name: sneaky-fish-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978077143
+status: 3
+tags: []
+user_id: root

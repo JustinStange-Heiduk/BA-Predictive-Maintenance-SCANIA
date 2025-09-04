@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8090a69b67b042379a4f9482e0351a0b/artifacts
+end_time: 1756904602724
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8090a69b67b042379a4f9482e0351a0b
+run_name: nebulous-panda-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756904543930
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d86caeb75b3b437e935a7bb230ca22ec/artifacts
+end_time: 1756977428810
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d86caeb75b3b437e935a7bb230ca22ec
+run_name: invincible-perch-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977426723
+status: 3
+tags: []
+user_id: root

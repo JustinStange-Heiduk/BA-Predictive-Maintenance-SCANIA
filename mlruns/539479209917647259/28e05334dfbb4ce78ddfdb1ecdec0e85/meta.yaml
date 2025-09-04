@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/28e05334dfbb4ce78ddfdb1ecdec0e85/artifacts
+end_time: 1756974955935
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 28e05334dfbb4ce78ddfdb1ecdec0e85
+run_name: abundant-eel-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974953604
+status: 3
+tags: []
+user_id: root

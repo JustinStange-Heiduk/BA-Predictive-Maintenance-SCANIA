@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0743e50eee8c4cc58d8fb7fe89c1079e/artifacts
+end_time: 1756975141485
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0743e50eee8c4cc58d8fb7fe89c1079e
+run_name: invincible-frog-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975139631
+status: 3
+tags: []
+user_id: root

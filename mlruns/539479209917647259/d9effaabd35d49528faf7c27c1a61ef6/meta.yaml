@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d9effaabd35d49528faf7c27c1a61ef6/artifacts
+end_time: 1756974671123
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d9effaabd35d49528faf7c27c1a61ef6
+run_name: whimsical-sow-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974667930
+status: 3
+tags: []
+user_id: root

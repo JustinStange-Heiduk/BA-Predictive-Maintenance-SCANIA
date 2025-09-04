@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/81c321397da7479489189bfc51a39809/artifacts
+end_time: 1756978358291
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 81c321397da7479489189bfc51a39809
+run_name: thundering-grub-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978351719
+status: 3
+tags: []
+user_id: root

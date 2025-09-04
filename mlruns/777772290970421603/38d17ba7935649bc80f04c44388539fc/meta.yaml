@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/38d17ba7935649bc80f04c44388539fc/artifacts
+end_time: 1756969922267
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 38d17ba7935649bc80f04c44388539fc
+run_name: incongruous-vole-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969920203
+status: 3
+tags: []
+user_id: root

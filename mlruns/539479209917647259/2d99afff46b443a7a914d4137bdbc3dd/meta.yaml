@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2d99afff46b443a7a914d4137bdbc3dd/artifacts
+end_time: 1756977887072
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2d99afff46b443a7a914d4137bdbc3dd
+run_name: skillful-goat-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977884996
+status: 3
+tags: []
+user_id: root

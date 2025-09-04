@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a47f9284391f4904b78bd4f822127471/artifacts
+end_time: 1756976570394
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a47f9284391f4904b78bd4f822127471
+run_name: peaceful-boar-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976569486
+status: 3
+tags: []
+user_id: root

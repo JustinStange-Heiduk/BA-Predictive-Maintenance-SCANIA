@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6c320aae3d7240ba9af59419788d6526/artifacts
+end_time: 1756975421887
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6c320aae3d7240ba9af59419788d6526
+run_name: gregarious-crow-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975420011
+status: 3
+tags: []
+user_id: root

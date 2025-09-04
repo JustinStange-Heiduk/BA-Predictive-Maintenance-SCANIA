@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/123610de12da415892d2021ff4b54326/artifacts
+end_time: 1756969760709
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 123610de12da415892d2021ff4b54326
+run_name: fearless-elk-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969758740
+status: 3
+tags: []
+user_id: root

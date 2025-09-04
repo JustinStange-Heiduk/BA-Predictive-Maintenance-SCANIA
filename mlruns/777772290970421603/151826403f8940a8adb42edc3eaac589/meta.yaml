@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/151826403f8940a8adb42edc3eaac589/artifacts
+end_time: 1756926356250
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 151826403f8940a8adb42edc3eaac589
+run_name: legendary-snipe-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756926120537
+status: 4
+tags: []
+user_id: root

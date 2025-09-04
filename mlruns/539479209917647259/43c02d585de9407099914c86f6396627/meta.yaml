@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/43c02d585de9407099914c86f6396627/artifacts
+end_time: 1756977358095
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 43c02d585de9407099914c86f6396627
+run_name: gregarious-doe-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977355969
+status: 3
+tags: []
+user_id: root

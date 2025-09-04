@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7b45661b17c1456c90d82068e985130c/artifacts
+end_time: 1756976438023
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7b45661b17c1456c90d82068e985130c
+run_name: rogue-steed-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976436261
+status: 3
+tags: []
+user_id: root

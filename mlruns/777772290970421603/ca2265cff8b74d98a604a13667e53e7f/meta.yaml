@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ca2265cff8b74d98a604a13667e53e7f/artifacts
+end_time: 1756916372742
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ca2265cff8b74d98a604a13667e53e7f
+run_name: bedecked-mink-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756916357276
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c1879105b42e4ae1a69b42acb71caaaa/artifacts
+end_time: 1756977832973
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c1879105b42e4ae1a69b42acb71caaaa
+run_name: resilient-shrike-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977831600
+status: 3
+tags: []
+user_id: root

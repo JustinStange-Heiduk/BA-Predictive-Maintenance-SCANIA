@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6796ecd7a466477fbf47a53e26ee88d2/artifacts
+end_time: 1756908648629
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6796ecd7a466477fbf47a53e26ee88d2
+run_name: adorable-shad-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908616608
+status: 3
+tags: []
+user_id: root

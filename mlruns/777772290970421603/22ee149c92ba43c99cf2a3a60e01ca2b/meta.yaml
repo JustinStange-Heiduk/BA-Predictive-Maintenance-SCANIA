@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/22ee149c92ba43c99cf2a3a60e01ca2b/artifacts
+end_time: 1756912441114
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 22ee149c92ba43c99cf2a3a60e01ca2b
+run_name: calm-boar-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912430455
+status: 4
+tags: []
+user_id: root

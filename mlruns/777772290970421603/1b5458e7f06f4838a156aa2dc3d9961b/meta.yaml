@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1b5458e7f06f4838a156aa2dc3d9961b/artifacts
+end_time: 1756887348053
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1b5458e7f06f4838a156aa2dc3d9961b
+run_name: learned-mink-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887320022
+status: 4
+tags: []
+user_id: root

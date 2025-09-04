@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d841a00de09a419b85490c8828d53f51/artifacts
+end_time: 1756887319445
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d841a00de09a419b85490c8828d53f51
+run_name: silent-wren-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887260062
+status: 4
+tags: []
+user_id: root

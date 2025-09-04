@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/171c8e1fe19946e4be0d608902e40fd9/artifacts
+end_time: 1756967844628
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 171c8e1fe19946e4be0d608902e40fd9
+run_name: charming-finch-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967844250
+status: 4
+tags: []
+user_id: root

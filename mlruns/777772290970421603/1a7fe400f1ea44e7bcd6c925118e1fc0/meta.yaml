@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1a7fe400f1ea44e7bcd6c925118e1fc0/artifacts
+end_time: 1756923369240
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1a7fe400f1ea44e7bcd6c925118e1fc0
+run_name: zealous-rook-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756923222829
+status: 4
+tags: []
+user_id: root

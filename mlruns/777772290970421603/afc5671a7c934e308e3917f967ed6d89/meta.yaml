@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/afc5671a7c934e308e3917f967ed6d89/artifacts
+end_time: 1756920748694
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: afc5671a7c934e308e3917f967ed6d89
+run_name: rogue-grouse-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920722770
+status: 3
+tags: []
+user_id: root

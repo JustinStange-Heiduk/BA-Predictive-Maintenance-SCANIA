@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1304f1946e094fc08ac3a2385cf2cab0/artifacts
+end_time: 1756974710448
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1304f1946e094fc08ac3a2385cf2cab0
+run_name: trusting-donkey-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974708481
+status: 3
+tags: []
+user_id: root

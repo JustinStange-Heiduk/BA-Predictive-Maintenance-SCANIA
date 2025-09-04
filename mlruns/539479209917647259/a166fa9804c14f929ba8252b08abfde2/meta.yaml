@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a166fa9804c14f929ba8252b08abfde2/artifacts
+end_time: 1756975884892
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a166fa9804c14f929ba8252b08abfde2
+run_name: carefree-lynx-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975882813
+status: 3
+tags: []
+user_id: root

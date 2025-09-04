@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/521a9a7105c34121a1a2c97be85d4901/artifacts
+end_time: 1756977292009
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 521a9a7105c34121a1a2c97be85d4901
+run_name: nervous-loon-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977286845
+status: 3
+tags: []
+user_id: root

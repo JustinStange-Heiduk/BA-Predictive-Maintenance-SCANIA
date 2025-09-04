@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5a3a59ce715e4977b6111448787debba/artifacts
+end_time: 1756975182054
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5a3a59ce715e4977b6111448787debba
+run_name: popular-mouse-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975180581
+status: 3
+tags: []
+user_id: root

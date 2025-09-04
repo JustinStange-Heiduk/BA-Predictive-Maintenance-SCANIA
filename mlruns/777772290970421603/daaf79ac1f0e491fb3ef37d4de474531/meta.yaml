@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/daaf79ac1f0e491fb3ef37d4de474531/artifacts
+end_time: 1756912877982
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: daaf79ac1f0e491fb3ef37d4de474531
+run_name: thundering-crow-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912855883
+status: 4
+tags: []
+user_id: root

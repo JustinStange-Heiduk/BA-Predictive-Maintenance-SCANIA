@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7aa74913615e4cab9c40639f1f31ad62/artifacts
+end_time: 1756975996674
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7aa74913615e4cab9c40639f1f31ad62
+run_name: likeable-roo-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975994555
+status: 3
+tags: []
+user_id: root

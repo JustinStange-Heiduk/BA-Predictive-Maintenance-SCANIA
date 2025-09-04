@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/552a54d1854a4c19aef07d889ec4fce7/artifacts
+end_time: 1756974984047
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 552a54d1854a4c19aef07d889ec4fce7
+run_name: youthful-sponge-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974961406
+status: 3
+tags: []
+user_id: root

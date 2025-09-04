@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/056605ea38884a169b43df9595976ff5/artifacts
+end_time: 1756978202086
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 056605ea38884a169b43df9595976ff5
+run_name: rumbling-toad-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978200187
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/abbbe0709fcc4fb99d753057623188a8/artifacts
+end_time: 1756977491310
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: abbbe0709fcc4fb99d753057623188a8
+run_name: calm-stork-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977489906
+status: 3
+tags: []
+user_id: root

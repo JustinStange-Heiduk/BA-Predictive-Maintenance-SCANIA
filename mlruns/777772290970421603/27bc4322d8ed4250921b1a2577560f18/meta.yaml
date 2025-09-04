@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/27bc4322d8ed4250921b1a2577560f18/artifacts
+end_time: 1756969929569
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 27bc4322d8ed4250921b1a2577560f18
+run_name: mercurial-stork-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969928148
+status: 3
+tags: []
+user_id: root

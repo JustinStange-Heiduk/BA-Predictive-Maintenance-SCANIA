@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a5b3068573e842b684aa3e0bc025576c/artifacts
+end_time: 1756905680759
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a5b3068573e842b684aa3e0bc025576c
+run_name: rogue-shoat-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756905661582
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a8cc0f7eaced47a2958c312efe1055fe/artifacts
+end_time: 1756977741803
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a8cc0f7eaced47a2958c312efe1055fe
+run_name: upset-quail-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977738722
+status: 3
+tags: []
+user_id: root

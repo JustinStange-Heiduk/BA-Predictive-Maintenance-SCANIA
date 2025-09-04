@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/f336daa94cdd4c40ba69d774a8c9c6e7/artifacts
+end_time: 1756909654083
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: f336daa94cdd4c40ba69d774a8c9c6e7
+run_name: exultant-robin-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909621826
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c4f0b13e66384e17a0c6c0b012331cc5/artifacts
+end_time: 1756975002536
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c4f0b13e66384e17a0c6c0b012331cc5
+run_name: fun-dove-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974993648
+status: 3
+tags: []
+user_id: root

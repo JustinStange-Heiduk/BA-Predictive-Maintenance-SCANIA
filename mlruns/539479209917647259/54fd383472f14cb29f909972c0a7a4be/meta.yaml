@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/54fd383472f14cb29f909972c0a7a4be/artifacts
+end_time: 1756975152530
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 54fd383472f14cb29f909972c0a7a4be
+run_name: bustling-doe-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975150420
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/47ab44f87ce6413aad35d85c280055c1/artifacts
+end_time: 1756978062760
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 47ab44f87ce6413aad35d85c280055c1
+run_name: delicate-mole-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978063026
+status: 3
+tags: []
+user_id: root

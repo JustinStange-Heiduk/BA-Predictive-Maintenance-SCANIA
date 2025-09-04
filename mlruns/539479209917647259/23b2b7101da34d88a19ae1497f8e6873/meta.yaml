@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/23b2b7101da34d88a19ae1497f8e6873/artifacts
+end_time: 1756975368828
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 23b2b7101da34d88a19ae1497f8e6873
+run_name: nimble-mouse-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975367217
+status: 3
+tags: []
+user_id: root

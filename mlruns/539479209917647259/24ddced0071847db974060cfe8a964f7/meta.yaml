@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/24ddced0071847db974060cfe8a964f7/artifacts
+end_time: 1756975835094
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 24ddced0071847db974060cfe8a964f7
+run_name: clean-gull-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975833000
+status: 3
+tags: []
+user_id: root

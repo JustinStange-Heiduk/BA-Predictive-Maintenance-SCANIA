@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/502e12ef66a14f838eabad07e3a60353/artifacts
+end_time: 1756923074841
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 502e12ef66a14f838eabad07e3a60353
+run_name: glamorous-carp-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756923056922
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2ef2c86b91664ea591d6fb3248dd4af7/artifacts
+end_time: 1756967409386
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2ef2c86b91664ea591d6fb3248dd4af7
+run_name: thoughtful-duck-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967400283
+status: 4
+tags: []
+user_id: root

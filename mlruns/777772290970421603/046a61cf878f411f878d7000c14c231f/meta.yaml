@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/046a61cf878f411f878d7000c14c231f/artifacts
+end_time: 1756969962410
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 046a61cf878f411f878d7000c14c231f
+run_name: melodic-quail-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969959947
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/68df4f2c2a5d40bb9bc5987f6d3914d7/artifacts
+end_time: 1756977314475
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 68df4f2c2a5d40bb9bc5987f6d3914d7
+run_name: delicate-fish-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977312086
+status: 3
+tags: []
+user_id: root

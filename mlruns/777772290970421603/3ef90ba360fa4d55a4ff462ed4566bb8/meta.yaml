@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3ef90ba360fa4d55a4ff462ed4566bb8/artifacts
+end_time: 1756968956651
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3ef90ba360fa4d55a4ff462ed4566bb8
+run_name: blushing-toad-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968954135
+status: 3
+tags: []
+user_id: root

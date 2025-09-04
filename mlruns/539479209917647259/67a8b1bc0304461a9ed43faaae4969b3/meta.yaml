@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/67a8b1bc0304461a9ed43faaae4969b3/artifacts
+end_time: 1756977788630
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 67a8b1bc0304461a9ed43faaae4969b3
+run_name: bouncy-dove-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977786622
+status: 3
+tags: []
+user_id: root

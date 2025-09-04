@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c98f1c63deb242bdb7cd8a968e0ccb8c/artifacts
+end_time: 1756975636160
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c98f1c63deb242bdb7cd8a968e0ccb8c
+run_name: suave-cub-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975634050
+status: 3
+tags: []
+user_id: root

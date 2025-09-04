@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6fdb0c60d7ec4ee9899a7bf41b3342c7/artifacts
+end_time: 1756977178206
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6fdb0c60d7ec4ee9899a7bf41b3342c7
+run_name: sincere-turtle-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977176766
+status: 3
+tags: []
+user_id: root

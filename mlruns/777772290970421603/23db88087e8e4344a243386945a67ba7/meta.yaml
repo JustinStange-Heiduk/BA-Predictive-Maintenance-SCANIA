@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/23db88087e8e4344a243386945a67ba7/artifacts
+end_time: 1756920691578
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 23db88087e8e4344a243386945a67ba7
+run_name: likeable-hare-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920651302
+status: 3
+tags: []
+user_id: root

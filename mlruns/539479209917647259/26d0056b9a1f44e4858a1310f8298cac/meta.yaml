@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/26d0056b9a1f44e4858a1310f8298cac/artifacts
+end_time: 1756978304082
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 26d0056b9a1f44e4858a1310f8298cac
+run_name: calm-grouse-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978302059
+status: 3
+tags: []
+user_id: root

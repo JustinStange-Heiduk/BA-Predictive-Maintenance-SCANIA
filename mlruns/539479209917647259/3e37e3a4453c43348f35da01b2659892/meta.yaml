@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3e37e3a4453c43348f35da01b2659892/artifacts
+end_time: 1756977612942
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3e37e3a4453c43348f35da01b2659892
+run_name: burly-foal-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977611581
+status: 3
+tags: []
+user_id: root

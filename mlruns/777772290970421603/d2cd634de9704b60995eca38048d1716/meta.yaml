@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d2cd634de9704b60995eca38048d1716/artifacts
+end_time: 1756970102891
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d2cd634de9704b60995eca38048d1716
+run_name: skillful-bird-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970099694
+status: 3
+tags: []
+user_id: root

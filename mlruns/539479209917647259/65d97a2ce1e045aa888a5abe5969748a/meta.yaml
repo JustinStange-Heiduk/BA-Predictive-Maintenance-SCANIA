@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/65d97a2ce1e045aa888a5abe5969748a/artifacts
+end_time: 1756975828777
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 65d97a2ce1e045aa888a5abe5969748a
+run_name: legendary-cow-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975755066
+status: 3
+tags: []
+user_id: root

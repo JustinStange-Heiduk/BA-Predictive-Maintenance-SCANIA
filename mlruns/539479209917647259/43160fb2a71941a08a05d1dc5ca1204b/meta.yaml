@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/43160fb2a71941a08a05d1dc5ca1204b/artifacts
+end_time: 1756976638971
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 43160fb2a71941a08a05d1dc5ca1204b
+run_name: polite-goose-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976636746
+status: 3
+tags: []
+user_id: root

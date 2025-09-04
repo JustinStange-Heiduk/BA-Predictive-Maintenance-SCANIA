@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ba286a3c7cf84d84abf5540e54132132/artifacts
+end_time: 1756969775642
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ba286a3c7cf84d84abf5540e54132132
+run_name: fortunate-horse-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969773220
+status: 3
+tags: []
+user_id: root

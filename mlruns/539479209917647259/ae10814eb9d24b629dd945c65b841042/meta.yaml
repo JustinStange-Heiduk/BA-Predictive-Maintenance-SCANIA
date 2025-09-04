@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ae10814eb9d24b629dd945c65b841042/artifacts
+end_time: 1756974156744
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ae10814eb9d24b629dd945c65b841042
+run_name: rare-shad-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974156197
+status: 4
+tags: []
+user_id: root

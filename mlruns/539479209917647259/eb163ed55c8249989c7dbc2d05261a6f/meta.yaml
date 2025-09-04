@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/eb163ed55c8249989c7dbc2d05261a6f/artifacts
+end_time: 1756974792255
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: eb163ed55c8249989c7dbc2d05261a6f
+run_name: grandiose-bee-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974790132
+status: 3
+tags: []
+user_id: root

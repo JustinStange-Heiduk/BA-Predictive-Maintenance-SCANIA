@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c6505f6ba15d4d10bef61dc60231e370/artifacts
+end_time: 1756975439205
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c6505f6ba15d4d10bef61dc60231e370
+run_name: treasured-fish-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975437363
+status: 3
+tags: []
+user_id: root

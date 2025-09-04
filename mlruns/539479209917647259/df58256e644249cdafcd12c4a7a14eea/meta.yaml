@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/df58256e644249cdafcd12c4a7a14eea/artifacts
+end_time: 1756975889194
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: df58256e644249cdafcd12c4a7a14eea
+run_name: fearless-seal-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975887214
+status: 3
+tags: []
+user_id: root

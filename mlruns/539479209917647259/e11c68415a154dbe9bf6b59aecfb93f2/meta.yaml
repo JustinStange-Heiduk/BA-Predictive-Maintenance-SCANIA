@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e11c68415a154dbe9bf6b59aecfb93f2/artifacts
+end_time: 1756976346677
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e11c68415a154dbe9bf6b59aecfb93f2
+run_name: puzzled-panda-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976346903
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/99a6f76cad7649d19c998d26102cb9a2/artifacts
+end_time: 1756975338454
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 99a6f76cad7649d19c998d26102cb9a2
+run_name: painted-shrike-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975331802
+status: 3
+tags: []
+user_id: root

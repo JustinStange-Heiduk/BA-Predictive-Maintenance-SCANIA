@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/74a6716a168045639755530d5aa5cc33/artifacts
+end_time: 1756976656511
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 74a6716a168045639755530d5aa5cc33
+run_name: victorious-toad-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976654506
+status: 3
+tags: []
+user_id: root

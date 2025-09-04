@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/143b73a77b91409193ff8813e30e472c/artifacts
+end_time: 1756974911507
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 143b73a77b91409193ff8813e30e472c
+run_name: stately-snipe-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974909987
+status: 3
+tags: []
+user_id: root

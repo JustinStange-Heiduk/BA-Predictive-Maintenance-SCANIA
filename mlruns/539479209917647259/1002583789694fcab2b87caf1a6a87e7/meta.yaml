@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1002583789694fcab2b87caf1a6a87e7/artifacts
+end_time: 1756977748965
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1002583789694fcab2b87caf1a6a87e7
+run_name: treasured-smelt-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977746439
+status: 3
+tags: []
+user_id: root

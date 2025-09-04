@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8760abaa3f3a4537b64ae6f595f9b6c6/artifacts
+end_time: 1756900142583
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8760abaa3f3a4537b64ae6f595f9b6c6
+run_name: selective-snail-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756900114900
+status: 4
+tags: []
+user_id: root

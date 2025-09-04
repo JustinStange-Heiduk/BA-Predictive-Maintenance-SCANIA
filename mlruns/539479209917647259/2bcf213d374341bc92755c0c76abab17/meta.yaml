@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2bcf213d374341bc92755c0c76abab17/artifacts
+end_time: 1756973799991
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2bcf213d374341bc92755c0c76abab17
+run_name: honorable-crab-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973799429
+status: 4
+tags: []
+user_id: root

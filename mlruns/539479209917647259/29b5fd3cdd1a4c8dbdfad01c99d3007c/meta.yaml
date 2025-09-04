@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/29b5fd3cdd1a4c8dbdfad01c99d3007c/artifacts
+end_time: 1756978434006
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 29b5fd3cdd1a4c8dbdfad01c99d3007c
+run_name: clumsy-doe-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978431894
+status: 3
+tags: []
+user_id: root

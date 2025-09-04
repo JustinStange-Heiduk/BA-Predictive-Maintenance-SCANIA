@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/09af86c551524c22881d1d299b80772d/artifacts
+end_time: 1756976919800
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 09af86c551524c22881d1d299b80772d
+run_name: polite-elk-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976917688
+status: 3
+tags: []
+user_id: root

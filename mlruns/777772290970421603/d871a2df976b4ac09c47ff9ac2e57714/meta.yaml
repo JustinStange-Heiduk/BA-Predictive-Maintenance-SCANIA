@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d871a2df976b4ac09c47ff9ac2e57714/artifacts
+end_time: 1756969611053
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d871a2df976b4ac09c47ff9ac2e57714
+run_name: magnificent-fish-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969609950
+status: 3
+tags: []
+user_id: root

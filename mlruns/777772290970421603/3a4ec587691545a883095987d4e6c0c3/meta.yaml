@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3a4ec587691545a883095987d4e6c0c3/artifacts
+end_time: 1756908302430
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3a4ec587691545a883095987d4e6c0c3
+run_name: resilient-cod-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908276784
+status: 4
+tags: []
+user_id: root

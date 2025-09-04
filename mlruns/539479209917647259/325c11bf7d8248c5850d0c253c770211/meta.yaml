@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/325c11bf7d8248c5850d0c253c770211/artifacts
+end_time: 1756975183919
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 325c11bf7d8248c5850d0c253c770211
+run_name: handsome-finch-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975184111
+status: 3
+tags: []
+user_id: root

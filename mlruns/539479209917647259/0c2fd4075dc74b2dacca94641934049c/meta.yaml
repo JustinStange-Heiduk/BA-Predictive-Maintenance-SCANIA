@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0c2fd4075dc74b2dacca94641934049c/artifacts
+end_time: 1756974755920
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0c2fd4075dc74b2dacca94641934049c
+run_name: loud-panda-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974753870
+status: 3
+tags: []
+user_id: root

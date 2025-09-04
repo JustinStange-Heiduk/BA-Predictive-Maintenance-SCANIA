@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/9ecfcf164e1c4d528dcdf0df9e38ab15/artifacts
+end_time: 1756968012183
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 9ecfcf164e1c4d528dcdf0df9e38ab15
+run_name: bald-bird-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968007376
+status: 4
+tags: []
+user_id: root

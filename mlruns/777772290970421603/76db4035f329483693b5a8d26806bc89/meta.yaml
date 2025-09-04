@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/76db4035f329483693b5a8d26806bc89/artifacts
+end_time: 1756886468299
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 76db4035f329483693b5a8d26806bc89
+run_name: rambunctious-pig-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886430838
+status: 4
+tags: []
+user_id: root

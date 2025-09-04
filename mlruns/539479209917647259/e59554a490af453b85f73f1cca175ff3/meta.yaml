@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e59554a490af453b85f73f1cca175ff3/artifacts
+end_time: 1756976296595
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e59554a490af453b85f73f1cca175ff3
+run_name: funny-moose-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976294630
+status: 3
+tags: []
+user_id: root

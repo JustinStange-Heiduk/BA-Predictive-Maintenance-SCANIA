@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d07d0696e2b54e9fa23e958e87aa1062/artifacts
+end_time: 1756976281135
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d07d0696e2b54e9fa23e958e87aa1062
+run_name: crawling-conch-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976279094
+status: 3
+tags: []
+user_id: root

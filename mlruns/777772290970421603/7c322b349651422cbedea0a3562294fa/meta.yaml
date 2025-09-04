@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7c322b349651422cbedea0a3562294fa/artifacts
+end_time: 1756887259853
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7c322b349651422cbedea0a3562294fa
+run_name: colorful-yak-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886930790
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/44879312d6704171b360c7f15a3c9eb0/artifacts
+end_time: 1756905487786
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 44879312d6704171b360c7f15a3c9eb0
+run_name: amazing-auk-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756905463401
+status: 4
+tags: []
+user_id: root

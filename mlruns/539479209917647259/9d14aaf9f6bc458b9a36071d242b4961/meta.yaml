@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9d14aaf9f6bc458b9a36071d242b4961/artifacts
+end_time: 1756974489285
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9d14aaf9f6bc458b9a36071d242b4961
+run_name: fortunate-vole-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974485168
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5c6a57a3110940249032b623a4041401/artifacts
+end_time: 1756974678277
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5c6a57a3110940249032b623a4041401
+run_name: intelligent-carp-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974676531
+status: 3
+tags: []
+user_id: root

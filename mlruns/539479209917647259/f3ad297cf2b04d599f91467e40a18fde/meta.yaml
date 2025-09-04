@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f3ad297cf2b04d599f91467e40a18fde/artifacts
+end_time: 1756977556055
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f3ad297cf2b04d599f91467e40a18fde
+run_name: upbeat-dog-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977554685
+status: 3
+tags: []
+user_id: root

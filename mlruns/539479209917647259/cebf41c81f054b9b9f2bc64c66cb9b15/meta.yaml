@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cebf41c81f054b9b9f2bc64c66cb9b15/artifacts
+end_time: 1756976820151
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cebf41c81f054b9b9f2bc64c66cb9b15
+run_name: persistent-ray-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976818742
+status: 3
+tags: []
+user_id: root

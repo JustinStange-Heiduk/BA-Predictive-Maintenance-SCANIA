@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ac146b5410d848bb85c08230944c0c34/artifacts
+end_time: 1756974690501
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ac146b5410d848bb85c08230944c0c34
+run_name: luminous-elk-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974687086
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3ef96fd9833346cd87de135fa3e29215/artifacts
+end_time: 1756975109858
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3ef96fd9833346cd87de135fa3e29215
+run_name: amusing-deer-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975108083
+status: 3
+tags: []
+user_id: root

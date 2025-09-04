@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c71a9423cacb4f6a8c674333cb767633/artifacts
+end_time: 1756974993434
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c71a9423cacb4f6a8c674333cb767633
+run_name: sedate-skink-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974988648
+status: 3
+tags: []
+user_id: root

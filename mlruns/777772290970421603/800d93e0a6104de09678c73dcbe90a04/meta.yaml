@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/800d93e0a6104de09678c73dcbe90a04/artifacts
+end_time: 1756903237340
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 800d93e0a6104de09678c73dcbe90a04
+run_name: clean-tern-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903202225
+status: 3
+tags: []
+user_id: root

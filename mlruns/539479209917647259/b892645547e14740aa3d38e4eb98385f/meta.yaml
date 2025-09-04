@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b892645547e14740aa3d38e4eb98385f/artifacts
+end_time: 1756976546465
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b892645547e14740aa3d38e4eb98385f
+run_name: persistent-smelt-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976544302
+status: 3
+tags: []
+user_id: root

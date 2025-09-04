@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/273c451b6a9b41f99048497d634a19f2/artifacts
+end_time: 1756922574077
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 273c451b6a9b41f99048497d634a19f2
+run_name: colorful-crow-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756922193071
+status: 3
+tags: []
+user_id: root

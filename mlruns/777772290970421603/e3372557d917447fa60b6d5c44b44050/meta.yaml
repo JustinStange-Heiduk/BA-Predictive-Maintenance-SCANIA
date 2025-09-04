@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/e3372557d917447fa60b6d5c44b44050/artifacts
+end_time: 1756969995364
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: e3372557d917447fa60b6d5c44b44050
+run_name: sneaky-croc-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969991698
+status: 3
+tags: []
+user_id: root

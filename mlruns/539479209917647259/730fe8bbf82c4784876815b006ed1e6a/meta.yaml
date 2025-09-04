@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/730fe8bbf82c4784876815b006ed1e6a/artifacts
+end_time: 1756974760102
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 730fe8bbf82c4784876815b006ed1e6a
+run_name: merciful-rook-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974758345
+status: 3
+tags: []
+user_id: root

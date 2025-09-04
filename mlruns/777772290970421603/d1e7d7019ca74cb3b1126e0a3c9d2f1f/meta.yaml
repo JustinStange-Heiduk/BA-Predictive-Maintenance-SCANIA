@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d1e7d7019ca74cb3b1126e0a3c9d2f1f/artifacts
+end_time: 1756910145746
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d1e7d7019ca74cb3b1126e0a3c9d2f1f
+run_name: placid-conch-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756910127315
+status: 4
+tags: []
+user_id: root

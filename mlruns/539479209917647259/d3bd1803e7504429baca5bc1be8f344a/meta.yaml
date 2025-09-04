@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d3bd1803e7504429baca5bc1be8f344a/artifacts
+end_time: 1756976896386
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d3bd1803e7504429baca5bc1be8f344a
+run_name: awesome-finch-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976866132
+status: 3
+tags: []
+user_id: root

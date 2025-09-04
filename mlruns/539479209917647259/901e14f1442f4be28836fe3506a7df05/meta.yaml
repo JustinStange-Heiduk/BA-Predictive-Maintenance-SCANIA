@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/901e14f1442f4be28836fe3506a7df05/artifacts
+end_time: 1756977584138
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 901e14f1442f4be28836fe3506a7df05
+run_name: mercurial-skink-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977582236
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/76fca6bd03114c578adf3c1c21f8a85e/artifacts
+end_time: 1756975535536
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 76fca6bd03114c578adf3c1c21f8a85e
+run_name: defiant-loon-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975533620
+status: 3
+tags: []
+user_id: root

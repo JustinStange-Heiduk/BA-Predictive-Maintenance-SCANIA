@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/653e5d3088f140769056251cda07cb03/artifacts
+end_time: 1756978275235
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 653e5d3088f140769056251cda07cb03
+run_name: likeable-gnu-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978273316
+status: 3
+tags: []
+user_id: root

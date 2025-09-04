@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/014673117fb84605921d570e6df95602/artifacts
+end_time: 1756970492548
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 014673117fb84605921d570e6df95602
+run_name: traveling-shrimp-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970485520
+status: 3
+tags: []
+user_id: root

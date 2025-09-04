@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/70efb53ec35b476a93eb649edf58327c/artifacts
+end_time: 1756976315474
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 70efb53ec35b476a93eb649edf58327c
+run_name: learned-frog-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976313450
+status: 3
+tags: []
+user_id: root

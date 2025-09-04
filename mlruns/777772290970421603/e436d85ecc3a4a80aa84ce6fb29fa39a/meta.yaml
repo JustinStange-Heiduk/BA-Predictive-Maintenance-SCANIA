@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/e436d85ecc3a4a80aa84ce6fb29fa39a/artifacts
+end_time: 1756967491896
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: e436d85ecc3a4a80aa84ce6fb29fa39a
+run_name: peaceful-wolf-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967455396
+status: 3
+tags: []
+user_id: root

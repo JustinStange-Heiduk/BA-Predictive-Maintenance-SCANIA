@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9b14d99fb53a4746b343551ff5eb953c/artifacts
+end_time: 1756977853486
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9b14d99fb53a4746b343551ff5eb953c
+run_name: indecisive-hen-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977851711
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/35e7e57376064587ac86b38b73e27fc2/artifacts
+end_time: 1756972537406
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 35e7e57376064587ac86b38b73e27fc2
+run_name: bustling-skunk-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972527103
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a90f3a2109a14724b038bcc9195d7e1c/artifacts
+end_time: 1756975891516
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a90f3a2109a14724b038bcc9195d7e1c
+run_name: amusing-mare-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975889411
+status: 3
+tags: []
+user_id: root

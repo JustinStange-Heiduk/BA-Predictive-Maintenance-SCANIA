@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2f41228ce6e24caa8aada5287fb3c931/artifacts
+end_time: 1756978035422
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2f41228ce6e24caa8aada5287fb3c931
+run_name: merciful-flea-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978035147
+status: 3
+tags: []
+user_id: root

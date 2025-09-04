@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/de90e83ca23d4a83a1dd2297579b806c/artifacts
+end_time: 1756971734394
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: de90e83ca23d4a83a1dd2297579b806c
+run_name: capricious-sow-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971725035
+status: 3
+tags: []
+user_id: root

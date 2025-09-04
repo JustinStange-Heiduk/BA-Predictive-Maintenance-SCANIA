@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/86165ec4b997452b8e09fb5eb83c15f8/artifacts
+end_time: 1756977994470
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 86165ec4b997452b8e09fb5eb83c15f8
+run_name: efficient-auk-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977993091
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/14aecd923a40433c95f927c93e3bf4fb/artifacts
+end_time: 1756977954939
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 14aecd923a40433c95f927c93e3bf4fb
+run_name: melodic-bear-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977952879
+status: 3
+tags: []
+user_id: root

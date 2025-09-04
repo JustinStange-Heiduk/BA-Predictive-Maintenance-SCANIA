@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/de2e5f024b4047b78f96cd97cb9ab370/artifacts
+end_time: 1756977286595
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: de2e5f024b4047b78f96cd97cb9ab370
+run_name: sincere-yak-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977284399
+status: 3
+tags: []
+user_id: root

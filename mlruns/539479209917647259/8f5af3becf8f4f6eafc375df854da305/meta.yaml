@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8f5af3becf8f4f6eafc375df854da305/artifacts
+end_time: 1756977794892
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8f5af3becf8f4f6eafc375df854da305
+run_name: fun-wren-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977793059
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2a9ba90de2b141f0a462c1b73032f1cb/artifacts
+end_time: 1756977847020
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2a9ba90de2b141f0a462c1b73032f1cb
+run_name: funny-goose-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977845168
+status: 3
+tags: []
+user_id: root

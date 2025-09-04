@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/874404afcce743d3b4a61a9cb21cbcd3/artifacts
+end_time: 1756968946482
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 874404afcce743d3b4a61a9cb21cbcd3
+run_name: loud-wolf-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968945258
+status: 3
+tags: []
+user_id: root

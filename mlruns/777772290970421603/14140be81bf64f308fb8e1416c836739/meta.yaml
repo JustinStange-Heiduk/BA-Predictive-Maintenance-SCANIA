@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/14140be81bf64f308fb8e1416c836739/artifacts
+end_time: 1756915492298
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 14140be81bf64f308fb8e1416c836739
+run_name: resilient-lynx-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756915381951
+status: 4
+tags: []
+user_id: root

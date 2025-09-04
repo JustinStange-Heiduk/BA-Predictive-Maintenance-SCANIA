@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/94d0e721c4a54be0ad9995dcb5cf2e80/artifacts
+end_time: 1756976099840
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 94d0e721c4a54be0ad9995dcb5cf2e80
+run_name: big-sloth-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976097911
+status: 3
+tags: []
+user_id: root

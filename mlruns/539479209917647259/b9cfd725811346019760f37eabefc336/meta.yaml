@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b9cfd725811346019760f37eabefc336/artifacts
+end_time: 1756975344657
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b9cfd725811346019760f37eabefc336
+run_name: grandiose-midge-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975342623
+status: 3
+tags: []
+user_id: root

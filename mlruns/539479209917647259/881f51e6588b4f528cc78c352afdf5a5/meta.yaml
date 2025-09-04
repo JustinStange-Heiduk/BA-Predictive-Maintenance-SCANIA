@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/881f51e6588b4f528cc78c352afdf5a5/artifacts
+end_time: 1756976346678
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 881f51e6588b4f528cc78c352afdf5a5
+run_name: merciful-mare-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976344578
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/71f9bbbddd8e471b807cd46d6ac015d9/artifacts
+end_time: 1756970014517
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 71f9bbbddd8e471b807cd46d6ac015d9
+run_name: clumsy-fly-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970008978
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3a2fcc674dc94a45adad47ec1d81b1d4/artifacts
+end_time: 1756974587149
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3a2fcc674dc94a45adad47ec1d81b1d4
+run_name: secretive-gnat-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974585250
+status: 4
+tags: []
+user_id: root

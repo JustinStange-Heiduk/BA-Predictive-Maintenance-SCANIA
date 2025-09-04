@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7ba01a58482b4c21881fab5621583070/artifacts
+end_time: 1756900114692
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7ba01a58482b4c21881fab5621583070
+run_name: mysterious-wolf-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756899786355
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e03159842fe648119d56d9bc60fa76e3/artifacts
+end_time: 1756975986257
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e03159842fe648119d56d9bc60fa76e3
+run_name: marvelous-crab-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975972959
+status: 3
+tags: []
+user_id: root

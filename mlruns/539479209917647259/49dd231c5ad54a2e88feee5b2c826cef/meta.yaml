@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/49dd231c5ad54a2e88feee5b2c826cef/artifacts
+end_time: 1756977658701
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 49dd231c5ad54a2e88feee5b2c826cef
+run_name: merciful-cub-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977647218
+status: 3
+tags: []
+user_id: root

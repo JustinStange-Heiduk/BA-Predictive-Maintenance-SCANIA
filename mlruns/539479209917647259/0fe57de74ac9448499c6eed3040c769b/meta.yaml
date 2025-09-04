@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0fe57de74ac9448499c6eed3040c769b/artifacts
+end_time: 1756977110673
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0fe57de74ac9448499c6eed3040c769b
+run_name: illustrious-newt-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977108711
+status: 3
+tags: []
+user_id: root

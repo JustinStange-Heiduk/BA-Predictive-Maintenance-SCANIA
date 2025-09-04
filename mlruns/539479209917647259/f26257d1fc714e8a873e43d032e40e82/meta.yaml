@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f26257d1fc714e8a873e43d032e40e82/artifacts
+end_time: 1756976084158
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f26257d1fc714e8a873e43d032e40e82
+run_name: luminous-elk-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976082182
+status: 3
+tags: []
+user_id: root

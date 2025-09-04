@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f6a2ee2f0fb2494189e816058ea88a13/artifacts
+end_time: 1756975476131
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f6a2ee2f0fb2494189e816058ea88a13
+run_name: efficient-fly-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975474095
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/10f7999c5c83420c920f9e0c88698647/artifacts
+end_time: 1756909321023
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 10f7999c5c83420c920f9e0c88698647
+run_name: valuable-snake-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909303154
+status: 4
+tags: []
+user_id: root

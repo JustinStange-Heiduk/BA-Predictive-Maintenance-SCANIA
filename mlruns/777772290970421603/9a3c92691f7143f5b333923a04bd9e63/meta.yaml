@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/9a3c92691f7143f5b333923a04bd9e63/artifacts
+end_time: 1756973056066
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 9a3c92691f7143f5b333923a04bd9e63
+run_name: intrigued-sponge-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973045521
+status: 3
+tags: []
+user_id: root

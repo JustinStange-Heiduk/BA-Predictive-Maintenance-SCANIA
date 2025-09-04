@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e9858296c512429bba93911411ea49a8/artifacts
+end_time: 1756977889302
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e9858296c512429bba93911411ea49a8
+run_name: thoughtful-lynx-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977887309
+status: 3
+tags: []
+user_id: root

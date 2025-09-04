@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/20c45955e958456a87c82f97719465d1/artifacts
+end_time: 1756976006946
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 20c45955e958456a87c82f97719465d1
+run_name: delicate-dolphin-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975998537
+status: 3
+tags: []
+user_id: root

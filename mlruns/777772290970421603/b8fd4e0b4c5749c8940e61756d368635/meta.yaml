@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/b8fd4e0b4c5749c8940e61756d368635/artifacts
+end_time: 1756968988418
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: b8fd4e0b4c5749c8940e61756d368635
+run_name: whimsical-perch-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968986407
+status: 3
+tags: []
+user_id: root

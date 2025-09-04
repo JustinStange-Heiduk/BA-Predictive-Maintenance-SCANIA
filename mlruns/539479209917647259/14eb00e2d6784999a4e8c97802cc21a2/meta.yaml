@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/14eb00e2d6784999a4e8c97802cc21a2/artifacts
+end_time: 1756976650290
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 14eb00e2d6784999a4e8c97802cc21a2
+run_name: mercurial-koi-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976646385
+status: 3
+tags: []
+user_id: root

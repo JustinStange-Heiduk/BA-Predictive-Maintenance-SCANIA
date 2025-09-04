@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/abf20a1b678c4945b424b453c9571568/artifacts
+end_time: 1756975272259
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: abf20a1b678c4945b424b453c9571568
+run_name: adorable-toad-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975270425
+status: 3
+tags: []
+user_id: root

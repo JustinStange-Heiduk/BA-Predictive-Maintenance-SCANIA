@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d74521170f0449af893dcd03d89a9807/artifacts
+end_time: 1756976172145
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d74521170f0449af893dcd03d89a9807
+run_name: lyrical-robin-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976170114
+status: 3
+tags: []
+user_id: root

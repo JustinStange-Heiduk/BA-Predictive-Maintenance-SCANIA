@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/74d9b4fc7564406e99be1cd3d9f2e1f4/artifacts
+end_time: 1756977712806
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 74d9b4fc7564406e99be1cd3d9f2e1f4
+run_name: powerful-finch-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977710472
+status: 3
+tags: []
+user_id: root

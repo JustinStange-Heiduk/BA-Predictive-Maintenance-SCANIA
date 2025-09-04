@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d377eb313a3444d6923dc1c6f846a8e3/artifacts
+end_time: 1756974896110
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d377eb313a3444d6923dc1c6f846a8e3
+run_name: amusing-calf-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974892988
+status: 3
+tags: []
+user_id: root

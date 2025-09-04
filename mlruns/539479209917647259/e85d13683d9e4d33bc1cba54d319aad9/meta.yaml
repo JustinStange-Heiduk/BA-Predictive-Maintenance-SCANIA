@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e85d13683d9e4d33bc1cba54d319aad9/artifacts
+end_time: 1756976726530
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e85d13683d9e4d33bc1cba54d319aad9
+run_name: overjoyed-skunk-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976724289
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0168ef60bc264620887c2e0b7bf0a3d1/artifacts
+end_time: 1756886879958
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0168ef60bc264620887c2e0b7bf0a3d1
+run_name: treasured-ant-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886549434
+status: 3
+tags: []
+user_id: root

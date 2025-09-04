@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/df6326c3b3ad4fa89819e20412c25048/artifacts
+end_time: 1756975193613
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: df6326c3b3ad4fa89819e20412c25048
+run_name: sincere-toad-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975191242
+status: 3
+tags: []
+user_id: root

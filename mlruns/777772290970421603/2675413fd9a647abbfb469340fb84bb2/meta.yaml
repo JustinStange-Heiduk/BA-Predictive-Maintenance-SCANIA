@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2675413fd9a647abbfb469340fb84bb2/artifacts
+end_time: 1756906944176
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2675413fd9a647abbfb469340fb84bb2
+run_name: skittish-duck-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756906887531
+status: 4
+tags: []
+user_id: root

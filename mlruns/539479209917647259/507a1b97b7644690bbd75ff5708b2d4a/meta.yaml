@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/507a1b97b7644690bbd75ff5708b2d4a/artifacts
+end_time: 1756976115266
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 507a1b97b7644690bbd75ff5708b2d4a
+run_name: honorable-skunk-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976111418
+status: 3
+tags: []
+user_id: root

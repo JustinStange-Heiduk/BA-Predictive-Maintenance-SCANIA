@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a457392d91c243938d91b01ff874113a/artifacts
+end_time: 1756975319423
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a457392d91c243938d91b01ff874113a
+run_name: auspicious-lark-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975317511
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/eea23791a06240f5a185f676322b605b/artifacts
+end_time: 1756975544950
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: eea23791a06240f5a185f676322b605b
+run_name: treasured-croc-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975543309
+status: 3
+tags: []
+user_id: root

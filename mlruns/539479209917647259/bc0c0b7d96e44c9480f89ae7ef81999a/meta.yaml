@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bc0c0b7d96e44c9480f89ae7ef81999a/artifacts
+end_time: 1756975462637
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bc0c0b7d96e44c9480f89ae7ef81999a
+run_name: wistful-newt-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975460794
+status: 3
+tags: []
+user_id: root

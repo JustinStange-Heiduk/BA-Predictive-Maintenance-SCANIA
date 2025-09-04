@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/11622a53744b47fb8621eb1e77303f0f/artifacts
+end_time: 1756972868385
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 11622a53744b47fb8621eb1e77303f0f
+run_name: placid-dolphin-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972855136
+status: 3
+tags: []
+user_id: root

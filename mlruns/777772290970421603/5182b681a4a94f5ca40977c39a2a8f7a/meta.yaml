@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5182b681a4a94f5ca40977c39a2a8f7a/artifacts
+end_time: 1756969662140
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5182b681a4a94f5ca40977c39a2a8f7a
+run_name: serious-horse-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969660977
+status: 3
+tags: []
+user_id: root

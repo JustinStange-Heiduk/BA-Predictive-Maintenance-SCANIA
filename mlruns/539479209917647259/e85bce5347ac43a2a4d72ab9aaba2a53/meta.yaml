@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e85bce5347ac43a2a4d72ab9aaba2a53/artifacts
+end_time: 1756977319590
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e85bce5347ac43a2a4d72ab9aaba2a53
+run_name: spiffy-mink-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977317435
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/868b7c8b6aae4c27bef2b8711df915af/artifacts
+end_time: 1756969726751
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 868b7c8b6aae4c27bef2b8711df915af
+run_name: exultant-hare-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969725436
+status: 3
+tags: []
+user_id: root

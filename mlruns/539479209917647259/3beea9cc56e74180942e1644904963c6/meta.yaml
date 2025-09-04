@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3beea9cc56e74180942e1644904963c6/artifacts
+end_time: 1756974556766
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3beea9cc56e74180942e1644904963c6
+run_name: shivering-elk-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974556297
+status: 4
+tags: []
+user_id: root

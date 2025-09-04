@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/37e1c1d5a70a453b859f51a868e1d197/artifacts
+end_time: 1756976833040
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 37e1c1d5a70a453b859f51a868e1d197
+run_name: abundant-ant-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976830972
+status: 3
+tags: []
+user_id: root

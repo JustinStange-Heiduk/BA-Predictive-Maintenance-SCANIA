@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f91a3492241b4a2b965d83b97a920ae9/artifacts
+end_time: 1756976765975
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f91a3492241b4a2b965d83b97a920ae9
+run_name: clumsy-conch-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976764536
+status: 3
+tags: []
+user_id: root

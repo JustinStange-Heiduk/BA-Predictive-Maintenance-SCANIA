@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/afc48037c93c4790a0cd4d2932411513/artifacts
+end_time: 1756977753575
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: afc48037c93c4790a0cd4d2932411513
+run_name: mysterious-trout-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977751438
+status: 3
+tags: []
+user_id: root

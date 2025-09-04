@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/85a417cb816e4e83b4b1fe50902cd093/artifacts
+end_time: 1756977841070
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 85a417cb816e4e83b4b1fe50902cd093
+run_name: indecisive-skink-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977839731
+status: 3
+tags: []
+user_id: root

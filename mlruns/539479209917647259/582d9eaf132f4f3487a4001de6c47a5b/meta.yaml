@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/582d9eaf132f4f3487a4001de6c47a5b/artifacts
+end_time: 1756975395565
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 582d9eaf132f4f3487a4001de6c47a5b
+run_name: overjoyed-koi-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975393800
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/900ce54af5ce4cafab4e65d255ae52d8/artifacts
+end_time: 1756974762997
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 900ce54af5ce4cafab4e65d255ae52d8
+run_name: likeable-finch-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974762604
+status: 3
+tags: []
+user_id: root

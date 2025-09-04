@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6295a8a7d2eb451498fca7bc41feedc2/artifacts
+end_time: 1756976906055
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6295a8a7d2eb451498fca7bc41feedc2
+run_name: receptive-lark-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976901264
+status: 3
+tags: []
+user_id: root

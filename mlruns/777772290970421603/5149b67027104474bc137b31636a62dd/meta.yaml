@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5149b67027104474bc137b31636a62dd/artifacts
+end_time: 1756969415144
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5149b67027104474bc137b31636a62dd
+run_name: resilient-worm-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969412808
+status: 3
+tags: []
+user_id: root

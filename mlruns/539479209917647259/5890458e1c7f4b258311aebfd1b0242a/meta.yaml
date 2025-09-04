@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5890458e1c7f4b258311aebfd1b0242a/artifacts
+end_time: 1756976186992
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5890458e1c7f4b258311aebfd1b0242a
+run_name: crawling-ray-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976181202
+status: 3
+tags: []
+user_id: root

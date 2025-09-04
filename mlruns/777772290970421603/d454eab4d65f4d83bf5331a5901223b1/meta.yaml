@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d454eab4d65f4d83bf5331a5901223b1/artifacts
+end_time: 1756911533640
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d454eab4d65f4d83bf5331a5901223b1
+run_name: whimsical-panda-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911500179
+status: 3
+tags: []
+user_id: root

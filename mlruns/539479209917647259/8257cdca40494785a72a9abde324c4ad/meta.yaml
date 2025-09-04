@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8257cdca40494785a72a9abde324c4ad/artifacts
+end_time: 1756975237363
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8257cdca40494785a72a9abde324c4ad
+run_name: smiling-hog-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975235062
+status: 3
+tags: []
+user_id: root

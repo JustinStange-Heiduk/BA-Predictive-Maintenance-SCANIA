@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/234838b9c9c947cba60d9dc35d0da0b2/artifacts
+end_time: 1756912624357
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 234838b9c9c947cba60d9dc35d0da0b2
+run_name: bemused-sheep-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912602067
+status: 4
+tags: []
+user_id: root

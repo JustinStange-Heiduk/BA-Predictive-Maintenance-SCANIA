@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b8a9bc552be04e72835be4d177d0fa2c/artifacts
+end_time: 1756977474710
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b8a9bc552be04e72835be4d177d0fa2c
+run_name: calm-whale-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977472563
+status: 3
+tags: []
+user_id: root

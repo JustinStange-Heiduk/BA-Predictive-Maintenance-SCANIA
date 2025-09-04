@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ae4af3351f2d4589be63f2556d73268c/artifacts
+end_time: 1756974921168
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ae4af3351f2d4589be63f2556d73268c
+run_name: unruly-asp-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974911718
+status: 3
+tags: []
+user_id: root

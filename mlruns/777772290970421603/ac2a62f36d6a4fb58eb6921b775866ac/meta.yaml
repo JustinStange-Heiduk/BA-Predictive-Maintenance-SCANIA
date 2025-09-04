@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ac2a62f36d6a4fb58eb6921b775866ac/artifacts
+end_time: 1756970302172
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ac2a62f36d6a4fb58eb6921b775866ac
+run_name: capable-crab-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970300137
+status: 3
+tags: []
+user_id: root

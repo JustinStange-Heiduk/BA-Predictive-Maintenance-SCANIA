@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/af997ac99dc04c298a1dc697189b8592/artifacts
+end_time: 1756912846265
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: af997ac99dc04c298a1dc697189b8592
+run_name: auspicious-eel-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912836010
+status: 4
+tags: []
+user_id: root

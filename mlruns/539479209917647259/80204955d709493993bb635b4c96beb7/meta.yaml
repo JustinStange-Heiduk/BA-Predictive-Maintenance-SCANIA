@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/80204955d709493993bb635b4c96beb7/artifacts
+end_time: 1756975081175
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 80204955d709493993bb635b4c96beb7
+run_name: adorable-colt-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975078932
+status: 3
+tags: []
+user_id: root

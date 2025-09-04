@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1ac48630ac944273826d0b8496a22770/artifacts
+end_time: 1756971885174
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1ac48630ac944273826d0b8496a22770
+run_name: bittersweet-auk-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971873156
+status: 3
+tags: []
+user_id: root

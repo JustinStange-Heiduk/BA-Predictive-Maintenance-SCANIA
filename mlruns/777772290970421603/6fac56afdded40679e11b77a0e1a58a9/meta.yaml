@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6fac56afdded40679e11b77a0e1a58a9/artifacts
+end_time: 1756922926842
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6fac56afdded40679e11b77a0e1a58a9
+run_name: carefree-donkey-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756922914611
+status: 4
+tags: []
+user_id: root

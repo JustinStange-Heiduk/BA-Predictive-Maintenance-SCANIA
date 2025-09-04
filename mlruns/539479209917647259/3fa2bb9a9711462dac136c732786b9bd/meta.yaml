@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3fa2bb9a9711462dac136c732786b9bd/artifacts
+end_time: 1756976421175
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3fa2bb9a9711462dac136c732786b9bd
+run_name: bright-lamb-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976418995
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c5d8dabd6b1b4184a6a34de484bc4829/artifacts
+end_time: 1756974722473
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c5d8dabd6b1b4184a6a34de484bc4829
+run_name: monumental-ray-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974720159
+status: 3
+tags: []
+user_id: root

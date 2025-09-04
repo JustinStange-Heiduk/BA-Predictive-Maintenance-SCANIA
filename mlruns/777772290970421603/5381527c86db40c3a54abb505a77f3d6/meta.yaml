@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5381527c86db40c3a54abb505a77f3d6/artifacts
+end_time: 1756903526648
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5381527c86db40c3a54abb505a77f3d6
+run_name: charming-hen-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903517065
+status: 4
+tags: []
+user_id: root

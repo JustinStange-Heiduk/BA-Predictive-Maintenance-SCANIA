@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/74e5d402cc134cd880bf0f9c7a4d1a30/artifacts
+end_time: 1756970356939
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 74e5d402cc134cd880bf0f9c7a4d1a30
+run_name: vaunted-horse-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970348460
+status: 3
+tags: []
+user_id: root

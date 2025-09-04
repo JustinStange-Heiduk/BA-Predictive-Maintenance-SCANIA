@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/baf999123c1e45c38d6dc96d46df1842/artifacts
+end_time: 1756976586407
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: baf999123c1e45c38d6dc96d46df1842
+run_name: rumbling-stag-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976584393
+status: 3
+tags: []
+user_id: root

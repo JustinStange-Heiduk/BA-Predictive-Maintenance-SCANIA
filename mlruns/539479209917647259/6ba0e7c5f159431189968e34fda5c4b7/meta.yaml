@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6ba0e7c5f159431189968e34fda5c4b7/artifacts
+end_time: 1756976460841
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6ba0e7c5f159431189968e34fda5c4b7
+run_name: trusting-flea-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976457738
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/72bb2e110e3448769ebe8d25e9c1fa35/artifacts
+end_time: 1756909663074
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 72bb2e110e3448769ebe8d25e9c1fa35
+run_name: thoughtful-fish-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909651772
+status: 4
+tags: []
+user_id: root

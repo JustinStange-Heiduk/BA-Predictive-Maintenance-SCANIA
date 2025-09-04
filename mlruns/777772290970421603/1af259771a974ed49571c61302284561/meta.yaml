@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1af259771a974ed49571c61302284561/artifacts
+end_time: 1756968996256
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1af259771a974ed49571c61302284561
+run_name: worried-crane-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968994020
+status: 3
+tags: []
+user_id: root

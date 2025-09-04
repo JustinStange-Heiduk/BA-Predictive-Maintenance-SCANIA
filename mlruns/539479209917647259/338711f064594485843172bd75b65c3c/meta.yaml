@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/338711f064594485843172bd75b65c3c/artifacts
+end_time: 1756976845020
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 338711f064594485843172bd75b65c3c
+run_name: bright-zebra-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976842212
+status: 3
+tags: []
+user_id: root

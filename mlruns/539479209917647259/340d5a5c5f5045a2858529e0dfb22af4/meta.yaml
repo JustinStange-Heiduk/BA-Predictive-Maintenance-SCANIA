@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/340d5a5c5f5045a2858529e0dfb22af4/artifacts
+end_time: 1756975437155
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 340d5a5c5f5045a2858529e0dfb22af4
+run_name: gifted-frog-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975435211
+status: 3
+tags: []
+user_id: root

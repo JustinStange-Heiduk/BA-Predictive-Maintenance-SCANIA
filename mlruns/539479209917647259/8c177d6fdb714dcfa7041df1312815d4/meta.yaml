@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8c177d6fdb714dcfa7041df1312815d4/artifacts
+end_time: 1756976015335
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8c177d6fdb714dcfa7041df1312815d4
+run_name: stately-ant-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976013457
+status: 3
+tags: []
+user_id: root

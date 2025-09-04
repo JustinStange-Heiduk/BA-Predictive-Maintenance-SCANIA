@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/06578166a82247c1a5701e923ec5f554/artifacts
+end_time: 1756975933460
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 06578166a82247c1a5701e923ec5f554
+run_name: luxuriant-horse-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975931637
+status: 3
+tags: []
+user_id: root

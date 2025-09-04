@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/de5d55a8ec2c44488353db8162d55948/artifacts
+end_time: 1756968166572
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: de5d55a8ec2c44488353db8162d55948
+run_name: delicate-turtle-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968156126
+status: 4
+tags: []
+user_id: root

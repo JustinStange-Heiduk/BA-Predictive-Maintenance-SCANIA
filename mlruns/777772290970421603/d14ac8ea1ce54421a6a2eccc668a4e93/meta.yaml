@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d14ac8ea1ce54421a6a2eccc668a4e93/artifacts
+end_time: 1756908759874
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d14ac8ea1ce54421a6a2eccc668a4e93
+run_name: whimsical-goat-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908749245
+status: 4
+tags: []
+user_id: root

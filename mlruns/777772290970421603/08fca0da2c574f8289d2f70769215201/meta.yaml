@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/08fca0da2c574f8289d2f70769215201/artifacts
+end_time: 1756970099537
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 08fca0da2c574f8289d2f70769215201
+run_name: debonair-bug-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970097084
+status: 3
+tags: []
+user_id: root

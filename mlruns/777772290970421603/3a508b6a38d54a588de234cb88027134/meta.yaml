@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3a508b6a38d54a588de234cb88027134/artifacts
+end_time: 1756919991473
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3a508b6a38d54a588de234cb88027134
+run_name: polite-croc-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756916812659
+status: 4
+tags: []
+user_id: root

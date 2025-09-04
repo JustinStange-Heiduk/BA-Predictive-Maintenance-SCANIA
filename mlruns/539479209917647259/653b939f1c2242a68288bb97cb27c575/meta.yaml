@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/653b939f1c2242a68288bb97cb27c575/artifacts
+end_time: 1756976271839
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 653b939f1c2242a68288bb97cb27c575
+run_name: funny-mule-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976269824
+status: 3
+tags: []
+user_id: root

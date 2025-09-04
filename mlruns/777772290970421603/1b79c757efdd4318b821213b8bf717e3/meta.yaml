@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1b79c757efdd4318b821213b8bf717e3/artifacts
+end_time: 1756969363691
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1b79c757efdd4318b821213b8bf717e3
+run_name: carefree-asp-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969361711
+status: 3
+tags: []
+user_id: root

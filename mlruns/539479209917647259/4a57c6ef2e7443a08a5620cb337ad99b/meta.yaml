@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4a57c6ef2e7443a08a5620cb337ad99b/artifacts
+end_time: 1756977368856
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4a57c6ef2e7443a08a5620cb337ad99b
+run_name: bald-kit-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977366601
+status: 3
+tags: []
+user_id: root

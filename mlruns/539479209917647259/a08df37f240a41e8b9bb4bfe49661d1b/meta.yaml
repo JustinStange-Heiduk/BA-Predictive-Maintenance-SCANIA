@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a08df37f240a41e8b9bb4bfe49661d1b/artifacts
+end_time: 1756975430370
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a08df37f240a41e8b9bb4bfe49661d1b
+run_name: crawling-gnu-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975428466
+status: 3
+tags: []
+user_id: root

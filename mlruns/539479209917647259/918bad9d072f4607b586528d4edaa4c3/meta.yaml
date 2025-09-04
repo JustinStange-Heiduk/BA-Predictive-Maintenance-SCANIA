@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/918bad9d072f4607b586528d4edaa4c3/artifacts
+end_time: 1756976278876
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 918bad9d072f4607b586528d4edaa4c3
+run_name: trusting-hog-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976276614
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e29a1b79ec8342b8adf9b1c54166d39e/artifacts
+end_time: 1756978054253
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e29a1b79ec8342b8adf9b1c54166d39e
+run_name: ambitious-fly-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978052199
+status: 3
+tags: []
+user_id: root

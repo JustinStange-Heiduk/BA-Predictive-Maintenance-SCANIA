@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cfa4fce432034560a1ce0383eaf4dbae/artifacts
+end_time: 1756978215941
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cfa4fce432034560a1ce0383eaf4dbae
+run_name: bouncy-chimp-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978213749
+status: 3
+tags: []
+user_id: root

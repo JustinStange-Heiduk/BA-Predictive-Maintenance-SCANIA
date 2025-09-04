@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5c263916c0524ee0aec7e7b046f868fe/artifacts
+end_time: 1756975528954
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5c263916c0524ee0aec7e7b046f868fe
+run_name: sassy-mare-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975526744
+status: 3
+tags: []
+user_id: root

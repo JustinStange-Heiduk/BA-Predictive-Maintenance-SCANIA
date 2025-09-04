@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/82b7b91b44934f30b5f442a84b67e3de/artifacts
+end_time: 1756977198310
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 82b7b91b44934f30b5f442a84b67e3de
+run_name: gifted-slug-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977195829
+status: 3
+tags: []
+user_id: root

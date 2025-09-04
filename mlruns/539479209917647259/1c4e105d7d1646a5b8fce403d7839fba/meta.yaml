@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1c4e105d7d1646a5b8fce403d7839fba/artifacts
+end_time: 1756977992853
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1c4e105d7d1646a5b8fce403d7839fba
+run_name: nebulous-skunk-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977991228
+status: 3
+tags: []
+user_id: root

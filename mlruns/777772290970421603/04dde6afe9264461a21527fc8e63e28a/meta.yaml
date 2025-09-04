@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/04dde6afe9264461a21527fc8e63e28a/artifacts
+end_time: 1756969010322
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 04dde6afe9264461a21527fc8e63e28a
+run_name: adorable-jay-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969008289
+status: 3
+tags: []
+user_id: root

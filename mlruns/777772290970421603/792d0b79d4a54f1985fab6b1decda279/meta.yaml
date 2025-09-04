@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/792d0b79d4a54f1985fab6b1decda279/artifacts
+end_time: 1756913122445
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 792d0b79d4a54f1985fab6b1decda279
+run_name: capable-bee-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913109118
+status: 4
+tags: []
+user_id: root

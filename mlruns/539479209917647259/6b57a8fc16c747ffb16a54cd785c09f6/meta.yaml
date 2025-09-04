@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6b57a8fc16c747ffb16a54cd785c09f6/artifacts
+end_time: 1756974680670
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6b57a8fc16c747ffb16a54cd785c09f6
+run_name: unruly-hawk-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974678518
+status: 3
+tags: []
+user_id: root

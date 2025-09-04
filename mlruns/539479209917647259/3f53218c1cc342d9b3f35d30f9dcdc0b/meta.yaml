@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3f53218c1cc342d9b3f35d30f9dcdc0b/artifacts
+end_time: 1756974525223
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3f53218c1cc342d9b3f35d30f9dcdc0b
+run_name: bustling-carp-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974520794
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a38c3a104291456890dae2d9154b547e/artifacts
+end_time: 1756970038173
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a38c3a104291456890dae2d9154b547e
+run_name: colorful-carp-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970031737
+status: 3
+tags: []
+user_id: root

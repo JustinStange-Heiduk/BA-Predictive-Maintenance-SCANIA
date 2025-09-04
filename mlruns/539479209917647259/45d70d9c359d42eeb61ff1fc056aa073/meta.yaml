@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/45d70d9c359d42eeb61ff1fc056aa073/artifacts
+end_time: 1756977414248
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 45d70d9c359d42eeb61ff1fc056aa073
+run_name: unequaled-ram-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977412385
+status: 3
+tags: []
+user_id: root

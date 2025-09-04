@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a42e859799894e2abcd6f9c085cb1965/artifacts
+end_time: 1756974769982
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a42e859799894e2abcd6f9c085cb1965
+run_name: selective-hog-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974766060
+status: 3
+tags: []
+user_id: root

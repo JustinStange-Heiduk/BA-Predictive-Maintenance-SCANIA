@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b5e1b6aece7e436c83f714beda34f901/artifacts
+end_time: 1756978006642
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b5e1b6aece7e436c83f714beda34f901
+run_name: carefree-calf-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978007786
+status: 3
+tags: []
+user_id: root

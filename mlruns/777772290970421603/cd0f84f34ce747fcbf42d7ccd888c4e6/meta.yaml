@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cd0f84f34ce747fcbf42d7ccd888c4e6/artifacts
+end_time: 1756887949483
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cd0f84f34ce747fcbf42d7ccd888c4e6
+run_name: colorful-shrimp-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887894751
+status: 4
+tags: []
+user_id: root

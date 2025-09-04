@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0aaea71617d44ec1b64eb94687de001e/artifacts
+end_time: 1756972411647
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0aaea71617d44ec1b64eb94687de001e
+run_name: bedecked-croc-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972402496
+status: 3
+tags: []
+user_id: root

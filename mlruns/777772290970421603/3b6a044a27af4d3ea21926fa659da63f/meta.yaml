@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3b6a044a27af4d3ea21926fa659da63f/artifacts
+end_time: 1756969012761
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3b6a044a27af4d3ea21926fa659da63f
+run_name: rebellious-dog-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969010560
+status: 3
+tags: []
+user_id: root

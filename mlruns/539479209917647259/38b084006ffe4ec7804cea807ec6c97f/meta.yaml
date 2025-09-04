@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/38b084006ffe4ec7804cea807ec6c97f/artifacts
+end_time: 1756977270385
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 38b084006ffe4ec7804cea807ec6c97f
+run_name: amusing-mule-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977227797
+status: 3
+tags: []
+user_id: root

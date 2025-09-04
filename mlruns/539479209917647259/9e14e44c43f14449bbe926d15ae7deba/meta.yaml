@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9e14e44c43f14449bbe926d15ae7deba/artifacts
+end_time: 1756976858386
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9e14e44c43f14449bbe926d15ae7deba
+run_name: carefree-ape-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976856338
+status: 3
+tags: []
+user_id: root

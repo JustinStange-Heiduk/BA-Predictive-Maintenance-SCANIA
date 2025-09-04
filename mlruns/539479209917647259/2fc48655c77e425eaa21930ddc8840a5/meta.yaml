@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2fc48655c77e425eaa21930ddc8840a5/artifacts
+end_time: 1756974642681
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2fc48655c77e425eaa21930ddc8840a5
+run_name: casual-robin-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974641003
+status: 3
+tags: []
+user_id: root

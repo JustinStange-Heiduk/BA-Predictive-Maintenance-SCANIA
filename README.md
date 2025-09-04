@@ -41,3 +41,6 @@ Ordner	Zweck	Beispiele aus deinem Projekt
 06_models	Gespeicherte Modelle	xgboost_model.pkl, bilstm_model.h5
 07_model_output	Modelloutputs wie Vorhersagen, Wahrscheinlichkeiten, Residuen	y_pred.csv, rul_pred.csv, SHAP-Werte
 08_reporting	Abbildungen, Tabellen, Metriken, Explainability, etc.	ROC-Curve, Feature Importance, Evaluation Reports
+
+
+mlflow ui --backend-store-uri ./mlruns --host 0.0.0.0 --port 5000

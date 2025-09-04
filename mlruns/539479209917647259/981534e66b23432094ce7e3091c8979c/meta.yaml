@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/981534e66b23432094ce7e3091c8979c/artifacts
+end_time: 1756975168058
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 981534e66b23432094ce7e3091c8979c
+run_name: gifted-foal-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975165837
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/aba4608473254e14a05a5e0e65043d93/artifacts
+end_time: 1756977202762
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: aba4608473254e14a05a5e0e65043d93
+run_name: upset-swan-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977200800
+status: 3
+tags: []
+user_id: root

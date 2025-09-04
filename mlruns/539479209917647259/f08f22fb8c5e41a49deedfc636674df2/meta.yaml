@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f08f22fb8c5e41a49deedfc636674df2/artifacts
+end_time: 1756974898720
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f08f22fb8c5e41a49deedfc636674df2
+run_name: nosy-chimp-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974896308
+status: 3
+tags: []
+user_id: root

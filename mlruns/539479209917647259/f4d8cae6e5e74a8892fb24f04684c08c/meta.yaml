@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f4d8cae6e5e74a8892fb24f04684c08c/artifacts
+end_time: 1756976301852
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f4d8cae6e5e74a8892fb24f04684c08c
+run_name: spiffy-stoat-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976299920
+status: 3
+tags: []
+user_id: root

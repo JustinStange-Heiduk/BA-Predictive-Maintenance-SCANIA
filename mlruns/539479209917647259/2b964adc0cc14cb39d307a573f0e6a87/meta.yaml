@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2b964adc0cc14cb39d307a573f0e6a87/artifacts
+end_time: 1756977176537
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2b964adc0cc14cb39d307a573f0e6a87
+run_name: judicious-stoat-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977176888
+status: 3
+tags: []
+user_id: root

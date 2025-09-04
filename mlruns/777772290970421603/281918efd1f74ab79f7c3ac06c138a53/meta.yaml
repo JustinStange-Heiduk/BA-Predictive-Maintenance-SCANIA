@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/281918efd1f74ab79f7c3ac06c138a53/artifacts
+end_time: 1756910938980
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 281918efd1f74ab79f7c3ac06c138a53
+run_name: wise-lark-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756910928456
+status: 4
+tags: []
+user_id: root

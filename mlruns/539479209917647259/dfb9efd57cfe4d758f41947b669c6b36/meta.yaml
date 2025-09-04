@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/dfb9efd57cfe4d758f41947b669c6b36/artifacts
+end_time: 1756976484491
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: dfb9efd57cfe4d758f41947b669c6b36
+run_name: receptive-ram-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976482169
+status: 3
+tags: []
+user_id: root

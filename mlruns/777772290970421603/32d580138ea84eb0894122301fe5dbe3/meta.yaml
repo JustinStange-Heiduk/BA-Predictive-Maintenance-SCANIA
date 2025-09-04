@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/32d580138ea84eb0894122301fe5dbe3/artifacts
+end_time: 1756971786355
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 32d580138ea84eb0894122301fe5dbe3
+run_name: auspicious-calf-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971779634
+status: 3
+tags: []
+user_id: root

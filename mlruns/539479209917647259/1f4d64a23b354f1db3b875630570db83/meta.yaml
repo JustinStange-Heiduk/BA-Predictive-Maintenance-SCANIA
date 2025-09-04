@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1f4d64a23b354f1db3b875630570db83/artifacts
+end_time: 1756975380768
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1f4d64a23b354f1db3b875630570db83
+run_name: crawling-goose-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975379193
+status: 3
+tags: []
+user_id: root

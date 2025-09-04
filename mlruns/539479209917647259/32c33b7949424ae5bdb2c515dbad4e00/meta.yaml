@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/32c33b7949424ae5bdb2c515dbad4e00/artifacts
+end_time: 1756978301826
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 32c33b7949424ae5bdb2c515dbad4e00
+run_name: amazing-snake-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978299639
+status: 3
+tags: []
+user_id: root

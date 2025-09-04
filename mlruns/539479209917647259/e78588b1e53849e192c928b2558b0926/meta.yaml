@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e78588b1e53849e192c928b2558b0926/artifacts
+end_time: 1756977119919
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e78588b1e53849e192c928b2558b0926
+run_name: awesome-hound-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977117765
+status: 3
+tags: []
+user_id: root

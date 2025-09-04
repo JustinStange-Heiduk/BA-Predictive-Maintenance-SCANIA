@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5a2af7a3238c4672883a19112f7bb850/artifacts
+end_time: 1756975569438
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5a2af7a3238c4672883a19112f7bb850
+run_name: secretive-loon-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975567426
+status: 3
+tags: []
+user_id: root

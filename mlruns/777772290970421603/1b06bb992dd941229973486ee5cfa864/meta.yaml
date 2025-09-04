@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1b06bb992dd941229973486ee5cfa864/artifacts
+end_time: 1756908482015
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1b06bb992dd941229973486ee5cfa864
+run_name: fun-snipe-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908471770
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cc0ba55700b94257ac407b3221f99ad9/artifacts
+end_time: 1756910963319
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cc0ba55700b94257ac407b3221f99ad9
+run_name: thoughtful-kite-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756910948844
+status: 4
+tags: []
+user_id: root

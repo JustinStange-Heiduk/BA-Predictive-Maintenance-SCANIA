@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7be5112d53a74dad8437246da9575cc6/artifacts
+end_time: 1756912271299
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7be5112d53a74dad8437246da9575cc6
+run_name: valuable-boar-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912259003
+status: 4
+tags: []
+user_id: root

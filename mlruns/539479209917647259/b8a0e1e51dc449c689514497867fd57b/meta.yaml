@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b8a0e1e51dc449c689514497867fd57b/artifacts
+end_time: 1756977692716
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b8a0e1e51dc449c689514497867fd57b
+run_name: overjoyed-conch-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977690903
+status: 3
+tags: []
+user_id: root

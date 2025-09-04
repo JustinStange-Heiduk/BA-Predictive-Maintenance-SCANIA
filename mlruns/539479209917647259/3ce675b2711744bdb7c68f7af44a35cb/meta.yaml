@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3ce675b2711744bdb7c68f7af44a35cb/artifacts
+end_time: 1756974480202
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3ce675b2711744bdb7c68f7af44a35cb
+run_name: agreeable-skink-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974477238
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d9e0a437b314490c862f571c24136719/artifacts
+end_time: 1756903548269
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d9e0a437b314490c862f571c24136719
+run_name: dazzling-mare-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903526843
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c5faac492d4045a1adbc64ff1806719f/artifacts
+end_time: 1756977956525
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c5faac492d4045a1adbc64ff1806719f
+run_name: rare-mouse-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977955163
+status: 3
+tags: []
+user_id: root

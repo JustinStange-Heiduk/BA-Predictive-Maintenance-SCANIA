@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2ab9b14b709e45aba78fa0ca69b9c22e/artifacts
+end_time: 1756972242511
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2ab9b14b709e45aba78fa0ca69b9c22e
+run_name: abundant-tern-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972232044
+status: 3
+tags: []
+user_id: root

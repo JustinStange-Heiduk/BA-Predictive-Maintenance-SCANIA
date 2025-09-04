@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/825ffc850a7a45a999f97231c301c80c/artifacts
+end_time: 1756977827127
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 825ffc850a7a45a999f97231c301c80c
+run_name: big-rat-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977796722
+status: 3
+tags: []
+user_id: root

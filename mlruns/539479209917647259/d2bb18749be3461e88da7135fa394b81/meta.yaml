@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d2bb18749be3461e88da7135fa394b81/artifacts
+end_time: 1756975658275
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d2bb18749be3461e88da7135fa394b81
+run_name: polite-robin-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975656185
+status: 3
+tags: []
+user_id: root

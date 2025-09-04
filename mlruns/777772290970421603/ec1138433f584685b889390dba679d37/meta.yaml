@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ec1138433f584685b889390dba679d37/artifacts
+end_time: 1756971872998
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ec1138433f584685b889390dba679d37
+run_name: nimble-mink-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971853721
+status: 3
+tags: []
+user_id: root

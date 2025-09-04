@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/418edda3e5884f839b76b6ae7db32360/artifacts
+end_time: 1756977718162
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 418edda3e5884f839b76b6ae7db32360
+run_name: worried-snake-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977714623
+status: 3
+tags: []
+user_id: root

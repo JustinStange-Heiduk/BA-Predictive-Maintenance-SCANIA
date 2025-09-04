@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2b3c4721e5b9441293c082c9c5167268/artifacts
+end_time: 1756975101362
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2b3c4721e5b9441293c082c9c5167268
+run_name: bedecked-duck-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975099176
+status: 3
+tags: []
+user_id: root

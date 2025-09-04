@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a85e21eb33f641469f27e8fe46230daf/artifacts
+end_time: 1756977035286
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a85e21eb33f641469f27e8fe46230daf
+run_name: traveling-shrike-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977033100
+status: 3
+tags: []
+user_id: root

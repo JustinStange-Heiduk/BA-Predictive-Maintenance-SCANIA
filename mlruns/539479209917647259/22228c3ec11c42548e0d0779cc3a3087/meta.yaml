@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/22228c3ec11c42548e0d0779cc3a3087/artifacts
+end_time: 1756976769952
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 22228c3ec11c42548e0d0779cc3a3087
+run_name: delicate-cub-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976768575
+status: 3
+tags: []
+user_id: root

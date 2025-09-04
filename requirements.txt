@@ -41,3 +41,7 @@ tsfresh==0.20.2
 
 # Feature Selection
 lifelines==0.30.0
+
+# Modelling
+scikit-survival==0.25.0
+optuna==4.5.0

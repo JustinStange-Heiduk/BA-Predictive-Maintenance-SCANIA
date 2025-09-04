@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/edf533e666ad4246beeb4c7f37bf52a2/artifacts
+end_time: 1756977426499
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: edf533e666ad4246beeb4c7f37bf52a2
+run_name: lyrical-doe-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977426703
+status: 3
+tags: []
+user_id: root

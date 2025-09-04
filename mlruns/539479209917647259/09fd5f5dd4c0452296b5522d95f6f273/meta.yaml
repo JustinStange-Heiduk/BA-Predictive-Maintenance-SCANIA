@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/09fd5f5dd4c0452296b5522d95f6f273/artifacts
+end_time: 1756975260515
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 09fd5f5dd4c0452296b5522d95f6f273
+run_name: overjoyed-yak-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975259136
+status: 3
+tags: []
+user_id: root

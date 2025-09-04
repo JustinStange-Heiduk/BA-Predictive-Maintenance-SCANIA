@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3ac3cbbb570d403f876c9fbd8a9646e4/artifacts
+end_time: 1756975517742
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3ac3cbbb570d403f876c9fbd8a9646e4
+run_name: secretive-grub-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975515483
+status: 3
+tags: []
+user_id: root

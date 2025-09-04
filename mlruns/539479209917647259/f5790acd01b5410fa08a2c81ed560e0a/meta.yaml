@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f5790acd01b5410fa08a2c81ed560e0a/artifacts
+end_time: 1756975652388
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f5790acd01b5410fa08a2c81ed560e0a
+run_name: marvelous-grub-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975650390
+status: 3
+tags: []
+user_id: root

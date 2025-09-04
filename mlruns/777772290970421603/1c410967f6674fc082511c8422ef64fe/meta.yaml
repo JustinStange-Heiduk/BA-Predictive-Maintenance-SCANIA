@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1c410967f6674fc082511c8422ef64fe/artifacts
+end_time: 1756968089833
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1c410967f6674fc082511c8422ef64fe
+run_name: treasured-gnu-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968079554
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e1d064913d2d46b894ad89051b1a49f6/artifacts
+end_time: 1756976584169
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e1d064913d2d46b894ad89051b1a49f6
+run_name: enthused-boar-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976582231
+status: 3
+tags: []
+user_id: root

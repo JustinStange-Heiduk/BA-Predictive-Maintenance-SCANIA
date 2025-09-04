@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ba738326dc2749009604e0076a83def7/artifacts
+end_time: 1756974725182
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ba738326dc2749009604e0076a83def7
+run_name: welcoming-robin-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974722672
+status: 3
+tags: []
+user_id: root

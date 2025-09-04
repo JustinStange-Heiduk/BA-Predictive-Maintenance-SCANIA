@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/baa50dd9540e4804b63d31d16271f02c/artifacts
+end_time: 1756978441010
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: baa50dd9540e4804b63d31d16271f02c
+run_name: capable-skunk-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978438937
+status: 3
+tags: []
+user_id: root

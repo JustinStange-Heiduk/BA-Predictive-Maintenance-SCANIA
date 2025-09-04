@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cbd784c0634f47f19d05c0399fb6be9f/artifacts
+end_time: 1756977960839
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cbd784c0634f47f19d05c0399fb6be9f
+run_name: victorious-finch-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977958809
+status: 3
+tags: []
+user_id: root

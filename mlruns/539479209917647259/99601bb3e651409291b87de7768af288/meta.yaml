@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/99601bb3e651409291b87de7768af288/artifacts
+end_time: 1756977902950
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 99601bb3e651409291b87de7768af288
+run_name: gaudy-donkey-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977901125
+status: 3
+tags: []
+user_id: root

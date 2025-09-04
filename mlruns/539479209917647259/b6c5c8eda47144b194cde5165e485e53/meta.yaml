@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b6c5c8eda47144b194cde5165e485e53/artifacts
+end_time: 1756978292452
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b6c5c8eda47144b194cde5165e485e53
+run_name: hilarious-jay-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978290294
+status: 3
+tags: []
+user_id: root

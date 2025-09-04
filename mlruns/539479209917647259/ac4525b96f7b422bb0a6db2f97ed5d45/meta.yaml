@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ac4525b96f7b422bb0a6db2f97ed5d45/artifacts
+end_time: 1756977786716
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ac4525b96f7b422bb0a6db2f97ed5d45
+run_name: handsome-cow-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977755936
+status: 3
+tags: []
+user_id: root

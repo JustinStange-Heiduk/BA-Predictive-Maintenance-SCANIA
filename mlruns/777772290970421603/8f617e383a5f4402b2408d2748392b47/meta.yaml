@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8f617e383a5f4402b2408d2748392b47/artifacts
+end_time: 1756970636635
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8f617e383a5f4402b2408d2748392b47
+run_name: valuable-frog-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970629090
+status: 3
+tags: []
+user_id: root

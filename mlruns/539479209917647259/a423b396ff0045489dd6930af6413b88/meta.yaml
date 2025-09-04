@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a423b396ff0045489dd6930af6413b88/artifacts
+end_time: 1756977911379
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a423b396ff0045489dd6930af6413b88
+run_name: languid-tern-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977909511
+status: 3
+tags: []
+user_id: root

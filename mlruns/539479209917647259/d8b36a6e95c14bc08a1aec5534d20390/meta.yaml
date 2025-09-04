@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d8b36a6e95c14bc08a1aec5534d20390/artifacts
+end_time: 1756976433716
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d8b36a6e95c14bc08a1aec5534d20390
+run_name: likeable-zebra-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976431735
+status: 3
+tags: []
+user_id: root

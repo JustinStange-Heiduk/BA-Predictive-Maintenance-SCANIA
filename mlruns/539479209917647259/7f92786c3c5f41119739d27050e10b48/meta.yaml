@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7f92786c3c5f41119739d27050e10b48/artifacts
+end_time: 1756975090214
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7f92786c3c5f41119739d27050e10b48
+run_name: serious-snipe-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975088167
+status: 3
+tags: []
+user_id: root

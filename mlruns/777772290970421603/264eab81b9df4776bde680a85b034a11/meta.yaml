@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/264eab81b9df4776bde680a85b034a11/artifacts
+end_time: 1756969617851
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 264eab81b9df4776bde680a85b034a11
+run_name: dashing-chimp-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969616672
+status: 3
+tags: []
+user_id: root

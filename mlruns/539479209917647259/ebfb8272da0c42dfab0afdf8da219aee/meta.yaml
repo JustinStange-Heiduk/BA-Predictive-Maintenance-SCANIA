@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ebfb8272da0c42dfab0afdf8da219aee/artifacts
+end_time: 1756976934775
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ebfb8272da0c42dfab0afdf8da219aee
+run_name: rambunctious-elk-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976932591
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/fa279d074bb74cd5bb2b2dab0220a3e2/artifacts
+end_time: 1756977918162
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: fa279d074bb74cd5bb2b2dab0220a3e2
+run_name: spiffy-yak-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977916249
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/9ff43b2f6ace477f981d126fb16a0520/artifacts
+end_time: 1756970500125
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 9ff43b2f6ace477f981d126fb16a0520
+run_name: nebulous-dolphin-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970492720
+status: 3
+tags: []
+user_id: root

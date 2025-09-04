@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a95160276cb2479586706f1d1e039956/artifacts
+end_time: 1756976962606
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a95160276cb2479586706f1d1e039956
+run_name: unleashed-fly-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976961229
+status: 3
+tags: []
+user_id: root

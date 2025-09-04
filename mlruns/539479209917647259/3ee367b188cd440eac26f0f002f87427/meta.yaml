@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3ee367b188cd440eac26f0f002f87427/artifacts
+end_time: 1756974727549
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3ee367b188cd440eac26f0f002f87427
+run_name: polite-gnu-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974725375
+status: 3
+tags: []
+user_id: root

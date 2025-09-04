@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ffd96f13869c4e48ade96334646f8ec0/artifacts
+end_time: 1756975411407
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ffd96f13869c4e48ade96334646f8ec0
+run_name: redolent-toad-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975403570
+status: 3
+tags: []
+user_id: root

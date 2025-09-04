@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/e24a260fa15c4fa8988543cfea6e0243/artifacts
+end_time: 1756890819440
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: e24a260fa15c4fa8988543cfea6e0243
+run_name: bold-kit-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756890496477
+status: 3
+tags: []
+user_id: root

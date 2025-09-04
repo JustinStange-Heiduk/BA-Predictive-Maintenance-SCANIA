@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2c2acfb69e9046d6af10e878dcfa75ea/artifacts
+end_time: 1756976246683
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2c2acfb69e9046d6af10e878dcfa75ea
+run_name: classy-finch-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976244614
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5339df91eb3d436ea881c6ceb2fcdd3e/artifacts
+end_time: 1756969965746
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5339df91eb3d436ea881c6ceb2fcdd3e
+run_name: wise-smelt-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969964408
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/fcf0f5620e4c4111802767d6fe30b9aa/artifacts
+end_time: 1756969608533
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: fcf0f5620e4c4111802767d6fe30b9aa
+run_name: capricious-gnat-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969607342
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5dd4bef644bf48a1bb7ca68f1012c653/artifacts
+end_time: 1756976117572
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5dd4bef644bf48a1bb7ca68f1012c653
+run_name: silent-cat-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976115488
+status: 3
+tags: []
+user_id: root

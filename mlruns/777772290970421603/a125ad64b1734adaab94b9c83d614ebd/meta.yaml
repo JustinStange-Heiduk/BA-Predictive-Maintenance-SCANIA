@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a125ad64b1734adaab94b9c83d614ebd/artifacts
+end_time: 1756969439183
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a125ad64b1734adaab94b9c83d614ebd
+run_name: lyrical-penguin-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969437046
+status: 3
+tags: []
+user_id: root

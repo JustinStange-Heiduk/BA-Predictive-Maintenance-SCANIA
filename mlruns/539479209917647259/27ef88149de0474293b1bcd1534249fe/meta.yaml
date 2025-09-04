@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/27ef88149de0474293b1bcd1534249fe/artifacts
+end_time: 1756974948994
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 27ef88149de0474293b1bcd1534249fe
+run_name: classy-bass-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974946179
+status: 3
+tags: []
+user_id: root

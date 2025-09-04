@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/646ebe8c4f6441f59d1f926c6846df8b/artifacts
+end_time: 1756887894539
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 646ebe8c4f6441f59d1f926c6846df8b
+run_name: charming-skink-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887718100
+status: 4
+tags: []
+user_id: root

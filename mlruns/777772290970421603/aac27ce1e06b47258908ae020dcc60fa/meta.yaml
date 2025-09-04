@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/aac27ce1e06b47258908ae020dcc60fa/artifacts
+end_time: 1756904820551
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: aac27ce1e06b47258908ae020dcc60fa
+run_name: melodic-dove-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756904807350
+status: 4
+tags: []
+user_id: root

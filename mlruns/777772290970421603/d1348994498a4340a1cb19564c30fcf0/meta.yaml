@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d1348994498a4340a1cb19564c30fcf0/artifacts
+end_time: 1756972622059
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d1348994498a4340a1cb19564c30fcf0
+run_name: hilarious-fox-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972615478
+status: 3
+tags: []
+user_id: root

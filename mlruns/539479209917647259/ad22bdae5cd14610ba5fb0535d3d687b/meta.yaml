@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ad22bdae5cd14610ba5fb0535d3d687b/artifacts
+end_time: 1756977430473
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ad22bdae5cd14610ba5fb0535d3d687b
+run_name: languid-duck-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977429041
+status: 3
+tags: []
+user_id: root

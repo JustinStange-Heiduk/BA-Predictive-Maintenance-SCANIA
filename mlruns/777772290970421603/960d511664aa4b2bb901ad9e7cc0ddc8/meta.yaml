@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/960d511664aa4b2bb901ad9e7cc0ddc8/artifacts
+end_time: 1756967772907
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 960d511664aa4b2bb901ad9e7cc0ddc8
+run_name: clumsy-pig-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967772525
+status: 4
+tags: []
+user_id: root

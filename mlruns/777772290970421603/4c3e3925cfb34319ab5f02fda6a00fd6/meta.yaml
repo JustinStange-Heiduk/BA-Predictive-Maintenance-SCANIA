@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/4c3e3925cfb34319ab5f02fda6a00fd6/artifacts
+end_time: 1756920550511
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 4c3e3925cfb34319ab5f02fda6a00fd6
+run_name: awesome-squirrel-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920065901
+status: 4
+tags: []
+user_id: root

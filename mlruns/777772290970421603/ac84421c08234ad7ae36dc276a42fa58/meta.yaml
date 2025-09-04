@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ac84421c08234ad7ae36dc276a42fa58/artifacts
+end_time: 1756967447195
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ac84421c08234ad7ae36dc276a42fa58
+run_name: melodic-roo-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967409573
+status: 3
+tags: []
+user_id: root

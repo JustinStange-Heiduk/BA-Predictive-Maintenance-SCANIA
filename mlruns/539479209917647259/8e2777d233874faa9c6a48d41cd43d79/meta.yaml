@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8e2777d233874faa9c6a48d41cd43d79/artifacts
+end_time: 1756978273077
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8e2777d233874faa9c6a48d41cd43d79
+run_name: gaudy-kite-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978271145
+status: 3
+tags: []
+user_id: root

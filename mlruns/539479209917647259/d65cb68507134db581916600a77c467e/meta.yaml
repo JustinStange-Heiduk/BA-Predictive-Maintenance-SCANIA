@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d65cb68507134db581916600a77c467e/artifacts
+end_time: 1756977677354
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d65cb68507134db581916600a77c467e
+run_name: legendary-conch-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977675285
+status: 3
+tags: []
+user_id: root

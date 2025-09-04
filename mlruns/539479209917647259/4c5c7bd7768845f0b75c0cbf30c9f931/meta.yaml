@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4c5c7bd7768845f0b75c0cbf30c9f931/artifacts
+end_time: 1756976929970
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4c5c7bd7768845f0b75c0cbf30c9f931
+run_name: inquisitive-asp-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976927833
+status: 3
+tags: []
+user_id: root

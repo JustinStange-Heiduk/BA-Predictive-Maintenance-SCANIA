@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/9c4b555858f7434894686bd00112c1af/artifacts
+end_time: 1756925764230
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 9c4b555858f7434894686bd00112c1af
+run_name: hilarious-grouse-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756925738988
+status: 4
+tags: []
+user_id: root

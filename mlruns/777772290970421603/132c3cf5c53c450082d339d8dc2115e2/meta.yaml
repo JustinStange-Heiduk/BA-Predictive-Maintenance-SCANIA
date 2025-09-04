@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/132c3cf5c53c450082d339d8dc2115e2/artifacts
+end_time: 1756969019799
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 132c3cf5c53c450082d339d8dc2115e2
+run_name: fortunate-cat-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969019141
+status: 3
+tags: []
+user_id: root

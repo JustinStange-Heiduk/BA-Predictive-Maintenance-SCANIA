@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/bce4e989ef0f4e448756b38ea49f53d9/artifacts
+end_time: 1756903306795
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: bce4e989ef0f4e448756b38ea49f53d9
+run_name: fortunate-crab-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903270879
+status: 3
+tags: []
+user_id: root

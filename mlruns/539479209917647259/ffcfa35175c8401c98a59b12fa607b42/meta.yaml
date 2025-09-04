@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ffcfa35175c8401c98a59b12fa607b42/artifacts
+end_time: 1756976548811
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ffcfa35175c8401c98a59b12fa607b42
+run_name: adorable-snipe-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976546691
+status: 3
+tags: []
+user_id: root

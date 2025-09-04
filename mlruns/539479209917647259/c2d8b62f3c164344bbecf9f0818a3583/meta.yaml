@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c2d8b62f3c164344bbecf9f0818a3583/artifacts
+end_time: 1756978204195
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c2d8b62f3c164344bbecf9f0818a3583
+run_name: able-ray-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978202400
+status: 3
+tags: []
+user_id: root

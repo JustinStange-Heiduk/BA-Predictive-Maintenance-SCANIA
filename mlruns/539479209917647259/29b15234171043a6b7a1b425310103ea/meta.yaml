@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/29b15234171043a6b7a1b425310103ea/artifacts
+end_time: 1756975286773
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 29b15234171043a6b7a1b425310103ea
+run_name: melodic-mule-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975285406
+status: 3
+tags: []
+user_id: root

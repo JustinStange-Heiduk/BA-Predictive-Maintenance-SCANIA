@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2dd5f9abda4e46849c8857e52da62e01/artifacts
+end_time: 1756977592683
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2dd5f9abda4e46849c8857e52da62e01
+run_name: brawny-cub-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977591251
+status: 3
+tags: []
+user_id: root

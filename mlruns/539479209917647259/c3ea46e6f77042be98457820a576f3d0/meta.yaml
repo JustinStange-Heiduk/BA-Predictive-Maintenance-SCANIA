@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c3ea46e6f77042be98457820a576f3d0/artifacts
+end_time: 1756975533410
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c3ea46e6f77042be98457820a576f3d0
+run_name: fearless-snail-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975531413
+status: 3
+tags: []
+user_id: root

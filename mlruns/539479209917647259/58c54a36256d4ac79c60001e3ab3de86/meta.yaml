@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/58c54a36256d4ac79c60001e3ab3de86/artifacts
+end_time: 1756976453010
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 58c54a36256d4ac79c60001e3ab3de86
+run_name: resilient-fawn-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976450980
+status: 3
+tags: []
+user_id: root

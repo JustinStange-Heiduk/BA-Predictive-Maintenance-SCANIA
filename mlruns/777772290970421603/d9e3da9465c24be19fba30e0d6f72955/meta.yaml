@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d9e3da9465c24be19fba30e0d6f72955/artifacts
+end_time: 1756971675446
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d9e3da9465c24be19fba30e0d6f72955
+run_name: dashing-slug-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971667290
+status: 3
+tags: []
+user_id: root

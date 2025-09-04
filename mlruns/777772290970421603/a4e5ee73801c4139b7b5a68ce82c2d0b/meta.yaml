@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a4e5ee73801c4139b7b5a68ce82c2d0b/artifacts
+end_time: 1756893236635
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a4e5ee73801c4139b7b5a68ce82c2d0b
+run_name: clean-grub-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756893184215
+status: 4
+tags: []
+user_id: root

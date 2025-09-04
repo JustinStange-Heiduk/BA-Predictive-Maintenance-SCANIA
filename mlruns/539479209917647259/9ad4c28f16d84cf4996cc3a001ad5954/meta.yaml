@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9ad4c28f16d84cf4996cc3a001ad5954/artifacts
+end_time: 1756977689068
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9ad4c28f16d84cf4996cc3a001ad5954
+run_name: hilarious-sow-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977687193
+status: 3
+tags: []
+user_id: root

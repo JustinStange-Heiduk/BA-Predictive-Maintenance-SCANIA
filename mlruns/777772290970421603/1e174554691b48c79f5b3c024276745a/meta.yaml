@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1e174554691b48c79f5b3c024276745a/artifacts
+end_time: 1756969597188
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1e174554691b48c79f5b3c024276745a
+run_name: adaptable-mouse-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969595220
+status: 3
+tags: []
+user_id: root

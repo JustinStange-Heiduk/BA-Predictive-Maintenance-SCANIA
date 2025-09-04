@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5b147744690041d19ca6f9291dee456b/artifacts
+end_time: 1756975943173
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5b147744690041d19ca6f9291dee456b
+run_name: calm-hog-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975936030
+status: 3
+tags: []
+user_id: root

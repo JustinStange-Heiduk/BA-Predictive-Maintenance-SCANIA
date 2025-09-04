@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/07c1ae598c914b3cba54ae80dc20b6fe/artifacts
+end_time: 1756902898755
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 07c1ae598c914b3cba54ae80dc20b6fe
+run_name: sneaky-fawn-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756902863987
+status: 3
+tags: []
+user_id: root

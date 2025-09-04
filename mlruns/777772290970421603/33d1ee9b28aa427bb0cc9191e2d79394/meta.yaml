@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/33d1ee9b28aa427bb0cc9191e2d79394/artifacts
+end_time: 1756969733988
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 33d1ee9b28aa427bb0cc9191e2d79394
+run_name: sneaky-koi-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969731775
+status: 3
+tags: []
+user_id: root

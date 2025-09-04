@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c7a2eec0b7b94a77959482f1994a399c/artifacts
+end_time: 1756975549229
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c7a2eec0b7b94a77959482f1994a399c
+run_name: indecisive-swan-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975547303
+status: 3
+tags: []
+user_id: root

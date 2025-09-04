@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/fa50e15fb0c8413c82daac79ed88afa7/artifacts
+end_time: 1756903342234
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: fa50e15fb0c8413c82daac79ed88afa7
+run_name: carefree-whale-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903307002
+status: 3
+tags: []
+user_id: root

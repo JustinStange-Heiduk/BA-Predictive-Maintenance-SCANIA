@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/4220fd886d1a48c782b3a49d1ca6f301/artifacts
+end_time: 1756912601802
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 4220fd886d1a48c782b3a49d1ca6f301
+run_name: languid-mink-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912589905
+status: 4
+tags: []
+user_id: root

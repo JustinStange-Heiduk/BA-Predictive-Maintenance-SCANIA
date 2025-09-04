@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8d128aa4f4ac49c8980d53325fc7bf55/artifacts
+end_time: 1756969785312
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8d128aa4f4ac49c8980d53325fc7bf55
+run_name: delightful-zebra-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969782344
+status: 3
+tags: []
+user_id: root

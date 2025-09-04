@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8b48c83982914e398c8a8e0d06ce524c/artifacts
+end_time: 1756974901269
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8b48c83982914e398c8a8e0d06ce524c
+run_name: gaudy-gull-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974898936
+status: 3
+tags: []
+user_id: root

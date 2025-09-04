@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/fc2a3ba9443c4752a0f46a239da91416/artifacts
+end_time: 1756969641753
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: fc2a3ba9443c4752a0f46a239da91416
+run_name: inquisitive-koi-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969641811
+status: 3
+tags: []
+user_id: root

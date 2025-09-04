@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/dedb863672104e20a89d15979a46e1d6/artifacts
+end_time: 1756968187041
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: dedb863672104e20a89d15979a46e1d6
+run_name: rumbling-wren-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968176320
+status: 4
+tags: []
+user_id: root

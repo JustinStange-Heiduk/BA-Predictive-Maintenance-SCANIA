@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/483bee8ecb1346408464bb0d0313007c/artifacts
+end_time: 1756978208976
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 483bee8ecb1346408464bb0d0313007c
+run_name: delicate-goat-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978206977
+status: 3
+tags: []
+user_id: root

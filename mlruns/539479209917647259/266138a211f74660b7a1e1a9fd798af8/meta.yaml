@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/266138a211f74660b7a1e1a9fd798af8/artifacts
+end_time: 1756975713028
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 266138a211f74660b7a1e1a9fd798af8
+run_name: loud-worm-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975711020
+status: 3
+tags: []
+user_id: root

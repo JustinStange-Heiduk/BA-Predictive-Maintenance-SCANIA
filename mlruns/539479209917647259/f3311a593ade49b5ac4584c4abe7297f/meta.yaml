@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f3311a593ade49b5ac4584c4abe7297f/artifacts
+end_time: 1756975614861
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f3311a593ade49b5ac4584c4abe7297f
+run_name: unruly-chimp-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975612752
+status: 3
+tags: []
+user_id: root

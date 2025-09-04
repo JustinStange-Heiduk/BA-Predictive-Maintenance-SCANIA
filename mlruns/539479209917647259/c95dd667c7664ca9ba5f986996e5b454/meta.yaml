@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c95dd667c7664ca9ba5f986996e5b454/artifacts
+end_time: 1756977301896
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c95dd667c7664ca9ba5f986996e5b454
+run_name: skillful-roo-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977299670
+status: 3
+tags: []
+user_id: root

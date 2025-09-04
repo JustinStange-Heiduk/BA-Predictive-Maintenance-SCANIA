@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/61814f75f88b42e49190e9d1a7485a47/artifacts
+end_time: 1756976337252
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 61814f75f88b42e49190e9d1a7485a47
+run_name: ambitious-finch-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976335245
+status: 3
+tags: []
+user_id: root

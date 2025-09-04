@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7c3c971b84b041cfb1cc0cad5f990852/artifacts
+end_time: 1756977989400
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7c3c971b84b041cfb1cc0cad5f990852
+run_name: kindly-ant-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977987617
+status: 3
+tags: []
+user_id: root

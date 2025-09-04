@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0f0f995ed5d644d2a9dba1d3806f09e8/artifacts
+end_time: 1756903270675
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0f0f995ed5d644d2a9dba1d3806f09e8
+run_name: persistent-fish-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903237602
+status: 3
+tags: []
+user_id: root

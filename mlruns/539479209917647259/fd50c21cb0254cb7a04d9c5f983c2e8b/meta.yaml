@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/fd50c21cb0254cb7a04d9c5f983c2e8b/artifacts
+end_time: 1756976047547
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: fd50c21cb0254cb7a04d9c5f983c2e8b
+run_name: overjoyed-hog-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976045462
+status: 3
+tags: []
+user_id: root

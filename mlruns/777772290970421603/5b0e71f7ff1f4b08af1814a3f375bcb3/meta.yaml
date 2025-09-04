@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5b0e71f7ff1f4b08af1814a3f375bcb3/artifacts
+end_time: 1756968959507
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5b0e71f7ff1f4b08af1814a3f375bcb3
+run_name: victorious-fox-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968956841
+status: 3
+tags: []
+user_id: root

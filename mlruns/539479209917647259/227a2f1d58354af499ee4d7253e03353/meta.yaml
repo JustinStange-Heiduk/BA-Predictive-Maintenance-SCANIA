@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/227a2f1d58354af499ee4d7253e03353/artifacts
+end_time: 1756975348795
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 227a2f1d58354af499ee4d7253e03353
+run_name: aged-rook-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975346858
+status: 3
+tags: []
+user_id: root

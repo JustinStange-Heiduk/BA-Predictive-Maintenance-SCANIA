@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7eefdfc9debd47f897facf2884a302e2/artifacts
+end_time: 1756970564389
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7eefdfc9debd47f897facf2884a302e2
+run_name: spiffy-doe-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970555341
+status: 3
+tags: []
+user_id: root

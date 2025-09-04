@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0d3cc28a03ba43b2afe4ae6733374832/artifacts
+end_time: 1756976313234
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0d3cc28a03ba43b2afe4ae6733374832
+run_name: rumbling-crab-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976311279
+status: 3
+tags: []
+user_id: root

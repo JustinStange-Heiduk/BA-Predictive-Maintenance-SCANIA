@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/abe358cc41dc49368f2f391b492da2f0/artifacts
+end_time: 1756975172791
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: abe358cc41dc49368f2f391b492da2f0
+run_name: unruly-bat-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975170594
+status: 3
+tags: []
+user_id: root

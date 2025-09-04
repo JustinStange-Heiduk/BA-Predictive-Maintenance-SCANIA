@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d8358248acdf474c85e863d4aff82592/artifacts
+end_time: 1756907651847
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d8358248acdf474c85e863d4aff82592
+run_name: judicious-flea-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756907618869
+status: 4
+tags: []
+user_id: root

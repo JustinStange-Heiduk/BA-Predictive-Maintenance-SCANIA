@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/53e1a13d76ce4adbbb5616e18e271505/artifacts
+end_time: 1756925803625
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 53e1a13d76ce4adbbb5616e18e271505
+run_name: crawling-owl-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756925764478
+status: 4
+tags: []
+user_id: root

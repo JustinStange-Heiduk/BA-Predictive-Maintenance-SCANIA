@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/dd5fb842b4254851a5876b0d4f13f581/artifacts
+end_time: 1756975180379
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: dd5fb842b4254851a5876b0d4f13f581
+run_name: treasured-carp-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975178853
+status: 3
+tags: []
+user_id: root

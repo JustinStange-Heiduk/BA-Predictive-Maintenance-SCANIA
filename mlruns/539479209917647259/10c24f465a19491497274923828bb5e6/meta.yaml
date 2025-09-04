@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/10c24f465a19491497274923828bb5e6/artifacts
+end_time: 1756975415801
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 10c24f465a19491497274923828bb5e6
+run_name: aged-fish-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975414048
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f7a8db2bc58a4cdcadc458d9f219ea64/artifacts
+end_time: 1756975989799
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f7a8db2bc58a4cdcadc458d9f219ea64
+run_name: likeable-ant-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975987903
+status: 3
+tags: []
+user_id: root

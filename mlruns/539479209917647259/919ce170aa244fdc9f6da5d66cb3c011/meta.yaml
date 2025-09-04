@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/919ce170aa244fdc9f6da5d66cb3c011/artifacts
+end_time: 1756978162810
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 919ce170aa244fdc9f6da5d66cb3c011
+run_name: casual-snail-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978160751
+status: 3
+tags: []
+user_id: root

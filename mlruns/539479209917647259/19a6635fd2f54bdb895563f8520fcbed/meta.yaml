@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/19a6635fd2f54bdb895563f8520fcbed/artifacts
+end_time: 1756977174312
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 19a6635fd2f54bdb895563f8520fcbed
+run_name: bold-koi-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977172206
+status: 3
+tags: []
+user_id: root

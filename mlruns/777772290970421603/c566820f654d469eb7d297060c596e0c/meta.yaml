@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c566820f654d469eb7d297060c596e0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c566820f654d469eb7d297060c596e0c
+run_name: charming-fox-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756926469686
+status: 1
+tags: []
+user_id: root

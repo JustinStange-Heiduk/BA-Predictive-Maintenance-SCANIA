@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1699fd8682d3435197a00f1ea5618228/artifacts
+end_time: 1756970020229
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1699fd8682d3435197a00f1ea5618228
+run_name: melodic-grouse-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970014676
+status: 3
+tags: []
+user_id: root

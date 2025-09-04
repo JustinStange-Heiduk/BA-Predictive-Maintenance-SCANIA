@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/82a35b4a59c041018cd8834ac5d3dc19/artifacts
+end_time: 1756972750960
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 82a35b4a59c041018cd8834ac5d3dc19
+run_name: gaudy-slug-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972740677
+status: 3
+tags: []
+user_id: root

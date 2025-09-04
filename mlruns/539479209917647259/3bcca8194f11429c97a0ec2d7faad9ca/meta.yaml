@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3bcca8194f11429c97a0ec2d7faad9ca/artifacts
+end_time: 1756974482419
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3bcca8194f11429c97a0ec2d7faad9ca
+run_name: gifted-goose-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974480646
+status: 3
+tags: []
+user_id: root

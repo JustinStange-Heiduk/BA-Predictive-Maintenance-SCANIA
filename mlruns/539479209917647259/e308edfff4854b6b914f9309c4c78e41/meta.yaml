@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e308edfff4854b6b914f9309c4c78e41/artifacts
+end_time: 1756977102786
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e308edfff4854b6b914f9309c4c78e41
+run_name: stylish-bug-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977100665
+status: 3
+tags: []
+user_id: root

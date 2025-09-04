@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/37ea6b1d6d3a4221ae1af6000a71741b/artifacts
+end_time: 1756975273884
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 37ea6b1d6d3a4221ae1af6000a71741b
+run_name: sassy-hound-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975272475
+status: 3
+tags: []
+user_id: root

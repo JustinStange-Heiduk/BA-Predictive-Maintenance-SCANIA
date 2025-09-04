@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/70490f3fd95e4f49890f9ac0ad7f0f23/artifacts
+end_time: 1756904807141
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 70490f3fd95e4f49890f9ac0ad7f0f23
+run_name: whimsical-sloth-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756904790506
+status: 4
+tags: []
+user_id: root

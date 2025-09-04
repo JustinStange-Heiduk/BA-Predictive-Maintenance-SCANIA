@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/542c8a9add11481f98d75c1a934b03e7/artifacts
+end_time: 1756970480495
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 542c8a9add11481f98d75c1a934b03e7
+run_name: carefree-mink-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970471312
+status: 3
+tags: []
+user_id: root

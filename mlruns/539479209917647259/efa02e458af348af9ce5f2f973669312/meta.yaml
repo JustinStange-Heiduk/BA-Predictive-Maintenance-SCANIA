@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/efa02e458af348af9ce5f2f973669312/artifacts
+end_time: 1756977684958
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: efa02e458af348af9ce5f2f973669312
+run_name: big-shrike-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977683183
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/469d9d599ba346db9de5d6e8271118bd/artifacts
+end_time: 1756977898595
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 469d9d599ba346db9de5d6e8271118bd
+run_name: capable-bat-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977897145
+status: 3
+tags: []
+user_id: root

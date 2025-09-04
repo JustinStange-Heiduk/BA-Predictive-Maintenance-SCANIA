@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6433373b7fd14409a23406e645309317/artifacts
+end_time: 1756976937072
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6433373b7fd14409a23406e645309317
+run_name: bright-calf-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976935017
+status: 3
+tags: []
+user_id: root

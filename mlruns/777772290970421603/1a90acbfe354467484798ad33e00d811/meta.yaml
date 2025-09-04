@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1a90acbfe354467484798ad33e00d811/artifacts
+end_time: 1756910524229
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1a90acbfe354467484798ad33e00d811
+run_name: respected-cow-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756910520680
+status: 4
+tags: []
+user_id: root

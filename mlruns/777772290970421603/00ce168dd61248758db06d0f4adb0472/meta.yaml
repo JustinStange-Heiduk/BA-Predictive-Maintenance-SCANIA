@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/00ce168dd61248758db06d0f4adb0472/artifacts
+end_time: 1756969422562
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 00ce168dd61248758db06d0f4adb0472
+run_name: thundering-croc-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969419795
+status: 3
+tags: []
+user_id: root

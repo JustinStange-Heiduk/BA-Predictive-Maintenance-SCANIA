@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9d98bcac4fb34fba860fed88f3198476/artifacts
+end_time: 1756974874265
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9d98bcac4fb34fba860fed88f3198476
+run_name: glamorous-rook-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974868348
+status: 3
+tags: []
+user_id: root

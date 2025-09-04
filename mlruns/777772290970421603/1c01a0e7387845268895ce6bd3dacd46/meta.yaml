@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1c01a0e7387845268895ce6bd3dacd46/artifacts
+end_time: 1756925270558
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1c01a0e7387845268895ce6bd3dacd46
+run_name: polite-dog-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756924233216
+status: 3
+tags: []
+user_id: root

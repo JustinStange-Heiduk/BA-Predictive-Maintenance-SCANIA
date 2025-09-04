@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ca90646cc0ee4b1bb7377df8652b1a84/artifacts
+end_time: 1756969417251
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ca90646cc0ee4b1bb7377df8652b1a84
+run_name: upbeat-kit-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969415834
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bdd599fc596b484aa99d6e2c5dc5cc86/artifacts
+end_time: 1756976010991
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bdd599fc596b484aa99d6e2c5dc5cc86
+run_name: tasteful-pug-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976009266
+status: 3
+tags: []
+user_id: root

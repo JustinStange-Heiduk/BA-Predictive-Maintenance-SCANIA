@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d4a68f820a60428c95092c6e5f3dafb6/artifacts
+end_time: 1756969598704
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d4a68f820a60428c95092c6e5f3dafb6
+run_name: exultant-toad-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969597357
+status: 3
+tags: []
+user_id: root

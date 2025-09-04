@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2b5428a95b134f658de4e8c375b49a8c/artifacts
+end_time: 1756893183999
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2b5428a95b134f658de4e8c375b49a8c
+run_name: victorious-cat-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756892856308
+status: 3
+tags: []
+user_id: root

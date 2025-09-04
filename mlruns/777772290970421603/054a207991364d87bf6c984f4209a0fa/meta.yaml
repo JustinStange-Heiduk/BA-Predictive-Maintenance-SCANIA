@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/054a207991364d87bf6c984f4209a0fa/artifacts
+end_time: 1756920766454
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 054a207991364d87bf6c984f4209a0fa
+run_name: amazing-ox-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920748924
+status: 4
+tags: []
+user_id: root

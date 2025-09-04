@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5424a9d78dcb4735b139e80c70c0941b/artifacts
+end_time: 1756976839751
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5424a9d78dcb4735b139e80c70c0941b
+run_name: amusing-owl-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976837846
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/625949107f9c4d07bbb2f2a7e727faf0/artifacts
+end_time: 1756975869629
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 625949107f9c4d07bbb2f2a7e727faf0
+run_name: omniscient-finch-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975867521
+status: 3
+tags: []
+user_id: root

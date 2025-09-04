@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/698b801665bd45759c72b1a9a4459b9c/artifacts
+end_time: 1756976761540
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 698b801665bd45759c72b1a9a4459b9c
+run_name: useful-foal-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976733750
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/51757c6d16be4dc1a3c5c0cce022fd1b/artifacts
+end_time: 1756973045354
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 51757c6d16be4dc1a3c5c0cce022fd1b
+run_name: overjoyed-foal-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973036178
+status: 3
+tags: []
+user_id: root

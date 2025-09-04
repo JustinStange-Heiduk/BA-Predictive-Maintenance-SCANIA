@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8d1de5b7851e4ee6ab28c1fddf1a66fc/artifacts
+end_time: 1756910636583
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8d1de5b7851e4ee6ab28c1fddf1a66fc
+run_name: invincible-ram-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756910636088
+status: 4
+tags: []
+user_id: root

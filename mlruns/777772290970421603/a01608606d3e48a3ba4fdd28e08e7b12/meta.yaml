@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a01608606d3e48a3ba4fdd28e08e7b12/artifacts
+end_time: 1756970418074
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a01608606d3e48a3ba4fdd28e08e7b12
+run_name: worried-koi-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970404715
+status: 3
+tags: []
+user_id: root

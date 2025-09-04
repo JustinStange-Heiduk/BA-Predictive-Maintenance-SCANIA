@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/9ba96d91263342d2b98dd7efe72a29e0/artifacts
+end_time: 1756969696711
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 9ba96d91263342d2b98dd7efe72a29e0
+run_name: wistful-bug-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969696814
+status: 3
+tags: []
+user_id: root

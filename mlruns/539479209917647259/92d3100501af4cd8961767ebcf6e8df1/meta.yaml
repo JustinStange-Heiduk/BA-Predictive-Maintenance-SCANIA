@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/92d3100501af4cd8961767ebcf6e8df1/artifacts
+end_time: 1756976450760
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 92d3100501af4cd8961767ebcf6e8df1
+run_name: flawless-seal-774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976448765
+status: 3
+tags: []
+user_id: root

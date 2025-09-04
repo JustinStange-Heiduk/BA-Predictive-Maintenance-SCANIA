@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/13d33a2441e044e2850360b800d0f4fd/artifacts
+end_time: 1756976724065
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 13d33a2441e044e2850360b800d0f4fd
+run_name: fortunate-sow-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976722128
+status: 3
+tags: []
+user_id: root

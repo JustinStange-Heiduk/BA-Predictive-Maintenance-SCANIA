@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1da1f582f0c149278b3f5155b3d3d37b/artifacts
+end_time: 1756969442910
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1da1f582f0c149278b3f5155b3d3d37b
+run_name: casual-ant-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969440756
+status: 3
+tags: []
+user_id: root

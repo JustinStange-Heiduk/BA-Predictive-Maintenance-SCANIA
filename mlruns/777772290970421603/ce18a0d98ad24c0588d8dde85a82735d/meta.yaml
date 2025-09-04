@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ce18a0d98ad24c0588d8dde85a82735d/artifacts
+end_time: 1756908276585
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ce18a0d98ad24c0588d8dde85a82735d
+run_name: angry-ape-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756908245918
+status: 4
+tags: []
+user_id: root

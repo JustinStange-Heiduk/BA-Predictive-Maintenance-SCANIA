@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/46bd131c2f3c4a8c9d2579b88c7dccd0/artifacts
+end_time: 1756912248031
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 46bd131c2f3c4a8c9d2579b88c7dccd0
+run_name: clumsy-bass-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912217613
+status: 3
+tags: []
+user_id: root

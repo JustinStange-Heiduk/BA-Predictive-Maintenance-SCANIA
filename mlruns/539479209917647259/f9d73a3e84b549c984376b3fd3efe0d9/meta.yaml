@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f9d73a3e84b549c984376b3fd3efe0d9/artifacts
+end_time: 1756975270216
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f9d73a3e84b549c984376b3fd3efe0d9
+run_name: angry-deer-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975268338
+status: 3
+tags: []
+user_id: root

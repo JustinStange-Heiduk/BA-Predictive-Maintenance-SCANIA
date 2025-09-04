@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6582e85f32ca424ab9e3e3731ceeaddd/artifacts
+end_time: 1756968973253
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6582e85f32ca424ab9e3e3731ceeaddd
+run_name: exultant-stoat-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968970577
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9723f4b61f914c9f9d23f0bff1c3a924/artifacts
+end_time: 1756976094056
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9723f4b61f914c9f9d23f0bff1c3a924
+run_name: exultant-auk-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976091220
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ea20aba801bf46e7a4190d5bd223d1e6/artifacts
+end_time: 1756975239326
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ea20aba801bf46e7a4190d5bd223d1e6
+run_name: amazing-shrew-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975239944
+status: 3
+tags: []
+user_id: root

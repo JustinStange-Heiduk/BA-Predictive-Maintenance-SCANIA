@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/264cf2d13cae488db15617a5ac17f651/artifacts
+end_time: 1756977667104
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 264cf2d13cae488db15617a5ac17f651
+run_name: secretive-eel-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977664983
+status: 3
+tags: []
+user_id: root

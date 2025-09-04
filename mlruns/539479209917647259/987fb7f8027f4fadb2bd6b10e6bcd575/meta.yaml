@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/987fb7f8027f4fadb2bd6b10e6bcd575/artifacts
+end_time: 1756975317304
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 987fb7f8027f4fadb2bd6b10e6bcd575
+run_name: thundering-tern-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975288540
+status: 3
+tags: []
+user_id: root

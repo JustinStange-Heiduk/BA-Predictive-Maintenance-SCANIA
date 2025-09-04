@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/000e09df0be54610b5d3c4f90c8a9191/artifacts
+end_time: 1756974988434
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 000e09df0be54610b5d3c4f90c8a9191
+run_name: unleashed-pig-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974984250
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d9f159479dda4629a7c757d5406b3cc8/artifacts
+end_time: 1756911993412
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d9f159479dda4629a7c757d5406b3cc8
+run_name: sassy-sheep-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911980508
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/eacf5f3185b543dbbcabba8a78bb64a0/artifacts
+end_time: 1756975553704
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: eacf5f3185b543dbbcabba8a78bb64a0
+run_name: rumbling-smelt-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975551567
+status: 3
+tags: []
+user_id: root

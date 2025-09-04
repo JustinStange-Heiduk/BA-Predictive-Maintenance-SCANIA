@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6004ac4254a94b1a92a82eaa863f7f70/artifacts
+end_time: 1756975640762
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6004ac4254a94b1a92a82eaa863f7f70
+run_name: glamorous-midge-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975638742
+status: 3
+tags: []
+user_id: root

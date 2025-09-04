@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/88a8837243b847199553a1a64b38aa61/artifacts
+end_time: 1756910928152
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 88a8837243b847199553a1a64b38aa61
+run_name: capable-shrew-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756910896553
+status: 3
+tags: []
+user_id: root

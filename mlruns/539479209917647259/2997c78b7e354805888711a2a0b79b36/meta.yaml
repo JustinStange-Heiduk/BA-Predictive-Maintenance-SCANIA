@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2997c78b7e354805888711a2a0b79b36/artifacts
+end_time: 1756975258926
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2997c78b7e354805888711a2a0b79b36
+run_name: treasured-shark-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975257554
+status: 3
+tags: []
+user_id: root

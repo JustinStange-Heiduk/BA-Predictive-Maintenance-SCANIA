@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cf6612cb6cfb4ab4a1a2d1dfcb9bda02/artifacts
+end_time: 1756975143652
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cf6612cb6cfb4ab4a1a2d1dfcb9bda02
+run_name: powerful-chimp-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975141685
+status: 3
+tags: []
+user_id: root

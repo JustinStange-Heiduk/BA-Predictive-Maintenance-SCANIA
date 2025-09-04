@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d81bc97ca0aa447a99fda59efa3dc9f3/artifacts
+end_time: 1756977100444
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d81bc97ca0aa447a99fda59efa3dc9f3
+run_name: intrigued-colt-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977098491
+status: 3
+tags: []
+user_id: root

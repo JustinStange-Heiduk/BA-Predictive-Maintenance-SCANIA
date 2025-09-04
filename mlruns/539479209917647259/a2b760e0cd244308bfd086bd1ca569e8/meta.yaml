@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a2b760e0cd244308bfd086bd1ca569e8/artifacts
+end_time: 1756975187295
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a2b760e0cd244308bfd086bd1ca569e8
+run_name: powerful-swan-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975185951
+status: 3
+tags: []
+user_id: root

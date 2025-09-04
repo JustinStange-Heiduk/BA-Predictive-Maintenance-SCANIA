@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7dd2afd71e694334b473d4d67fcdb248/artifacts
+end_time: 1756977592934
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7dd2afd71e694334b473d4d67fcdb248
+run_name: adorable-trout-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977590985
+status: 3
+tags: []
+user_id: root

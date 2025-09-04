@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/aedfa9a38aa44b34b0f9043dabbda8f8/artifacts
+end_time: 1756972593663
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: aedfa9a38aa44b34b0f9043dabbda8f8
+run_name: sassy-panda-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972582761
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/62f782964f684424a24a625c182596cb/artifacts
+end_time: 1756976652258
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 62f782964f684424a24a625c182596cb
+run_name: thundering-koi-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976650365
+status: 3
+tags: []
+user_id: root

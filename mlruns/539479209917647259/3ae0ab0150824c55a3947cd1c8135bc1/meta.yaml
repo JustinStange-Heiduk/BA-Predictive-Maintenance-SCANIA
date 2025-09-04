@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3ae0ab0150824c55a3947cd1c8135bc1/artifacts
+end_time: 1756975209559
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3ae0ab0150824c55a3947cd1c8135bc1
+run_name: righteous-mouse-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975207465
+status: 3
+tags: []
+user_id: root

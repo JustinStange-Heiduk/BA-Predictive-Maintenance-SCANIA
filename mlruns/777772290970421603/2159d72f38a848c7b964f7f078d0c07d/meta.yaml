@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2159d72f38a848c7b964f7f078d0c07d/artifacts
+end_time: 1756905661382
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2159d72f38a848c7b964f7f078d0c07d
+run_name: sincere-seal-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756905641187
+status: 4
+tags: []
+user_id: root

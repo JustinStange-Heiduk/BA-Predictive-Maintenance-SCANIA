@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4ea378b08ab04411a450d6b76ab8f7bb/artifacts
+end_time: 1756977079355
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4ea378b08ab04411a450d6b76ab8f7bb
+run_name: debonair-grouse-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977077180
+status: 3
+tags: []
+user_id: root

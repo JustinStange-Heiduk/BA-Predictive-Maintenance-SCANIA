@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1a4796fa31dc4dd5b4ad1d2ebb6dd9b4/artifacts
+end_time: 1756969951613
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1a4796fa31dc4dd5b4ad1d2ebb6dd9b4
+run_name: vaunted-asp-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969950266
+status: 3
+tags: []
+user_id: root

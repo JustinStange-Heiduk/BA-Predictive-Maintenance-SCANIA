@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/574d2d2c21ef4f24a5e0acf5ffa9f0cf/artifacts
+end_time: 1756976646169
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 574d2d2c21ef4f24a5e0acf5ffa9f0cf
+run_name: angry-cub-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976644155
+status: 3
+tags: []
+user_id: root

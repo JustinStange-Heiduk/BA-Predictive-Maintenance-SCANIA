@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/152e4016815246ada37630213266cc12/artifacts
+end_time: 1756977731951
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 152e4016815246ada37630213266cc12
+run_name: unleashed-toad-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977729774
+status: 3
+tags: []
+user_id: root

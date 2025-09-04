@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/468a073969ca4721ac3e0b3fdaf8fe9d/artifacts
+end_time: 1756976590908
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 468a073969ca4721ac3e0b3fdaf8fe9d
+run_name: rebellious-slug-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976588858
+status: 3
+tags: []
+user_id: root

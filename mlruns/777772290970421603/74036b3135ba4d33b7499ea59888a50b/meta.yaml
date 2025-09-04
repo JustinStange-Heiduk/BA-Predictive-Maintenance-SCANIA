@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/74036b3135ba4d33b7499ea59888a50b/artifacts
+end_time: 1756901518170
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 74036b3135ba4d33b7499ea59888a50b
+run_name: treasured-shrike-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756901184683
+status: 3
+tags: []
+user_id: root

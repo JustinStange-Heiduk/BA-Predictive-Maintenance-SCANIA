@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/b29aa2f861404125acae48dbe12ac163/artifacts
+end_time: 1756970391495
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: b29aa2f861404125acae48dbe12ac163
+run_name: efficient-snipe-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970383444
+status: 3
+tags: []
+user_id: root

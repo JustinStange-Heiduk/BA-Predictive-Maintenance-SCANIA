@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7afc9ae478b749f3983e3a51a8ac7983/artifacts
+end_time: 1756976830734
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7afc9ae478b749f3983e3a51a8ac7983
+run_name: rare-bee-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976828570
+status: 3
+tags: []
+user_id: root

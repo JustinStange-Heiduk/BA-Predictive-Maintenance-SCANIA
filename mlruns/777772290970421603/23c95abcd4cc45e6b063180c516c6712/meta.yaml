@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/23c95abcd4cc45e6b063180c516c6712/artifacts
+end_time: 1756972519680
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 23c95abcd4cc45e6b063180c516c6712
+run_name: valuable-swan-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972511262
+status: 3
+tags: []
+user_id: root

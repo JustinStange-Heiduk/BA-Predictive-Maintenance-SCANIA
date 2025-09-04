@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2a541eb09e644fa3a009f13a0dd3ea74/artifacts
+end_time: 1756976425612
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2a541eb09e644fa3a009f13a0dd3ea74
+run_name: classy-crane-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976423568
+status: 3
+tags: []
+user_id: root

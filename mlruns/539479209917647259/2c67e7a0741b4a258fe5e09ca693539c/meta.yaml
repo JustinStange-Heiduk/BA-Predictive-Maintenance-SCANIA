@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2c67e7a0741b4a258fe5e09ca693539c/artifacts
+end_time: 1756974819147
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2c67e7a0741b4a258fe5e09ca693539c
+run_name: casual-lynx-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974812575
+status: 3
+tags: []
+user_id: root

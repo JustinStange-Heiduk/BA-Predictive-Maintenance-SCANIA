@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/207e4dcf9fa549cb960c58c89312211f/artifacts
+end_time: 1756913064813
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 207e4dcf9fa549cb960c58c89312211f
+run_name: delightful-ant-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913051596
+status: 4
+tags: []
+user_id: root

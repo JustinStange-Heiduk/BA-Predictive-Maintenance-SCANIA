@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/be4524787a6d449b86c0dcf372ae6f8d/artifacts
+end_time: 1756967273100
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: be4524787a6d449b86c0dcf372ae6f8d
+run_name: aged-shrew-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967262116
+status: 4
+tags: []
+user_id: root

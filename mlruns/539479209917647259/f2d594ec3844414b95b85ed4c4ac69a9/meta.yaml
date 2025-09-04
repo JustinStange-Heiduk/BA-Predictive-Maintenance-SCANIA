@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f2d594ec3844414b95b85ed4c4ac69a9/artifacts
+end_time: 1756974890479
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f2d594ec3844414b95b85ed4c4ac69a9
+run_name: tasteful-koi-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974888718
+status: 3
+tags: []
+user_id: root

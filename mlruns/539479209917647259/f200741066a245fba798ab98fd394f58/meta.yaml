@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f200741066a245fba798ab98fd394f58/artifacts
+end_time: 1756978380057
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f200741066a245fba798ab98fd394f58
+run_name: whimsical-stoat-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978378124
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ec3e6a06cf7a490e9cbf8567fc8298ff/artifacts
+end_time: 1756976781043
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ec3e6a06cf7a490e9cbf8567fc8298ff
+run_name: worried-kite-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976778910
+status: 3
+tags: []
+user_id: root

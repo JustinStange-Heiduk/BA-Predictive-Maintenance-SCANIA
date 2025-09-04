@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4613e805617443fc850bd0f3c6f276cf/artifacts
+end_time: 1756975145910
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4613e805617443fc850bd0f3c6f276cf
+run_name: thundering-bee-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975143852
+status: 3
+tags: []
+user_id: root

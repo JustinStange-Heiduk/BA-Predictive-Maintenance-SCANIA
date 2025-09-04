@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8bb6a09935a84f428610c40596ad3550/artifacts
+end_time: 1756977996058
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8bb6a09935a84f428610c40596ad3550
+run_name: exultant-duck-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977994714
+status: 3
+tags: []
+user_id: root

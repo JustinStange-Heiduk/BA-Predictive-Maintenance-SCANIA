@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0b0671e8bd104db9be3c6908aed9aaaf/artifacts
+end_time: 1756975384491
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0b0671e8bd104db9be3c6908aed9aaaf
+run_name: brawny-owl-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975382814
+status: 3
+tags: []
+user_id: root

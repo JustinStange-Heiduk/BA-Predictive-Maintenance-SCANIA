@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3074f8a017e14221b539b883868d7775/artifacts
+end_time: 1756971853560
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3074f8a017e14221b539b883868d7775
+run_name: stately-ape-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971850961
+status: 3
+tags: []
+user_id: root

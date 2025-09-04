@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b3acdeb9d1b64de5ad04a1abdf6c714b/artifacts
+end_time: 1756977680803
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b3acdeb9d1b64de5ad04a1abdf6c714b
+run_name: whimsical-skunk-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977679215
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d37420c6113e4c828b7614374a443762/artifacts
+end_time: 1756977744039
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d37420c6113e4c828b7614374a443762
+run_name: abrasive-kit-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977742028
+status: 3
+tags: []
+user_id: root

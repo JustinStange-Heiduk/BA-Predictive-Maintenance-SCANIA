@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/34842eca5eca45e1bbbba0c11a1b0bea/artifacts
+end_time: 1756902187045
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 34842eca5eca45e1bbbba0c11a1b0bea
+run_name: abrasive-swan-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756902165130
+status: 4
+tags: []
+user_id: root

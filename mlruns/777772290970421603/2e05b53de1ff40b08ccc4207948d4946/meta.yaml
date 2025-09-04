@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2e05b53de1ff40b08ccc4207948d4946/artifacts
+end_time: 1756916435662
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2e05b53de1ff40b08ccc4207948d4946
+run_name: tasteful-loon-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756916372937
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e3b8e03aeb37400798e0a415a7c97a79/artifacts
+end_time: 1756977486321
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e3b8e03aeb37400798e0a415a7c97a79
+run_name: salty-crane-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977484910
+status: 3
+tags: []
+user_id: root

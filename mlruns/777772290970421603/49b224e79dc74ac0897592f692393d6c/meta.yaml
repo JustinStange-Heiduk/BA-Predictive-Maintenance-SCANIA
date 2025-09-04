@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/49b224e79dc74ac0897592f692393d6c/artifacts
+end_time: 1756926088055
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 49b224e79dc74ac0897592f692393d6c
+run_name: blushing-shrike-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756926058026
+status: 4
+tags: []
+user_id: root

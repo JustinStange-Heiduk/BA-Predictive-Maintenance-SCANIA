@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bf6f0019c6444e82b4ba72a1f9167275/artifacts
+end_time: 1756976967422
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bf6f0019c6444e82b4ba72a1f9167275
+run_name: loud-conch-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976965292
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/799b48070d5c4c63b158747e307ddc70/artifacts
+end_time: 1756975008799
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 799b48070d5c4c63b158747e307ddc70
+run_name: adorable-mare-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975002750
+status: 3
+tags: []
+user_id: root

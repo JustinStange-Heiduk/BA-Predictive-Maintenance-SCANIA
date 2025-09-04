@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e6440d01a1d949ffb27bf608c8b63370/artifacts
+end_time: 1756976411648
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e6440d01a1d949ffb27bf608c8b63370
+run_name: resilient-crab-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976409427
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c410c07a9271473c8a2ce3af06be418f/artifacts
+end_time: 1756920936170
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c410c07a9271473c8a2ce3af06be418f
+run_name: merciful-whale-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920917355
+status: 4
+tags: []
+user_id: root

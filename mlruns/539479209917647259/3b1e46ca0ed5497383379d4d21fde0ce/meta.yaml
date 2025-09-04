@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3b1e46ca0ed5497383379d4d21fde0ce/artifacts
+end_time: 1756977204344
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3b1e46ca0ed5497383379d4d21fde0ce
+run_name: popular-kit-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977202998
+status: 3
+tags: []
+user_id: root

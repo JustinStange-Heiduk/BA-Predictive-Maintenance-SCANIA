@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/41d4f3420fe94f12bfded2de66950188/artifacts
+end_time: 1756975015506
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 41d4f3420fe94f12bfded2de66950188
+run_name: marvelous-turtle-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975016514
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/98cbaa0a52a848289b991e6e969f8b8a/artifacts
+end_time: 1756970083604
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 98cbaa0a52a848289b991e6e969f8b8a
+run_name: dazzling-shrimp-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970075947
+status: 3
+tags: []
+user_id: root

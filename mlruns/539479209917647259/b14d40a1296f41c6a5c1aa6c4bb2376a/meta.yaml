@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b14d40a1296f41c6a5c1aa6c4bb2376a/artifacts
+end_time: 1756976961006
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b14d40a1296f41c6a5c1aa6c4bb2376a
+run_name: grandiose-shrike-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976958968
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/93faeca17acf489f8e6df3df99ec094d/artifacts
+end_time: 1756910635882
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 93faeca17acf489f8e6df3df99ec094d
+run_name: bustling-shad-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756910614621
+status: 4
+tags: []
+user_id: root

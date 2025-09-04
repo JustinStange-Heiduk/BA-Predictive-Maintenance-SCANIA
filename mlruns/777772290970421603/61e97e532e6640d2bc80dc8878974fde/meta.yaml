@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/61e97e532e6640d2bc80dc8878974fde/artifacts
+end_time: 1756923391228
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 61e97e532e6640d2bc80dc8878974fde
+run_name: clumsy-snipe-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756923369438
+status: 4
+tags: []
+user_id: root

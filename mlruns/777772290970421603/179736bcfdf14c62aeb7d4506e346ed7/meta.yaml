@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/179736bcfdf14c62aeb7d4506e346ed7/artifacts
+end_time: 1756909242758
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 179736bcfdf14c62aeb7d4506e346ed7
+run_name: languid-bird-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909237775
+status: 4
+tags: []
+user_id: root

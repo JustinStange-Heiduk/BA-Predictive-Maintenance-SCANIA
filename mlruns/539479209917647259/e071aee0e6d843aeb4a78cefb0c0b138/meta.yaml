@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e071aee0e6d843aeb4a78cefb0c0b138/artifacts
+end_time: 1756976242162
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e071aee0e6d843aeb4a78cefb0c0b138
+run_name: tasteful-goose-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976240244
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8d57be3e21eb47f19206295493b70e44/artifacts
+end_time: 1756969609795
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8d57be3e21eb47f19206295493b70e44
+run_name: rare-slug-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969608686
+status: 3
+tags: []
+user_id: root

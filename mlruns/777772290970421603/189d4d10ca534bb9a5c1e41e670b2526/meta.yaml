@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/189d4d10ca534bb9a5c1e41e670b2526/artifacts
+end_time: 1756972144609
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 189d4d10ca534bb9a5c1e41e670b2526
+run_name: ambitious-cub-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972121840
+status: 3
+tags: []
+user_id: root

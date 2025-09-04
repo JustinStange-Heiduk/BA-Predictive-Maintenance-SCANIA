@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3effe64cc6844ac9ab7338ad84884169/artifacts
+end_time: 1756974659042
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3effe64cc6844ac9ab7338ad84884169
+run_name: auspicious-mink-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974653160
+status: 3
+tags: []
+user_id: root

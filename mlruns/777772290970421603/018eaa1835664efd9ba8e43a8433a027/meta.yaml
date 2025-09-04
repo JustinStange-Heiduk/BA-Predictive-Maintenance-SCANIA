@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/018eaa1835664efd9ba8e43a8433a027/artifacts
+end_time: 1756969383128
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 018eaa1835664efd9ba8e43a8433a027
+run_name: wise-owl-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969380640
+status: 3
+tags: []
+user_id: root

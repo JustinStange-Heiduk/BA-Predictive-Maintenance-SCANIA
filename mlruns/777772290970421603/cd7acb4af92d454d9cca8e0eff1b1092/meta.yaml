@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cd7acb4af92d454d9cca8e0eff1b1092/artifacts
+end_time: 1756970585185
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cd7acb4af92d454d9cca8e0eff1b1092
+run_name: secretive-goose-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970576466
+status: 3
+tags: []
+user_id: root

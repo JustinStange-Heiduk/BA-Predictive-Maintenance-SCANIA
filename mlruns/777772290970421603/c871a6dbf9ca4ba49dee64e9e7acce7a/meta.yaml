@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c871a6dbf9ca4ba49dee64e9e7acce7a/artifacts
+end_time: 1756972814669
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c871a6dbf9ca4ba49dee64e9e7acce7a
+run_name: ambitious-carp-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972802648
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ddd843d966ae42cc90b32023a7523ce1/artifacts
+end_time: 1756975417630
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ddd843d966ae42cc90b32023a7523ce1
+run_name: receptive-yak-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975416010
+status: 3
+tags: []
+user_id: root

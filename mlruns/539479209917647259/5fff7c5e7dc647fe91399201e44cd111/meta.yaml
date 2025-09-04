@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5fff7c5e7dc647fe91399201e44cd111/artifacts
+end_time: 1756978051959
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5fff7c5e7dc647fe91399201e44cd111
+run_name: selective-crab-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978050075
+status: 3
+tags: []
+user_id: root

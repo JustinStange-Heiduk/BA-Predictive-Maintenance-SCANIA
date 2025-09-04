@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e9e96946d05243538980e3be8dc101a0/artifacts
+end_time: 1756977018392
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e9e96946d05243538980e3be8dc101a0
+run_name: valuable-sow-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977016249
+status: 3
+tags: []
+user_id: root

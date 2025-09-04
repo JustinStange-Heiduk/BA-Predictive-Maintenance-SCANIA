@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/783314451ad241178d324713066c7465/artifacts
+end_time: 1756969014959
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 783314451ad241178d324713066c7465
+run_name: thundering-skink-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969012924
+status: 3
+tags: []
+user_id: root

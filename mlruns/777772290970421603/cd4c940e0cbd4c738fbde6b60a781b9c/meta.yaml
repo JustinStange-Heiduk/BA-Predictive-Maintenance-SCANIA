@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cd4c940e0cbd4c738fbde6b60a781b9c/artifacts
+end_time: 1756912766718
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cd4c940e0cbd4c738fbde6b60a781b9c
+run_name: skittish-pig-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912741739
+status: 4
+tags: []
+user_id: root

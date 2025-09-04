@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/77905b4683604f2f94228db5f8999151/artifacts
+end_time: 1756977792837
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 77905b4683604f2f94228db5f8999151
+run_name: bouncy-mule-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977791125
+status: 3
+tags: []
+user_id: root

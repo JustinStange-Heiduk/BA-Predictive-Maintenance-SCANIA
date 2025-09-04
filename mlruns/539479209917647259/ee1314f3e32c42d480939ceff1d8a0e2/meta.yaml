@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ee1314f3e32c42d480939ceff1d8a0e2/artifacts
+end_time: 1756976406886
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ee1314f3e32c42d480939ceff1d8a0e2
+run_name: serious-hog-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976348915
+status: 3
+tags: []
+user_id: root

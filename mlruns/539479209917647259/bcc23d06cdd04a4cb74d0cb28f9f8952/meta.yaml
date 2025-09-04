@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bcc23d06cdd04a4cb74d0cb28f9f8952/artifacts
+end_time: 1756976308730
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bcc23d06cdd04a4cb74d0cb28f9f8952
+run_name: unruly-bug-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976306663
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9f9276deb6b64dcfb78d6819bd8b6fe5/artifacts
+end_time: 1756978037006
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9f9276deb6b64dcfb78d6819bd8b6fe5
+run_name: popular-chimp-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978035654
+status: 3
+tags: []
+user_id: root

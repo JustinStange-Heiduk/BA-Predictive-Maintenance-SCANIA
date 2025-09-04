@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/20474b9a4e5d4ae1a4077fde76409446/artifacts
+end_time: 1756974961200
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 20474b9a4e5d4ae1a4077fde76409446
+run_name: sedate-duck-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974959316
+status: 3
+tags: []
+user_id: root

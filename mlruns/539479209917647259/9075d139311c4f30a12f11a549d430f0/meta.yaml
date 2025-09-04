@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9075d139311c4f30a12f11a549d430f0/artifacts
+end_time: 1756976288822
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9075d139311c4f30a12f11a549d430f0
+run_name: tasteful-bird-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976281365
+status: 3
+tags: []
+user_id: root

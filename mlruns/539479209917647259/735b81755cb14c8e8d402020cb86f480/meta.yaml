@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/735b81755cb14c8e8d402020cb86f480/artifacts
+end_time: 1756977786394
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 735b81755cb14c8e8d402020cb86f480
+run_name: enthused-asp-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977786963
+status: 3
+tags: []
+user_id: root

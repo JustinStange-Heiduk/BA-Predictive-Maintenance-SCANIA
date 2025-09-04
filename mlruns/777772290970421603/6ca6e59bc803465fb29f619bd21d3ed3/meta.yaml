@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6ca6e59bc803465fb29f619bd21d3ed3/artifacts
+end_time: 1756968947664
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6ca6e59bc803465fb29f619bd21d3ed3
+run_name: capable-asp-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968946640
+status: 3
+tags: []
+user_id: root

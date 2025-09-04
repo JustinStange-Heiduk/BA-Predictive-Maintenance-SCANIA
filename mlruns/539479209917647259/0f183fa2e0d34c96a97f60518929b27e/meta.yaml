@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0f183fa2e0d34c96a97f60518929b27e/artifacts
+end_time: 1756975729817
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0f183fa2e0d34c96a97f60518929b27e
+run_name: resilient-sponge-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975727735
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d893ad7852754f72aa9f1e468419ecb7/artifacts
+end_time: 1756975719790
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d893ad7852754f72aa9f1e468419ecb7
+run_name: kindly-rat-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975717700
+status: 3
+tags: []
+user_id: root

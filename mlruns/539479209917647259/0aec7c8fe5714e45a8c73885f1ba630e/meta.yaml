@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0aec7c8fe5714e45a8c73885f1ba630e/artifacts
+end_time: 1756977851488
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0aec7c8fe5714e45a8c73885f1ba630e
+run_name: unruly-grub-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977849652
+status: 3
+tags: []
+user_id: root

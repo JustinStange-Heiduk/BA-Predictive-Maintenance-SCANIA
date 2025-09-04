@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4d5ffce2e56d4b37b73b66eb1e5315ab/artifacts
+end_time: 1756975708689
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4d5ffce2e56d4b37b73b66eb1e5315ab
+run_name: selective-hound-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975706845
+status: 3
+tags: []
+user_id: root

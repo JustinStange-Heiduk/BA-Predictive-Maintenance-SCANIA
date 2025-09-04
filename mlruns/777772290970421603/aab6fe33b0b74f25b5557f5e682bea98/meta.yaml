@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/aab6fe33b0b74f25b5557f5e682bea98/artifacts
+end_time: 1756925638780
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: aab6fe33b0b74f25b5557f5e682bea98
+run_name: silent-gnu-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756925289105
+status: 3
+tags: []
+user_id: root

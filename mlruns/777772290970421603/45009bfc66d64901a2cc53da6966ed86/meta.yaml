@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/45009bfc66d64901a2cc53da6966ed86/artifacts
+end_time: 1756968961777
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 45009bfc66d64901a2cc53da6966ed86
+run_name: unruly-loon-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968959664
+status: 3
+tags: []
+user_id: root

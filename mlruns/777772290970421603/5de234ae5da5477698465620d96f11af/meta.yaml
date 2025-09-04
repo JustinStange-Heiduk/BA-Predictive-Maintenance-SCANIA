@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5de234ae5da5477698465620d96f11af/artifacts
+end_time: 1756973036013
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5de234ae5da5477698465620d96f11af
+run_name: languid-rook-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973026599
+status: 3
+tags: []
+user_id: root

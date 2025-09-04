@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2b253a0b527548e5a1bf92e4ce4acc41/artifacts
+end_time: 1756975972745
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2b253a0b527548e5a1bf92e4ce4acc41
+run_name: unruly-hound-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975970660
+status: 3
+tags: []
+user_id: root

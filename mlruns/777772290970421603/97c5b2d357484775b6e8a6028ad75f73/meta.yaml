@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/97c5b2d357484775b6e8a6028ad75f73/artifacts
+end_time: 1756926022774
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 97c5b2d357484775b6e8a6028ad75f73
+run_name: gentle-croc-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756925803832
+status: 4
+tags: []
+user_id: root

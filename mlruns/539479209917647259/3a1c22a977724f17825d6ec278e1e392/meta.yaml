@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3a1c22a977724f17825d6ec278e1e392/artifacts
+end_time: 1756976043200
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3a1c22a977724f17825d6ec278e1e392
+run_name: rumbling-zebra-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976041094
+status: 3
+tags: []
+user_id: root

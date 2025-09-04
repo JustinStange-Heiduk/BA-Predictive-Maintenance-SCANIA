@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/afc1b3b37fc5412e96ebf3535565f732/artifacts
+end_time: 1756970625908
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: afc1b3b37fc5412e96ebf3535565f732
+run_name: grandiose-worm-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970615608
+status: 3
+tags: []
+user_id: root

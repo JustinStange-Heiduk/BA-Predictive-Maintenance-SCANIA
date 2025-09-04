@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/00217577dd264832a5a444cdebb0513a/artifacts
+end_time: 1756977296938
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 00217577dd264832a5a444cdebb0513a
+run_name: debonair-roo-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977294740
+status: 3
+tags: []
+user_id: root

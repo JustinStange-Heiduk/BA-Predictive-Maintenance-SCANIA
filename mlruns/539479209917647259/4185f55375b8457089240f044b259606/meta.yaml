@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4185f55375b8457089240f044b259606/artifacts
+end_time: 1756975459900
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4185f55375b8457089240f044b259606
+run_name: classy-grouse-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975457814
+status: 3
+tags: []
+user_id: root

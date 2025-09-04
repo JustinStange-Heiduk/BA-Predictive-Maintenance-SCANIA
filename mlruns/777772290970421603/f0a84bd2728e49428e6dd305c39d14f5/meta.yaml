@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/f0a84bd2728e49428e6dd305c39d14f5/artifacts
+end_time: 1756968933157
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: f0a84bd2728e49428e6dd305c39d14f5
+run_name: unique-bass-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968931420
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bcb0c4c41e8d4483a37414f4c9cd9005/artifacts
+end_time: 1756976054194
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bcb0c4c41e8d4483a37414f4c9cd9005
+run_name: worried-ray-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976052063
+status: 3
+tags: []
+user_id: root

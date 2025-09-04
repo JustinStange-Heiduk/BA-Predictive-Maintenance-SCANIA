@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7a0ef910fe354d17adfb847790f46556/artifacts
+end_time: 1756975342413
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7a0ef910fe354d17adfb847790f46556
+run_name: adorable-chimp-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975340654
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f794538cd88e4afe8e2839dbc60ce4ca/artifacts
+end_time: 1756974673831
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f794538cd88e4afe8e2839dbc60ce4ca
+run_name: efficient-shrimp-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974671337
+status: 3
+tags: []
+user_id: root

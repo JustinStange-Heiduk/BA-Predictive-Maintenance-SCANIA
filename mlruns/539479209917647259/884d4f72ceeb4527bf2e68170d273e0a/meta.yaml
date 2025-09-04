@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/884d4f72ceeb4527bf2e68170d273e0a/artifacts
+end_time: 1756975329369
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 884d4f72ceeb4527bf2e68170d273e0a
+run_name: youthful-hawk-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975327446
+status: 3
+tags: []
+user_id: root

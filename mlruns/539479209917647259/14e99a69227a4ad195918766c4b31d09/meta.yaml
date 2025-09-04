@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/14e99a69227a4ad195918766c4b31d09/artifacts
+end_time: 1756976764296
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 14e99a69227a4ad195918766c4b31d09
+run_name: monumental-fish-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976762164
+status: 3
+tags: []
+user_id: root

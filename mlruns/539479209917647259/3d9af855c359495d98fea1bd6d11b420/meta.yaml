@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3d9af855c359495d98fea1bd6d11b420/artifacts
+end_time: 1756978402697
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3d9af855c359495d98fea1bd6d11b420
+run_name: intelligent-foal-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978400739
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/bc521e2f7d81415c97e19476cfc65718/artifacts
+end_time: 1756969762883
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: bc521e2f7d81415c97e19476cfc65718
+run_name: orderly-squirrel-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969760881
+status: 3
+tags: []
+user_id: root

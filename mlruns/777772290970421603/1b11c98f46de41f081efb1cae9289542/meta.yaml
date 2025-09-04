@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1b11c98f46de41f081efb1cae9289542/artifacts
+end_time: 1756923056732
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1b11c98f46de41f081efb1cae9289542
+run_name: stately-crow-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756922987716
+status: 4
+tags: []
+user_id: root

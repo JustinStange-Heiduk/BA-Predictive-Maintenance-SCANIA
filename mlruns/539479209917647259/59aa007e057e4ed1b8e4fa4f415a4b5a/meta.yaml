@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/59aa007e057e4ed1b8e4fa4f415a4b5a/artifacts
+end_time: 1756977208706
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 59aa007e057e4ed1b8e4fa4f415a4b5a
+run_name: intrigued-pig-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977206694
+status: 3
+tags: []
+user_id: root

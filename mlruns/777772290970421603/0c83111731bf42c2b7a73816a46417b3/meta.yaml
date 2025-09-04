@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0c83111731bf42c2b7a73816a46417b3/artifacts
+end_time: 1756909770361
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0c83111731bf42c2b7a73816a46417b3
+run_name: upbeat-shrimp-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909746065
+status: 4
+tags: []
+user_id: root

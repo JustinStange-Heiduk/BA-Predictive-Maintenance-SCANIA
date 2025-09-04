@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/19bf63b5cc1846839375e9fae0d802db/artifacts
+end_time: 1756977582008
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 19bf63b5cc1846839375e9fae0d802db
+run_name: fearless-ant-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977580322
+status: 3
+tags: []
+user_id: root

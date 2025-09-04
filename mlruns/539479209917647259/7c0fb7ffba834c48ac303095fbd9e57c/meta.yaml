@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7c0fb7ffba834c48ac303095fbd9e57c/artifacts
+end_time: 1756978158543
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7c0fb7ffba834c48ac303095fbd9e57c
+run_name: bedecked-bird-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978156673
+status: 3
+tags: []
+user_id: root

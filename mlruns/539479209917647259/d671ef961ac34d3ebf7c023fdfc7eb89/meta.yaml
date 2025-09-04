@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d671ef961ac34d3ebf7c023fdfc7eb89/artifacts
+end_time: 1756975929731
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d671ef961ac34d3ebf7c023fdfc7eb89
+run_name: kindly-stork-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975902849
+status: 3
+tags: []
+user_id: root

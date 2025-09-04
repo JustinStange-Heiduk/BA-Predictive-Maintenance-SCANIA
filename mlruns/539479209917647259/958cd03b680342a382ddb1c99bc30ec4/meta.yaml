@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/958cd03b680342a382ddb1c99bc30ec4/artifacts
+end_time: 1756976818511
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 958cd03b680342a382ddb1c99bc30ec4
+run_name: welcoming-seal-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976817320
+status: 3
+tags: []
+user_id: root

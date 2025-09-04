@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9ed0fe514a6942459231de33ecfe9cfd/artifacts
+end_time: 1756975174633
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9ed0fe514a6942459231de33ecfe9cfd
+run_name: exultant-koi-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975172995
+status: 3
+tags: []
+user_id: root

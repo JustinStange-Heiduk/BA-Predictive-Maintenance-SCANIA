@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/27b46a732ddc4d37a7dfb71fd2c2406d/artifacts
+end_time: 1756977117537
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 27b46a732ddc4d37a7dfb71fd2c2406d
+run_name: puzzled-colt-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977115511
+status: 3
+tags: []
+user_id: root

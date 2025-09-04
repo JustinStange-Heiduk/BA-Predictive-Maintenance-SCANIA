@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3eeca8a003164f5d8c56df7214069ead/artifacts
+end_time: 1756978040932
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3eeca8a003164f5d8c56df7214069ead
+run_name: bemused-swan-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978039040
+status: 3
+tags: []
+user_id: root

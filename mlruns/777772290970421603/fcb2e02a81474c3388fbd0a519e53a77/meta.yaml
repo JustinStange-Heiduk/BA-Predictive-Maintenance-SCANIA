@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/fcb2e02a81474c3388fbd0a519e53a77/artifacts
+end_time: 1756888149823
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: fcb2e02a81474c3388fbd0a519e53a77
+run_name: bold-sheep-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888124174
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1502bd260434406a918a10cf7994c5c7/artifacts
+end_time: 1756975448608
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1502bd260434406a918a10cf7994c5c7
+run_name: unequaled-fowl-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975446470
+status: 3
+tags: []
+user_id: root

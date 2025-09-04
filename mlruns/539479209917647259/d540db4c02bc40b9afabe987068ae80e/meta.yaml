@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d540db4c02bc40b9afabe987068ae80e/artifacts
+end_time: 1756977729535
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d540db4c02bc40b9afabe987068ae80e
+run_name: amusing-sloth-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977727526
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/827fc29f5ed4497c943962ef39428d0e/artifacts
+end_time: 1756974640826
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 827fc29f5ed4497c943962ef39428d0e
+run_name: defiant-seal-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974634879
+status: 3
+tags: []
+user_id: root

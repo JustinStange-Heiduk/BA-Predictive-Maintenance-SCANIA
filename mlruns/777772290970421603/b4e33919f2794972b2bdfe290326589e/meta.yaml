@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/b4e33919f2794972b2bdfe290326589e/artifacts
+end_time: 1756971720435
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: b4e33919f2794972b2bdfe290326589e
+run_name: tasteful-boar-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971708649
+status: 3
+tags: []
+user_id: root

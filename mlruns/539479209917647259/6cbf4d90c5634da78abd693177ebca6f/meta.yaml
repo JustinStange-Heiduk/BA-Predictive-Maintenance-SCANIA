@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6cbf4d90c5634da78abd693177ebca6f/artifacts
+end_time: 1756975399782
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6cbf4d90c5634da78abd693177ebca6f
+run_name: adorable-loon-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975397776
+status: 3
+tags: []
+user_id: root

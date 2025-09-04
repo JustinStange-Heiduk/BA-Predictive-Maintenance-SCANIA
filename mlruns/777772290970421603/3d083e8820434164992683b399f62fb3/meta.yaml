@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3d083e8820434164992683b399f62fb3/artifacts
+end_time: 1756968058735
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3d083e8820434164992683b399f62fb3
+run_name: rebellious-perch-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968052173
+status: 4
+tags: []
+user_id: root

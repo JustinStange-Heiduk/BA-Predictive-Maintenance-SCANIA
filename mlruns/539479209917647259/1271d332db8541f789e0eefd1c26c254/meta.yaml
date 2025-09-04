@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1271d332db8541f789e0eefd1c26c254/artifacts
+end_time: 1756974909781
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1271d332db8541f789e0eefd1c26c254
+run_name: valuable-smelt-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974905616
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c71583da6527466b97f63b5e367cea28/artifacts
+end_time: 1756924149020
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c71583da6527466b97f63b5e367cea28
+run_name: dazzling-koi-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756923860203
+status: 4
+tags: []
+user_id: root

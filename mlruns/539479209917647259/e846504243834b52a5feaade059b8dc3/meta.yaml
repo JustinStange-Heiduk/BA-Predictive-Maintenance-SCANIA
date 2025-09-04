@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e846504243834b52a5feaade059b8dc3/artifacts
+end_time: 1756977678983
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e846504243834b52a5feaade059b8dc3
+run_name: colorful-donkey-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977677583
+status: 3
+tags: []
+user_id: root

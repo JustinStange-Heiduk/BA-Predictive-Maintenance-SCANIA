@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/00f0d8e1a75f4f15bf12fe28c56e1676/artifacts
+end_time: 1756969649783
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 00f0d8e1a75f4f15bf12fe28c56e1676
+run_name: mercurial-pig-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969648170
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a9a4a05eec4046c3a40b2f202c522e46/artifacts
+end_time: 1756976636553
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a9a4a05eec4046c3a40b2f202c522e46
+run_name: tasteful-lamb-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976634766
+status: 3
+tags: []
+user_id: root

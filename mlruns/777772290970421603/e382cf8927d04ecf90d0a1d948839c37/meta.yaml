@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/e382cf8927d04ecf90d0a1d948839c37/artifacts
+end_time: 1756972162896
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: e382cf8927d04ecf90d0a1d948839c37
+run_name: mercurial-skunk-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972144781
+status: 3
+tags: []
+user_id: root

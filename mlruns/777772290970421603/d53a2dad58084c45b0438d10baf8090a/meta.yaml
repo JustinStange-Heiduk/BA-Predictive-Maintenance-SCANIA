@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d53a2dad58084c45b0438d10baf8090a/artifacts
+end_time: 1756972615307
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d53a2dad58084c45b0438d10baf8090a
+run_name: hilarious-smelt-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972604275
+status: 3
+tags: []
+user_id: root

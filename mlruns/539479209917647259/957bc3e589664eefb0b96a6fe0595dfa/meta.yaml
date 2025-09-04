@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/957bc3e589664eefb0b96a6fe0595dfa/artifacts
+end_time: 1756974809468
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 957bc3e589664eefb0b96a6fe0595dfa
+run_name: puzzled-foal-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974797502
+status: 3
+tags: []
+user_id: root

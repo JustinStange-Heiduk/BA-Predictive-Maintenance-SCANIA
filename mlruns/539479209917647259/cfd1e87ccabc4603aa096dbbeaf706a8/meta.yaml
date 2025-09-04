@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cfd1e87ccabc4603aa096dbbeaf706a8/artifacts
+end_time: 1756976814775
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cfd1e87ccabc4603aa096dbbeaf706a8
+run_name: debonair-cow-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976812625
+status: 3
+tags: []
+user_id: root

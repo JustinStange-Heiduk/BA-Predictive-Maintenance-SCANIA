@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7c26bd4cd8a145cfa7f46f92a98cf8ce/artifacts
+end_time: 1756969368656
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7c26bd4cd8a145cfa7f46f92a98cf8ce
+run_name: enchanting-crow-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969367341
+status: 3
+tags: []
+user_id: root

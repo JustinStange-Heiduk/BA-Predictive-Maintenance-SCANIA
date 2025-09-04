@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d617ab2de83c4162939ed139ad55418a/artifacts
+end_time: 1756974951237
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d617ab2de83c4162939ed139ad55418a
+run_name: welcoming-mule-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974949166
+status: 3
+tags: []
+user_id: root

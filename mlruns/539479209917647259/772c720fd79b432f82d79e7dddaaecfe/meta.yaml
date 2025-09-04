@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/772c720fd79b432f82d79e7dddaaecfe/artifacts
+end_time: 1756977893771
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 772c720fd79b432f82d79e7dddaaecfe
+run_name: persistent-doe-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977891867
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e40652a1f46649aaafe5d5777c62471f/artifacts
+end_time: 1756976477094
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e40652a1f46649aaafe5d5777c62471f
+run_name: secretive-shad-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976475358
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/145263a62c4f4ed49bca182551f5d9ff/artifacts
+end_time: 1756972572756
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 145263a62c4f4ed49bca182551f5d9ff
+run_name: popular-colt-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972566486
+status: 3
+tags: []
+user_id: root

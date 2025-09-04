@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c064b1c21d9340ba979cfa17a427d93d/artifacts
+end_time: 1756975017910
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c064b1c21d9340ba979cfa17a427d93d
+run_name: gifted-doe-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975015722
+status: 3
+tags: []
+user_id: root

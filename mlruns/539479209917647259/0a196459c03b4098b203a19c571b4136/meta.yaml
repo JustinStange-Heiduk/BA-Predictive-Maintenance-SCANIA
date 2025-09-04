@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0a196459c03b4098b203a19c571b4136/artifacts
+end_time: 1756978423773
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0a196459c03b4098b203a19c571b4136
+run_name: caring-stag-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978423822
+status: 3
+tags: []
+user_id: root

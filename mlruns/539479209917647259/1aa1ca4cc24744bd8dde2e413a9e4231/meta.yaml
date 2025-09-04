@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1aa1ca4cc24744bd8dde2e413a9e4231/artifacts
+end_time: 1756977410018
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1aa1ca4cc24744bd8dde2e413a9e4231
+run_name: awesome-cat-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977369085
+status: 3
+tags: []
+user_id: root

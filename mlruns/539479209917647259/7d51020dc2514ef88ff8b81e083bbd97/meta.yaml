@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7d51020dc2514ef88ff8b81e083bbd97/artifacts
+end_time: 1756975432282
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7d51020dc2514ef88ff8b81e083bbd97
+run_name: brawny-chimp-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975430584
+status: 3
+tags: []
+user_id: root

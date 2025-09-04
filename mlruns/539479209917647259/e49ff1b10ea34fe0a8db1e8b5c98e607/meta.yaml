@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e49ff1b10ea34fe0a8db1e8b5c98e607/artifacts
+end_time: 1756978265113
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e49ff1b10ea34fe0a8db1e8b5c98e607
+run_name: traveling-zebra-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978230115
+status: 3
+tags: []
+user_id: root

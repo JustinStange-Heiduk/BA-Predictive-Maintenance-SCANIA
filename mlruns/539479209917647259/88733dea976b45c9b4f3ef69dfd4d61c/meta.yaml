@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/88733dea976b45c9b4f3ef69dfd4d61c/artifacts
+end_time: 1756977489669
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 88733dea976b45c9b4f3ef69dfd4d61c
+run_name: rebellious-fox-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977488243
+status: 3
+tags: []
+user_id: root

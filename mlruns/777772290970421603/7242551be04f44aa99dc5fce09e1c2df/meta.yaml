@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7242551be04f44aa99dc5fce09e1c2df/artifacts
+end_time: 1756970646634
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7242551be04f44aa99dc5fce09e1c2df
+run_name: popular-ram-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970636821
+status: 3
+tags: []
+user_id: root

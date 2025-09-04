@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3fa88fa66a7446c9bb54e07a9961f7ed/artifacts
+end_time: 1756920722569
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3fa88fa66a7446c9bb54e07a9961f7ed
+run_name: rambunctious-gnu-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920712309
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/52d794d5843b492ca26c52cff3ce7632/artifacts
+end_time: 1756972764897
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 52d794d5843b492ca26c52cff3ce7632
+run_name: funny-shoat-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972751129
+status: 3
+tags: []
+user_id: root

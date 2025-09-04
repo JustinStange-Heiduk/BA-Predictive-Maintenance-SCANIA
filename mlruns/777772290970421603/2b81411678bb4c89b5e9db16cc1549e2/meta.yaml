@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2b81411678bb4c89b5e9db16cc1549e2/artifacts
+end_time: 1756902164891
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2b81411678bb4c89b5e9db16cc1549e2
+run_name: colorful-skink-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756902138885
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bcd74cca933b4de2b8d8fd2d57205c85/artifacts
+end_time: 1756977321842
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bcd74cca933b4de2b8d8fd2d57205c85
+run_name: monumental-bee-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977319833
+status: 3
+tags: []
+user_id: root

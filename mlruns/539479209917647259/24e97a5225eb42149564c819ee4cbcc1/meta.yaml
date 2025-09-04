@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/24e97a5225eb42149564c819ee4cbcc1/artifacts
+end_time: 1756978368526
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 24e97a5225eb42149564c819ee4cbcc1
+run_name: capable-mouse-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978368617
+status: 3
+tags: []
+user_id: root

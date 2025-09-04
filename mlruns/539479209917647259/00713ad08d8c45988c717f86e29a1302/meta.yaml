@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/00713ad08d8c45988c717f86e29a1302/artifacts
+end_time: 1756975265566
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 00713ad08d8c45988c717f86e29a1302
+run_name: unleashed-perch-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975264205
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/51f52aa0b37b4efab48c24f3ff63797e/artifacts
+end_time: 1756977432342
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 51f52aa0b37b4efab48c24f3ff63797e
+run_name: bustling-moose-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977430707
+status: 3
+tags: []
+user_id: root

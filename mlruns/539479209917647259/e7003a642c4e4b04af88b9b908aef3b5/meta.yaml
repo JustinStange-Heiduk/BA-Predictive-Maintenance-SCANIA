@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e7003a642c4e4b04af88b9b908aef3b5/artifacts
+end_time: 1756975435031
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e7003a642c4e4b04af88b9b908aef3b5
+run_name: gregarious-cat-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975433230
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/713430765ef7408cb227c2d645f1ab42/artifacts
+end_time: 1756977030165
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 713430765ef7408cb227c2d645f1ab42
+run_name: crawling-dove-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977027668
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/62ccd89187be4e018b04699c1da37c3c/artifacts
+end_time: 1756976768383
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 62ccd89187be4e018b04699c1da37c3c
+run_name: judicious-moose-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976766212
+status: 3
+tags: []
+user_id: root

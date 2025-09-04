@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4f30e5bfc79b4091af59132e99c25142/artifacts
+end_time: 1756978220669
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4f30e5bfc79b4091af59132e99c25142
+run_name: debonair-loon-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978218712
+status: 3
+tags: []
+user_id: root

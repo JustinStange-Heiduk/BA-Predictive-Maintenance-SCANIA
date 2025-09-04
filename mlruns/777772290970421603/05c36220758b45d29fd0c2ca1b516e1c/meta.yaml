@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/05c36220758b45d29fd0c2ca1b516e1c/artifacts
+end_time: 1756909841669
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 05c36220758b45d29fd0c2ca1b516e1c
+run_name: exultant-kite-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909822256
+status: 4
+tags: []
+user_id: root

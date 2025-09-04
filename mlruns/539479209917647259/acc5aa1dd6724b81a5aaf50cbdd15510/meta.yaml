@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/acc5aa1dd6724b81a5aaf50cbdd15510/artifacts
+end_time: 1756978299404
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: acc5aa1dd6724b81a5aaf50cbdd15510
+run_name: bright-dove-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978297569
+status: 3
+tags: []
+user_id: root

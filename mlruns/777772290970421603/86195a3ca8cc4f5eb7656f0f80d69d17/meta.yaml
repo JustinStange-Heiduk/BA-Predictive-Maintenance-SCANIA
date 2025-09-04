@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/86195a3ca8cc4f5eb7656f0f80d69d17/artifacts
+end_time: 1756969445258
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 86195a3ca8cc4f5eb7656f0f80d69d17
+run_name: monumental-snail-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969443716
+status: 3
+tags: []
+user_id: root

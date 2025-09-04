@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/efecae493df044ed921b37b095366f9a/artifacts
+end_time: 1756977412156
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: efecae493df044ed921b37b095366f9a
+run_name: agreeable-mule-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977410229
+status: 3
+tags: []
+user_id: root

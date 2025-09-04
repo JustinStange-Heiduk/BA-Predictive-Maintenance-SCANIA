@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c3c99e293f48482c8bfd41da83d217c2/artifacts
+end_time: 1756907472809
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c3c99e293f48482c8bfd41da83d217c2
+run_name: legendary-hound-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756907120367
+status: 3
+tags: []
+user_id: root

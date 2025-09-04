@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/80e5e6d3fa874b45bf1c3f52bc2fb412/artifacts
+end_time: 1756978407177
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 80e5e6d3fa874b45bf1c3f52bc2fb412
+run_name: rare-mule-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978405027
+status: 3
+tags: []
+user_id: root

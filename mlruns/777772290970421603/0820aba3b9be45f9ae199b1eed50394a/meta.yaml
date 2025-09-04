@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0820aba3b9be45f9ae199b1eed50394a/artifacts
+end_time: 1756972253354
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0820aba3b9be45f9ae199b1eed50394a
+run_name: funny-horse-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972242669
+status: 3
+tags: []
+user_id: root

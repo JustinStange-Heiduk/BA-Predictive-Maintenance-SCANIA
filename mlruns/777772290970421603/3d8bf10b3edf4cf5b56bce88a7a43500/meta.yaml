@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3d8bf10b3edf4cf5b56bce88a7a43500/artifacts
+end_time: 1756969641649
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3d8bf10b3edf4cf5b56bce88a7a43500
+run_name: rogue-sloth-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969639842
+status: 3
+tags: []
+user_id: root

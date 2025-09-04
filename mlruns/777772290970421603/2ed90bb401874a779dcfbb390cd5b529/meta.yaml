@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2ed90bb401874a779dcfbb390cd5b529/artifacts
+end_time: 1756912191575
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2ed90bb401874a779dcfbb390cd5b529
+run_name: youthful-fowl-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912159240
+status: 3
+tags: []
+user_id: root

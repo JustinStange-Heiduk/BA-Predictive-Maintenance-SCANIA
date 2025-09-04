@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/087f5289720741489ee7f47974292ec3/artifacts
+end_time: 1756974780299
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 087f5289720741489ee7f47974292ec3
+run_name: dashing-dove-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974777011
+status: 3
+tags: []
+user_id: root

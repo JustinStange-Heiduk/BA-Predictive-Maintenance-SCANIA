@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2d445cb7093840019aa7f731f62941db/artifacts
+end_time: 1756977001303
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2d445cb7093840019aa7f731f62941db
+run_name: mysterious-dog-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976970171
+status: 3
+tags: []
+user_id: root

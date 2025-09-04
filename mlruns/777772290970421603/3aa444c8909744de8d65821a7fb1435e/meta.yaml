@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3aa444c8909744de8d65821a7fb1435e/artifacts
+end_time: 1756912741537
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3aa444c8909744de8d65821a7fb1435e
+run_name: resilient-crane-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912733537
+status: 4
+tags: []
+user_id: root

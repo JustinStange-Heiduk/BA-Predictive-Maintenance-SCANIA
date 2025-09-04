@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cd20da50dd264925a7e67ced604e009b/artifacts
+end_time: 1756912952732
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cd20da50dd264925a7e67ced604e009b
+run_name: gaudy-squid-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912948829
+status: 4
+tags: []
+user_id: root

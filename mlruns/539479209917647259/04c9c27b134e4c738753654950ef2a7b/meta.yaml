@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/04c9c27b134e4c738753654950ef2a7b/artifacts
+end_time: 1756978423582
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 04c9c27b134e4c738753654950ef2a7b
+run_name: learned-wasp-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978417760
+status: 3
+tags: []
+user_id: root

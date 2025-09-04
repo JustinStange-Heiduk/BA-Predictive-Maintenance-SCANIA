@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ee9ddf1599714f86a3929157936dd751/artifacts
+end_time: 1756975737786
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ee9ddf1599714f86a3929157936dd751
+run_name: serious-calf-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975735853
+status: 3
+tags: []
+user_id: root

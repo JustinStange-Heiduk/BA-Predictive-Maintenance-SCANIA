@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d7410177378941189023b4630b869d62/artifacts
+end_time: 1756975327249
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d7410177378941189023b4630b869d62
+run_name: blushing-lark-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975325191
+status: 3
+tags: []
+user_id: root

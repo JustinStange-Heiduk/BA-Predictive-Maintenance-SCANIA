@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a55e6ab306a3466a887a1b46b9c9edeb/artifacts
+end_time: 1756974773568
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a55e6ab306a3466a887a1b46b9c9edeb
+run_name: wistful-shrew-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974770187
+status: 3
+tags: []
+user_id: root

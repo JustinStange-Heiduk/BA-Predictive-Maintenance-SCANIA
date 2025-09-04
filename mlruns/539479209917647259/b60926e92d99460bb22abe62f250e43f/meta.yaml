@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b60926e92d99460bb22abe62f250e43f/artifacts
+end_time: 1756977453439
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b60926e92d99460bb22abe62f250e43f
+run_name: bald-whale-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977454894
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/276d780000884670942e6a866a1dbe86/artifacts
+end_time: 1756977072106
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 276d780000884670942e6a866a1dbe86
+run_name: unruly-flea-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977035553
+status: 3
+tags: []
+user_id: root

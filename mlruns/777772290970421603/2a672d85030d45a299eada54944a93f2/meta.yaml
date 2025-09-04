@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2a672d85030d45a299eada54944a93f2/artifacts
+end_time: 1756972526939
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2a672d85030d45a299eada54944a93f2
+run_name: luminous-donkey-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972519845
+status: 3
+tags: []
+user_id: root

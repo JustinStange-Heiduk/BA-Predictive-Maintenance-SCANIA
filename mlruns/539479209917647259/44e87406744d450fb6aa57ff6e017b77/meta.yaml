@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/44e87406744d450fb6aa57ff6e017b77/artifacts
+end_time: 1756976479583
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 44e87406744d450fb6aa57ff6e017b77
+run_name: likeable-tern-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976477324
+status: 3
+tags: []
+user_id: root

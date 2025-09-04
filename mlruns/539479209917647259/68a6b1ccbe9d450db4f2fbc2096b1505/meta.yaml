@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/68a6b1ccbe9d450db4f2fbc2096b1505/artifacts
+end_time: 1756977457868
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 68a6b1ccbe9d450db4f2fbc2096b1505
+run_name: awesome-squid-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977455902
+status: 3
+tags: []
+user_id: root

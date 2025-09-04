@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2fb4176f134544159111cacd1de7a7d5/artifacts
+end_time: 1756894993391
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2fb4176f134544159111cacd1de7a7d5
+run_name: big-vole-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756894929557
+status: 4
+tags: []
+user_id: root

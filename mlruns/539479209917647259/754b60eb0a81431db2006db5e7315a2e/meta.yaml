@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/754b60eb0a81431db2006db5e7315a2e/artifacts
+end_time: 1756977171981
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 754b60eb0a81431db2006db5e7315a2e
+run_name: luxuriant-wasp-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977120142
+status: 3
+tags: []
+user_id: root

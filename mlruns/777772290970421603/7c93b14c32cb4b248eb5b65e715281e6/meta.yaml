@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7c93b14c32cb4b248eb5b65e715281e6/artifacts
+end_time: 1756968099432
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7c93b14c32cb4b248eb5b65e715281e6
+run_name: handsome-mouse-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968090043
+status: 4
+tags: []
+user_id: root

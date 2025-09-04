@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/92541c6f00374022aa6d574e00875c99/artifacts
+end_time: 1756905424543
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 92541c6f00374022aa6d574e00875c99
+run_name: bright-hog-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756905363412
+status: 3
+tags: []
+user_id: root

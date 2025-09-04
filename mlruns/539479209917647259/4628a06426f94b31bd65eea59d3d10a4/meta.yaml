@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4628a06426f94b31bd65eea59d3d10a4/artifacts
+end_time: 1756976544066
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4628a06426f94b31bd65eea59d3d10a4
+run_name: worried-cat-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976541993
+status: 3
+tags: []
+user_id: root

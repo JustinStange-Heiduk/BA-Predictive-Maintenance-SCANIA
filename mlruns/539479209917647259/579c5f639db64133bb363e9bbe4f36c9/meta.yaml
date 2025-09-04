@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/579c5f639db64133bb363e9bbe4f36c9/artifacts
+end_time: 1756977476946
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 579c5f639db64133bb363e9bbe4f36c9
+run_name: trusting-hound-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977474951
+status: 3
+tags: []
+user_id: root

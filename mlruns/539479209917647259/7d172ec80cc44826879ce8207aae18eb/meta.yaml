@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7d172ec80cc44826879ce8207aae18eb/artifacts
+end_time: 1756975160947
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7d172ec80cc44826879ce8207aae18eb
+run_name: languid-stag-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975158746
+status: 3
+tags: []
+user_id: root

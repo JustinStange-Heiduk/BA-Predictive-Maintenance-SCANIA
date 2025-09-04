@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5507d7168899462a885e9a4c6eb51c81/artifacts
+end_time: 1756976579392
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5507d7168899462a885e9a4c6eb51c81
+run_name: peaceful-shoat-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976577659
+status: 3
+tags: []
+user_id: root

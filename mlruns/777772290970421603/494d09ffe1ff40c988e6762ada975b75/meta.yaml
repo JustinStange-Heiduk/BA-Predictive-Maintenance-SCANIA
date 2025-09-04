@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/494d09ffe1ff40c988e6762ada975b75/artifacts
+end_time: 1756969614887
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 494d09ffe1ff40c988e6762ada975b75
+run_name: nimble-gnu-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969613576
+status: 3
+tags: []
+user_id: root

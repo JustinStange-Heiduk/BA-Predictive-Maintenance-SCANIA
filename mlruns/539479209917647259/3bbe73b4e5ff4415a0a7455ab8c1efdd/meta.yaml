@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3bbe73b4e5ff4415a0a7455ab8c1efdd/artifacts
+end_time: 1756978152111
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3bbe73b4e5ff4415a0a7455ab8c1efdd
+run_name: vaunted-swan-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978150098
+status: 3
+tags: []
+user_id: root

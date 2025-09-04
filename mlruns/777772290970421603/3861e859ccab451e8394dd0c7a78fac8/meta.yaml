@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3861e859ccab451e8394dd0c7a78fac8/artifacts
+end_time: 1756969701974
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3861e859ccab451e8394dd0c7a78fac8
+run_name: mysterious-sow-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969700551
+status: 3
+tags: []
+user_id: root

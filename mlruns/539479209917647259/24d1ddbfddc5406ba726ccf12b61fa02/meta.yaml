@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/24d1ddbfddc5406ba726ccf12b61fa02/artifacts
+end_time: 1756977734259
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 24d1ddbfddc5406ba726ccf12b61fa02
+run_name: mercurial-auk-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977732115
+status: 3
+tags: []
+user_id: root

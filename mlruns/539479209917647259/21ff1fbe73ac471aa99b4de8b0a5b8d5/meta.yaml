@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/21ff1fbe73ac471aa99b4de8b0a5b8d5/artifacts
+end_time: 1756978076900
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 21ff1fbe73ac471aa99b4de8b0a5b8d5
+run_name: agreeable-sloth-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978075389
+status: 3
+tags: []
+user_id: root

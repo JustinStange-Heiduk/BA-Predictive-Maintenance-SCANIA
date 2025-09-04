@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e1e22c9ff79947b795bb1fd53e85d887/artifacts
+end_time: 1756978005117
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e1e22c9ff79947b795bb1fd53e85d887
+run_name: learned-crane-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978003751
+status: 3
+tags: []
+user_id: root

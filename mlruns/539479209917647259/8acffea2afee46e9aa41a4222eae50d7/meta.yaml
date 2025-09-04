@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8acffea2afee46e9aa41a4222eae50d7/artifacts
+end_time: 1756975628130
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8acffea2afee46e9aa41a4222eae50d7
+run_name: rare-flea-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975626059
+status: 3
+tags: []
+user_id: root

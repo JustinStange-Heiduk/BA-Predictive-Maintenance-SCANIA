@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/26e5abbaf8ab45589bc7902746ced3c3/artifacts
+end_time: 1756976563871
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 26e5abbaf8ab45589bc7902746ced3c3
+run_name: upbeat-asp-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976561842
+status: 3
+tags: []
+user_id: root

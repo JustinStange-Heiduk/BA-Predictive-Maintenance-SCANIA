@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/fb804c6f120442b8b0749b4a45e315f3/artifacts
+end_time: 1756925672268
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: fb804c6f120442b8b0749b4a45e315f3
+run_name: hilarious-bird-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756925660837
+status: 4
+tags: []
+user_id: root

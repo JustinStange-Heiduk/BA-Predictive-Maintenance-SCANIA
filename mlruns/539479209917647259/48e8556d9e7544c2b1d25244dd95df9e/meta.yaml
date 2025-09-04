@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/48e8556d9e7544c2b1d25244dd95df9e/artifacts
+end_time: 1756977675059
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 48e8556d9e7544c2b1d25244dd95df9e
+run_name: sedate-seal-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977675332
+status: 3
+tags: []
+user_id: root

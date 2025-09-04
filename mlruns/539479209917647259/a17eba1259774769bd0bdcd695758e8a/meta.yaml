@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a17eba1259774769bd0bdcd695758e8a/artifacts
+end_time: 1756976481941
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a17eba1259774769bd0bdcd695758e8a
+run_name: bold-pug-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976479818
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/292b2a64c3bb443ca552dfe72748385d/artifacts
+end_time: 1756977725041
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 292b2a64c3bb443ca552dfe72748385d
+run_name: orderly-ape-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977722772
+status: 3
+tags: []
+user_id: root

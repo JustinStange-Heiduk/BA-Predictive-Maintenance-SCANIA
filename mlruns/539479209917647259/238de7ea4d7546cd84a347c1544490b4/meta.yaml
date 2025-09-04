@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/238de7ea4d7546cd84a347c1544490b4/artifacts
+end_time: 1756976463224
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 238de7ea4d7546cd84a347c1544490b4
+run_name: treasured-fox-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976461059
+status: 3
+tags: []
+user_id: root

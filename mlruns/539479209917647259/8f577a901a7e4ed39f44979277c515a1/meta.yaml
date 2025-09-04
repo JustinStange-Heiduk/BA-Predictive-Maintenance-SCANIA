@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8f577a901a7e4ed39f44979277c515a1/artifacts
+end_time: 1756977600348
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8f577a901a7e4ed39f44979277c515a1
+run_name: adaptable-stoat-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977598689
+status: 3
+tags: []
+user_id: root

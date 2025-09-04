@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/593277cd1d9d41af8d2d39eb9cfab53b/artifacts
+end_time: 1756975322505
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 593277cd1d9d41af8d2d39eb9cfab53b
+run_name: bright-jay-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975321185
+status: 3
+tags: []
+user_id: root

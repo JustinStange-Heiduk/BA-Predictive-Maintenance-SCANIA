@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/dbb95662822743aa96760863d7d887da/artifacts
+end_time: 1756974652963
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: dbb95662822743aa96760863d7d887da
+run_name: adaptable-mole-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974649375
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/62fb2ce38ecd46fcad31ad02c289a028/artifacts
+end_time: 1756978003525
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 62fb2ce38ecd46fcad31ad02c289a028
+run_name: charming-ape-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978002158
+status: 3
+tags: []
+user_id: root

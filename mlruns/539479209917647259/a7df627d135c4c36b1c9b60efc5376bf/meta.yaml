@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a7df627d135c4c36b1c9b60efc5376bf/artifacts
+end_time: 1756976908389
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a7df627d135c4c36b1c9b60efc5376bf
+run_name: illustrious-shad-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976906292
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4c436067d2b44f559baf0b13e825652a/artifacts
+end_time: 1756977958582
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4c436067d2b44f559baf0b13e825652a
+run_name: respected-conch-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977956760
+status: 3
+tags: []
+user_id: root

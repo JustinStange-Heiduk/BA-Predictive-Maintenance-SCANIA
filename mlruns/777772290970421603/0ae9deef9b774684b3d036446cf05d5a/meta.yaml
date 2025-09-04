@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0ae9deef9b774684b3d036446cf05d5a/artifacts
+end_time: 1756973008953
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0ae9deef9b774684b3d036446cf05d5a
+run_name: entertaining-cow-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972998279
+status: 3
+tags: []
+user_id: root

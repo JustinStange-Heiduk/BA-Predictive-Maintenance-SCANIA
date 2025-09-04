@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/125f25b6142c481985ae692968f54ef7/artifacts
+end_time: 1756907120174
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 125f25b6142c481985ae692968f54ef7
+run_name: gentle-moose-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756907094899
+status: 4
+tags: []
+user_id: root

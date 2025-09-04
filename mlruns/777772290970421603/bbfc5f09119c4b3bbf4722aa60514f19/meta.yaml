@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/bbfc5f09119c4b3bbf4722aa60514f19/artifacts
+end_time: 1756911791467
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: bbfc5f09119c4b3bbf4722aa60514f19
+run_name: glamorous-ram-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911783421
+status: 4
+tags: []
+user_id: root

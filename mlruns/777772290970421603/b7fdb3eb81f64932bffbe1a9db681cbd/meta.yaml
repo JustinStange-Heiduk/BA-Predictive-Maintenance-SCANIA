@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/b7fdb3eb81f64932bffbe1a9db681cbd/artifacts
+end_time: 1756969758568
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: b7fdb3eb81f64932bffbe1a9db681cbd
+run_name: funny-shrike-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969755401
+status: 3
+tags: []
+user_id: root

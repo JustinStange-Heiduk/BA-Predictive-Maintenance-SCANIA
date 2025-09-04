@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/43e4af29c1114dc5a722dd4879006864/artifacts
+end_time: 1756969725276
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 43e4af29c1114dc5a722dd4879006864
+run_name: spiffy-slug-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969723361
+status: 3
+tags: []
+user_id: root

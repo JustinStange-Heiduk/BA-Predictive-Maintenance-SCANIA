@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6aa5cb4d79ef46afac42696c27eb6bea/artifacts
+end_time: 1756972341824
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6aa5cb4d79ef46afac42696c27eb6bea
+run_name: flawless-bass-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972321573
+status: 3
+tags: []
+user_id: root

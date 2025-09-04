@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ed3e737a91f24f80a34aedd70db3d98b/artifacts
+end_time: 1756972967484
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ed3e737a91f24f80a34aedd70db3d98b
+run_name: stylish-steed-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972954561
+status: 3
+tags: []
+user_id: root

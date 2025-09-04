@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a3769ef49b254dec9f36e56574361164/artifacts
+end_time: 1756920869737
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a3769ef49b254dec9f36e56574361164
+run_name: fortunate-shrew-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756920846367
+status: 4
+tags: []
+user_id: root

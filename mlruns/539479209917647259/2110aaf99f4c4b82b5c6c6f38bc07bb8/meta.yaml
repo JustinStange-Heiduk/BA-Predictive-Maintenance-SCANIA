@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2110aaf99f4c4b82b5c6c6f38bc07bb8/artifacts
+end_time: 1756977554456
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2110aaf99f4c4b82b5c6c6f38bc07bb8
+run_name: ambitious-tern-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977552377
+status: 3
+tags: []
+user_id: root

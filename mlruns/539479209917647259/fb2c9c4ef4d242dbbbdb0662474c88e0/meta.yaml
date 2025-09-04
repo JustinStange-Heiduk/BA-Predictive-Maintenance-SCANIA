@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/fb2c9c4ef4d242dbbbdb0662474c88e0/artifacts
+end_time: 1756975739294
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: fb2c9c4ef4d242dbbbdb0662474c88e0
+run_name: orderly-shad-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975737995
+status: 3
+tags: []
+user_id: root

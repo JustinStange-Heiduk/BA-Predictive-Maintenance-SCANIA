@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/3d7899fc4be0493c8310e2d32ae9e086/artifacts
+end_time: 1756977422096
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 3d7899fc4be0493c8310e2d32ae9e086
+run_name: useful-croc-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977420065
+status: 3
+tags: []
+user_id: root

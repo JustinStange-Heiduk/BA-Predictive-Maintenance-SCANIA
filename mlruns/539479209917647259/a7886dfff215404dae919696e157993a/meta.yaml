@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a7886dfff215404dae919696e157993a/artifacts
+end_time: 1756977727300
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a7886dfff215404dae919696e157993a
+run_name: wise-fowl-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977725269
+status: 3
+tags: []
+user_id: root

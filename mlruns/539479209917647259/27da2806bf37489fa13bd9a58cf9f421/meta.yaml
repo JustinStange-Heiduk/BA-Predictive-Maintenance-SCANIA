@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/27da2806bf37489fa13bd9a58cf9f421/artifacts
+end_time: 1756976431505
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 27da2806bf37489fa13bd9a58cf9f421
+run_name: salty-fish-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976429250
+status: 3
+tags: []
+user_id: root

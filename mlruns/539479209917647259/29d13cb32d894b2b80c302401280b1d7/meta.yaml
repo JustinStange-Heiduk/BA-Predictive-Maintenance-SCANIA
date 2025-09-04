@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/29d13cb32d894b2b80c302401280b1d7/artifacts
+end_time: 1756978294449
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 29d13cb32d894b2b80c302401280b1d7
+run_name: wise-finch-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978292677
+status: 3
+tags: []
+user_id: root

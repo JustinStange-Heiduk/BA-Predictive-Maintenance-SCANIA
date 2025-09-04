@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/053fc157afcf48c19e8c523c6b41f2ab/artifacts
+end_time: 1756977454654
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 053fc157afcf48c19e8c523c6b41f2ab
+run_name: marvelous-robin-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977452517
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6014a0b41e084cb9aca536abf4436830/artifacts
+end_time: 1756912105374
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6014a0b41e084cb9aca536abf4436830
+run_name: auspicious-rook-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912094035
+status: 4
+tags: []
+user_id: root

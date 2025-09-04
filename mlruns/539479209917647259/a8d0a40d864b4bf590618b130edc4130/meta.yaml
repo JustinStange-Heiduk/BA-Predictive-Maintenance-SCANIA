@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a8d0a40d864b4bf590618b130edc4130/artifacts
+end_time: 1756977843337
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a8d0a40d864b4bf590618b130edc4130
+run_name: colorful-squid-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977841261
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1673d08449e54e2b9e9b06e866f3827a/artifacts
+end_time: 1756923222645
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1673d08449e54e2b9e9b06e866f3827a
+run_name: righteous-snipe-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756923075045
+status: 4
+tags: []
+user_id: root

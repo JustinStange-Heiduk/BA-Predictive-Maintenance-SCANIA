@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6e213d7621664302a4f83be8ad8d2e59/artifacts
+end_time: 1756976292096
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6e213d7621664302a4f83be8ad8d2e59
+run_name: brawny-mule-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976291312
+status: 3
+tags: []
+user_id: root

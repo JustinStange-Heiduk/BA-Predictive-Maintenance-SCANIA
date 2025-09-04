@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6960f5e4e17342eea8a055a23b2fb55c/artifacts
+end_time: 1756977496320
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6960f5e4e17342eea8a055a23b2fb55c
+run_name: likeable-cod-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977494846
+status: 3
+tags: []
+user_id: root

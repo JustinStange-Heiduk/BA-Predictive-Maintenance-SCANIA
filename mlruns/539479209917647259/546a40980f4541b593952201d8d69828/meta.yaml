@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/546a40980f4541b593952201d8d69828/artifacts
+end_time: 1756976915022
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 546a40980f4541b593952201d8d69828
+run_name: shivering-cat-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976912860
+status: 3
+tags: []
+user_id: root

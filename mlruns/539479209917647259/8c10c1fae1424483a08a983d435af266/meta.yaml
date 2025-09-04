@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8c10c1fae1424483a08a983d435af266/artifacts
+end_time: 1756975078719
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8c10c1fae1424483a08a983d435af266
+run_name: classy-shrike-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975076523
+status: 3
+tags: []
+user_id: root

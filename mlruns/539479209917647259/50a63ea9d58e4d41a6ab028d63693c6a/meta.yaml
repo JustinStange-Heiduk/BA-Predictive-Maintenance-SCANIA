@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/50a63ea9d58e4d41a6ab028d63693c6a/artifacts
+end_time: 1756974782678
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 50a63ea9d58e4d41a6ab028d63693c6a
+run_name: delicate-shrew-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974780525
+status: 3
+tags: []
+user_id: root

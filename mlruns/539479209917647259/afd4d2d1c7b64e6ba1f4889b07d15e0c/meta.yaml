@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/afd4d2d1c7b64e6ba1f4889b07d15e0c/artifacts
+end_time: 1756978306252
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: afd4d2d1c7b64e6ba1f4889b07d15e0c
+run_name: colorful-pig-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978304319
+status: 3
+tags: []
+user_id: root

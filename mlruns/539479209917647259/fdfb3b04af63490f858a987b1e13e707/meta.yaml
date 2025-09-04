@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/fdfb3b04af63490f858a987b1e13e707/artifacts
+end_time: 1756976472264
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: fdfb3b04af63490f858a987b1e13e707
+run_name: able-kit-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976470169
+status: 3
+tags: []
+user_id: root

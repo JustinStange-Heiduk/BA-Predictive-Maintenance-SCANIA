@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8033b78e673b40f7ac8c18d8cb55f8ed/artifacts
+end_time: 1756892459731
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8033b78e673b40f7ac8c18d8cb55f8ed
+run_name: incongruous-calf-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756892119037
+status: 3
+tags: []
+user_id: root

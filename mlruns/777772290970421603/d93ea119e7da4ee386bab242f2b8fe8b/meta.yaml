@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d93ea119e7da4ee386bab242f2b8fe8b/artifacts
+end_time: 1756969653782
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d93ea119e7da4ee386bab242f2b8fe8b
+run_name: monumental-loon-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969652654
+status: 3
+tags: []
+user_id: root

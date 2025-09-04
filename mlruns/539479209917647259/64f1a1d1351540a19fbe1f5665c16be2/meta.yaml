@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/64f1a1d1351540a19fbe1f5665c16be2/artifacts
+end_time: 1756978400508
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 64f1a1d1351540a19fbe1f5665c16be2
+run_name: righteous-shad-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978398331
+status: 3
+tags: []
+user_id: root

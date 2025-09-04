@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/12e2fd758a504d4e828b0b09c93f2831/artifacts
+end_time: 1756909745867
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 12e2fd758a504d4e828b0b09c93f2831
+run_name: thoughtful-stork-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909713933
+status: 3
+tags: []
+user_id: root

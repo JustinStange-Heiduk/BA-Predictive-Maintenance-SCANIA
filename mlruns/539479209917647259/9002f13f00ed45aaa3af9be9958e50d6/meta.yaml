@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9002f13f00ed45aaa3af9be9958e50d6/artifacts
+end_time: 1756976042049
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9002f13f00ed45aaa3af9be9958e50d6
+run_name: marvelous-rat-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976040018
+status: 3
+tags: []
+user_id: root

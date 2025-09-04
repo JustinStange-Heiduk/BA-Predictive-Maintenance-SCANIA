@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cd1238df27914b5b85c66c656afef784/artifacts
+end_time: 1756911848851
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cd1238df27914b5b85c66c656afef784
+run_name: overjoyed-deer-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911825756
+status: 4
+tags: []
+user_id: root

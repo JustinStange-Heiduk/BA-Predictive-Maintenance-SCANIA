@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e72906ff319f4d32a32987d251c10836/artifacts
+end_time: 1756977608071
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e72906ff319f4d32a32987d251c10836
+run_name: fortunate-cub-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977606217
+status: 3
+tags: []
+user_id: root

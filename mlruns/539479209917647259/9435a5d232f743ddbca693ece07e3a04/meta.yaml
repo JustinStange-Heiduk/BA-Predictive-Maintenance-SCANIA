@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9435a5d232f743ddbca693ece07e3a04/artifacts
+end_time: 1756976436049
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9435a5d232f743ddbca693ece07e3a04
+run_name: upset-fawn-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976433929
+status: 3
+tags: []
+user_id: root

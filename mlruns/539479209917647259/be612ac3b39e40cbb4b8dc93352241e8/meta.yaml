@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/be612ac3b39e40cbb4b8dc93352241e8/artifacts
+end_time: 1756976465544
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: be612ac3b39e40cbb4b8dc93352241e8
+run_name: abrasive-ant-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976463441
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/98e7e48d58c14eba8e2f7b8c178ddb3c/artifacts
+end_time: 1756977279463
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 98e7e48d58c14eba8e2f7b8c178ddb3c
+run_name: classy-mare-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977277320
+status: 3
+tags: []
+user_id: root

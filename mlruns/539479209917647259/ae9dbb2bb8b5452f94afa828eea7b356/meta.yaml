@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ae9dbb2bb8b5452f94afa828eea7b356/artifacts
+end_time: 1756974945972
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ae9dbb2bb8b5452f94afa828eea7b356
+run_name: melodic-cod-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974944057
+status: 3
+tags: []
+user_id: root

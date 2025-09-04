@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/be959d88a1c842078486d41308ec6beb/artifacts
+end_time: 1756975428254
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: be959d88a1c842078486d41308ec6beb
+run_name: gifted-seal-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975426560
+status: 3
+tags: []
+user_id: root

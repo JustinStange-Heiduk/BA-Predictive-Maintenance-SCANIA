@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/601c897304284a28a8fac0bb9790cf8f/artifacts
+end_time: 1756977907095
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 601c897304284a28a8fac0bb9790cf8f
+run_name: exultant-carp-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977905720
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ef1ef31f3631458ead49b68ac536b1e8/artifacts
+end_time: 1756975185749
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ef1ef31f3631458ead49b68ac536b1e8
+run_name: auspicious-worm-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975184122
+status: 3
+tags: []
+user_id: root

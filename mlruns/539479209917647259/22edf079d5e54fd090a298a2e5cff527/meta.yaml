@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/22edf079d5e54fd090a298a2e5cff527/artifacts
+end_time: 1756975959916
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 22edf079d5e54fd090a298a2e5cff527
+run_name: legendary-cod-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975957932
+status: 3
+tags: []
+user_id: root

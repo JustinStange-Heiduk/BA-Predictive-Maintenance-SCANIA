@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e279d45332b7460c973778962621851f/artifacts
+end_time: 1756975323466
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e279d45332b7460c973778962621851f
+run_name: capable-doe-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975321780
+status: 3
+tags: []
+user_id: root

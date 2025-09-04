@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/eeb62b405a354c0bbf68c971ca556433/artifacts
+end_time: 1756972776525
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: eeb62b405a354c0bbf68c971ca556433
+run_name: mysterious-rook-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972765065
+status: 3
+tags: []
+user_id: root

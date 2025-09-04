@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9fa56afdfc9a4ab29b318a21fb339eac/artifacts
+end_time: 1756977552154
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9fa56afdfc9a4ab29b318a21fb339eac
+run_name: awesome-tern-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977550337
+status: 3
+tags: []
+user_id: root

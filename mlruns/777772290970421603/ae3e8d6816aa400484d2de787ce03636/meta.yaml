@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ae3e8d6816aa400484d2de787ce03636/artifacts
+end_time: 1756969698828
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ae3e8d6816aa400484d2de787ce03636
+run_name: abrasive-moth-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969696866
+status: 3
+tags: []
+user_id: root

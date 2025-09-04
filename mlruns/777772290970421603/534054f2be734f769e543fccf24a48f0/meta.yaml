@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/534054f2be734f769e543fccf24a48f0/artifacts
+end_time: 1756967357287
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 534054f2be734f769e543fccf24a48f0
+run_name: gaudy-rook-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967350834
+status: 4
+tags: []
+user_id: root

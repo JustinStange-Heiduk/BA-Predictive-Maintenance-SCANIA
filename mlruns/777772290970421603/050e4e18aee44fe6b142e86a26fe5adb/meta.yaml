@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/050e4e18aee44fe6b142e86a26fe5adb/artifacts
+end_time: 1756905363230
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 050e4e18aee44fe6b142e86a26fe5adb
+run_name: capricious-stork-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756905342855
+status: 4
+tags: []
+user_id: root

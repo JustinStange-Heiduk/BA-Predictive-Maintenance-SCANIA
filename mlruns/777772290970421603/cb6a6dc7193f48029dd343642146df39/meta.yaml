@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cb6a6dc7193f48029dd343642146df39/artifacts
+end_time: 1756971724886
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cb6a6dc7193f48029dd343642146df39
+run_name: tasteful-mouse-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756971720596
+status: 3
+tags: []
+user_id: root

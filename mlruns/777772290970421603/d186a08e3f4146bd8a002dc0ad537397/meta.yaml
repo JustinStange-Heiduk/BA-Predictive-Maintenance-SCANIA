@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/d186a08e3f4146bd8a002dc0ad537397/artifacts
+end_time: 1756969729180
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: d186a08e3f4146bd8a002dc0ad537397
+run_name: kindly-shoat-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969726911
+status: 3
+tags: []
+user_id: root

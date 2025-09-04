@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/ae8ff8033edd4de79006609d25bdffc8/artifacts
+end_time: 1756978225429
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: ae8ff8033edd4de79006609d25bdffc8
+run_name: bright-snake-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978223242
+status: 3
+tags: []
+user_id: root

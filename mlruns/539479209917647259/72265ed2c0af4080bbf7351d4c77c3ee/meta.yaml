@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/72265ed2c0af4080bbf7351d4c77c3ee/artifacts
+end_time: 1756975626995
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 72265ed2c0af4080bbf7351d4c77c3ee
+run_name: debonair-hare-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975627281
+status: 3
+tags: []
+user_id: root

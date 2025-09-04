@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/036f3b5f0747403b930da5f92e7ede96/artifacts
+end_time: 1756978068281
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 036f3b5f0747403b930da5f92e7ede96
+run_name: treasured-asp-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978065122
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3caf438f804a4f5abbff27adbd3cb19c/artifacts
+end_time: 1756925660641
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3caf438f804a4f5abbff27adbd3cb19c
+run_name: zealous-wolf-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756925638977
+status: 4
+tags: []
+user_id: root

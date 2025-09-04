@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2def7cc907c3455b91933e0bc7d304bb/artifacts
+end_time: 1756975210362
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2def7cc907c3455b91933e0bc7d304bb
+run_name: wistful-mole-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975211819
+status: 3
+tags: []
+user_id: root

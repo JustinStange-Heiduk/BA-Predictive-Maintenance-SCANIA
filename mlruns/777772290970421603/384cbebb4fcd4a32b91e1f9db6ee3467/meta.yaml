@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/384cbebb4fcd4a32b91e1f9db6ee3467/artifacts
+end_time: 1756968219946
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 384cbebb4fcd4a32b91e1f9db6ee3467
+run_name: righteous-elk-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968213658
+status: 4
+tags: []
+user_id: root

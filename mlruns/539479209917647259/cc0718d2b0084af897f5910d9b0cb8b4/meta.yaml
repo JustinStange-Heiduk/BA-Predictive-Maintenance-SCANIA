@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cc0718d2b0084af897f5910d9b0cb8b4/artifacts
+end_time: 1756975741527
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cc0718d2b0084af897f5910d9b0cb8b4
+run_name: powerful-sheep-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975739511
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/056cd589a1c749049a435aca96733316/artifacts
+end_time: 1756974748973
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 056cd589a1c749049a435aca96733316
+run_name: luminous-zebra-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974746426
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/becdbad57bab42f08cb9080c611079f0/artifacts
+end_time: 1756977366369
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: becdbad57bab42f08cb9080c611079f0
+run_name: stylish-midge-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977364263
+status: 3
+tags: []
+user_id: root

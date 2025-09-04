@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/507464d06bce42bd96e8d81c216bc7ef/artifacts
+end_time: 1756969927988
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 507464d06bce42bd96e8d81c216bc7ef
+run_name: amazing-penguin-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969927019
+status: 3
+tags: []
+user_id: root

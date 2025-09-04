@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6ecf17ec047b473dae7a6d32b6aa924b/artifacts
+end_time: 1756968118295
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6ecf17ec047b473dae7a6d32b6aa924b
+run_name: awesome-mouse-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968110590
+status: 4
+tags: []
+user_id: root

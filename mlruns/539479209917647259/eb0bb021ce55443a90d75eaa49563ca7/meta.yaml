@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/eb0bb021ce55443a90d75eaa49563ca7/artifacts
+end_time: 1756976761912
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: eb0bb021ce55443a90d75eaa49563ca7
+run_name: agreeable-robin-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976761798
+status: 3
+tags: []
+user_id: root

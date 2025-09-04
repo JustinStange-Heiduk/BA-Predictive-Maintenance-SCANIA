@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/994193e2e2f44552a88cdd0f4009131b/artifacts
+end_time: 1756975212109
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 994193e2e2f44552a88cdd0f4009131b
+run_name: bustling-croc-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975210564
+status: 3
+tags: []
+user_id: root

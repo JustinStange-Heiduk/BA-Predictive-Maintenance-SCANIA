@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/39497271d59a48208fe91d0a608d563e/artifacts
+end_time: 1756978211127
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 39497271d59a48208fe91d0a608d563e
+run_name: dazzling-bear-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978209201
+status: 3
+tags: []
+user_id: root

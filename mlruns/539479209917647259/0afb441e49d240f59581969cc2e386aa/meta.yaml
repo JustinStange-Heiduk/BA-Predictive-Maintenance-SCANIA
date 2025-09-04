@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0afb441e49d240f59581969cc2e386aa/artifacts
+end_time: 1756977455663
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0afb441e49d240f59581969cc2e386aa
+run_name: wistful-auk-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977453668
+status: 3
+tags: []
+user_id: root

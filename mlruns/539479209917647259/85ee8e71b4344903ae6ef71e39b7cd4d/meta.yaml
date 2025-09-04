@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/85ee8e71b4344903ae6ef71e39b7cd4d/artifacts
+end_time: 1756976860699
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 85ee8e71b4344903ae6ef71e39b7cd4d
+run_name: smiling-hare-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976858617
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f7dcd4dc67164d9891f427025d11c6dd/artifacts
+end_time: 1756978267427
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f7dcd4dc67164d9891f427025d11c6dd
+run_name: omniscient-bass-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978265354
+status: 3
+tags: []
+user_id: root

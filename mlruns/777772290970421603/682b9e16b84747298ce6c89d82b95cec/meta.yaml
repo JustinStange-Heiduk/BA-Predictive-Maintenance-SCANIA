@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/682b9e16b84747298ce6c89d82b95cec/artifacts
+end_time: 1756904964656
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 682b9e16b84747298ce6c89d82b95cec
+run_name: unequaled-moth-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756904939800
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/4b45c5426a6a47ff9b612dca9c26511a/artifacts
+end_time: 1756977016022
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 4b45c5426a6a47ff9b612dca9c26511a
+run_name: bedecked-midge-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977013961
+status: 3
+tags: []
+user_id: root

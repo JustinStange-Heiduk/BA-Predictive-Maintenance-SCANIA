@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2201cdbce456433a9ab57695d5f0db8d/artifacts
+end_time: 1756976335044
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2201cdbce456433a9ab57695d5f0db8d
+run_name: agreeable-swan-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976317731
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c0f57cbdcfeb4e0f803418d269defe36/artifacts
+end_time: 1756975994333
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c0f57cbdcfeb4e0f803418d269defe36
+run_name: chill-kite-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975992196
+status: 3
+tags: []
+user_id: root

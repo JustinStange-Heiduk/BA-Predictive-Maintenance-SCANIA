@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1cd782953c5d4a62a0a56305274d7240/artifacts
+end_time: 1756913307284
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1cd782953c5d4a62a0a56305274d7240
+run_name: casual-frog-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913275862
+status: 3
+tags: []
+user_id: root

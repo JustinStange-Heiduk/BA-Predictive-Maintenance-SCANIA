@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/08ab56aa6bd64fb18888306c461d7c5a/artifacts
+end_time: 1756902635445
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 08ab56aa6bd64fb18888306c461d7c5a
+run_name: delightful-tern-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756902608302
+status: 4
+tags: []
+user_id: root

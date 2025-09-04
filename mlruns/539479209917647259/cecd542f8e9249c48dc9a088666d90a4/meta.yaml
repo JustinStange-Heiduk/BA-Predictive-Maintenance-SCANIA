@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/cecd542f8e9249c48dc9a088666d90a4/artifacts
+end_time: 1756977881100
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: cecd542f8e9249c48dc9a088666d90a4
+run_name: upbeat-conch-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977853712
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/fc74ff39bdda4ce39cbbd4e3c98db28e/artifacts
+end_time: 1756897800684
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: fc74ff39bdda4ce39cbbd4e3c98db28e
+run_name: efficient-skink-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756897471680
+status: 3
+tags: []
+user_id: root

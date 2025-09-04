@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0041ec3c86c94e7c9ace15c7373c56d9/artifacts
+end_time: 1756975433012
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0041ec3c86c94e7c9ace15c7373c56d9
+run_name: big-sheep-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975432492
+status: 3
+tags: []
+user_id: root

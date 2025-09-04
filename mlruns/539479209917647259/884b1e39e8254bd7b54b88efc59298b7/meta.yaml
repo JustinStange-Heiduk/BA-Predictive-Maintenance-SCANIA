@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/884b1e39e8254bd7b54b88efc59298b7/artifacts
+end_time: 1756974719956
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 884b1e39e8254bd7b54b88efc59298b7
+run_name: useful-cat-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974715085
+status: 3
+tags: []
+user_id: root

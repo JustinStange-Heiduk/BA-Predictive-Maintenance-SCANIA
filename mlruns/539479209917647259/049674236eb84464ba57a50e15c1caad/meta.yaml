@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/049674236eb84464ba57a50e15c1caad/artifacts
+end_time: 1756974959096
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 049674236eb84464ba57a50e15c1caad
+run_name: hilarious-hog-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974956138
+status: 3
+tags: []
+user_id: root

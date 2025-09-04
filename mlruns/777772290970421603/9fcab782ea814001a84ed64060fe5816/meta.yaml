@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/9fcab782ea814001a84ed64060fe5816/artifacts
+end_time: 1756899786145
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 9fcab782ea814001a84ed64060fe5816
+run_name: placid-sheep-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756899757716
+status: 4
+tags: []
+user_id: root

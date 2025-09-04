@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/50d3783cf21447bebccaf54e0398c541/artifacts
+end_time: 1756975355021
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 50d3783cf21447bebccaf54e0398c541
+run_name: casual-kit-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975353280
+status: 3
+tags: []
+user_id: root

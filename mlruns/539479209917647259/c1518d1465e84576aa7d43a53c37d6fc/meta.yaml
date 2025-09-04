@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c1518d1465e84576aa7d43a53c37d6fc/artifacts
+end_time: 1756977317015
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c1518d1465e84576aa7d43a53c37d6fc
+run_name: tasteful-swan-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977314722
+status: 3
+tags: []
+user_id: root

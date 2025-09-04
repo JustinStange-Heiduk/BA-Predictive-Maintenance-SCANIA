@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/96d8bb08945e4b178c55796fde443a80/artifacts
+end_time: 1756911783197
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 96d8bb08945e4b178c55796fde443a80
+run_name: calm-crab-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911749493
+status: 3
+tags: []
+user_id: root

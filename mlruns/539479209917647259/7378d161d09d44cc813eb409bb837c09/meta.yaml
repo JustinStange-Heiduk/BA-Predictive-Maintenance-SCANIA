@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7378d161d09d44cc813eb409bb837c09/artifacts
+end_time: 1756977837912
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7378d161d09d44cc813eb409bb837c09
+run_name: big-newt-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977833205
+status: 3
+tags: []
+user_id: root

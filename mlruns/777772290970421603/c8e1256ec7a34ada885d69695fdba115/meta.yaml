@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c8e1256ec7a34ada885d69695fdba115/artifacts
+end_time: 1756912463686
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c8e1256ec7a34ada885d69695fdba115
+run_name: unleashed-goat-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912441328
+status: 4
+tags: []
+user_id: root

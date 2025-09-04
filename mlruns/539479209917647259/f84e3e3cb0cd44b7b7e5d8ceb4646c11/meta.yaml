@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/f84e3e3cb0cd44b7b7e5d8ceb4646c11/artifacts
+end_time: 1756978438699
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: f84e3e3cb0cd44b7b7e5d8ceb4646c11
+run_name: salty-carp-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978436616
+status: 3
+tags: []
+user_id: root

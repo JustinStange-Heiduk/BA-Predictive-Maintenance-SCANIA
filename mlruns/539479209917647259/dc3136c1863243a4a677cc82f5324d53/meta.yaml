@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/dc3136c1863243a4a677cc82f5324d53/artifacts
+end_time: 1756975176380
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: dc3136c1863243a4a677cc82f5324d53
+run_name: sassy-ape-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975174836
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/80c0c1b53b774fd397b948c51e00dfe8/artifacts
+end_time: 1756976488187
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 80c0c1b53b774fd397b948c51e00dfe8
+run_name: receptive-ray-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976485999
+status: 3
+tags: []
+user_id: root

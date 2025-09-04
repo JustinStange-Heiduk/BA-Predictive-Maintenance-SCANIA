@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/8a35a39a433547a6abaa46a2dcb8ed26/artifacts
+end_time: 1756969637814
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 8a35a39a433547a6abaa46a2dcb8ed26
+run_name: big-quail-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969636185
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5d612029b7024c8b91dc334be6d4525e/artifacts
+end_time: 1756969773057
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5d612029b7024c8b91dc334be6d4525e
+run_name: legendary-grouse-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969770644
+status: 3
+tags: []
+user_id: root

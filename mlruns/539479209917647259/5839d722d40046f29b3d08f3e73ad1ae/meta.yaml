@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5839d722d40046f29b3d08f3e73ad1ae/artifacts
+end_time: 1756977213157
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5839d722d40046f29b3d08f3e73ad1ae
+run_name: honorable-duck-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977210891
+status: 3
+tags: []
+user_id: root

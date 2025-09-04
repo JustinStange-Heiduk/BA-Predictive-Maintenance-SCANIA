@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7928ad9613714db2bc2a92c8bb13ceda/artifacts
+end_time: 1756894215543
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7928ad9613714db2bc2a92c8bb13ceda
+run_name: fortunate-gull-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756893892450
+status: 3
+tags: []
+user_id: root

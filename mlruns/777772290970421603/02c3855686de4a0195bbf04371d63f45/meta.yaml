@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/02c3855686de4a0195bbf04371d63f45/artifacts
+end_time: 1756922176242
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 02c3855686de4a0195bbf04371d63f45
+run_name: dapper-kit-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756921071203
+status: 3
+tags: []
+user_id: root

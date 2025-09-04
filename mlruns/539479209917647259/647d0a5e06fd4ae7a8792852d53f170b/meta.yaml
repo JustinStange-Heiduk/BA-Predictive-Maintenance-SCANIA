@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/647d0a5e06fd4ae7a8792852d53f170b/artifacts
+end_time: 1756975650169
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 647d0a5e06fd4ae7a8792852d53f170b
+run_name: intelligent-slug-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975647950
+status: 3
+tags: []
+user_id: root

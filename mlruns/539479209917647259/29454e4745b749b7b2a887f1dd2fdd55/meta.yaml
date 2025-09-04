@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/29454e4745b749b7b2a887f1dd2fdd55/artifacts
+end_time: 1756975156325
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 29454e4745b749b7b2a887f1dd2fdd55
+run_name: legendary-squid-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975152730
+status: 3
+tags: []
+user_id: root

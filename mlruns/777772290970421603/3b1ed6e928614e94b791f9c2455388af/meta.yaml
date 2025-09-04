@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/3b1ed6e928614e94b791f9c2455388af/artifacts
+end_time: 1756970404541
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 3b1ed6e928614e94b791f9c2455388af
+run_name: invincible-gull-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970396564
+status: 3
+tags: []
+user_id: root

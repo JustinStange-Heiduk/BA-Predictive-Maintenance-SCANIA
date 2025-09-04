@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7d2b7abb9d0f48c5b3f910d660df3ed7/artifacts
+end_time: 1756977492945
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7d2b7abb9d0f48c5b3f910d660df3ed7
+run_name: unique-wasp-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977491544
+status: 3
+tags: []
+user_id: root

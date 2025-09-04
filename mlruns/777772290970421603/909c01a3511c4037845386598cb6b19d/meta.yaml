@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/909c01a3511c4037845386598cb6b19d/artifacts
+end_time: 1756970485355
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 909c01a3511c4037845386598cb6b19d
+run_name: puzzled-shrike-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970480658
+status: 3
+tags: []
+user_id: root

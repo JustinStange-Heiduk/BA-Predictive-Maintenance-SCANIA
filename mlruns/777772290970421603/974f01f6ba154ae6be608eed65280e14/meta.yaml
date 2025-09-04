@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/974f01f6ba154ae6be608eed65280e14/artifacts
+end_time: 1756970062313
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 974f01f6ba154ae6be608eed65280e14
+run_name: calm-dolphin-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970055025
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b5f29bb29ab442288e7ac69030027453/artifacts
+end_time: 1756976416493
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b5f29bb29ab442288e7ac69030027453
+run_name: efficient-cat-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976414325
+status: 3
+tags: []
+user_id: root

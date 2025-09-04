@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/403302aa022e4bd2b2bcae8294ca9d75/artifacts
+end_time: 1756975750218
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 403302aa022e4bd2b2bcae8294ca9d75
+run_name: aged-perch-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975748139
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/e464cbf813a74422a88bc8b390b556ef/artifacts
+end_time: 1756922890015
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: e464cbf813a74422a88bc8b390b556ef
+run_name: overjoyed-auk-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756922823736
+status: 4
+tags: []
+user_id: root

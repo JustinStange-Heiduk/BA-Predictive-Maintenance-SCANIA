@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/0885f7e1023f4764bfbf0e3bc5a6d264/artifacts
+end_time: 1756977694734
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 0885f7e1023f4764bfbf0e3bc5a6d264
+run_name: dashing-cow-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977692949
+status: 3
+tags: []
+user_id: root

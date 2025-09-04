@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8be50fa1c316440595d71af23cb7a33c/artifacts
+end_time: 1756977829766
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8be50fa1c316440595d71af23cb7a33c
+run_name: silent-sponge-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977827355
+status: 3
+tags: []
+user_id: root

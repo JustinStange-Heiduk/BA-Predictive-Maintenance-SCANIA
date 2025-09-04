@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/a0af9f66475b4dc38bc2026f2ee42d25/artifacts
+end_time: 1756974484959
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: a0af9f66475b4dc38bc2026f2ee42d25
+run_name: magnificent-mole-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974482633
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b3a627e0c0a2492dace1064532865e39/artifacts
+end_time: 1756976448546
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b3a627e0c0a2492dace1064532865e39
+run_name: exultant-smelt-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976446632
+status: 3
+tags: []
+user_id: root

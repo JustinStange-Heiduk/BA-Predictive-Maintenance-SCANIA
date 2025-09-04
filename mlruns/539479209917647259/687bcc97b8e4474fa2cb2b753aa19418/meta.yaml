@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/687bcc97b8e4474fa2cb2b753aa19418/artifacts
+end_time: 1756977470009
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 687bcc97b8e4474fa2cb2b753aa19418
+run_name: indecisive-horse-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977467871
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8b15922b00bc48a18e6836b6b392370b/artifacts
+end_time: 1756976276387
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8b15922b00bc48a18e6836b6b392370b
+run_name: overjoyed-carp-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976274317
+status: 3
+tags: []
+user_id: root

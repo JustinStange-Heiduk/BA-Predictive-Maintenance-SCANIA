@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/232160e212b9472ebba0b1a3fabd10b7/artifacts
+end_time: 1756975473879
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 232160e212b9472ebba0b1a3fabd10b7
+run_name: stately-skink-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975471720
+status: 3
+tags: []
+user_id: root

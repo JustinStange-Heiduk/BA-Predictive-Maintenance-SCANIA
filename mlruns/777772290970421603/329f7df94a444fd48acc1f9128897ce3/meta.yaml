@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/329f7df94a444fd48acc1f9128897ce3/artifacts
+end_time: 1756970513241
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 329f7df94a444fd48acc1f9128897ce3
+run_name: vaunted-snake-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970506783
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b884e6f3b6ed4ccfae2e3b165a7f5e37/artifacts
+end_time: 1756976835369
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b884e6f3b6ed4ccfae2e3b165a7f5e37
+run_name: abundant-hog-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976833272
+status: 3
+tags: []
+user_id: root

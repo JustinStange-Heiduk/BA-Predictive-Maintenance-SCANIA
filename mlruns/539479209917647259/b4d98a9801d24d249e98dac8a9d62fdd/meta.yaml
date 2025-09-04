@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/b4d98a9801d24d249e98dac8a9d62fdd/artifacts
+end_time: 1756975950005
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: b4d98a9801d24d249e98dac8a9d62fdd
+run_name: chill-lark-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975947895
+status: 3
+tags: []
+user_id: root

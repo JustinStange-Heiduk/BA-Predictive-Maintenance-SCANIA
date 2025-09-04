@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/fc6a13da98f74a37a0a507a14cb2bf57/artifacts
+end_time: 1756975068002
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: fc6a13da98f74a37a0a507a14cb2bf57
+run_name: unequaled-panda-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975065955
+status: 3
+tags: []
+user_id: root

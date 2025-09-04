@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a5407390a6b140d381f5a86efd57a59a/artifacts
+end_time: 1756895015606
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a5407390a6b140d381f5a86efd57a59a
+run_name: colorful-panda-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756894993597
+status: 4
+tags: []
+user_id: root

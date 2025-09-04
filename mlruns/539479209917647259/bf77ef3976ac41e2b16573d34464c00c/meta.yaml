@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bf77ef3976ac41e2b16573d34464c00c/artifacts
+end_time: 1756977220464
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bf77ef3976ac41e2b16573d34464c00c
+run_name: persistent-worm-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977218600
+status: 3
+tags: []
+user_id: root

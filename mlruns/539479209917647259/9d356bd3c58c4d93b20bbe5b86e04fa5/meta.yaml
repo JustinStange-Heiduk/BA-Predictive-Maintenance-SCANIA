@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9d356bd3c58c4d93b20bbe5b86e04fa5/artifacts
+end_time: 1756975214446
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9d356bd3c58c4d93b20bbe5b86e04fa5
+run_name: upset-squid-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975212310
+status: 3
+tags: []
+user_id: root

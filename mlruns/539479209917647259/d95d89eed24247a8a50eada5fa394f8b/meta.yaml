@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d95d89eed24247a8a50eada5fa394f8b/artifacts
+end_time: 1756975902637
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d95d89eed24247a8a50eada5fa394f8b
+run_name: sincere-stoat-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975900455
+status: 3
+tags: []
+user_id: root

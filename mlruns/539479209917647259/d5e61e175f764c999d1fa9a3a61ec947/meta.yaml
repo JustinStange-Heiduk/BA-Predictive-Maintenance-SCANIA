@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d5e61e175f764c999d1fa9a3a61ec947/artifacts
+end_time: 1756976728653
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d5e61e175f764c999d1fa9a3a61ec947
+run_name: enthused-colt-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976726724
+status: 3
+tags: []
+user_id: root

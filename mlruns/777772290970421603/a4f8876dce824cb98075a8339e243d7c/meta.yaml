@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a4f8876dce824cb98075a8339e243d7c/artifacts
+end_time: 1756969412648
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a4f8876dce824cb98075a8339e243d7c
+run_name: enchanting-goat-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969410873
+status: 3
+tags: []
+user_id: root

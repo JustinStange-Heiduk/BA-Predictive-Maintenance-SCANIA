@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/9d7a91b2ec3c45789e2d7613c0143473/artifacts
+end_time: 1756903201950
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 9d7a91b2ec3c45789e2d7613c0143473
+run_name: loud-shrimp-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903167975
+status: 3
+tags: []
+user_id: root

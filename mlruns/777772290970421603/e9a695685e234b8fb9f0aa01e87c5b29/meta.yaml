@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/e9a695685e234b8fb9f0aa01e87c5b29/artifacts
+end_time: 1756911453098
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: e9a695685e234b8fb9f0aa01e87c5b29
+run_name: nosy-donkey-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911445723
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/138b80444dd14ec49fe2f7832c8de8b7/artifacts
+end_time: 1756909379774
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 138b80444dd14ec49fe2f7832c8de8b7
+run_name: unequaled-turtle-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756909347015
+status: 3
+tags: []
+user_id: root

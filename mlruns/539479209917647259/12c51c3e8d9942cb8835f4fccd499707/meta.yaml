@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/12c51c3e8d9942cb8835f4fccd499707/artifacts
+end_time: 1756974884386
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 12c51c3e8d9942cb8835f4fccd499707
+run_name: big-horse-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974880686
+status: 3
+tags: []
+user_id: root

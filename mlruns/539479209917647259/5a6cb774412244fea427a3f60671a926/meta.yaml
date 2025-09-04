@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5a6cb774412244fea427a3f60671a926/artifacts
+end_time: 1756977952651
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5a6cb774412244fea427a3f60671a926
+run_name: legendary-grub-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977924568
+status: 3
+tags: []
+user_id: root

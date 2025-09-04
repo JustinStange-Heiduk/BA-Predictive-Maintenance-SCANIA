@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/09771b113e304901838b6a4e48f3ae6d/artifacts
+end_time: 1756976446414
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 09771b113e304901838b6a4e48f3ae6d
+run_name: hilarious-toad-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976444304
+status: 3
+tags: []
+user_id: root

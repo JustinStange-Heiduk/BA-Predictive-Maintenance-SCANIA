@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c53c95958f72458aa5591009d797b822/artifacts
+end_time: 1756978001921
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c53c95958f72458aa5591009d797b822
+run_name: respected-mole-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978000541
+status: 3
+tags: []
+user_id: root

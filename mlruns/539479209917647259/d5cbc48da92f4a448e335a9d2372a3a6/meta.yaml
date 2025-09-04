@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/d5cbc48da92f4a448e335a9d2372a3a6/artifacts
+end_time: 1756974706922
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: d5cbc48da92f4a448e335a9d2372a3a6
+run_name: omniscient-shark-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974705716
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/809e2fada2bd4bdfa5538c456e8faffa/artifacts
+end_time: 1756977215421
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 809e2fada2bd4bdfa5538c456e8faffa
+run_name: debonair-mouse-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977213377
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6e0840ae91ef4c28862f00f1912d7f24/artifacts
+end_time: 1756975562728
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6e0840ae91ef4c28862f00f1912d7f24
+run_name: whimsical-lark-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975560696
+status: 3
+tags: []
+user_id: root

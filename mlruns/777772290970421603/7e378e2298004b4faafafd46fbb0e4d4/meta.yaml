@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7e378e2298004b4faafafd46fbb0e4d4/artifacts
+end_time: 1756968963113
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7e378e2298004b4faafafd46fbb0e4d4
+run_name: efficient-shark-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968961933
+status: 3
+tags: []
+user_id: root

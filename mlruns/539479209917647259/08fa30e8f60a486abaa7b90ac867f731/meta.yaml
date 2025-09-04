@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/08fa30e8f60a486abaa7b90ac867f731/artifacts
+end_time: 1756975867294
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 08fa30e8f60a486abaa7b90ac867f731
+run_name: adventurous-swan-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975844593
+status: 3
+tags: []
+user_id: root

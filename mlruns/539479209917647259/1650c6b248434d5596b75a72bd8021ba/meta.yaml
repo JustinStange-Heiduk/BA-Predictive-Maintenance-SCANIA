@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/1650c6b248434d5596b75a72bd8021ba/artifacts
+end_time: 1756976244398
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 1650c6b248434d5596b75a72bd8021ba
+run_name: nervous-skink-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976242379
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/644d20d29a144b0983ae2c40fcd8b3fa/artifacts
+end_time: 1756972490573
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 644d20d29a144b0983ae2c40fcd8b3fa
+run_name: fearless-stag-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972483477
+status: 3
+tags: []
+user_id: root

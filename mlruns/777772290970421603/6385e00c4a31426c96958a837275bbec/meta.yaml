@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/6385e00c4a31426c96958a837275bbec/artifacts
+end_time: 1756913617569
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 6385e00c4a31426c96958a837275bbec
+run_name: sassy-penguin-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913585605
+status: 3
+tags: []
+user_id: root

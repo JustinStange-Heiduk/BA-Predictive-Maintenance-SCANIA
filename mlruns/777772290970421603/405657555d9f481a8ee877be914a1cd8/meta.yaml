@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/405657555d9f481a8ee877be914a1cd8/artifacts
+end_time: 1756922778907
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 405657555d9f481a8ee877be914a1cd8
+run_name: overjoyed-chimp-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756922671153
+status: 4
+tags: []
+user_id: root

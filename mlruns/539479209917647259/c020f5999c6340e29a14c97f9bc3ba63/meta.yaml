@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c020f5999c6340e29a14c97f9bc3ba63/artifacts
+end_time: 1756977467638
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c020f5999c6340e29a14c97f9bc3ba63
+run_name: salty-seal-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977460113
+status: 3
+tags: []
+user_id: root

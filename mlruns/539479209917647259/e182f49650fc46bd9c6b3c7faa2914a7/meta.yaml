@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e182f49650fc46bd9c6b3c7faa2914a7/artifacts
+end_time: 1756975900244
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e182f49650fc46bd9c6b3c7faa2914a7
+run_name: fortunate-fox-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975898601
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/88f6103ca6dd4785a59ec95b802bc54a/artifacts
+end_time: 1756969408526
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 88f6103ca6dd4785a59ec95b802bc54a
+run_name: crawling-kite-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969406843
+status: 3
+tags: []
+user_id: root

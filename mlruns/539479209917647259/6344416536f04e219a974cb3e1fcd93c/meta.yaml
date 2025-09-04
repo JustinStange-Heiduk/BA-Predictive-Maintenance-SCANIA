@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6344416536f04e219a974cb3e1fcd93c/artifacts
+end_time: 1756977353430
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6344416536f04e219a974cb3e1fcd93c
+run_name: bemused-mare-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977324411
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/530ca6446ae141f3987179466635371c/artifacts
+end_time: 1756977032850
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 530ca6446ae141f3987179466635371c
+run_name: luxuriant-bat-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977030394
+status: 3
+tags: []
+user_id: root

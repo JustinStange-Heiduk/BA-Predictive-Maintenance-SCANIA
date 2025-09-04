@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/97457788d7824d3cb548e5a647965837/artifacts
+end_time: 1756977602391
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 97457788d7824d3cb548e5a647965837
+run_name: big-lynx-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977600571
+status: 3
+tags: []
+user_id: root

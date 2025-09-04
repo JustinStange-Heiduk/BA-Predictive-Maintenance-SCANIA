@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/7636774ab056427aa2f3868223ba7158/artifacts
+end_time: 1756975331598
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 7636774ab056427aa2f3868223ba7158
+run_name: persistent-bug-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975329583
+status: 3
+tags: []
+user_id: root

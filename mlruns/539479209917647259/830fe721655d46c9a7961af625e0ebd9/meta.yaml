@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/830fe721655d46c9a7961af625e0ebd9/artifacts
+end_time: 1756977003677
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 830fe721655d46c9a7961af625e0ebd9
+run_name: delightful-skunk-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977001536
+status: 3
+tags: []
+user_id: root

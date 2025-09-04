@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/270b8ef3566b4c6bab45335dd4206d84/artifacts
+end_time: 1756975945362
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 270b8ef3566b4c6bab45335dd4206d84
+run_name: dashing-sloth-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975943394
+status: 3
+tags: []
+user_id: root

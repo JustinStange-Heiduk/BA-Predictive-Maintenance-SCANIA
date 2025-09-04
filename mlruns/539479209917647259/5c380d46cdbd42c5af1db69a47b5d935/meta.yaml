@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5c380d46cdbd42c5af1db69a47b5d935/artifacts
+end_time: 1756975073954
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5c380d46cdbd42c5af1db69a47b5d935
+run_name: intelligent-rat-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975072443
+status: 3
+tags: []
+user_id: root

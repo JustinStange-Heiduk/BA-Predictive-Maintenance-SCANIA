@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ab48618b0243448ebc13f113e3feada7/artifacts
+end_time: 1756968002234
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ab48618b0243448ebc13f113e3feada7
+run_name: skittish-penguin-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756967964843
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6fccbbb660a34f64b3d18035d5a71084/artifacts
+end_time: 1756977445384
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6fccbbb660a34f64b3d18035d5a71084
+run_name: bustling-tern-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977443172
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/5154fdf6d1184b758ba2776421dfa646/artifacts
+end_time: 1756977831367
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 5154fdf6d1184b758ba2776421dfa646
+run_name: upset-gnu-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977829995
+status: 3
+tags: []
+user_id: root

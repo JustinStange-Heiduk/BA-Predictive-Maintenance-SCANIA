@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/a9694ab06a204d5b8a5aab6977e59efd/artifacts
+end_time: 1756972221392
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: a9694ab06a204d5b8a5aab6977e59efd
+run_name: victorious-moth-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972200982
+status: 3
+tags: []
+user_id: root

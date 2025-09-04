@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/26ad47b7e12544108e391e60b4ee3a7b/artifacts
+end_time: 1756888802775
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 26ad47b7e12544108e391e60b4ee3a7b
+run_name: unleashed-swan-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888477634
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/23f3c5eba5864b568f6dfb1808d50833/artifacts
+end_time: 1756977088985
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 23f3c5eba5864b568f6dfb1808d50833
+run_name: nimble-crane-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977084366
+status: 3
+tags: []
+user_id: root

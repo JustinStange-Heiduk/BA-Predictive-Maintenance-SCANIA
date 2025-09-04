@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/baec54be57ae4c3c93a9ae1a73b6f0d2/artifacts
+end_time: 1756976566157
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: baec54be57ae4c3c93a9ae1a73b6f0d2
+run_name: unique-loon-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756976564094
+status: 3
+tags: []
+user_id: root

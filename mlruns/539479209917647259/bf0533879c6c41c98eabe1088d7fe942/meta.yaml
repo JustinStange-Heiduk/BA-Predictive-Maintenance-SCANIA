@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bf0533879c6c41c98eabe1088d7fe942/artifacts
+end_time: 1756975279777
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bf0533879c6c41c98eabe1088d7fe942
+run_name: smiling-dog-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975278368
+status: 3
+tags: []
+user_id: root

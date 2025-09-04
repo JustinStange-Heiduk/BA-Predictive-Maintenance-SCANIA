@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/e54671d8270d494eb18bdb4d385f630a/artifacts
+end_time: 1756977452278
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: e54671d8270d494eb18bdb4d385f630a
+run_name: mysterious-chimp-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977450379
+status: 3
+tags: []
+user_id: root

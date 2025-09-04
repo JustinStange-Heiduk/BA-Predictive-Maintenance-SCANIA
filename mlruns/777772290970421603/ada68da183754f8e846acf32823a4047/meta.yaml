@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ada68da183754f8e846acf32823a4047/artifacts
+end_time: 1756890164561
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ada68da183754f8e846acf32823a4047
+run_name: clumsy-sloth-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756890131529
+status: 4
+tags: []
+user_id: root

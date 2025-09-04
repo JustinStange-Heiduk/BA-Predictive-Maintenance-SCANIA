@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6939173575e044bf909452ee65a3d0a8/artifacts
+end_time: 1756977007818
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6939173575e044bf909452ee65a3d0a8
+run_name: receptive-shad-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977006307
+status: 3
+tags: []
+user_id: root

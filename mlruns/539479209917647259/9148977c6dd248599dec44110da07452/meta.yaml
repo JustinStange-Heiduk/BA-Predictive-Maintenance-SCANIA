@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9148977c6dd248599dec44110da07452/artifacts
+end_time: 1756977093612
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9148977c6dd248599dec44110da07452
+run_name: spiffy-bee-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977094023
+status: 3
+tags: []
+user_id: root

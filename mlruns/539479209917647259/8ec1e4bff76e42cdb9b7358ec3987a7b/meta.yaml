@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/8ec1e4bff76e42cdb9b7358ec3987a7b/artifacts
+end_time: 1756974953406
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 8ec1e4bff76e42cdb9b7358ec3987a7b
+run_name: hilarious-turtle-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974951406
+status: 3
+tags: []
+user_id: root

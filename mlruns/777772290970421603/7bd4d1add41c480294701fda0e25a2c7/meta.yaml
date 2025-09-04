@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/7bd4d1add41c480294701fda0e25a2c7/artifacts
+end_time: 1756905342637
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 7bd4d1add41c480294701fda0e25a2c7
+run_name: defiant-pig-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756905291046
+status: 3
+tags: []
+user_id: root

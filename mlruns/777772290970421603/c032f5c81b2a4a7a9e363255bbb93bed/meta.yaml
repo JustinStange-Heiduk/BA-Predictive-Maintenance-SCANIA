@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/c032f5c81b2a4a7a9e363255bbb93bed/artifacts
+end_time: 1756913009117
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: c032f5c81b2a4a7a9e363255bbb93bed
+run_name: rsf_hpo_total_cost_sh
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912958491
+status: 4
+tags: []
+user_id: root

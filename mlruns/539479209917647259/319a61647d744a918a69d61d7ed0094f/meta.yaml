@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/319a61647d744a918a69d61d7ed0094f/artifacts
+end_time: 1756975072216
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 319a61647d744a918a69d61d7ed0094f
+run_name: bustling-grub-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975070603
+status: 3
+tags: []
+user_id: root

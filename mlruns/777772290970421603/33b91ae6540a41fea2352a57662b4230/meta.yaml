@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/33b91ae6540a41fea2352a57662b4230/artifacts
+end_time: 1756969975177
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 33b91ae6540a41fea2352a57662b4230
+run_name: nosy-newt-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969970708
+status: 3
+tags: []
+user_id: root

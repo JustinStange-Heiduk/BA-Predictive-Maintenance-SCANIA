@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/87f6429c551a4ee68674e74ff12c485f/artifacts
+end_time: 1756975103508
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 87f6429c551a4ee68674e74ff12c485f
+run_name: dashing-fly-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975101581
+status: 3
+tags: []
+user_id: root

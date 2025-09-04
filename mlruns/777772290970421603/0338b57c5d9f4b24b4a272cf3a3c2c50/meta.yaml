@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0338b57c5d9f4b24b4a272cf3a3c2c50/artifacts
+end_time: 1756968007188
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0338b57c5d9f4b24b4a272cf3a3c2c50
+run_name: valuable-deer-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968002433
+status: 4
+tags: []
+user_id: root

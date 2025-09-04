@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/2c26571eb8d04f519e6be958df0a6b9d/artifacts
+end_time: 1756977849425
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 2c26571eb8d04f519e6be958df0a6b9d
+run_name: awesome-rook-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977847247
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/606a27779b634e25b64dbc44145a7cae/artifacts
+end_time: 1756978365066
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 606a27779b634e25b64dbc44145a7cae
+run_name: worried-shad-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756978363415
+status: 3
+tags: []
+user_id: root

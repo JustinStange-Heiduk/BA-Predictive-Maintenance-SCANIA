@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/6a0394badae644c0b1e708535fd9271e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 6a0394badae644c0b1e708535fd9271e
+run_name: painted-horse-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974480232
+status: 1
+tags: []
+user_id: root

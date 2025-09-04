@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/96e415c576c24731ba138f423c5a28a6/artifacts
+end_time: 1756912801191
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 96e415c576c24731ba138f423c5a28a6
+run_name: mysterious-elk-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912790438
+status: 4
+tags: []
+user_id: root

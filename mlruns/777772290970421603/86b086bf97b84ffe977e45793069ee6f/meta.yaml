@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/86b086bf97b84ffe977e45793069ee6f/artifacts
+end_time: 1756914085402
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 86b086bf97b84ffe977e45793069ee6f
+run_name: defiant-mare-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756914051662
+status: 3
+tags: []
+user_id: root

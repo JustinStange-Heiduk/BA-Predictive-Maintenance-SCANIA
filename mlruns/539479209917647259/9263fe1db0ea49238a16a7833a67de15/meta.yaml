@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/9263fe1db0ea49238a16a7833a67de15/artifacts
+end_time: 1756977355738
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: 9263fe1db0ea49238a16a7833a67de15
+run_name: skittish-snake-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756977353655
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/bb5a7bdaf9a24564be402bc6cbc72a74/artifacts
+end_time: 1756975016302
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: bb5a7bdaf9a24564be402bc6cbc72a74
+run_name: able-fish-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975014157
+status: 3
+tags: []
+user_id: root

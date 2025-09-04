@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cf4e55688c5045dfab5c4fd8ed317e58/artifacts
+end_time: 1756970094011
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cf4e55688c5045dfab5c4fd8ed317e58
+run_name: enchanting-steed-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756970092548
+status: 3
+tags: []
+user_id: root

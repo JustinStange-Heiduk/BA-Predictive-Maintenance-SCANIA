@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/539479209917647259/c1a831b824d84f198a04f72231cb94a4/artifacts
+end_time: 1756975020178
+entry_point_name: ''
+experiment_id: '539479209917647259'
+lifecycle_stage: active
+run_id: c1a831b824d84f198a04f72231cb94a4
+run_name: monumental-foal-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975018128
+status: 3
+tags: []
+user_id: root
