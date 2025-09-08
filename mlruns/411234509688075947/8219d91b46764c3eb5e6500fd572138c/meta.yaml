@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/8219d91b46764c3eb5e6500fd572138c/artifacts
+end_time: 1757063542390
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 8219d91b46764c3eb5e6500fd572138c
+run_name: whimsical-dog-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063535298
+status: 4
+tags: []
+user_id: root

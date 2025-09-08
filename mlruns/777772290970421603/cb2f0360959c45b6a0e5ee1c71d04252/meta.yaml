@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cb2f0360959c45b6a0e5ee1c71d04252/artifacts
+end_time: 1757062553267
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cb2f0360959c45b6a0e5ee1c71d04252
+run_name: honorable-whale-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062548079
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/ad417473190e455a887ee320e2d76d77/artifacts
+end_time: 1757063005151
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: ad417473190e455a887ee320e2d76d77
+run_name: upset-stag-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062997613
+status: 4
+tags: []
+user_id: root

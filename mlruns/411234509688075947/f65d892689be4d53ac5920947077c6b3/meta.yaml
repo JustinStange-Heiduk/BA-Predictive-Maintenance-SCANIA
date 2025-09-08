@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/f65d892689be4d53ac5920947077c6b3/artifacts
+end_time: 1757063524776
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: f65d892689be4d53ac5920947077c6b3
+run_name: caring-pig-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063519542
+status: 4
+tags: []
+user_id: root

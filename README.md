@@ -37,8 +37,8 @@ Ordner	Zweck	Beispiele aus deinem Projekt
 02_intermediate	Vorverarbeitete Daten (Diff, Interpolation, dropna)
 03_primary	Integrierte, bereinigte Struktur (Window)
 04_feature	Von tsfresh o. Ä. generierte Features oder manuell berechnete Features	features_window8.csv, features_window32.csv
-05_model_input	Finalisierte Inputdaten für das Modell – nach Feature Selection und evtl. Skalierung	X_train.csv, y_train.csv, X_val.csv
-06_models	Gespeicherte Modelle	xgboost_model.pkl, bilstm_model.h5
+05_model_input	Finalisierte Inputdaten für das Modell – nach Feature Selection und evtl. Skalierung	
+06_models	Gespeicherte Modelle	xgboost_model.pkl, rsf_model.h5
 07_model_output	Modelloutputs wie Vorhersagen, Wahrscheinlichkeiten, Residuen	y_pred.csv, rul_pred.csv, SHAP-Werte
 08_reporting	Abbildungen, Tabellen, Metriken, Explainability, etc.	ROC-Curve, Feature Importance, Evaluation Reports
 

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/2bd950808aaa409ab6117a1b037ab96b/artifacts
+end_time: 1757062974559
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 2bd950808aaa409ab6117a1b037ab96b
+run_name: bemused-lynx-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062968956
+status: 4
+tags: []
+user_id: root

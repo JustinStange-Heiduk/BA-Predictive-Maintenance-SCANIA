@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/4e599637303e4a79b5e40b10e928f979/artifacts
+end_time: 1757063189023
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 4e599637303e4a79b5e40b10e928f979
+run_name: hilarious-sponge-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063184191
+status: 4
+tags: []
+user_id: root

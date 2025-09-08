@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/5416fa025ec14e0e92785665584f5b86/artifacts
+end_time: 1757063500940
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 5416fa025ec14e0e92785665584f5b86
+run_name: delicate-donkey-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063490646
+status: 4
+tags: []
+user_id: root

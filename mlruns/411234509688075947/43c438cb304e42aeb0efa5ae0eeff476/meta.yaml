@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/43c438cb304e42aeb0efa5ae0eeff476/artifacts
+end_time: 1757063535093
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 43c438cb304e42aeb0efa5ae0eeff476
+run_name: righteous-hen-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063524975
+status: 4
+tags: []
+user_id: root

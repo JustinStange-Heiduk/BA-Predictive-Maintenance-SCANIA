@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/5b2ea3a37f9b4823bd56c310bbeb73ca/artifacts
+end_time: 1757062571114
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 5b2ea3a37f9b4823bd56c310bbeb73ca
+run_name: judicious-snake-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062563788
+status: 4
+tags: []
+user_id: root

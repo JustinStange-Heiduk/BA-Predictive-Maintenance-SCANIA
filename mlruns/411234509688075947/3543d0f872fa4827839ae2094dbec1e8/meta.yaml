@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/3543d0f872fa4827839ae2094dbec1e8/artifacts
+end_time: 1757063519354
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 3543d0f872fa4827839ae2094dbec1e8
+run_name: receptive-snail-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063510274
+status: 4
+tags: []
+user_id: root

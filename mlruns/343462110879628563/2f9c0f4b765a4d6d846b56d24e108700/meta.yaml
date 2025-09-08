@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/343462110879628563/2f9c0f4b765a4d6d846b56d24e108700/artifacts
+end_time: 1757317706842
+entry_point_name: ''
+experiment_id: '343462110879628563'
+lifecycle_stage: active
+run_id: 2f9c0f4b765a4d6d846b56d24e108700
+run_name: XGB_AFT_final
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757317705648
+status: 3
+tags: []
+user_id: root

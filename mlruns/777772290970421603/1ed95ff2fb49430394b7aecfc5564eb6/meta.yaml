@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/1ed95ff2fb49430394b7aecfc5564eb6/artifacts
+end_time: 1757063209340
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 1ed95ff2fb49430394b7aecfc5564eb6
+run_name: unruly-robin-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063200246
+status: 4
+tags: []
+user_id: root

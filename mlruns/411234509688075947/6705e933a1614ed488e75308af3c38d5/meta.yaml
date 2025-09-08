@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/6705e933a1614ed488e75308af3c38d5/artifacts
+end_time: 1757063490454
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 6705e933a1614ed488e75308af3c38d5
+run_name: salty-horse-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063485746
+status: 4
+tags: []
+user_id: root

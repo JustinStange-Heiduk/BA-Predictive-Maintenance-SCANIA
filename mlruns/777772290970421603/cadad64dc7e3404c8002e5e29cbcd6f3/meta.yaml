@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cadad64dc7e3404c8002e5e29cbcd6f3/artifacts
+end_time: 1757062934155
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cadad64dc7e3404c8002e5e29cbcd6f3
+run_name: amusing-snail-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062928932
+status: 4
+tags: []
+user_id: root

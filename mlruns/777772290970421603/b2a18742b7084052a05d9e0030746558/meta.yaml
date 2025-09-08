@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/b2a18742b7084052a05d9e0030746558/artifacts
+end_time: 1757063218490
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: b2a18742b7084052a05d9e0030746558
+run_name: bedecked-hawk-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063209553
+status: 4
+tags: []
+user_id: root

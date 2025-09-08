@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/cfbea5591aa74cbdbb31cf8d77149dd9/artifacts
+end_time: 1757062509254
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: cfbea5591aa74cbdbb31cf8d77149dd9
+run_name: bedecked-trout-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062468363
+status: 3
+tags: []
+user_id: root

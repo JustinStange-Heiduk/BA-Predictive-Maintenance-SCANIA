@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/422ae48e6791494c916f78ecfdf21f0c/artifacts
+end_time: 1757063510086
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 422ae48e6791494c916f78ecfdf21f0c
+run_name: grandiose-deer-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063501129
+status: 4
+tags: []
+user_id: root

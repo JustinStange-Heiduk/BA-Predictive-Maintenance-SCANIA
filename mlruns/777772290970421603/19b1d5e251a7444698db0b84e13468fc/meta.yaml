@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/19b1d5e251a7444698db0b84e13468fc/artifacts
+end_time: 1757063255611
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 19b1d5e251a7444698db0b84e13468fc
+run_name: exultant-cub-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063247824
+status: 4
+tags: []
+user_id: root

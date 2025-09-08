@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/8405eab3a80d4b97b7b0d16020e882e0/artifacts
+end_time: 1757063549689
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 8405eab3a80d4b97b7b0d16020e882e0
+run_name: marvelous-ant-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063542579
+status: 4
+tags: []
+user_id: root

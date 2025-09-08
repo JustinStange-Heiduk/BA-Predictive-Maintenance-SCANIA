@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/0858f3fcdb9b444183e961b9e4717337/artifacts
+end_time: 1757062468156
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 0858f3fcdb9b444183e961b9e4717337
+run_name: chill-calf-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062425103
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/12d00996bedb4cb8ae70ea8f3c053d50/artifacts
+end_time: 1757062539408
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 12d00996bedb4cb8ae70ea8f3c053d50
+run_name: grandiose-sloth-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062530820
+status: 4
+tags: []
+user_id: root

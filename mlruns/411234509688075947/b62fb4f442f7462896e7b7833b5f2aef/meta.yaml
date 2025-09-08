@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/b62fb4f442f7462896e7b7833b5f2aef/artifacts
+end_time: 1757063439003
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: b62fb4f442f7462896e7b7833b5f2aef
+run_name: learned-perch-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063394770
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/2c0074a19e4b4d46b5bfb53606da9b62/artifacts
+end_time: 1757063485557
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 2c0074a19e4b4d46b5bfb53606da9b62
+run_name: shivering-turtle-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063480916
+status: 4
+tags: []
+user_id: root

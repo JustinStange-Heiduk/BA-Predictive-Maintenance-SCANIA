@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/a214f2ff0c8e40038a0d678ce2950eeb/artifacts
+end_time: 1757063480701
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: a214f2ff0c8e40038a0d678ce2950eeb
+run_name: lyrical-squid-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063439195
+status: 3
+tags: []
+user_id: root

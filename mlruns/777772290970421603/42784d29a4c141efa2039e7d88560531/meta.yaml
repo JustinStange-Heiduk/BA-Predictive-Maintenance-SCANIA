@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/42784d29a4c141efa2039e7d88560531/artifacts
+end_time: 1757062988200
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 42784d29a4c141efa2039e7d88560531
+run_name: awesome-koi-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062974789
+status: 4
+tags: []
+user_id: root

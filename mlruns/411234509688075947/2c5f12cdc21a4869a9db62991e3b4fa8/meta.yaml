@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/411234509688075947/2c5f12cdc21a4869a9db62991e3b4fa8/artifacts
+end_time: 1757067995438
+entry_point_name: ''
+experiment_id: '411234509688075947'
+lifecycle_stage: active
+run_id: 2c5f12cdc21a4869a9db62991e3b4fa8
+run_name: RSF_final
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063705649
+status: 4
+tags: []
+user_id: root

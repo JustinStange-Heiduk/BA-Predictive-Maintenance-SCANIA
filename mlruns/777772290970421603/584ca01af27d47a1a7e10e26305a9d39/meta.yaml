@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/777772290970421603/584ca01af27d47a1a7e10e26305a9d39/artifacts
+end_time: 1757063137535
+entry_point_name: ''
+experiment_id: '777772290970421603'
+lifecycle_stage: active
+run_id: 584ca01af27d47a1a7e10e26305a9d39
+run_name: invincible-roo-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757063088823
+status: 3
+tags: []
+user_id: root
