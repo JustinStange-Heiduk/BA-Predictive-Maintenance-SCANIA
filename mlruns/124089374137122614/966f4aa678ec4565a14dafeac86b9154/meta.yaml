@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/966f4aa678ec4565a14dafeac86b9154/artifacts
+end_time: 1757431204961
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 966f4aa678ec4565a14dafeac86b9154
+run_name: bright-bat-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431200153
+status: 4
+tags: []
+user_id: root

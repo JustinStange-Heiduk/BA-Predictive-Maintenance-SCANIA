@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/48f62b28df6a4ae1bd1e2da93cd3926b/artifacts
+end_time: 1757493705067
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 48f62b28df6a4ae1bd1e2da93cd3926b
+run_name: abundant-newt-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493702581
+status: 3
+tags: []
+user_id: root

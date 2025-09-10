@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/75a48a468ce74d21806e7dbf1a132bb3/artifacts
+end_time: 1757493262571
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 75a48a468ce74d21806e7dbf1a132bb3
+run_name: youthful-mare-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493260498
+status: 4
+tags: []
+user_id: root

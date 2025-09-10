@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/88a4af3a742340f888f5add8ef363687/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 88a4af3a742340f888f5add8ef363687
+run_name: luxuriant-mink-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493708303
+status: 1
+tags: []
+user_id: root

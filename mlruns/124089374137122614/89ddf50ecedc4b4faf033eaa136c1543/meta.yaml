@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/89ddf50ecedc4b4faf033eaa136c1543/artifacts
+end_time: 1757431259982
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 89ddf50ecedc4b4faf033eaa136c1543
+run_name: judicious-lamb-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431221541
+status: 3
+tags: []
+user_id: root

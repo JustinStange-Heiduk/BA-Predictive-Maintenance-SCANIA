@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/83b9594fd27d46e2a1bfa5ee2f9c6e32/artifacts
+end_time: 1757493689407
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 83b9594fd27d46e2a1bfa5ee2f9c6e32
+run_name: resilient-shark-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493668046
+status: 3
+tags: []
+user_id: root

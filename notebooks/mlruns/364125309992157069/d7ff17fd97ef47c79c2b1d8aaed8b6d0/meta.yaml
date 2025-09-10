@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d7ff17fd97ef47c79c2b1d8aaed8b6d0/artifacts
+end_time: 1757493702290
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d7ff17fd97ef47c79c2b1d8aaed8b6d0
+run_name: fun-jay-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493696588
+status: 3
+tags: []
+user_id: root

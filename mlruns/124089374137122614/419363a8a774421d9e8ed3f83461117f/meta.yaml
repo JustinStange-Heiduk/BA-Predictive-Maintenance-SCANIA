@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/419363a8a774421d9e8ed3f83461117f/artifacts
+end_time: 1757430982618
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 419363a8a774421d9e8ed3f83461117f
+run_name: enchanting-finch-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757430977828
+status: 4
+tags: []
+user_id: root

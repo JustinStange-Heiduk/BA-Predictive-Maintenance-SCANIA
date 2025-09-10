@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/81d2e18ef2c142468e2c26cd55212890/artifacts
+end_time: 1757430840391
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 81d2e18ef2c142468e2c26cd55212890
+run_name: flawless-horse-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757430836092
+status: 4
+tags: []
+user_id: root

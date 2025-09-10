@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/9b43b47fdeef49a1a6e06915d29c4f42/artifacts
+end_time: 1757431116723
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 9b43b47fdeef49a1a6e06915d29c4f42
+run_name: gifted-horse-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431105672
+status: 4
+tags: []
+user_id: root

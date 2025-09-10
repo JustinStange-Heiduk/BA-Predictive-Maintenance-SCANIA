@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/7648b93ee6ad469fb533b2e4911eada2/artifacts
+end_time: 1757431190907
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 7648b93ee6ad469fb533b2e4911eada2
+run_name: melodic-stag-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431180839
+status: 4
+tags: []
+user_id: root

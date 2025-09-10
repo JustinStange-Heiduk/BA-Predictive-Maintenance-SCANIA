@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/d4fdcd1689674aef889d8f9e7b33978d/artifacts
+end_time: 1757431199938
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: d4fdcd1689674aef889d8f9e7b33978d
+run_name: smiling-duck-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431191125
+status: 4
+tags: []
+user_id: root

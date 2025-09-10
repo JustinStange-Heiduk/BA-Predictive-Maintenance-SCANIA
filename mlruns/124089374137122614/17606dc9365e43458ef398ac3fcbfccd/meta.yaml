@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/17606dc9365e43458ef398ac3fcbfccd/artifacts
+end_time: 1757430994366
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 17606dc9365e43458ef398ac3fcbfccd
+run_name: resilient-dove-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757430987587
+status: 4
+tags: []
+user_id: root

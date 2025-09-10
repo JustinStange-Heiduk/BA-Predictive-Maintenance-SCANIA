@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/25f543c446534f4aadb90a6465f0e7d1/artifacts
+end_time: 1757493445171
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 25f543c446534f4aadb90a6465f0e7d1
+run_name: stately-quail-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493431145
+status: 4
+tags: []
+user_id: root

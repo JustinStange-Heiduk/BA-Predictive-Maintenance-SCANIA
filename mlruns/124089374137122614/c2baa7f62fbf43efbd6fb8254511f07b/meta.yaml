@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/c2baa7f62fbf43efbd6fb8254511f07b/artifacts
+end_time: 1757431100220
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: c2baa7f62fbf43efbd6fb8254511f07b
+run_name: unequaled-bass-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431095590
+status: 4
+tags: []
+user_id: root

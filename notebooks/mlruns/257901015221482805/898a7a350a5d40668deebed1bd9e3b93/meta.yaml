@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/257901015221482805/898a7a350a5d40668deebed1bd9e3b93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '257901015221482805'
+lifecycle_stage: active
+run_id: 898a7a350a5d40668deebed1bd9e3b93
+run_name: RSF_final_8N
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757429238251
+status: 1
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/819b4c9b25a04f55948a35d35626f54e/artifacts
+end_time: 1757431304718
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 819b4c9b25a04f55948a35d35626f54e
+run_name: fun-moose-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431297057
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/b23097979fb84f638c79f61db3dccf77/artifacts
+end_time: 1757430929484
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: b23097979fb84f638c79f61db3dccf77
+run_name: nosy-zebra-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757430877957
+status: 3
+tags: []
+user_id: root

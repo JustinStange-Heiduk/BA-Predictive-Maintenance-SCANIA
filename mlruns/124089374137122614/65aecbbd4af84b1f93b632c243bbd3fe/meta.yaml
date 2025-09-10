@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/65aecbbd4af84b1f93b632c243bbd3fe/artifacts
+end_time: 1757431330520
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 65aecbbd4af84b1f93b632c243bbd3fe
+run_name: bright-sponge-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431324823
+status: 4
+tags: []
+user_id: root

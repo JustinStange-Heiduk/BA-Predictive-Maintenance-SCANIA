@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/ad4b482326174ae883ba22246278f380/artifacts
+end_time: 1757431284045
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: ad4b482326174ae883ba22246278f380
+run_name: rebellious-gnat-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431270799
+status: 4
+tags: []
+user_id: root

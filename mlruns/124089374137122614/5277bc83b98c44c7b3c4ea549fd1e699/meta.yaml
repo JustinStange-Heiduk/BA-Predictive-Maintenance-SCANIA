@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/5277bc83b98c44c7b3c4ea549fd1e699/artifacts
+end_time: 1757431296838
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 5277bc83b98c44c7b3c4ea549fd1e699
+run_name: auspicious-croc-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431284888
+status: 4
+tags: []
+user_id: root

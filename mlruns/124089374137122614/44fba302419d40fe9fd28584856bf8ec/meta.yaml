@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/44fba302419d40fe9fd28584856bf8ec/artifacts
+end_time: 1757430987418
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 44fba302419d40fe9fd28584856bf8ec
+run_name: victorious-loon-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757430982791
+status: 4
+tags: []
+user_id: root

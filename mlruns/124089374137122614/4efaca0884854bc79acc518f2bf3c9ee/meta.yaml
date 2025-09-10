@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/4efaca0884854bc79acc518f2bf3c9ee/artifacts
+end_time: 1757431317099
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 4efaca0884854bc79acc518f2bf3c9ee
+run_name: angry-fish-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431312416
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/5b50f5b63309465193089030ad89e223/artifacts
+end_time: 1757431270591
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 5b50f5b63309465193089030ad89e223
+run_name: nebulous-bird-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431260197
+status: 4
+tags: []
+user_id: root

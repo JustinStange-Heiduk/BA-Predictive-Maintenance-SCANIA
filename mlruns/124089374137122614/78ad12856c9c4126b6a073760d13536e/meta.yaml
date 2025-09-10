@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/78ad12856c9c4126b6a073760d13536e/artifacts
+end_time: 1757430776033
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 78ad12856c9c4126b6a073760d13536e
+run_name: legendary-frog-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757430771721
+status: 4
+tags: []
+user_id: root

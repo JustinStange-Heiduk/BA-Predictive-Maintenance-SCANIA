@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1dd16380d1b84246b36f67dbd819d925/artifacts
+end_time: 1757493356247
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1dd16380d1b84246b36f67dbd819d925
+run_name: painted-jay-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493344744
+status: 4
+tags: []
+user_id: root

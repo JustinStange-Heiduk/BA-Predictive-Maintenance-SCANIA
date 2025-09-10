@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a34b1967001c48599cd861b1a99ae890/artifacts
+end_time: 1757493546558
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a34b1967001c48599cd861b1a99ae890
+run_name: flawless-wasp-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493538785
+status: 3
+tags: []
+user_id: root

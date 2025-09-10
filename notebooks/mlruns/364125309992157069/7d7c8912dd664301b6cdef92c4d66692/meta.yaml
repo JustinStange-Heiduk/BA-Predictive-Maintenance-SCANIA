@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7d7c8912dd664301b6cdef92c4d66692/artifacts
+end_time: 1757493708021
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7d7c8912dd664301b6cdef92c4d66692
+run_name: powerful-shrew-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493705346
+status: 3
+tags: []
+user_id: root

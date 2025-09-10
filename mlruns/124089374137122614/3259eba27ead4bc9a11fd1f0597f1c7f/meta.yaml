@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/3259eba27ead4bc9a11fd1f0597f1c7f/artifacts
+end_time: 1757430977637
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 3259eba27ead4bc9a11fd1f0597f1c7f
+run_name: bustling-bat-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757430930256
+status: 3
+tags: []
+user_id: root

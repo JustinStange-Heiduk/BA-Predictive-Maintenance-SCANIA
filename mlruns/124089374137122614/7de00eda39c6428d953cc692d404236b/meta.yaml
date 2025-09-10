@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/mlruns/124089374137122614/7de00eda39c6428d953cc692d404236b/artifacts
+end_time: 1757431212255
+entry_point_name: ''
+experiment_id: '124089374137122614'
+lifecycle_stage: active
+run_id: 7de00eda39c6428d953cc692d404236b
+run_name: burly-stoat-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757431205170
+status: 4
+tags: []
+user_id: root

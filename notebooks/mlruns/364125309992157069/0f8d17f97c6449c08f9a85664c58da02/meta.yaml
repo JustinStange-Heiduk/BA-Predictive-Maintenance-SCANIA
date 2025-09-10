@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0f8d17f97c6449c08f9a85664c58da02/artifacts
+end_time: 1757493696318
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0f8d17f97c6449c08f9a85664c58da02
+run_name: melodic-koi-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493688592
+status: 3
+tags: []
+user_id: root
