@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8f5acac222e24f70b27d1f4e96c255fa/artifacts
+end_time: 1757494882352
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8f5acac222e24f70b27d1f4e96c255fa
+run_name: respected-calf-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494867378
+status: 3
+tags: []
+user_id: root

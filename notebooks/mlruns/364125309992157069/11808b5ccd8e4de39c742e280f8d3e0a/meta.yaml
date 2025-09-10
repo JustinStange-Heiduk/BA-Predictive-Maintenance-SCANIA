@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/11808b5ccd8e4de39c742e280f8d3e0a/artifacts
+end_time: 1757495812391
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 11808b5ccd8e4de39c742e280f8d3e0a
+run_name: fearless-slug-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495795171
+status: 3
+tags: []
+user_id: root

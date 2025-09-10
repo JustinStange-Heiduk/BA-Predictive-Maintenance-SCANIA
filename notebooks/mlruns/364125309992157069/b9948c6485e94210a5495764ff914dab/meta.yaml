@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b9948c6485e94210a5495764ff914dab/artifacts
+end_time: 1757494561202
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b9948c6485e94210a5495764ff914dab
+run_name: clumsy-skink-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494549876
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/97219ec388014c8bbee4d68064835739/artifacts
+end_time: 1757495489805
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 97219ec388014c8bbee4d68064835739
+run_name: learned-cat-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495465695
+status: 3
+tags: []
+user_id: root

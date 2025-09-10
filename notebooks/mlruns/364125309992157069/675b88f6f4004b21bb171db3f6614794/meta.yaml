@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/675b88f6f4004b21bb171db3f6614794/artifacts
+end_time: 1757495773426
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 675b88f6f4004b21bb171db3f6614794
+run_name: industrious-pug-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495701395
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5bf56a34a75044d48fc354e2dd6addc6/artifacts
+end_time: 1757495353368
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5bf56a34a75044d48fc354e2dd6addc6
+run_name: bald-bass-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495304885
+status: 3
+tags: []
+user_id: root

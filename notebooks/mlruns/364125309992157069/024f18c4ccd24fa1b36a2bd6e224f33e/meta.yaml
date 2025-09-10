@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/024f18c4ccd24fa1b36a2bd6e224f33e/artifacts
+end_time: 1757495011511
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 024f18c4ccd24fa1b36a2bd6e224f33e
+run_name: efficient-ray-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495008676
+status: 3
+tags: []
+user_id: root

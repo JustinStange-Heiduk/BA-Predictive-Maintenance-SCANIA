@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ea9d4bb1de9b4ac6a8d43670a28e2e5c/artifacts
+end_time: 1757495048486
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ea9d4bb1de9b4ac6a8d43670a28e2e5c
+run_name: bittersweet-croc-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495042172
+status: 3
+tags: []
+user_id: root

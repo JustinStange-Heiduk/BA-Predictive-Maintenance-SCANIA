@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f9f076504a254a06b0f7bd266bc74272/artifacts
+end_time: 1757495922524
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f9f076504a254a06b0f7bd266bc74272
+run_name: gregarious-rat-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495905272
+status: 3
+tags: []
+user_id: root

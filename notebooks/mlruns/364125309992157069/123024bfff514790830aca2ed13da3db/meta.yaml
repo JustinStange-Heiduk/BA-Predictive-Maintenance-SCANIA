@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/123024bfff514790830aca2ed13da3db/artifacts
+end_time: 1757494452452
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 123024bfff514790830aca2ed13da3db
+run_name: treasured-turtle-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494435485
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/81649d87d84e458f8ab30b5e5fbbb60a/artifacts
+end_time: 1757494827925
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 81649d87d84e458f8ab30b5e5fbbb60a
+run_name: gifted-carp-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494813427
+status: 3
+tags: []
+user_id: root

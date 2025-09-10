@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/30db7d30e76b4da59afc05c7d3b96d04/artifacts
+end_time: 1757494549251
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 30db7d30e76b4da59afc05c7d3b96d04
+run_name: bald-lark-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494452737
+status: 3
+tags: []
+user_id: root

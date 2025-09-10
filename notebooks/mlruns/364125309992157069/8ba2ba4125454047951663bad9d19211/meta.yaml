@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8ba2ba4125454047951663bad9d19211/artifacts
+end_time: 1757495024485
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8ba2ba4125454047951663bad9d19211
+run_name: abrasive-ant-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495021468
+status: 3
+tags: []
+user_id: root

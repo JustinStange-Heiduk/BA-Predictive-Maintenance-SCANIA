@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/95e574b92e984b5a85b726d140999905/artifacts
+end_time: 1757495570560
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 95e574b92e984b5a85b726d140999905
+run_name: polite-rat-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495504059
+status: 3
+tags: []
+user_id: root

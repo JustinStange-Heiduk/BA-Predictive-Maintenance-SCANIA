@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/24357c076f3b4e9ba3d1d4cd053d7dda/artifacts
+end_time: 1757496658739
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 24357c076f3b4e9ba3d1d4cd053d7dda
+run_name: gifted-stag-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757496644571
+status: 3
+tags: []
+user_id: root

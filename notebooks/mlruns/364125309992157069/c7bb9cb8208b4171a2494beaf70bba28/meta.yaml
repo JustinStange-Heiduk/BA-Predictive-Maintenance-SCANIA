@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c7bb9cb8208b4171a2494beaf70bba28/artifacts
+end_time: 1757496015627
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c7bb9cb8208b4171a2494beaf70bba28
+run_name: redolent-elk-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495995427
+status: 3
+tags: []
+user_id: root

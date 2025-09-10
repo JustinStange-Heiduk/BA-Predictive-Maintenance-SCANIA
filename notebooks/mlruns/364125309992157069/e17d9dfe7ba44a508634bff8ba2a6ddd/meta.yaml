@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e17d9dfe7ba44a508634bff8ba2a6ddd/artifacts
+end_time: 1757496043330
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e17d9dfe7ba44a508634bff8ba2a6ddd
+run_name: sincere-gnat-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757496016439
+status: 3
+tags: []
+user_id: root

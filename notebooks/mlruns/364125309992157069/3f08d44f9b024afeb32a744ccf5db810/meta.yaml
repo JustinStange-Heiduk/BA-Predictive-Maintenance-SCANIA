@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3f08d44f9b024afeb32a744ccf5db810/artifacts
+end_time: 1757494119953
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3f08d44f9b024afeb32a744ccf5db810
+run_name: gentle-flea-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494104933
+status: 3
+tags: []
+user_id: root

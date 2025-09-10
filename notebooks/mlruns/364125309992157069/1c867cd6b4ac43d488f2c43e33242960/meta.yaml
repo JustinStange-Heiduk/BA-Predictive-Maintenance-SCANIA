@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1c867cd6b4ac43d488f2c43e33242960/artifacts
+end_time: 1757495041900
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1c867cd6b4ac43d488f2c43e33242960
+run_name: serious-mouse-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495024750
+status: 3
+tags: []
+user_id: root

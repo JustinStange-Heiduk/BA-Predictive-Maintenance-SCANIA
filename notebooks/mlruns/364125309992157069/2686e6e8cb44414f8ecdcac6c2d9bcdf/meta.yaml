@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2686e6e8cb44414f8ecdcac6c2d9bcdf/artifacts
+end_time: 1757494591477
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2686e6e8cb44414f8ecdcac6c2d9bcdf
+run_name: thoughtful-dove-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494588548
+status: 3
+tags: []
+user_id: root

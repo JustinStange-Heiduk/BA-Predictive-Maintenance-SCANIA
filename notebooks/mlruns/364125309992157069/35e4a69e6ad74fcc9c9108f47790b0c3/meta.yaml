@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/35e4a69e6ad74fcc9c9108f47790b0c3/artifacts
+end_time: 1757495018912
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 35e4a69e6ad74fcc9c9108f47790b0c3
+run_name: likeable-shrew-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495015192
+status: 3
+tags: []
+user_id: root

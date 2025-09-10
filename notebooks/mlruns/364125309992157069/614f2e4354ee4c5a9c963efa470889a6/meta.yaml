@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/614f2e4354ee4c5a9c963efa470889a6/artifacts
+end_time: 1757498556595
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 614f2e4354ee4c5a9c963efa470889a6
+run_name: abrasive-cub-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757498550649
+status: 3
+tags: []
+user_id: root

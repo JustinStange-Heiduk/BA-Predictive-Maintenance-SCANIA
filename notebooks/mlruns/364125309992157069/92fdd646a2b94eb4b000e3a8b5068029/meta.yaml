@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/92fdd646a2b94eb4b000e3a8b5068029/artifacts
+end_time: 1757494603439
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 92fdd646a2b94eb4b000e3a8b5068029
+run_name: peaceful-crane-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494591728
+status: 3
+tags: []
+user_id: root

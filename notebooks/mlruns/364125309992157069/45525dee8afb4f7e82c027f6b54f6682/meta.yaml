@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/45525dee8afb4f7e82c027f6b54f6682/artifacts
+end_time: 1757495004563
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 45525dee8afb4f7e82c027f6b54f6682
+run_name: legendary-rook-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494974639
+status: 3
+tags: []
+user_id: root

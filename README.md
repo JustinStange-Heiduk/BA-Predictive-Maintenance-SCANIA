@@ -44,3 +44,7 @@ Ordner	Zweck	Beispiele aus deinem Projekt
 
 
 mlflow ui --backend-store-uri ./mlruns --host 0.0.0.0 --port 5000
+
+
+# Deployment
+streamlit run /workspace/src/app.py

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/999fa7f56a4f4a0287fbf04479bf33ab/artifacts
+end_time: 1757495008393
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 999fa7f56a4f4a0287fbf04479bf33ab
+run_name: classy-squid-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495004839
+status: 3
+tags: []
+user_id: root

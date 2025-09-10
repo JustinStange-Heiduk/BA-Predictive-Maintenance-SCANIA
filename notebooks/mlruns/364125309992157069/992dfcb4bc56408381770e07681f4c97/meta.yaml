@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/992dfcb4bc56408381770e07681f4c97/artifacts
+end_time: 1757495072677
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 992dfcb4bc56408381770e07681f4c97
+run_name: able-shoat-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495048771
+status: 3
+tags: []
+user_id: root

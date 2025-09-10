@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/31ecd63ec1f74a9f89f675a584d9b762/artifacts
+end_time: 1757495936556
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 31ecd63ec1f74a9f89f675a584d9b762
+run_name: zealous-owl-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495924104
+status: 3
+tags: []
+user_id: root

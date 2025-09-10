@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7f339de36fe4468f9f4ea30dd71a2aa8/artifacts
+end_time: 1757495991599
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7f339de36fe4468f9f4ea30dd71a2aa8
+run_name: adaptable-stoat-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495947234
+status: 3
+tags: []
+user_id: root

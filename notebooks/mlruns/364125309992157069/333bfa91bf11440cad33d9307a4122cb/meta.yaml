@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/333bfa91bf11440cad33d9307a4122cb/artifacts
+end_time: 1757495021197
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 333bfa91bf11440cad33d9307a4122cb
+run_name: marvelous-shad-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495019184
+status: 3
+tags: []
+user_id: root

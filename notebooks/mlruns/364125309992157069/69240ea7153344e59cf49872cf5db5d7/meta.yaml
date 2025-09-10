@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/69240ea7153344e59cf49872cf5db5d7/artifacts
+end_time: 1757496129037
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 69240ea7153344e59cf49872cf5db5d7
+run_name: aged-ant-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757496114180
+status: 3
+tags: []
+user_id: root

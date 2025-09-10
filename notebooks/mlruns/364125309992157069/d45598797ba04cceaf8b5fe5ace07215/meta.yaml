@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d45598797ba04cceaf8b5fe5ace07215/artifacts
+end_time: 1757494409221
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d45598797ba04cceaf8b5fe5ace07215
+run_name: exultant-hog-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494269642
+status: 3
+tags: []
+user_id: root

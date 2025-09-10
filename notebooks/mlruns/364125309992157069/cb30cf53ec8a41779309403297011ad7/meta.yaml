@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cb30cf53ec8a41779309403297011ad7/artifacts
+end_time: 1757494575057
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cb30cf53ec8a41779309403297011ad7
+run_name: selective-snipe-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494561466
+status: 3
+tags: []
+user_id: root

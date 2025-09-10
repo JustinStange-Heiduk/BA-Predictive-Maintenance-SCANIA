@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c72717e244564b14bf6f1fc3ef98768e/artifacts
+end_time: 1757495437233
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c72717e244564b14bf6f1fc3ef98768e
+run_name: capable-cod-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495353620
+status: 3
+tags: []
+user_id: root

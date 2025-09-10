@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a5969a4688bd4b63bdedeccf7bd09a9f/artifacts
+end_time: 1757498712882
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a5969a4688bd4b63bdedeccf7bd09a9f
+run_name: omniscient-perch-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757498556775
+status: 3
+tags: []
+user_id: root

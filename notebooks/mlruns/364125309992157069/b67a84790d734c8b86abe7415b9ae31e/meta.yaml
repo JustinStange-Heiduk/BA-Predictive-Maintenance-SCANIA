@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b67a84790d734c8b86abe7415b9ae31e/artifacts
+end_time: 1757495640704
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b67a84790d734c8b86abe7415b9ae31e
+run_name: capable-mink-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495625682
+status: 3
+tags: []
+user_id: root

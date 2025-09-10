@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/faf4d01a349d4d088dfd951d5a0b2568/artifacts
+end_time: 1757495677857
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: faf4d01a349d4d088dfd951d5a0b2568
+run_name: capricious-zebra-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495660162
+status: 3
+tags: []
+user_id: root

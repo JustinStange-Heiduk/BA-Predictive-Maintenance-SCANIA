@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/025979219a0a4eceaddfd0c1811f88aa/artifacts
+end_time: 1757495946883
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 025979219a0a4eceaddfd0c1811f88aa
+run_name: polite-lark-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495936755
+status: 3
+tags: []
+user_id: root

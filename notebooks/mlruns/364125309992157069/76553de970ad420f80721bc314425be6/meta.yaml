@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/76553de970ad420f80721bc314425be6/artifacts
+end_time: 1757495794833
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 76553de970ad420f80721bc314425be6
+run_name: thoughtful-bird-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495773841
+status: 3
+tags: []
+user_id: root

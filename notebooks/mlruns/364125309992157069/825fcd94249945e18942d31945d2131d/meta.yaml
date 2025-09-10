@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/825fcd94249945e18942d31945d2131d/artifacts
+end_time: 1757495503791
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 825fcd94249945e18942d31945d2131d
+run_name: auspicious-fox-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495490081
+status: 3
+tags: []
+user_id: root

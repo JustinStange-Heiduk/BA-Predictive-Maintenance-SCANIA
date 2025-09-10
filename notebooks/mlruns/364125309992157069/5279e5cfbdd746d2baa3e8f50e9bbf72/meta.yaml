@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5279e5cfbdd746d2baa3e8f50e9bbf72/artifacts
+end_time: 1757494813164
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5279e5cfbdd746d2baa3e8f50e9bbf72
+run_name: valuable-asp-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494808517
+status: 3
+tags: []
+user_id: root

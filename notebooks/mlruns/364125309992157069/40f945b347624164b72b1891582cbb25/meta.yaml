@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/40f945b347624164b72b1891582cbb25/artifacts
+end_time: 1757498396220
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 40f945b347624164b72b1891582cbb25
+run_name: valuable-calf-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757498328107
+status: 3
+tags: []
+user_id: root

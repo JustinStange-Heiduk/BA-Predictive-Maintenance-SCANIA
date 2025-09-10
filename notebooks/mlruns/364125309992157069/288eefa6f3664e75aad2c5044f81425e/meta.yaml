@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/288eefa6f3664e75aad2c5044f81425e/artifacts
+end_time: 1757494217366
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 288eefa6f3664e75aad2c5044f81425e
+run_name: abundant-crow-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757494195145
+status: 3
+tags: []
+user_id: root

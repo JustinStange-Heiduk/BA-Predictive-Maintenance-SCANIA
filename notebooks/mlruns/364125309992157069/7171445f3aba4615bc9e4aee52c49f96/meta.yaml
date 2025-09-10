@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7171445f3aba4615bc9e4aee52c49f96/artifacts
+end_time: 1757495120486
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7171445f3aba4615bc9e4aee52c49f96
+run_name: luxuriant-sheep-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495075919
+status: 3
+tags: []
+user_id: root

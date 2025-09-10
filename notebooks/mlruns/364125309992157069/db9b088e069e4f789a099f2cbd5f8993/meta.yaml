@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/db9b088e069e4f789a099f2cbd5f8993/artifacts
+end_time: 1757495884503
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: db9b088e069e4f789a099f2cbd5f8993
+run_name: whimsical-donkey-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757495815432
+status: 3
+tags: []
+user_id: root
