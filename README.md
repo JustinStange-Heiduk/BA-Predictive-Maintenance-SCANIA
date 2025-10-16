@@ -27,6 +27,7 @@ Die Daten stammen aus dem öffentlich zugänglichen Forschungskatalog des
 
 Das Dataset umfasst neun CSV-Dateien für Training, Validierung und Test:
 
+```text
 data/01_raw/
 ├── train_specifications.csv
 ├── train_operational_readouts.csv
@@ -37,8 +38,7 @@ data/01_raw/
 ├── test_specifications.csv
 ├── test_operational_readouts.csv
 ├── test_labels.csv
-
-
+```
 ---
 
 ## 3. Daten-Pipeline
@@ -115,9 +115,10 @@ Entscheidung basierend auf Kostenmatrix oder Argmax
 
 GPT-gestützte Erklärungen der Modellentscheidung
 
-8. Projektstruktur
+## 8. Projektstruktur
 
-.
+```text
+
 ├── data/                 # Datenpipeline (01_raw – 08_reporting)
 ├── notebooks/            # Jupyter Notebooks (EDA, Modeling, Evaluation, Deployment)
 ├── src/                  # Python-Module (Preprocessing, Modelle, Streamlit-App)
@@ -132,6 +133,7 @@ GPT-gestützte Erklärungen der Modellentscheidung
 ├── docker-compose.yml    # Orchestrierung
 ├── requirements.txt      # Python Dependencies
 └── README.md             # Projektdokumentation
+```
 
 9. Reproduzierbarkeit & Container
 Das gesamte Projekt kann mit Docker ausgeführt werden:
