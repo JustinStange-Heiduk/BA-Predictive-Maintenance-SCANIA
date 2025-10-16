@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/36c8a3f8f1084c96b7ecc3f9893ffd03/artifacts
+end_time: 1757513101431
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 36c8a3f8f1084c96b7ecc3f9893ffd03
+run_name: exultant-sow-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513097359
+status: 3
+tags: []
+user_id: root

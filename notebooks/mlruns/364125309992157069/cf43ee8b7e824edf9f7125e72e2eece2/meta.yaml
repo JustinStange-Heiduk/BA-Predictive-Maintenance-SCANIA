@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cf43ee8b7e824edf9f7125e72e2eece2/artifacts
+end_time: 1757506470452
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cf43ee8b7e824edf9f7125e72e2eece2
+run_name: popular-fox-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506463314
+status: 3
+tags: []
+user_id: root

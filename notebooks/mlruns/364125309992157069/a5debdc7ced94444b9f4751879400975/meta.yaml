@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a5debdc7ced94444b9f4751879400975/artifacts
+end_time: 1757503677053
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a5debdc7ced94444b9f4751879400975
+run_name: orderly-stork-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503666693
+status: 3
+tags: []
+user_id: root

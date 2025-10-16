@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/24489c1bbb0642cd9bd25cd0c09cc2cd/artifacts
+end_time: 1757507470817
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 24489c1bbb0642cd9bd25cd0c09cc2cd
+run_name: wistful-koi-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507467891
+status: 3
+tags: []
+user_id: root

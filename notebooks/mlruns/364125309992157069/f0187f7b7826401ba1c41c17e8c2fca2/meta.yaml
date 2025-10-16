@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f0187f7b7826401ba1c41c17e8c2fca2/artifacts
+end_time: 1757514461663
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f0187f7b7826401ba1c41c17e8c2fca2
+run_name: wistful-frog-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514447703
+status: 3
+tags: []
+user_id: root

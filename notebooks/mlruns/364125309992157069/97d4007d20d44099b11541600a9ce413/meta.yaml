@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/97d4007d20d44099b11541600a9ce413/artifacts
+end_time: 1757506638684
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 97d4007d20d44099b11541600a9ce413
+run_name: sassy-conch-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506632410
+status: 3
+tags: []
+user_id: root

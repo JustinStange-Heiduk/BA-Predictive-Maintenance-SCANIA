@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b194da9e1e744f4a9ae71424a1008ab7/artifacts
+end_time: 1757513944345
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b194da9e1e744f4a9ae71424a1008ab7
+run_name: nebulous-wasp-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513939428
+status: 3
+tags: []
+user_id: root

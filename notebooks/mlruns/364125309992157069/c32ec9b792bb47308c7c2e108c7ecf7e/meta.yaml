@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c32ec9b792bb47308c7c2e108c7ecf7e/artifacts
+end_time: 1757510059554
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c32ec9b792bb47308c7c2e108c7ecf7e
+run_name: funny-swan-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510055685
+status: 3
+tags: []
+user_id: root

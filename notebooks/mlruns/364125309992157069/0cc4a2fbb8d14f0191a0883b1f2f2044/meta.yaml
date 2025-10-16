@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0cc4a2fbb8d14f0191a0883b1f2f2044/artifacts
+end_time: 1757514917979
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0cc4a2fbb8d14f0191a0883b1f2f2044
+run_name: exultant-carp-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514908063
+status: 3
+tags: []
+user_id: root

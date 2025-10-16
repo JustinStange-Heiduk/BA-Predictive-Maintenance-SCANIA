@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ee5705399e9640b9adcaee8d7562f479/artifacts
+end_time: 1757513234979
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ee5705399e9640b9adcaee8d7562f479
+run_name: bald-stag-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513230804
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1b252cc82e8f46f4ae3d3992c886e48c/artifacts
+end_time: 1757512160280
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1b252cc82e8f46f4ae3d3992c886e48c
+run_name: placid-bat-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512144959
+status: 3
+tags: []
+user_id: root

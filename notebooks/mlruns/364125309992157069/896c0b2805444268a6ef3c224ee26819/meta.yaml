@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/896c0b2805444268a6ef3c224ee26819/artifacts
+end_time: 1757507341053
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 896c0b2805444268a6ef3c224ee26819
+run_name: bold-crow-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507338600
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d3a95ee5ca8e4c739ea0d4eb2094fd77/artifacts
+end_time: 1757504295757
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d3a95ee5ca8e4c739ea0d4eb2094fd77
+run_name: clean-shark-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757504119568
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f5b78c5041414f30a473d1f189756d19/artifacts
+end_time: 1757506746965
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f5b78c5041414f30a473d1f189756d19
+run_name: nimble-mule-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506743851
+status: 3
+tags: []
+user_id: root

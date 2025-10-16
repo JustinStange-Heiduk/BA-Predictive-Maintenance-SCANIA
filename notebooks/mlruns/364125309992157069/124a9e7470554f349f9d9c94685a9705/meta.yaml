@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/124a9e7470554f349f9d9c94685a9705/artifacts
+end_time: 1757512959789
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 124a9e7470554f349f9d9c94685a9705
+run_name: beautiful-snail-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512951880
+status: 3
+tags: []
+user_id: root

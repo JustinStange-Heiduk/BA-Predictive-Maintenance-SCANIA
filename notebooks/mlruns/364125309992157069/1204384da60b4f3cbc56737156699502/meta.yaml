@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1204384da60b4f3cbc56737156699502/artifacts
+end_time: 1757515093820
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1204384da60b4f3cbc56737156699502
+run_name: lyrical-dolphin-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515081380
+status: 3
+tags: []
+user_id: root

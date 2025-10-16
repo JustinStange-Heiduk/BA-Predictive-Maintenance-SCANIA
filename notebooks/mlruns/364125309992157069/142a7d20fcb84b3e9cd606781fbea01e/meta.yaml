@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/142a7d20fcb84b3e9cd606781fbea01e/artifacts
+end_time: 1757507711515
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 142a7d20fcb84b3e9cd606781fbea01e
+run_name: burly-stag-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507708194
+status: 3
+tags: []
+user_id: root

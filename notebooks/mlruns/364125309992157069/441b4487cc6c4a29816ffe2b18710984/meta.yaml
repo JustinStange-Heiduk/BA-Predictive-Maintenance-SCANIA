@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/441b4487cc6c4a29816ffe2b18710984/artifacts
+end_time: 1757512513174
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 441b4487cc6c4a29816ffe2b18710984
+run_name: magnificent-bug-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512506889
+status: 3
+tags: []
+user_id: root

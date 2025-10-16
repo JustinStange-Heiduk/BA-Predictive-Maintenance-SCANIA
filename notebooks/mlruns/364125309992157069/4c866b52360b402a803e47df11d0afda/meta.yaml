@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4c866b52360b402a803e47df11d0afda/artifacts
+end_time: 1757507722468
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4c866b52360b402a803e47df11d0afda
+run_name: capable-carp-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507718761
+status: 3
+tags: []
+user_id: root

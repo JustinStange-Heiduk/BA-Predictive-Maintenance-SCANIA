@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2aca745cffc34dc797b7ceb9be922a53/artifacts
+end_time: 1757510485107
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2aca745cffc34dc797b7ceb9be922a53
+run_name: masked-crow-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510448745
+status: 3
+tags: []
+user_id: root

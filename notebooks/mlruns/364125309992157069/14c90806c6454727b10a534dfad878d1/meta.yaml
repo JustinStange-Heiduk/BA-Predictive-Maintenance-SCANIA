@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/14c90806c6454727b10a534dfad878d1/artifacts
+end_time: 1757506928581
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 14c90806c6454727b10a534dfad878d1
+run_name: unequaled-ox-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506925804
+status: 3
+tags: []
+user_id: root

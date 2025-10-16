@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e35ba48b30114bbb8d841327d9af036b/artifacts
+end_time: 1757512506564
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e35ba48b30114bbb8d841327d9af036b
+run_name: adorable-slug-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512497833
+status: 3
+tags: []
+user_id: root

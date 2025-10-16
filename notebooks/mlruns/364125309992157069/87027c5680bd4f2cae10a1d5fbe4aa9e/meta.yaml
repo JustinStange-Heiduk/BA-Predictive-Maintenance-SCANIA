@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/87027c5680bd4f2cae10a1d5fbe4aa9e/artifacts
+end_time: 1757503209665
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 87027c5680bd4f2cae10a1d5fbe4aa9e
+run_name: nervous-mink-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503183973
+status: 3
+tags: []
+user_id: root

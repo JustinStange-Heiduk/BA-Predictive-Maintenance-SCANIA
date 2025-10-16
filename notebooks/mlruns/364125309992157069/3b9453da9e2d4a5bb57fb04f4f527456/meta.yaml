@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3b9453da9e2d4a5bb57fb04f4f527456/artifacts
+end_time: 1757507384102
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3b9453da9e2d4a5bb57fb04f4f527456
+run_name: defiant-hen-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507381619
+status: 3
+tags: []
+user_id: root

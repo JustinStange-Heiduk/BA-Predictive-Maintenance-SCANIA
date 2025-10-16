@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c3b5150cf5bc41fe9a109cc0240cb2fc/artifacts
+end_time: 1757514141263
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c3b5150cf5bc41fe9a109cc0240cb2fc
+run_name: nimble-owl-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514131899
+status: 3
+tags: []
+user_id: root

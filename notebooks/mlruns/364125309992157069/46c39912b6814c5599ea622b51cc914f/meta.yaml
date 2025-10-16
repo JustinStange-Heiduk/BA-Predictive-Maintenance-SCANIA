@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/46c39912b6814c5599ea622b51cc914f/artifacts
+end_time: 1757510133480
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 46c39912b6814c5599ea622b51cc914f
+run_name: bright-perch-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510128545
+status: 3
+tags: []
+user_id: root

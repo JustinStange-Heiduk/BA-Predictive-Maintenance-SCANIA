@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d7a38bd1da4f423c835a9f9cf09ba0c7/artifacts
+end_time: 1757505008936
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d7a38bd1da4f423c835a9f9cf09ba0c7
+run_name: intrigued-shark-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757504335618
+status: 3
+tags: []
+user_id: root

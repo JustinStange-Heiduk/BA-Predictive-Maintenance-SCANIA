@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e087b63c6b2548f3a391d6c67f091fe8/artifacts
+end_time: 1757514659139
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e087b63c6b2548f3a391d6c67f091fe8
+run_name: monumental-mole-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514647076
+status: 3
+tags: []
+user_id: root

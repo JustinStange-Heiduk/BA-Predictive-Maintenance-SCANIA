@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f8b357931558457da06e6bd3b2454092/artifacts
+end_time: 1757507208501
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f8b357931558457da06e6bd3b2454092
+run_name: bouncy-fish-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507205351
+status: 3
+tags: []
+user_id: root

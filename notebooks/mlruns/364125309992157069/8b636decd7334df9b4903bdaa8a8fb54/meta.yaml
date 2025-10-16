@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8b636decd7334df9b4903bdaa8a8fb54/artifacts
+end_time: 1757507304939
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8b636decd7334df9b4903bdaa8a8fb54
+run_name: peaceful-kite-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507299152
+status: 3
+tags: []
+user_id: root

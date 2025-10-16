@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ab518df0dadd44fbb07d7b9a1b6a1fa8/artifacts
+end_time: 1757506925477
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ab518df0dadd44fbb07d7b9a1b6a1fa8
+run_name: rumbling-lamb-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506914412
+status: 3
+tags: []
+user_id: root

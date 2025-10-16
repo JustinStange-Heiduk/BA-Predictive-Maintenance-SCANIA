@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/51d0d84e777e49fd9d45ec5a80152080/artifacts
+end_time: 1757512068582
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 51d0d84e777e49fd9d45ec5a80152080
+run_name: big-crane-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512054303
+status: 3
+tags: []
+user_id: root

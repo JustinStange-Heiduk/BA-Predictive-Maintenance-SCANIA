@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ea1b24f0c40a429d8503707d25eb8c06/artifacts
+end_time: 1757512555945
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ea1b24f0c40a429d8503707d25eb8c06
+run_name: powerful-hawk-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512539100
+status: 3
+tags: []
+user_id: root

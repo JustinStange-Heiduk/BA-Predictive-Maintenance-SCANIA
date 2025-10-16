@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b8bef006d98c44b88b64d439018424f3/artifacts
+end_time: 1757506733510
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b8bef006d98c44b88b64d439018424f3
+run_name: vaunted-chimp-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506730196
+status: 3
+tags: []
+user_id: root

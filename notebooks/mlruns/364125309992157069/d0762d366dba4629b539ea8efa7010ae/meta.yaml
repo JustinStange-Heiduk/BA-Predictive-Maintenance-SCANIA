@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d0762d366dba4629b539ea8efa7010ae/artifacts
+end_time: 1757512517765
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d0762d366dba4629b539ea8efa7010ae
+run_name: persistent-fowl-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512513554
+status: 3
+tags: []
+user_id: root

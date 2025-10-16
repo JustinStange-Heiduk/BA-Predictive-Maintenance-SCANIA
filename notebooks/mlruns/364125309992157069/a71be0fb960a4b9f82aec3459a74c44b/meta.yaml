@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a71be0fb960a4b9f82aec3459a74c44b/artifacts
+end_time: 1757506517161
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a71be0fb960a4b9f82aec3459a74c44b
+run_name: bold-fish-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506514199
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5f8de476f63347179070afcc6f45f593/artifacts
+end_time: 1757512925462
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5f8de476f63347179070afcc6f45f593
+run_name: blushing-snake-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512920256
+status: 3
+tags: []
+user_id: root

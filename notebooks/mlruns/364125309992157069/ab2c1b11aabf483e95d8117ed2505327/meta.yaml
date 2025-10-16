@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ab2c1b11aabf483e95d8117ed2505327/artifacts
+end_time: 1757507482136
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ab2c1b11aabf483e95d8117ed2505327
+run_name: glamorous-shark-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507476204
+status: 3
+tags: []
+user_id: root

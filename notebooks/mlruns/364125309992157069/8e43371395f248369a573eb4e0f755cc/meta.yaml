@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8e43371395f248369a573eb4e0f755cc/artifacts
+end_time: 1757507614843
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8e43371395f248369a573eb4e0f755cc
+run_name: peaceful-squid-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507611950
+status: 3
+tags: []
+user_id: root

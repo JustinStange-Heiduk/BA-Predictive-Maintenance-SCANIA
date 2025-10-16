@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c67aa816d3b64693a1ed978e8a273761/artifacts
+end_time: 1757513373494
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c67aa816d3b64693a1ed978e8a273761
+run_name: debonair-robin-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513366638
+status: 3
+tags: []
+user_id: root

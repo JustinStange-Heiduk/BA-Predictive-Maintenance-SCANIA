@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/246f5c67b178411db21e838accf55b7b/artifacts
+end_time: 1757511957212
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 246f5c67b178411db21e838accf55b7b
+run_name: likeable-bat-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511948350
+status: 3
+tags: []
+user_id: root

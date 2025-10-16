@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c5695fb8195e4cfaa5a526a9e30aa081/artifacts
+end_time: 1757506692207
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c5695fb8195e4cfaa5a526a9e30aa081
+run_name: mercurial-fish-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506678752
+status: 3
+tags: []
+user_id: root

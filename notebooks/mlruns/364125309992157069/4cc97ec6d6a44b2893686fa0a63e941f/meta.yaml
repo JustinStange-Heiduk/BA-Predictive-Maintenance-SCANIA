@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4cc97ec6d6a44b2893686fa0a63e941f/artifacts
+end_time: 1757512826099
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4cc97ec6d6a44b2893686fa0a63e941f
+run_name: intelligent-stork-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512822685
+status: 3
+tags: []
+user_id: root

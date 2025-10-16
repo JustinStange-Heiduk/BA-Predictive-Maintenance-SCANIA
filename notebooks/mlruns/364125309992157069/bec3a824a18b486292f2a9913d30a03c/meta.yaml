@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bec3a824a18b486292f2a9913d30a03c/artifacts
+end_time: 1757507122938
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bec3a824a18b486292f2a9913d30a03c
+run_name: rumbling-steed-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507120093
+status: 3
+tags: []
+user_id: root

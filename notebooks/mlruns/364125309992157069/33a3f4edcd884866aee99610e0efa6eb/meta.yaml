@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/33a3f4edcd884866aee99610e0efa6eb/artifacts
+end_time: 1757514057683
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 33a3f4edcd884866aee99610e0efa6eb
+run_name: youthful-kite-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514043737
+status: 3
+tags: []
+user_id: root

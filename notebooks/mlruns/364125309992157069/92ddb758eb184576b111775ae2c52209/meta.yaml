@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/92ddb758eb184576b111775ae2c52209/artifacts
+end_time: 1757507267791
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 92ddb758eb184576b111775ae2c52209
+run_name: upbeat-kit-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507265281
+status: 3
+tags: []
+user_id: root

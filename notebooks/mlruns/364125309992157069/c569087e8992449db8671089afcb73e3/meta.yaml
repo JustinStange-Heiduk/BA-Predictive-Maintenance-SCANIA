@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c569087e8992449db8671089afcb73e3/artifacts
+end_time: 1757506886951
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c569087e8992449db8671089afcb73e3
+run_name: unleashed-seal-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506883902
+status: 3
+tags: []
+user_id: root

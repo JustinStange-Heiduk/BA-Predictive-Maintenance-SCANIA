@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/884689c198b343a9acebcd4df696aad4/artifacts
+end_time: 1757511845220
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 884689c198b343a9acebcd4df696aad4
+run_name: brawny-newt-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511836692
+status: 3
+tags: []
+user_id: root

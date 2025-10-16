@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4c95c61ff199437284d514000e87e479/artifacts
+end_time: 1757512143990
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4c95c61ff199437284d514000e87e479
+run_name: rogue-carp-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512139584
+status: 3
+tags: []
+user_id: root

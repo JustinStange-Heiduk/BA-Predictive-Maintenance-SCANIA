@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/39302a0fc1594a2b9e5096df5df6c242/artifacts
+end_time: 1757506539589
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 39302a0fc1594a2b9e5096df5df6c242
+run_name: luminous-rat-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506536883
+status: 3
+tags: []
+user_id: root

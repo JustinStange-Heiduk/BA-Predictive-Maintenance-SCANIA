@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5955c71c027042ea9b0ae3f3150d1618/artifacts
+end_time: 1757508924670
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5955c71c027042ea9b0ae3f3150d1618
+run_name: big-jay-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508921436
+status: 3
+tags: []
+user_id: root

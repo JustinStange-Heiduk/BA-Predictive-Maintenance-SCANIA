@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1e62cad941ac4d72b487ab625abeb1ce/artifacts
+end_time: 1757513974464
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1e62cad941ac4d72b487ab625abeb1ce
+run_name: thundering-hog-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513968737
+status: 3
+tags: []
+user_id: root

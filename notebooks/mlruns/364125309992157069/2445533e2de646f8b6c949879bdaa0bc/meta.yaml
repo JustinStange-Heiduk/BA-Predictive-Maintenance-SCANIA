@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2445533e2de646f8b6c949879bdaa0bc/artifacts
+end_time: 1757500872477
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2445533e2de646f8b6c949879bdaa0bc
+run_name: serious-worm-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757500828114
+status: 3
+tags: []
+user_id: root

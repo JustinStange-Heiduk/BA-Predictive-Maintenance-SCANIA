@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/41a50ec21c624664a71bc1e59b14a6dc/artifacts
+end_time: 1757509459054
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 41a50ec21c624664a71bc1e59b14a6dc
+run_name: sneaky-fowl-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509451218
+status: 3
+tags: []
+user_id: root

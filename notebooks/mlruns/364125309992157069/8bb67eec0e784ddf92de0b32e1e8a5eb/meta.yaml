@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8bb67eec0e784ddf92de0b32e1e8a5eb/artifacts
+end_time: 1757503375837
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8bb67eec0e784ddf92de0b32e1e8a5eb
+run_name: honorable-panda-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503355263
+status: 3
+tags: []
+user_id: root

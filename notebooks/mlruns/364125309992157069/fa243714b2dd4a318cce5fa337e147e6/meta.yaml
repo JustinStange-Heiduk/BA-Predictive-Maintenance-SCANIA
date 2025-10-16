@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/fa243714b2dd4a318cce5fa337e147e6/artifacts
+end_time: 1757513677463
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: fa243714b2dd4a318cce5fa337e147e6
+run_name: adventurous-slug-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513668407
+status: 3
+tags: []
+user_id: root

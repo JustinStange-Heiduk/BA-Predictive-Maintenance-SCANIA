@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/89c65f94a7c94ee0beb52ba177c5606a/artifacts
+end_time: 1757514907705
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 89c65f94a7c94ee0beb52ba177c5606a
+run_name: gifted-roo-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514895488
+status: 3
+tags: []
+user_id: root

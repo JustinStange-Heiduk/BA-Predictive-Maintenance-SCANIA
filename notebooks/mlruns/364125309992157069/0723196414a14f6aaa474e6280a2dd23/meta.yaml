@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0723196414a14f6aaa474e6280a2dd23/artifacts
+end_time: 1757512980776
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0723196414a14f6aaa474e6280a2dd23
+run_name: bittersweet-crab-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512976256
+status: 3
+tags: []
+user_id: root

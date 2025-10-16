@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c658533405f449b68241e54f1ad0990e/artifacts
+end_time: 1757507242592
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c658533405f449b68241e54f1ad0990e
+run_name: colorful-loon-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507239939
+status: 3
+tags: []
+user_id: root

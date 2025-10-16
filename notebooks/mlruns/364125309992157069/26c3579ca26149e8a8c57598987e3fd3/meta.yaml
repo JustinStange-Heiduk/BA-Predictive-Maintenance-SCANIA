@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/26c3579ca26149e8a8c57598987e3fd3/artifacts
+end_time: 1757511741527
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 26c3579ca26149e8a8c57598987e3fd3
+run_name: ambitious-steed-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511732150
+status: 3
+tags: []
+user_id: root

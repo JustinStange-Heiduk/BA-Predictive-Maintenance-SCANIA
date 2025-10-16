@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/878524cfc90541a1bd0cbbfe2962753c/artifacts
+end_time: 1757512465412
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 878524cfc90541a1bd0cbbfe2962753c
+run_name: rare-bass-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512460114
+status: 3
+tags: []
+user_id: root

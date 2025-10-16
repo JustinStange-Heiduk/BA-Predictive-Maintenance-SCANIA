@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bb39ef1f96e34ed3a37f2b4727ade32a/artifacts
+end_time: 1757511436818
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bb39ef1f96e34ed3a37f2b4727ade32a
+run_name: merciful-hare-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511429786
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7a175cd79e0140809dab055e67afe806/artifacts
+end_time: 1757503625134
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7a175cd79e0140809dab055e67afe806
+run_name: unruly-goose-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503603652
+status: 3
+tags: []
+user_id: root

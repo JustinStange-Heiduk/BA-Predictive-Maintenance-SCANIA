@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e09b8c23cc48406781615438d12427a5/artifacts
+end_time: 1757510055315
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e09b8c23cc48406781615438d12427a5
+run_name: tasteful-fox-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510015451
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/71cf6b6ead254e2fa7ba0b6cb0550025/artifacts
+end_time: 1757513655426
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 71cf6b6ead254e2fa7ba0b6cb0550025
+run_name: resilient-shrew-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513646100
+status: 3
+tags: []
+user_id: root

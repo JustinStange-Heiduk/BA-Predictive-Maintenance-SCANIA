@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/47926f13dc0c4859b5f4cc7308e30ec4/artifacts
+end_time: 1757512817562
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 47926f13dc0c4859b5f4cc7308e30ec4
+run_name: redolent-hound-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512809045
+status: 3
+tags: []
+user_id: root

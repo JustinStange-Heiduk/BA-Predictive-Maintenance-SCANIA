@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/422d43b980dd48f2a05c6a4d2631d9a0/artifacts
+end_time: 1757507917242
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 422d43b980dd48f2a05c6a4d2631d9a0
+run_name: trusting-penguin-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507914675
+status: 3
+tags: []
+user_id: root

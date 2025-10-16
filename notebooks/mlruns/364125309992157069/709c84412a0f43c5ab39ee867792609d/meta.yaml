@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/709c84412a0f43c5ab39ee867792609d/artifacts
+end_time: 1757506423015
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 709c84412a0f43c5ab39ee867792609d
+run_name: spiffy-sloth-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506419057
+status: 3
+tags: []
+user_id: root

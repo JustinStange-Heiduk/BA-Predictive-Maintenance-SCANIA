@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/70842eb8d4b04f3d9ce9258643160e57/artifacts
+end_time: 1757511449962
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 70842eb8d4b04f3d9ce9258643160e57
+run_name: upset-croc-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511437142
+status: 3
+tags: []
+user_id: root

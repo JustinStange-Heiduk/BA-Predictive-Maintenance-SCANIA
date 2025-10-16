@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a7a64dbadb06424d89246612e7322ee3/artifacts
+end_time: 1757510496230
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a7a64dbadb06424d89246612e7322ee3
+run_name: useful-crow-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510491135
+status: 3
+tags: []
+user_id: root

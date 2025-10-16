@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f173d8eb5e324393a9797bcc72b9aa72/artifacts
+end_time: 1757514265241
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f173d8eb5e324393a9797bcc72b9aa72
+run_name: unleashed-hen-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514256115
+status: 3
+tags: []
+user_id: root

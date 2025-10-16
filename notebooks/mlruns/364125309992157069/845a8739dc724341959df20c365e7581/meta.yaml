@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/845a8739dc724341959df20c365e7581/artifacts
+end_time: 1757509372771
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 845a8739dc724341959df20c365e7581
+run_name: delicate-worm-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509368248
+status: 3
+tags: []
+user_id: root

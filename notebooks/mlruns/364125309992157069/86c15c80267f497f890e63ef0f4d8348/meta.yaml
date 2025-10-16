@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/86c15c80267f497f890e63ef0f4d8348/artifacts
+end_time: 1757507549063
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 86c15c80267f497f890e63ef0f4d8348
+run_name: chill-ram-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507546716
+status: 3
+tags: []
+user_id: root

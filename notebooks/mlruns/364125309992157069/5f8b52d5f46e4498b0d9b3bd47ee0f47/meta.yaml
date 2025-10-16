@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5f8b52d5f46e4498b0d9b3bd47ee0f47/artifacts
+end_time: 1757512131572
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5f8b52d5f46e4498b0d9b3bd47ee0f47
+run_name: shivering-fish-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512122887
+status: 3
+tags: []
+user_id: root

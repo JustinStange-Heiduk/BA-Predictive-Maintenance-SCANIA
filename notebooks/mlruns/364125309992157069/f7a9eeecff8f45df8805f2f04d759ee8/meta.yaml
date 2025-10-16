@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f7a9eeecff8f45df8805f2f04d759ee8/artifacts
+end_time: 1757512762505
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f7a9eeecff8f45df8805f2f04d759ee8
+run_name: fearless-goose-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512758479
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c77142172a0d4e70a0dcaf24a726be1d/artifacts
+end_time: 1757507004689
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c77142172a0d4e70a0dcaf24a726be1d
+run_name: skittish-mare-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506995221
+status: 3
+tags: []
+user_id: root

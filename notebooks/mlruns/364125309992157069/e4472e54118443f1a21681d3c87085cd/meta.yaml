@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e4472e54118443f1a21681d3c87085cd/artifacts
+end_time: 1757506412216
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e4472e54118443f1a21681d3c87085cd
+run_name: efficient-hog-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506408949
+status: 3
+tags: []
+user_id: root

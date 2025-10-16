@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/df70c09f0a2745709bdf82d2870f79a4/artifacts
+end_time: 1757506850123
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: df70c09f0a2745709bdf82d2870f79a4
+run_name: lyrical-eel-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506839332
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ed7ea51d29894c8484c8f2660a5a5930/artifacts
+end_time: 1757512538151
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ed7ea51d29894c8484c8f2660a5a5930
+run_name: melodic-stork-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512529472
+status: 3
+tags: []
+user_id: root

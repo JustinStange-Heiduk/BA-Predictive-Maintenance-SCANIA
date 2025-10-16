@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/090cab25feee465eb2b10f2844a8bbbf/artifacts
+end_time: 1757514866477
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 090cab25feee465eb2b10f2844a8bbbf
+run_name: bemused-sow-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514856895
+status: 3
+tags: []
+user_id: root

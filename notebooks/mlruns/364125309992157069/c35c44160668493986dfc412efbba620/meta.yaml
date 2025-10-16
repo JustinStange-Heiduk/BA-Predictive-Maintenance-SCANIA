@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c35c44160668493986dfc412efbba620/artifacts
+end_time: 1757506507854
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c35c44160668493986dfc412efbba620
+run_name: able-colt-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506504585
+status: 3
+tags: []
+user_id: root

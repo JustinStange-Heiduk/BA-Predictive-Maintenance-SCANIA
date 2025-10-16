@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4e95bc99929742d0b7b5dd1fe8c5792a/artifacts
+end_time: 1757502552197
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4e95bc99929742d0b7b5dd1fe8c5792a
+run_name: mercurial-dog-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757501574740
+status: 3
+tags: []
+user_id: root

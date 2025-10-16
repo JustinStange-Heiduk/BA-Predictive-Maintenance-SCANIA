@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/262f301e3dd840d69be0607c7efc60f4/artifacts
+end_time: 1757514557505
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 262f301e3dd840d69be0607c7efc60f4
+run_name: caring-gnat-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514548894
+status: 3
+tags: []
+user_id: root

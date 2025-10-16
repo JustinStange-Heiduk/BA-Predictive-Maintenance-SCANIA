@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e29e6058c5da410ba9e8a326212b7f9d/artifacts
+end_time: 1757507737724
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e29e6058c5da410ba9e8a326212b7f9d
+run_name: bold-newt-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507734076
+status: 3
+tags: []
+user_id: root

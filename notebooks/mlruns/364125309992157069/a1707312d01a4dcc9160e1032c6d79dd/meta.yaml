@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a1707312d01a4dcc9160e1032c6d79dd/artifacts
+end_time: 1757510717628
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a1707312d01a4dcc9160e1032c6d79dd
+run_name: amusing-worm-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510705364
+status: 3
+tags: []
+user_id: root

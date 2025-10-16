@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d14f825495f24ac185b7f28ee4753f72/artifacts
+end_time: 1757506481019
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d14f825495f24ac185b7f28ee4753f72
+run_name: rumbling-stork-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506477560
+status: 3
+tags: []
+user_id: root

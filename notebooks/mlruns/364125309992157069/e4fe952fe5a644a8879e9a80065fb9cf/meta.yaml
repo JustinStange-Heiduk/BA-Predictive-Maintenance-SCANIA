@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e4fe952fe5a644a8879e9a80065fb9cf/artifacts
+end_time: 1757515264164
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e4fe952fe5a644a8879e9a80065fb9cf
+run_name: crawling-tern-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515251051
+status: 3
+tags: []
+user_id: root

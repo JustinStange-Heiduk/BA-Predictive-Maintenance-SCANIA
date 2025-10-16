@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/89df0c366cee4d03b5fa5eadedd69225/artifacts
+end_time: 1757513989021
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 89df0c366cee4d03b5fa5eadedd69225
+run_name: receptive-roo-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513974792
+status: 3
+tags: []
+user_id: root

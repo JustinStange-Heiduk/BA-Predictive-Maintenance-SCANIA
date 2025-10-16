@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a2eca2668b744265ae5e8a12388371fb/artifacts
+end_time: 1757510294420
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a2eca2668b744265ae5e8a12388371fb
+run_name: clumsy-owl-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510283055
+status: 3
+tags: []
+user_id: root

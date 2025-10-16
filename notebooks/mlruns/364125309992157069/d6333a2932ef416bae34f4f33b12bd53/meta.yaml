@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d6333a2932ef416bae34f4f33b12bd53/artifacts
+end_time: 1757515250685
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d6333a2932ef416bae34f4f33b12bd53
+run_name: inquisitive-mare-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515243203
+status: 3
+tags: []
+user_id: root

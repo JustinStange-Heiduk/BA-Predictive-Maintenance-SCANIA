@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b9ad95f03b2c4213a62712fde6043201/artifacts
+end_time: 1757508086443
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b9ad95f03b2c4213a62712fde6043201
+run_name: flawless-seal-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508074734
+status: 3
+tags: []
+user_id: root

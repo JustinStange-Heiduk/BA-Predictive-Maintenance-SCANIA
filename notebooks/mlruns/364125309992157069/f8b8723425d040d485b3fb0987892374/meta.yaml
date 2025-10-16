@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f8b8723425d040d485b3fb0987892374/artifacts
+end_time: 1757512177938
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f8b8723425d040d485b3fb0987892374
+run_name: capable-stork-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512167474
+status: 3
+tags: []
+user_id: root

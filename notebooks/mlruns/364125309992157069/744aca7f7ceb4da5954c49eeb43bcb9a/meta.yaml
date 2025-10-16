@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/744aca7f7ceb4da5954c49eeb43bcb9a/artifacts
+end_time: 1757512372291
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 744aca7f7ceb4da5954c49eeb43bcb9a
+run_name: sneaky-snake-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512365011
+status: 3
+tags: []
+user_id: root

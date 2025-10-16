@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f59fcff27a834d38a11b27d1e325892d/artifacts
+end_time: 1757508100745
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f59fcff27a834d38a11b27d1e325892d
+run_name: valuable-zebra-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508086752
+status: 3
+tags: []
+user_id: root

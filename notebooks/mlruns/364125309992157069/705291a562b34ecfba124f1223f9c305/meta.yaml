@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/705291a562b34ecfba124f1223f9c305/artifacts
+end_time: 1757507282593
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 705291a562b34ecfba124f1223f9c305
+run_name: useful-koi-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507275666
+status: 3
+tags: []
+user_id: root

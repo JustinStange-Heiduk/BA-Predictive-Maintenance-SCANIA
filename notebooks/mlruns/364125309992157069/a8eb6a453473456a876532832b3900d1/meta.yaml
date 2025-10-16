@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a8eb6a453473456a876532832b3900d1/artifacts
+end_time: 1757513772139
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a8eb6a453473456a876532832b3900d1
+run_name: dazzling-deer-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513761769
+status: 3
+tags: []
+user_id: root

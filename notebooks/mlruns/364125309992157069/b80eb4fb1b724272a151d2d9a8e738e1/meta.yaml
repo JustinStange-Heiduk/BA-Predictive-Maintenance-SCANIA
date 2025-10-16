@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b80eb4fb1b724272a151d2d9a8e738e1/artifacts
+end_time: 1757515180457
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b80eb4fb1b724272a151d2d9a8e738e1
+run_name: calm-kite-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515161766
+status: 3
+tags: []
+user_id: root

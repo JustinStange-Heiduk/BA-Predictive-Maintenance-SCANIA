@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bbf786e95010498896cb67835643e988/artifacts
+end_time: 1757511997458
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bbf786e95010498896cb67835643e988
+run_name: awesome-swan-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511987004
+status: 3
+tags: []
+user_id: root

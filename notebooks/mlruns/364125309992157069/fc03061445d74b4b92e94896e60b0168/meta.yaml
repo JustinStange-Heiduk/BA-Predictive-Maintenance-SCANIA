@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/fc03061445d74b4b92e94896e60b0168/artifacts
+end_time: 1757507838436
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: fc03061445d74b4b92e94896e60b0168
+run_name: mysterious-fox-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507829664
+status: 4
+tags: []
+user_id: root

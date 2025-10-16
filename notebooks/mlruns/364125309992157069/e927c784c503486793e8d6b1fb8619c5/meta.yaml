@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e927c784c503486793e8d6b1fb8619c5/artifacts
+end_time: 1757510903474
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e927c784c503486793e8d6b1fb8619c5
+run_name: caring-mule-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510890637
+status: 3
+tags: []
+user_id: root

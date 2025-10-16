@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f29417a7dc95460fb7e20d1af9d6bed2/artifacts
+end_time: 1757513301073
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f29417a7dc95460fb7e20d1af9d6bed2
+run_name: nosy-stoat-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513289984
+status: 3
+tags: []
+user_id: root

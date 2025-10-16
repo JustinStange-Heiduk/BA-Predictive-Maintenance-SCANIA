@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2dbc4cc1961b4cc9810f36b3fc513daf/artifacts
+end_time: 1757507414131
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2dbc4cc1961b4cc9810f36b3fc513daf
+run_name: nosy-cub-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507411810
+status: 3
+tags: []
+user_id: root

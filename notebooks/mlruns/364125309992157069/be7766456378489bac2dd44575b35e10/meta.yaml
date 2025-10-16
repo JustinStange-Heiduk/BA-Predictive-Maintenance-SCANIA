@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/be7766456378489bac2dd44575b35e10/artifacts
+end_time: 1757506897104
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: be7766456378489bac2dd44575b35e10
+run_name: unique-panda-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506894028
+status: 3
+tags: []
+user_id: root

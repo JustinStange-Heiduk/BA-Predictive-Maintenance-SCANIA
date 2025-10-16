@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/818fe5dd52a442e0b32df5da3c87c464/artifacts
+end_time: 1757507436551
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 818fe5dd52a442e0b32df5da3c87c464
+run_name: painted-grub-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507433786
+status: 3
+tags: []
+user_id: root

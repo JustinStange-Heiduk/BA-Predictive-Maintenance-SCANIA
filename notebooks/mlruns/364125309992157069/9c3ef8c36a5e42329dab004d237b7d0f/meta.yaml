@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/9c3ef8c36a5e42329dab004d237b7d0f/artifacts
+end_time: 1757507290815
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 9c3ef8c36a5e42329dab004d237b7d0f
+run_name: amusing-smelt-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507287498
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/fc87397078a54dc3bfa05353896e197a/artifacts
+end_time: 1757510505402
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: fc87397078a54dc3bfa05353896e197a
+run_name: gaudy-midge-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510501445
+status: 3
+tags: []
+user_id: root

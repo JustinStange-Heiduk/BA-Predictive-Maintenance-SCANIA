@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d8e0f26b9a3a43d182df1de5017547e4/artifacts
+end_time: 1757509757452
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d8e0f26b9a3a43d182df1de5017547e4
+run_name: clumsy-tern-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509750822
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d9c8d2f9856949d5968ff4632c21d839/artifacts
+end_time: 1757511349193
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d9c8d2f9856949d5968ff4632c21d839
+run_name: auspicious-fish-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511335695
+status: 3
+tags: []
+user_id: root

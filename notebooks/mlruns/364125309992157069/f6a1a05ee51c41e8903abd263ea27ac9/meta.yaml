@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f6a1a05ee51c41e8903abd263ea27ac9/artifacts
+end_time: 1757507624632
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f6a1a05ee51c41e8903abd263ea27ac9
+run_name: rare-crane-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507621492
+status: 3
+tags: []
+user_id: root

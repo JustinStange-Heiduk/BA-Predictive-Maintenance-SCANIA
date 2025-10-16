@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e81a7ab148f64fa39d2c00f4ee20a25f/artifacts
+end_time: 1757508329300
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e81a7ab148f64fa39d2c00f4ee20a25f
+run_name: colorful-snipe-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508318540
+status: 4
+tags: []
+user_id: root

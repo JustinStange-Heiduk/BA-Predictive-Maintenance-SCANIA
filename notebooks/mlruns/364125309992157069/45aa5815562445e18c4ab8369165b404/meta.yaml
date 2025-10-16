@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/45aa5815562445e18c4ab8369165b404/artifacts
+end_time: 1757514626482
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 45aa5815562445e18c4ab8369165b404
+run_name: skittish-snail-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514612230
+status: 3
+tags: []
+user_id: root

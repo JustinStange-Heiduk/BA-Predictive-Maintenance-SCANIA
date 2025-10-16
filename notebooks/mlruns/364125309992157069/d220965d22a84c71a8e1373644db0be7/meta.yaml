@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d220965d22a84c71a8e1373644db0be7/artifacts
+end_time: 1757506399164
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d220965d22a84c71a8e1373644db0be7
+run_name: sincere-snake-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506395373
+status: 3
+tags: []
+user_id: root

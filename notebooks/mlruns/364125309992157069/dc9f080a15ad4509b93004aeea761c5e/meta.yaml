@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/dc9f080a15ad4509b93004aeea761c5e/artifacts
+end_time: 1757507555716
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: dc9f080a15ad4509b93004aeea761c5e
+run_name: clean-stoat-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507552701
+status: 3
+tags: []
+user_id: root

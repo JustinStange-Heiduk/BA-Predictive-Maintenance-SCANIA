@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c367446015854550b003922b5f008cd9/artifacts
+end_time: 1757513784162
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c367446015854550b003922b5f008cd9
+run_name: honorable-robin-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513772468
+status: 3
+tags: []
+user_id: root

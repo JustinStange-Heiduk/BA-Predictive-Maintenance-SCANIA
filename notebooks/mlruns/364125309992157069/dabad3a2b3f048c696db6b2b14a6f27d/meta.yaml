@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/dabad3a2b3f048c696db6b2b14a6f27d/artifacts
+end_time: 1757506644594
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: dabad3a2b3f048c696db6b2b14a6f27d
+run_name: useful-elk-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506641647
+status: 3
+tags: []
+user_id: root

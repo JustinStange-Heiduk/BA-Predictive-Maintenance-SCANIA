@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/62815dc6d5234b2d8fdc1e970697ebe0/artifacts
+end_time: 1757505034950
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 62815dc6d5234b2d8fdc1e970697ebe0
+run_name: languid-wren-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757505009346
+status: 3
+tags: []
+user_id: root

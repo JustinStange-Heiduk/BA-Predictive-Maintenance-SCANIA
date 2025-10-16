@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2cb6147a0fb0422eba938bc3cb4eccc8/artifacts
+end_time: 1757507248690
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2cb6147a0fb0422eba938bc3cb4eccc8
+run_name: unique-fox-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507245723
+status: 3
+tags: []
+user_id: root

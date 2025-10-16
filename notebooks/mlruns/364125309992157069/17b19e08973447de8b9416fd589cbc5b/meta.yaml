@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/17b19e08973447de8b9416fd589cbc5b/artifacts
+end_time: 1757514688395
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 17b19e08973447de8b9416fd589cbc5b
+run_name: classy-yak-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514684988
+status: 3
+tags: []
+user_id: root

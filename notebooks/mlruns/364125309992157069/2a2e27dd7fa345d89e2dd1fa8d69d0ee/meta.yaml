@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2a2e27dd7fa345d89e2dd1fa8d69d0ee/artifacts
+end_time: 1757515035868
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2a2e27dd7fa345d89e2dd1fa8d69d0ee
+run_name: whimsical-grub-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515021436
+status: 3
+tags: []
+user_id: root

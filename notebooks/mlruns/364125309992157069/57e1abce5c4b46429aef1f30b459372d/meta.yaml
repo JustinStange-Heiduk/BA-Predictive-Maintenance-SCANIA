@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/57e1abce5c4b46429aef1f30b459372d/artifacts
+end_time: 1757507371990
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 57e1abce5c4b46429aef1f30b459372d
+run_name: clean-bat-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507369531
+status: 3
+tags: []
+user_id: root

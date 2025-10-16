@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c312c021fc014a25a18a9ff41049fbb4/artifacts
+end_time: 1757510136292
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c312c021fc014a25a18a9ff41049fbb4
+run_name: debonair-ant-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510133812
+status: 3
+tags: []
+user_id: root

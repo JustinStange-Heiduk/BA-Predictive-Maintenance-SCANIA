@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/fc732bcac55c4755a1944e686cbe357c/artifacts
+end_time: 1757507573420
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: fc732bcac55c4755a1944e686cbe357c
+run_name: caring-zebra-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507570937
+status: 3
+tags: []
+user_id: root

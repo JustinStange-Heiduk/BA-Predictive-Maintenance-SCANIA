@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4d4607f6abe245f9a36c13db3eafa81c/artifacts
+end_time: 1757514043400
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4d4607f6abe245f9a36c13db3eafa81c
+run_name: gaudy-bear-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514034333
+status: 3
+tags: []
+user_id: root

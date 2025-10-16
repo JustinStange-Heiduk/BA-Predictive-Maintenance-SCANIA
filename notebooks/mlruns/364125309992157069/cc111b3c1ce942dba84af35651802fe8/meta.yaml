@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cc111b3c1ce942dba84af35651802fe8/artifacts
+end_time: 1757514366138
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cc111b3c1ce942dba84af35651802fe8
+run_name: colorful-gull-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514352700
+status: 3
+tags: []
+user_id: root

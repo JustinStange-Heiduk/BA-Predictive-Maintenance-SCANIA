@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/db3e6bdf518642608c1d62f919c287ab/artifacts
+end_time: 1757507718446
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: db3e6bdf518642608c1d62f919c287ab
+run_name: orderly-koi-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507714877
+status: 3
+tags: []
+user_id: root

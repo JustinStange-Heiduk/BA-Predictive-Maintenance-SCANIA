@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f4333dca0fcc48f7824eb68f45507ff7/artifacts
+end_time: 1757512219253
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f4333dca0fcc48f7824eb68f45507ff7
+run_name: intrigued-pug-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512213502
+status: 3
+tags: []
+user_id: root

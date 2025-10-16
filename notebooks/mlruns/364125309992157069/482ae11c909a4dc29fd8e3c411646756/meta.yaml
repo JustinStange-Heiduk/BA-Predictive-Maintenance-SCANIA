@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/482ae11c909a4dc29fd8e3c411646756/artifacts
+end_time: 1757511835819
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 482ae11c909a4dc29fd8e3c411646756
+run_name: amazing-pig-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511822805
+status: 3
+tags: []
+user_id: root

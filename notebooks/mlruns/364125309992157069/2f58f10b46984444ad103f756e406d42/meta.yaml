@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2f58f10b46984444ad103f756e406d42/artifacts
+end_time: 1757512111312
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2f58f10b46984444ad103f756e406d42
+run_name: unruly-snail-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512108230
+status: 3
+tags: []
+user_id: root

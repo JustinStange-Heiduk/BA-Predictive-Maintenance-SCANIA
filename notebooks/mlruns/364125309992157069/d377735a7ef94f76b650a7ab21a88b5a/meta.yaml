@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d377735a7ef94f76b650a7ab21a88b5a/artifacts
+end_time: 1757507998194
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d377735a7ef94f76b650a7ab21a88b5a
+run_name: serious-steed-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507984936
+status: 3
+tags: []
+user_id: root

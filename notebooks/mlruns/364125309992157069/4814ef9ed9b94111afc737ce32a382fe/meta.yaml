@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4814ef9ed9b94111afc737ce32a382fe/artifacts
+end_time: 1757503165989
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4814ef9ed9b94111afc737ce32a382fe
+run_name: carefree-cub-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757502568398
+status: 3
+tags: []
+user_id: root

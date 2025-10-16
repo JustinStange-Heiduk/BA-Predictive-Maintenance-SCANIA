@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/52465926d79c40ae9bc3c3b995c2a356/artifacts
+end_time: 1757513308154
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 52465926d79c40ae9bc3c3b995c2a356
+run_name: rebellious-flea-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513301408
+status: 3
+tags: []
+user_id: root

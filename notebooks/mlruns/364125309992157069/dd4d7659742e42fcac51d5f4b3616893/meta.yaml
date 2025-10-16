@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/dd4d7659742e42fcac51d5f4b3616893/artifacts
+end_time: 1757507227977
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: dd4d7659742e42fcac51d5f4b3616893
+run_name: dazzling-donkey-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507225101
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7fc21f8de9f84959b3e869c1b8e4842b/artifacts
+end_time: 1757509232914
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7fc21f8de9f84959b3e869c1b8e4842b
+run_name: serious-duck-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509229679
+status: 3
+tags: []
+user_id: root

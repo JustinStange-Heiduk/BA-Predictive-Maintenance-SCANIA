@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/53247c90ab9b47eabbb2afe079489831/artifacts
+end_time: 1757513612863
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 53247c90ab9b47eabbb2afe079489831
+run_name: bustling-kite-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513602994
+status: 3
+tags: []
+user_id: root

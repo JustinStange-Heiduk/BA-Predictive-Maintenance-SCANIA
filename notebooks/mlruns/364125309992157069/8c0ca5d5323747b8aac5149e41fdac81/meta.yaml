@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8c0ca5d5323747b8aac5149e41fdac81/artifacts
+end_time: 1757508293038
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8c0ca5d5323747b8aac5149e41fdac81
+run_name: monumental-bird-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508289844
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3625b13ba6e14dfcae6a442dcf91a7f4/artifacts
+end_time: 1757507375133
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3625b13ba6e14dfcae6a442dcf91a7f4
+run_name: amusing-moose-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507372318
+status: 3
+tags: []
+user_id: root

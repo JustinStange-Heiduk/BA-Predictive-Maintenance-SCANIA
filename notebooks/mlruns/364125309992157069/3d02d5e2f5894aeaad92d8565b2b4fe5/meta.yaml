@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3d02d5e2f5894aeaad92d8565b2b4fe5/artifacts
+end_time: 1757513124106
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3d02d5e2f5894aeaad92d8565b2b4fe5
+run_name: angry-asp-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513120573
+status: 3
+tags: []
+user_id: root

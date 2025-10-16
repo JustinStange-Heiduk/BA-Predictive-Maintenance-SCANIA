@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/eb20bc86cd144aa9aac61931d9cd4b2c/artifacts
+end_time: 1757511305680
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: eb20bc86cd144aa9aac61931d9cd4b2c
+run_name: learned-skink-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511220873
+status: 3
+tags: []
+user_id: root

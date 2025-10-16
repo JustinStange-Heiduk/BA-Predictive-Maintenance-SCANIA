@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/31c8dca50aeb4384b5df036f610d4d16/artifacts
+end_time: 1757507131976
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 31c8dca50aeb4384b5df036f610d4d16
+run_name: treasured-shoat-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507129341
+status: 3
+tags: []
+user_id: root

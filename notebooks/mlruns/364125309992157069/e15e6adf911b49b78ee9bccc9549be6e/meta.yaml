@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e15e6adf911b49b78ee9bccc9549be6e/artifacts
+end_time: 1757512802557
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e15e6adf911b49b78ee9bccc9549be6e
+run_name: dapper-shark-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512798085
+status: 3
+tags: []
+user_id: root

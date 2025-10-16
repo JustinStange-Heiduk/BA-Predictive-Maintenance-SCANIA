@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8002ec86226c44c981807359e1f8ad44/artifacts
+end_time: 1757507444089
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8002ec86226c44c981807359e1f8ad44
+run_name: intrigued-midge-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507439846
+status: 3
+tags: []
+user_id: root

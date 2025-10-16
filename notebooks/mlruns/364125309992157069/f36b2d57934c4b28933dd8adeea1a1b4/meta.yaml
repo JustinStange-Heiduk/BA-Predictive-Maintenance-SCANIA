@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f36b2d57934c4b28933dd8adeea1a1b4/artifacts
+end_time: 1757509462720
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f36b2d57934c4b28933dd8adeea1a1b4
+run_name: wistful-donkey-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509459278
+status: 3
+tags: []
+user_id: root

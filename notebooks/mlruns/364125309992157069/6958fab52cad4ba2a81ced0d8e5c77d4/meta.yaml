@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6958fab52cad4ba2a81ced0d8e5c77d4/artifacts
+end_time: 1757514646694
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6958fab52cad4ba2a81ced0d8e5c77d4
+run_name: tasteful-foal-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514626939
+status: 3
+tags: []
+user_id: root

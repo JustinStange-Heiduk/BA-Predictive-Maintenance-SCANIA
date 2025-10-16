@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/479e86c1e1e8479aa487be84ae2f53cc/artifacts
+end_time: 1757506336416
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 479e86c1e1e8479aa487be84ae2f53cc
+run_name: vaunted-fawn-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506333949
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f2a81169db7a4be58025ca3c390e242f/artifacts
+end_time: 1757512753770
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f2a81169db7a4be58025ca3c390e242f
+run_name: righteous-deer-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512749650
+status: 3
+tags: []
+user_id: root

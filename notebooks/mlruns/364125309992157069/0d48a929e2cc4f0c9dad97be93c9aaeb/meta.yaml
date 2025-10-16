@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0d48a929e2cc4f0c9dad97be93c9aaeb/artifacts
+end_time: 1757512693974
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0d48a929e2cc4f0c9dad97be93c9aaeb
+run_name: clean-auk-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512680671
+status: 3
+tags: []
+user_id: root

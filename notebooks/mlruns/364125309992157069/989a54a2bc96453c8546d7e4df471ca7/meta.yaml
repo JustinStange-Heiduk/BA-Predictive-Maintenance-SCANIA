@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/989a54a2bc96453c8546d7e4df471ca7/artifacts
+end_time: 1757507467552
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 989a54a2bc96453c8546d7e4df471ca7
+run_name: incongruous-loon-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507464626
+status: 3
+tags: []
+user_id: root

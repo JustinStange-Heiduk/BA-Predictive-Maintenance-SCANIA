@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/743f2e4ec62e4a309e4030be86253d20/artifacts
+end_time: 1757513399414
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 743f2e4ec62e4a309e4030be86253d20
+run_name: funny-kit-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513389966
+status: 3
+tags: []
+user_id: root

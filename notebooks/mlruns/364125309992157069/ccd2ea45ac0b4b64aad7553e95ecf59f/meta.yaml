@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ccd2ea45ac0b4b64aad7553e95ecf59f/artifacts
+end_time: 1757506238333
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ccd2ea45ac0b4b64aad7553e95ecf59f
+run_name: salty-shoat-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506235456
+status: 3
+tags: []
+user_id: root

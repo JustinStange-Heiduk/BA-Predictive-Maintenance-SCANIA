@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/73b2c7a264e941b888ef2c4c1959656b/artifacts
+end_time: 1757506520034
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 73b2c7a264e941b888ef2c4c1959656b
+run_name: mysterious-gnat-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506517453
+status: 3
+tags: []
+user_id: root

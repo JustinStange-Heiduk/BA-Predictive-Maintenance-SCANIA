@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7d9da70e39854dccbe7bc0a4686515d1/artifacts
+end_time: 1757506750469
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7d9da70e39854dccbe7bc0a4686515d1
+run_name: overjoyed-fawn-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506747302
+status: 3
+tags: []
+user_id: root

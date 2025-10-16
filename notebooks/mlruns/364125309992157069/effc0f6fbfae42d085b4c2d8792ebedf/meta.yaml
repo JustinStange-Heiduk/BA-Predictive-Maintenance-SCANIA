@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/effc0f6fbfae42d085b4c2d8792ebedf/artifacts
+end_time: 1757506233745
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: effc0f6fbfae42d085b4c2d8792ebedf
+run_name: angry-slug-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506230442
+status: 3
+tags: []
+user_id: root

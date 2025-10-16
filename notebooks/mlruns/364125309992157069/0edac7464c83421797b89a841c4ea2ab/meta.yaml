@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0edac7464c83421797b89a841c4ea2ab/artifacts
+end_time: 1757513457564
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0edac7464c83421797b89a841c4ea2ab
+run_name: bold-crab-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513440277
+status: 3
+tags: []
+user_id: root

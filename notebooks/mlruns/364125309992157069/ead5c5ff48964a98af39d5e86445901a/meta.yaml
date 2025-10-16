@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ead5c5ff48964a98af39d5e86445901a/artifacts
+end_time: 1757506418701
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ead5c5ff48964a98af39d5e86445901a
+run_name: bittersweet-doe-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506415774
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/45dd9c276b7d4437b19caa548227844c/artifacts
+end_time: 1757509810670
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 45dd9c276b7d4437b19caa548227844c
+run_name: traveling-steed-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509798914
+status: 3
+tags: []
+user_id: root

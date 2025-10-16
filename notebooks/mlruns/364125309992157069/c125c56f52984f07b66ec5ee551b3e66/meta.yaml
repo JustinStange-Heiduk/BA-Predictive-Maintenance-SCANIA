@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c125c56f52984f07b66ec5ee551b3e66/artifacts
+end_time: 1757507211381
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c125c56f52984f07b66ec5ee551b3e66
+run_name: adaptable-lark-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507208796
+status: 3
+tags: []
+user_id: root

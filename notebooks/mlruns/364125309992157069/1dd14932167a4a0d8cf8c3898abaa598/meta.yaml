@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1dd14932167a4a0d8cf8c3898abaa598/artifacts
+end_time: 1757513438853
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1dd14932167a4a0d8cf8c3898abaa598
+run_name: classy-hawk-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513427968
+status: 3
+tags: []
+user_id: root

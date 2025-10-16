@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6e8dd03d02e24e7f8b5de307c50d92db/artifacts
+end_time: 1757512047312
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6e8dd03d02e24e7f8b5de307c50d92db
+run_name: enthused-donkey-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512040926
+status: 3
+tags: []
+user_id: root

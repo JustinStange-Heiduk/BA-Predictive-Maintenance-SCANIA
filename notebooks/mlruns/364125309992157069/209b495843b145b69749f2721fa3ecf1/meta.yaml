@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/209b495843b145b69749f2721fa3ecf1/artifacts
+end_time: 1757513120248
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 209b495843b145b69749f2721fa3ecf1
+run_name: lyrical-cow-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513113136
+status: 3
+tags: []
+user_id: root

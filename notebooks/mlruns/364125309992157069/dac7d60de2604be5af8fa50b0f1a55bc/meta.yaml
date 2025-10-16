@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/dac7d60de2604be5af8fa50b0f1a55bc/artifacts
+end_time: 1757513928967
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: dac7d60de2604be5af8fa50b0f1a55bc
+run_name: clean-panda-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513918172
+status: 3
+tags: []
+user_id: root

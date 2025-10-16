@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/00b3482d23044e6bbb8e0e68815d9833/artifacts
+end_time: 1757507528185
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 00b3482d23044e6bbb8e0e68815d9833
+run_name: inquisitive-boar-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507525722
+status: 3
+tags: []
+user_id: root

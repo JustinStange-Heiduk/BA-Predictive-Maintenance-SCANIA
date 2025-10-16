@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bc3f48cc9c724b77be84912646b5a034/artifacts
+end_time: 1757507101344
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bc3f48cc9c724b77be84912646b5a034
+run_name: charming-sheep-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507098577
+status: 3
+tags: []
+user_id: root

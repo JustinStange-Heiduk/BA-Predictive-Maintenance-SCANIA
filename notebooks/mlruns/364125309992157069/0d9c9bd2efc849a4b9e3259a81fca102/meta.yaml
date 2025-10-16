@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0d9c9bd2efc849a4b9e3259a81fca102/artifacts
+end_time: 1757507361675
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0d9c9bd2efc849a4b9e3259a81fca102
+run_name: magnificent-cod-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507357313
+status: 3
+tags: []
+user_id: root

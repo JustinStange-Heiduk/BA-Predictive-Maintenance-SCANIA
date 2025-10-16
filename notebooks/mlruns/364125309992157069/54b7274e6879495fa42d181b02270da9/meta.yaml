@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/54b7274e6879495fa42d181b02270da9/artifacts
+end_time: 1757510810422
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 54b7274e6879495fa42d181b02270da9
+run_name: fun-eel-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510806832
+status: 3
+tags: []
+user_id: root

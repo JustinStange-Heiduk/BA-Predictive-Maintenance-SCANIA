@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/905273fa8e2c4246a13dfc9f106a506d/artifacts
+end_time: 1757506291238
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 905273fa8e2c4246a13dfc9f106a506d
+run_name: caring-panda-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506281993
+status: 3
+tags: []
+user_id: root

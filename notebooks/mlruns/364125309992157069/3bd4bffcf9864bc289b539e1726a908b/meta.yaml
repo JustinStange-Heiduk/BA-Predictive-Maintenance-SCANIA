@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3bd4bffcf9864bc289b539e1726a908b/artifacts
+end_time: 1757506607751
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3bd4bffcf9864bc289b539e1726a908b
+run_name: caring-tern-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506604783
+status: 3
+tags: []
+user_id: root

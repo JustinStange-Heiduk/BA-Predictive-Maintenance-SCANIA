@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/314dc114163e4406a5af8c318a5a01af/artifacts
+end_time: 1757512734423
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 314dc114163e4406a5af8c318a5a01af
+run_name: skittish-seal-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512729793
+status: 3
+tags: []
+user_id: root

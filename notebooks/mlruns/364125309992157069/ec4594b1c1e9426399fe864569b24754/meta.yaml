@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ec4594b1c1e9426399fe864569b24754/artifacts
+end_time: 1757511111863
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ec4594b1c1e9426399fe864569b24754
+run_name: skillful-vole-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511097138
+status: 3
+tags: []
+user_id: root

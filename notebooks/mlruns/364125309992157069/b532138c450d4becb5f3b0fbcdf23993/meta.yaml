@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b532138c450d4becb5f3b0fbcdf23993/artifacts
+end_time: 1757506454681
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b532138c450d4becb5f3b0fbcdf23993
+run_name: suave-sponge-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506450626
+status: 3
+tags: []
+user_id: root

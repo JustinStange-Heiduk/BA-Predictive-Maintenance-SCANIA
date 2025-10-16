@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4a3f8a55c9344508ba5eeb5b4a663ae0/artifacts
+end_time: 1757507134979
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4a3f8a55c9344508ba5eeb5b4a663ae0
+run_name: nervous-ram-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507132273
+status: 3
+tags: []
+user_id: root

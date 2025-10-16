@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c3fc70afee8d43b19b52c2ae03736f93/artifacts
+end_time: 1757508040480
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c3fc70afee8d43b19b52c2ae03736f93
+run_name: welcoming-frog-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508036048
+status: 4
+tags: []
+user_id: root

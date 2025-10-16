@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e8cb09f0c5b94110b595f3b872c0a81c/artifacts
+end_time: 1757510569961
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e8cb09f0c5b94110b595f3b872c0a81c
+run_name: orderly-dolphin-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510557330
+status: 3
+tags: []
+user_id: root

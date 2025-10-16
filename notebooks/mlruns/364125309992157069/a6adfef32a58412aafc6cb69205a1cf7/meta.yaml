@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a6adfef32a58412aafc6cb69205a1cf7/artifacts
+end_time: 1757512970411
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a6adfef32a58412aafc6cb69205a1cf7
+run_name: delightful-crow-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512965646
+status: 3
+tags: []
+user_id: root

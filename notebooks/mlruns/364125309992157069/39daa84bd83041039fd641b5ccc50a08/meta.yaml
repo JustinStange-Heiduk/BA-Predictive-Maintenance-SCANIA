@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/39daa84bd83041039fd641b5ccc50a08/artifacts
+end_time: 1757513313192
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 39daa84bd83041039fd641b5ccc50a08
+run_name: mysterious-asp-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513308477
+status: 3
+tags: []
+user_id: root

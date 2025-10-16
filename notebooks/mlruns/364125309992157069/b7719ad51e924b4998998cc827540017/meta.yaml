@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b7719ad51e924b4998998cc827540017/artifacts
+end_time: 1757506364210
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b7719ad51e924b4998998cc827540017
+run_name: indecisive-vole-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506360968
+status: 3
+tags: []
+user_id: root

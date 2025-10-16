@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/32f9ec14510842cfa42e3ffd81a2de57/artifacts
+end_time: 1757514839466
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 32f9ec14510842cfa42e3ffd81a2de57
+run_name: capricious-snail-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514812982
+status: 3
+tags: []
+user_id: root

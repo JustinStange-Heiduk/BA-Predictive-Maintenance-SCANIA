@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f1cad092c6224475b21893b9b937521c/artifacts
+end_time: 1757507798380
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f1cad092c6224475b21893b9b937521c
+run_name: industrious-mare-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507785874
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/95773fddb113497a991fe163fa764a07/artifacts
+end_time: 1757513827812
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 95773fddb113497a991fe163fa764a07
+run_name: zealous-ram-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513817840
+status: 3
+tags: []
+user_id: root

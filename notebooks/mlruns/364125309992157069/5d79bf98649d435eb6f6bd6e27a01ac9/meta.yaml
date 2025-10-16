@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5d79bf98649d435eb6f6bd6e27a01ac9/artifacts
+end_time: 1757512669359
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5d79bf98649d435eb6f6bd6e27a01ac9
+run_name: resilient-doe-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512658819
+status: 3
+tags: []
+user_id: root

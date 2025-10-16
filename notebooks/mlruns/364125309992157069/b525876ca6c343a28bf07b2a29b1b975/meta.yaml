@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b525876ca6c343a28bf07b2a29b1b975/artifacts
+end_time: 1757506893676
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b525876ca6c343a28bf07b2a29b1b975
+run_name: indecisive-wolf-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506890639
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/124bbf8aac654a1db9fdf1c4d0e8609f/artifacts
+end_time: 1757507087032
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 124bbf8aac654a1db9fdf1c4d0e8609f
+run_name: vaunted-wasp-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507076065
+status: 3
+tags: []
+user_id: root

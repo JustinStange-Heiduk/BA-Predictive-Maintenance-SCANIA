@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5e600fae04924c8b8a174244030525b1/artifacts
+end_time: 1757506828519
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5e600fae04924c8b8a174244030525b1
+run_name: rare-crab-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506822222
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f35234d4b41e41c787fa0bf7b8c714c0/artifacts
+end_time: 1757507063957
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f35234d4b41e41c787fa0bf7b8c714c0
+run_name: wistful-lynx-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507061664
+status: 3
+tags: []
+user_id: root

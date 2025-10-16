@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/92e8c1bf682f43b0ac70b5404dec819d/artifacts
+end_time: 1757509240201
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 92e8c1bf682f43b0ac70b5404dec819d
+run_name: stylish-gnu-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509236487
+status: 3
+tags: []
+user_id: root

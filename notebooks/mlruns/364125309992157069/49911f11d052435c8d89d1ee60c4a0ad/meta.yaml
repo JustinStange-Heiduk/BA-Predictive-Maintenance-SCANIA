@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/49911f11d052435c8d89d1ee60c4a0ad/artifacts
+end_time: 1757507115452
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 49911f11d052435c8d89d1ee60c4a0ad
+run_name: nimble-finch-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507111926
+status: 3
+tags: []
+user_id: root

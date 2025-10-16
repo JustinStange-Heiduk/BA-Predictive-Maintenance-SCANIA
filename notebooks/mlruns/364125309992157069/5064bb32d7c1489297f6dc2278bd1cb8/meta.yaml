@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5064bb32d7c1489297f6dc2278bd1cb8/artifacts
+end_time: 1757507137756
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5064bb32d7c1489297f6dc2278bd1cb8
+run_name: able-bird-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507135280
+status: 3
+tags: []
+user_id: root

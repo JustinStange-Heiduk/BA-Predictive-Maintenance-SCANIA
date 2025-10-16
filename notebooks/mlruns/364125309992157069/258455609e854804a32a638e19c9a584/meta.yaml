@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/258455609e854804a32a638e19c9a584/artifacts
+end_time: 1757506907040
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 258455609e854804a32a638e19c9a584
+run_name: orderly-mare-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506903938
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a5b2bd62e32049bfaa1cec457f8ddc5a/artifacts
+end_time: 1757510265901
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a5b2bd62e32049bfaa1cec457f8ddc5a
+run_name: lyrical-perch-852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510247807
+status: 3
+tags: []
+user_id: root

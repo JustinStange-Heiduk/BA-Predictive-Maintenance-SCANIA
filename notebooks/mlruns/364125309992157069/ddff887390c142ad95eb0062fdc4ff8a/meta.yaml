@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ddff887390c142ad95eb0062fdc4ff8a/artifacts
+end_time: 1757514388281
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ddff887390c142ad95eb0062fdc4ff8a
+run_name: inquisitive-doe-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514383177
+status: 3
+tags: []
+user_id: root

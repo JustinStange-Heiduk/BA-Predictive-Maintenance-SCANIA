@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a15d1996b8704b0a96a151b30ee57acd/artifacts
+end_time: 1757507582159
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a15d1996b8704b0a96a151b30ee57acd
+run_name: delicate-hog-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507579606
+status: 3
+tags: []
+user_id: root

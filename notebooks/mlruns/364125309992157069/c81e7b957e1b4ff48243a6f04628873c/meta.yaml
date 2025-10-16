@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c81e7b957e1b4ff48243a6f04628873c/artifacts
+end_time: 1757507946332
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c81e7b957e1b4ff48243a6f04628873c
+run_name: resilient-tern-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507923514
+status: 3
+tags: []
+user_id: root

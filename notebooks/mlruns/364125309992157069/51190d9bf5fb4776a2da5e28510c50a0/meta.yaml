@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/51190d9bf5fb4776a2da5e28510c50a0/artifacts
+end_time: 1757513817525
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 51190d9bf5fb4776a2da5e28510c50a0
+run_name: abrasive-sheep-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513805313
+status: 3
+tags: []
+user_id: root

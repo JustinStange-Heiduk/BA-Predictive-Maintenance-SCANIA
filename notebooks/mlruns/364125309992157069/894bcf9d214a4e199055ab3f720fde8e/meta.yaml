@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/894bcf9d214a4e199055ab3f720fde8e/artifacts
+end_time: 1757506969643
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 894bcf9d214a4e199055ab3f720fde8e
+run_name: trusting-quail-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506966834
+status: 3
+tags: []
+user_id: root

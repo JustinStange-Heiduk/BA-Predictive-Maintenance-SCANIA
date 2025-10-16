@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cf353faaeef4449eb0835ac29f870394/artifacts
+end_time: 1757514234626
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cf353faaeef4449eb0835ac29f870394
+run_name: wistful-sloth-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514220613
+status: 3
+tags: []
+user_id: root

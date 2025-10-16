@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/aa1240ca3e12473e9917310c1a161166/artifacts
+end_time: 1757512758123
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: aa1240ca3e12473e9917310c1a161166
+run_name: rumbling-elk-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512754050
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/858585aefdbc450ca63dc631e76d9873/artifacts
+end_time: 1757515021097
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 858585aefdbc450ca63dc631e76d9873
+run_name: adaptable-doe-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515011639
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b7d484fe320b4caf8f0fa3731dd9311b/artifacts
+end_time: 1757507108242
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b7d484fe320b4caf8f0fa3731dd9311b
+run_name: ambitious-flea-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507105452
+status: 3
+tags: []
+user_id: root

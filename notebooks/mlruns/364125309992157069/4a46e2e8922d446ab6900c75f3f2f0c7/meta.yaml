@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4a46e2e8922d446ab6900c75f3f2f0c7/artifacts
+end_time: 1757510845210
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4a46e2e8922d446ab6900c75f3f2f0c7
+run_name: luxuriant-dog-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510834952
+status: 3
+tags: []
+user_id: root

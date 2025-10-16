@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/90cdd8a7e1d741d6858cc571590f4175/artifacts
+end_time: 1757506610618
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 90cdd8a7e1d741d6858cc571590f4175
+run_name: stylish-tern-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506608052
+status: 3
+tags: []
+user_id: root

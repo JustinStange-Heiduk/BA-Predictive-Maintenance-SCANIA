@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1c2d30bd74d84d988a29eb7275729452/artifacts
+end_time: 1757514992730
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1c2d30bd74d84d988a29eb7275729452
+run_name: gaudy-crow-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514974058
+status: 3
+tags: []
+user_id: root

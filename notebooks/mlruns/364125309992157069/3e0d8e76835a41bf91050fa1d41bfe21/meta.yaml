@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3e0d8e76835a41bf91050fa1d41bfe21/artifacts
+end_time: 1757511135679
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3e0d8e76835a41bf91050fa1d41bfe21
+run_name: trusting-panda-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511128056
+status: 3
+tags: []
+user_id: root

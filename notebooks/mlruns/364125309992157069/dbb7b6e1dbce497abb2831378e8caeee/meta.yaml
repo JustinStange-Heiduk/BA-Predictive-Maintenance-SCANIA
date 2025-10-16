@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/dbb7b6e1dbce497abb2831378e8caeee/artifacts
+end_time: 1757511967000
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: dbb7b6e1dbce497abb2831378e8caeee
+run_name: skillful-fly-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511958063
+status: 3
+tags: []
+user_id: root

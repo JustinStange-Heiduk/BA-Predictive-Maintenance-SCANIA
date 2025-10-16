@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d7e18b6c16124f6793544f3df8b7289b/artifacts
+end_time: 1757510647182
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d7e18b6c16124f6793544f3df8b7289b
+run_name: bright-lamb-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510625920
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e03791c2fe014a59a372211205f205a4/artifacts
+end_time: 1757506493270
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e03791c2fe014a59a372211205f205a4
+run_name: redolent-calf-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506490786
+status: 3
+tags: []
+user_id: root

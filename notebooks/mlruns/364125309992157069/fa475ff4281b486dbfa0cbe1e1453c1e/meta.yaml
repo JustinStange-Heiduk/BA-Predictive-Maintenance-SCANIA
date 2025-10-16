@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/fa475ff4281b486dbfa0cbe1e1453c1e/artifacts
+end_time: 1757506473593
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: fa475ff4281b486dbfa0cbe1e1453c1e
+run_name: intrigued-bee-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506470785
+status: 3
+tags: []
+user_id: root

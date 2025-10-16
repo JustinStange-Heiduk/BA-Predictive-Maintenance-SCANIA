@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1bb2b5dfac434897869eb331fd40e681/artifacts
+end_time: 1757507296498
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1bb2b5dfac434897869eb331fd40e681
+run_name: powerful-vole-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507293975
+status: 3
+tags: []
+user_id: root

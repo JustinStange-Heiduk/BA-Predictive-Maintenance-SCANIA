@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ec8f4952bc6e4efca281afc9e6856b29/artifacts
+end_time: 1757514166592
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ec8f4952bc6e4efca281afc9e6856b29
+run_name: merciful-bird-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514155813
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0e6b4795f8ac4205974ab28c6fc73638/artifacts
+end_time: 1757510883946
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0e6b4795f8ac4205974ab28c6fc73638
+run_name: worried-bat-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510871073
+status: 3
+tags: []
+user_id: root

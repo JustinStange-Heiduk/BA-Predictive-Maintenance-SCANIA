@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6fc6083e3f3a474ea5f7d52093479e89/artifacts
+end_time: 1757514396845
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6fc6083e3f3a474ea5f7d52093479e89
+run_name: abundant-sheep-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514388603
+status: 3
+tags: []
+user_id: root

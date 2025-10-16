@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/646a23bec6994531ab5da7e1b47615e2/artifacts
+end_time: 1757511523304
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 646a23bec6994531ab5da7e1b47615e2
+run_name: treasured-deer-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511478774
+status: 3
+tags: []
+user_id: root

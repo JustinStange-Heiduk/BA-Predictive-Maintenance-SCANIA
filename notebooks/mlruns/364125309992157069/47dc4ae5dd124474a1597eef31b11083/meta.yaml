@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/47dc4ae5dd124474a1597eef31b11083/artifacts
+end_time: 1757513838697
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 47dc4ae5dd124474a1597eef31b11083
+run_name: treasured-finch-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513828145
+status: 3
+tags: []
+user_id: root

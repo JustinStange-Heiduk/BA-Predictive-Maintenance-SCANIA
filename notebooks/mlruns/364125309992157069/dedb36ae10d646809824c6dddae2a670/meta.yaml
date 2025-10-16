@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/dedb36ae10d646809824c6dddae2a670/artifacts
+end_time: 1757504310853
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: dedb36ae10d646809824c6dddae2a670
+run_name: clean-hog-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757504296040
+status: 3
+tags: []
+user_id: root

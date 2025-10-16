@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c83d25e7911d48418d04dba64211a3f2/artifacts
+end_time: 1757504068354
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c83d25e7911d48418d04dba64211a3f2
+run_name: colorful-shrew-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757504057870
+status: 3
+tags: []
+user_id: root

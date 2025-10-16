@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2ac53c02c60042949546e0461fb1cf8a/artifacts
+end_time: 1757506632053
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2ac53c02c60042949546e0461fb1cf8a
+run_name: delicate-flea-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506629268
+status: 3
+tags: []
+user_id: root

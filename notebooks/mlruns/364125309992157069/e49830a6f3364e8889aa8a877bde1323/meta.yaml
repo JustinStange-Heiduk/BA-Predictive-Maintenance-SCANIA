@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e49830a6f3364e8889aa8a877bde1323/artifacts
+end_time: 1757513331965
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e49830a6f3364e8889aa8a877bde1323
+run_name: bedecked-sponge-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513326270
+status: 3
+tags: []
+user_id: root

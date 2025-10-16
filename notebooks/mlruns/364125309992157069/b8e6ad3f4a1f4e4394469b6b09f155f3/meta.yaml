@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b8e6ad3f4a1f4e4394469b6b09f155f3/artifacts
+end_time: 1757514281020
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b8e6ad3f4a1f4e4394469b6b09f155f3
+run_name: receptive-fox-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514270959
+status: 3
+tags: []
+user_id: root

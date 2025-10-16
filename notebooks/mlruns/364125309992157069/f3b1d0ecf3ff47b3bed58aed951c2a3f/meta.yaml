@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f3b1d0ecf3ff47b3bed58aed951c2a3f/artifacts
+end_time: 1757512638138
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f3b1d0ecf3ff47b3bed58aed951c2a3f
+run_name: unequaled-fly-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512602405
+status: 3
+tags: []
+user_id: root

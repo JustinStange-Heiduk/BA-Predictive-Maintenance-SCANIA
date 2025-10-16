@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/27c28f3054b3492fb087cc2160925d01/artifacts
+end_time: 1757507233459
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 27c28f3054b3492fb087cc2160925d01
+run_name: resilient-sheep-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507231212
+status: 3
+tags: []
+user_id: root

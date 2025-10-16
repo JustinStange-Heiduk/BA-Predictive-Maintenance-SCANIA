@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ffa369df14ec4795bf907f84ef81f888/artifacts
+end_time: 1757514192334
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ffa369df14ec4795bf907f84ef81f888
+run_name: valuable-gnu-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514183226
+status: 3
+tags: []
+user_id: root

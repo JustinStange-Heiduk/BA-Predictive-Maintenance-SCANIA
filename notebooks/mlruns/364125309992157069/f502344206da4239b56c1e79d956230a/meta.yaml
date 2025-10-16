@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f502344206da4239b56c1e79d956230a/artifacts
+end_time: 1757514321035
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f502344206da4239b56c1e79d956230a
+run_name: enchanting-panda-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514311201
+status: 3
+tags: []
+user_id: root

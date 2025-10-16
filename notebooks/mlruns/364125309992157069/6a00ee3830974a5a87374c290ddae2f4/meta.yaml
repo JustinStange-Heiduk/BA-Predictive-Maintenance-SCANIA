@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6a00ee3830974a5a87374c290ddae2f4/artifacts
+end_time: 1757512773901
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6a00ee3830974a5a87374c290ddae2f4
+run_name: legendary-crane-850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512769094
+status: 3
+tags: []
+user_id: root

@@ -8,6 +8,16 @@ from tsfresh.utilities.distribution import MultiprocessingDistributor
 # Interpolation
 # -------------------------
 def interpolate_readout_df(df: pd.DataFrame) -> pd.DataFrame:
+    """Interpoliert fehlende Sensordatenwerte pro Fahrzeug linear.
+
+    Args:
+        df (pd.DataFrame): Eingabedaten mit Spalten
+            ['vehicle_id', 'time_step', <Sensorspalten>].
+
+    Returns:
+        pd.DataFrame: Datenframe mit interpolierten Sensordaten,
+        sortiert nach Fahrzeug und Zeit, Index zurückgesetzt.
+    """
     df = df.sort_values(by=["vehicle_id", "time_step"])
     feature_cols = df.select_dtypes(include=["number"]).columns.difference(["vehicle_id", "time_step"])
     df[feature_cols] = df.groupby("vehicle_id")[feature_cols].transform(
@@ -20,6 +30,16 @@ def interpolate_readout_df(df: pd.DataFrame) -> pd.DataFrame:
 # Differenzen berechnen
 # -------------------------
 def compute_differences_per_vehicle_test(readouts_df: pd.DataFrame) -> pd.DataFrame:
+    """Berechnet zeitliche Differenzen pro Fahrzeug für alle Sensormesswerte.
+
+    Args:
+        readouts_df (pd.DataFrame): Eingabedaten mit Spalten
+            ['vehicle_id', 'time_step', <Sensorspalten>].
+
+    Returns:
+        pd.DataFrame: Ursprüngliche Daten mit zusätzlichen Spalten
+        <sensor>_diff, welche die Differenzen darstellen.
+    """
     df = readouts_df.copy()
     bin_cols = [col for col in df.columns.difference(["vehicle_id", "time_step"])]
     for col in bin_cols:
@@ -34,6 +54,17 @@ def compute_differences_per_vehicle_test(readouts_df: pd.DataFrame) -> pd.DataFr
 # Windowing
 # -------------------------
 def create_all_fixed_time_index_windows(readouts_df: pd.DataFrame, window_sizes: list[float]) -> pd.DataFrame:
+    """Erzeugt Sliding Windows über Zeitreihen für jedes Fahrzeug.
+
+    Args:
+        readouts_df (pd.DataFrame): Eingabedaten mit Spalten
+            ['vehicle_id', 'time_step', <Sensorspalten>].
+        window_sizes (list[float]): Liste der Fenstergrößen (z. B. [8, 16, 32]).
+
+    Returns:
+        pd.DataFrame: Umgeformte Zeitfenster in Long-Format mit Spalten
+        ['id', 'vehicle_id', 'time_step', 'time_step_current', 'kind', 'value'].
+    """
     base_cols = ["vehicle_id", "time_step"]
     sensor_cols = [c for c in readouts_df.columns if c not in base_cols]
 
@@ -81,11 +112,21 @@ def create_all_fixed_time_index_windows(readouts_df: pd.DataFrame, window_sizes:
     return final[["id", "vehicle_id", "time_step", "time_step_current", "kind", "value"]]
 
 
-
 # -------------------------
 # Feature Extraction
 # -------------------------
 def extract_tsfresh_features(df_windows: pd.DataFrame, n_workers: int = 4) -> pd.DataFrame:
+    """Extrahiert tsfresh-Features aus Sliding Windows.
+
+    Args:
+        df_windows (pd.DataFrame): Zeitfenster im Long-Format mit Spalten
+            ['id', 'vehicle_id', 'time_step', 'time_step_current', 'kind', 'value'].
+        n_workers (int, optional): Anzahl paralleler Prozesse. Defaults to 4.
+
+    Returns:
+        pd.DataFrame: Feature-Datenframe mit berechneten tsfresh-Merkmalen,
+        inkl. Meta-Infos ['vehicle_id', 'time_step'].
+    """
     distributor = MultiprocessingDistributor(
         n_workers=n_workers,
         disable_progressbar=True
@@ -121,6 +162,14 @@ def extract_tsfresh_features(df_windows: pd.DataFrame, n_workers: int = 4) -> pd
 # Feature Selection
 # -------------------------
 def select_relevant_features(df_features: pd.DataFrame, selected_features: dict) -> pd.DataFrame:
+    """Filtert relevante Features anhand einer übergebenen Feature-Liste.
+
+    Args:
+        df_features (pd.DataFrame): Vollständiger tsfresh Feature-Datenframe.
+        selected_features (dict): Mapping relevanter Features (Feature-Name → p-Wert).
+
+    Returns:
+        pd.DataFrame: Gefilterte Feature-Matrix mit nur relevanten Spalten.
+    """
     feature_cols = list(selected_features.keys())
-    feature_cols.extend(["vehicle_id"])
     return df_features[feature_cols]

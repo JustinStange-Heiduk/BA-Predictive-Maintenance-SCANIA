@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b2e04042bcdc4ed58a4fcbf568ca6c2a/artifacts
+end_time: 1757506972705
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b2e04042bcdc4ed58a4fcbf568ca6c2a
+run_name: upset-mule-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506969948
+status: 3
+tags: []
+user_id: root

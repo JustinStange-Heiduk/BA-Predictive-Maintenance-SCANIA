@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ae84811bb6544026abf900f1c404f16c/artifacts
+end_time: 1757512422112
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ae84811bb6544026abf900f1c404f16c
+run_name: lyrical-bee-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512414566
+status: 3
+tags: []
+user_id: root

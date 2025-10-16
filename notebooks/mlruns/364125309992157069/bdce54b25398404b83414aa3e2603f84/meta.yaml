@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bdce54b25398404b83414aa3e2603f84/artifacts
+end_time: 1757514243202
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bdce54b25398404b83414aa3e2603f84
+run_name: bouncy-snipe-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514234978
+status: 3
+tags: []
+user_id: root

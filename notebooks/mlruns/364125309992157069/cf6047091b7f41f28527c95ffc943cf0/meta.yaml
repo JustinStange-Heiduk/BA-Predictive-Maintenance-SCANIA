@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cf6047091b7f41f28527c95ffc943cf0/artifacts
+end_time: 1757510386640
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cf6047091b7f41f28527c95ffc943cf0
+run_name: inquisitive-cat-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510360854
+status: 3
+tags: []
+user_id: root

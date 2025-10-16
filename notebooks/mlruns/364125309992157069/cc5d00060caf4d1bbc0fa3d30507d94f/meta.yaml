@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cc5d00060caf4d1bbc0fa3d30507d94f/artifacts
+end_time: 1757503502384
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cc5d00060caf4d1bbc0fa3d30507d94f
+run_name: calm-carp-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503488780
+status: 3
+tags: []
+user_id: root

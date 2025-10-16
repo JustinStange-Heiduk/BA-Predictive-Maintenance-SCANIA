@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c7babd43e44743fdb39913fe09d26896/artifacts
+end_time: 1757513090087
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c7babd43e44743fdb39913fe09d26896
+run_name: delicate-slug-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513084544
+status: 3
+tags: []
+user_id: root

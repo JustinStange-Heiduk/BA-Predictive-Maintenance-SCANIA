@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f1f65864776b45ea97e473a3dc8b71c8/artifacts
+end_time: 1757510539989
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f1f65864776b45ea97e473a3dc8b71c8
+run_name: useful-loon-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510535830
+status: 3
+tags: []
+user_id: root

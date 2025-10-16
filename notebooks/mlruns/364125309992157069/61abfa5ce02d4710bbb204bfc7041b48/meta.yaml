@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/61abfa5ce02d4710bbb204bfc7041b48/artifacts
+end_time: 1757506986644
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 61abfa5ce02d4710bbb204bfc7041b48
+run_name: capricious-jay-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506983501
+status: 3
+tags: []
+user_id: root

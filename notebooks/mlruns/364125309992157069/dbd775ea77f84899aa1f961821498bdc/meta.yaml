@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/dbd775ea77f84899aa1f961821498bdc/artifacts
+end_time: 1757512167145
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: dbd775ea77f84899aa1f961821498bdc
+run_name: efficient-dove-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512160537
+status: 3
+tags: []
+user_id: root

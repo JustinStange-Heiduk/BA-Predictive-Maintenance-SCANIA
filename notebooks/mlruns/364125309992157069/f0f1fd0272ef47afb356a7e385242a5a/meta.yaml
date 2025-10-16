@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f0f1fd0272ef47afb356a7e385242a5a/artifacts
+end_time: 1757507687413
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f0f1fd0272ef47afb356a7e385242a5a
+run_name: brawny-lark-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507683511
+status: 3
+tags: []
+user_id: root

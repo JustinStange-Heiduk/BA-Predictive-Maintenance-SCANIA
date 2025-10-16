@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cfa52ca13920417da10c2185c166d517/artifacts
+end_time: 1757512477346
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cfa52ca13920417da10c2185c166d517
+run_name: likeable-ray-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512465726
+status: 3
+tags: []
+user_id: root

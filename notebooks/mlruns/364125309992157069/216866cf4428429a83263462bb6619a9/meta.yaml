@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/216866cf4428429a83263462bb6619a9/artifacts
+end_time: 1757507598668
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 216866cf4428429a83263462bb6619a9
+run_name: intelligent-dog-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507596425
+status: 3
+tags: []
+user_id: root

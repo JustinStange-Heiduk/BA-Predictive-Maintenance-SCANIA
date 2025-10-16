@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/70b35f13ef9143928dc32a3221002a81/artifacts
+end_time: 1757514684747
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 70b35f13ef9143928dc32a3221002a81
+run_name: upset-elk-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514672741
+status: 3
+tags: []
+user_id: root

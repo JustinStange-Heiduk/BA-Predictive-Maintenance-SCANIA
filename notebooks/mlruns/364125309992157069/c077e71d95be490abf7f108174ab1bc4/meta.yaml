@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c077e71d95be490abf7f108174ab1bc4/artifacts
+end_time: 1757512833826
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c077e71d95be490abf7f108174ab1bc4
+run_name: luminous-pug-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512826404
+status: 3
+tags: []
+user_id: root

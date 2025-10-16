@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e657356921c44ba1a2d7650e6cfc5a2c/artifacts
+end_time: 1757510920191
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e657356921c44ba1a2d7650e6cfc5a2c
+run_name: valuable-lynx-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510903798
+status: 3
+tags: []
+user_id: root

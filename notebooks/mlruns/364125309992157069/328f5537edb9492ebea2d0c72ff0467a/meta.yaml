@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/328f5537edb9492ebea2d0c72ff0467a/artifacts
+end_time: 1757514973797
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 328f5537edb9492ebea2d0c72ff0467a
+run_name: angry-conch-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514956049
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ef5e59159c254bd1a8804c9924c5592a/artifacts
+end_time: 1757514885906
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ef5e59159c254bd1a8804c9924c5592a
+run_name: polite-rook-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514876869
+status: 3
+tags: []
+user_id: root

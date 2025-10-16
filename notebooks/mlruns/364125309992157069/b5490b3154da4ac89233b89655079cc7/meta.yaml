@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b5490b3154da4ac89233b89655079cc7/artifacts
+end_time: 1757513289688
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b5490b3154da4ac89233b89655079cc7
+run_name: abrasive-dove-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513282986
+status: 3
+tags: []
+user_id: root

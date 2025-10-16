@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5089b70fbd244167a3d559dd859bb3a5/artifacts
+end_time: 1757510529860
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5089b70fbd244167a3d559dd859bb3a5
+run_name: sneaky-hound-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510526638
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2522f8e6e6d24ec2a179ea1e5b2ac99c/artifacts
+end_time: 1757509365388
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2522f8e6e6d24ec2a179ea1e5b2ac99c
+run_name: dazzling-crane-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509240513
+status: 3
+tags: []
+user_id: root

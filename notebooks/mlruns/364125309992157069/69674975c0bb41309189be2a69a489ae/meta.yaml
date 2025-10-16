@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/69674975c0bb41309189be2a69a489ae/artifacts
+end_time: 1757512655399
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 69674975c0bb41309189be2a69a489ae
+run_name: rebellious-carp-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512651193
+status: 3
+tags: []
+user_id: root

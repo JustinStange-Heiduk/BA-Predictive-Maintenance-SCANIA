@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0e5e3683bd0649f89b7973ad78c0690f/artifacts
+end_time: 1757506431744
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0e5e3683bd0649f89b7973ad78c0690f
+run_name: brawny-conch-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506423966
+status: 3
+tags: []
+user_id: root

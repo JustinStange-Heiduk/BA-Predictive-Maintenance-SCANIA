@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c156e1390bda4c40beabd6eccd6dcc02/artifacts
+end_time: 1757512190991
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c156e1390bda4c40beabd6eccd6dcc02
+run_name: defiant-frog-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512178305
+status: 3
+tags: []
+user_id: root

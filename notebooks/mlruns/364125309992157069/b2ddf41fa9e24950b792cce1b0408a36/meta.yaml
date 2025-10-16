@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b2ddf41fa9e24950b792cce1b0408a36/artifacts
+end_time: 1757512405571
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b2ddf41fa9e24950b792cce1b0408a36
+run_name: chill-ape-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512399669
+status: 3
+tags: []
+user_id: root

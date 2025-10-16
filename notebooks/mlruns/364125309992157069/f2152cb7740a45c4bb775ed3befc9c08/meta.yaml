@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f2152cb7740a45c4bb775ed3befc9c08/artifacts
+end_time: 1757506930904
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f2152cb7740a45c4bb775ed3befc9c08
+run_name: spiffy-foal-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506928909
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f85b52678d04486caf268e781bea985d/artifacts
+end_time: 1757507621187
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f85b52678d04486caf268e781bea985d
+run_name: fearless-squid-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507618301
+status: 3
+tags: []
+user_id: root

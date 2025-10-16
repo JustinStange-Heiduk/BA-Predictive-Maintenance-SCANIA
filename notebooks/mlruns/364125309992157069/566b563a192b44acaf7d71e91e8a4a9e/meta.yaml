@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/566b563a192b44acaf7d71e91e8a4a9e/artifacts
+end_time: 1757511947491
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 566b563a192b44acaf7d71e91e8a4a9e
+run_name: loud-colt-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511939401
+status: 3
+tags: []
+user_id: root

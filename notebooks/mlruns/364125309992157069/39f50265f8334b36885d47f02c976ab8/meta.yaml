@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/39f50265f8334b36885d47f02c976ab8/artifacts
+end_time: 1757510545577
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 39f50265f8334b36885d47f02c976ab8
+run_name: worried-mole-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510542491
+status: 3
+tags: []
+user_id: root

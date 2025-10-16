@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/de4415b8b63948a2a8c15fef19d1bcc2/artifacts
+end_time: 1757506297949
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: de4415b8b63948a2a8c15fef19d1bcc2
+run_name: crawling-hawk-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506294961
+status: 3
+tags: []
+user_id: root

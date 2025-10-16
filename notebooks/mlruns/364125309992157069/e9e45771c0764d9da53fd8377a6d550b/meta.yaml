@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e9e45771c0764d9da53fd8377a6d550b/artifacts
+end_time: 1757514155477
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e9e45771c0764d9da53fd8377a6d550b
+run_name: nosy-moth-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514141605
+status: 3
+tags: []
+user_id: root

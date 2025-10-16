@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5407b05915594c98802bba99c628a184/artifacts
+end_time: 1757508171570
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5407b05915594c98802bba99c628a184
+run_name: indecisive-gull-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508164757
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/964515ad743c4c91852f6b191b334e3e/artifacts
+end_time: 1757506814177
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 964515ad743c4c91852f6b191b334e3e
+run_name: unique-hog-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506811234
+status: 3
+tags: []
+user_id: root

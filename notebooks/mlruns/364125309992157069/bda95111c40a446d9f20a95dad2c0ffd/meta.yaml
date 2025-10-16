@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bda95111c40a446d9f20a95dad2c0ffd/artifacts
+end_time: 1757512822382
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bda95111c40a446d9f20a95dad2c0ffd
+run_name: luxuriant-rook-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512817862
+status: 3
+tags: []
+user_id: root

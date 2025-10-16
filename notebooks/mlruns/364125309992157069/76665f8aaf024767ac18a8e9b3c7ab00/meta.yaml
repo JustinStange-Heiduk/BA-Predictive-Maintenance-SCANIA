@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/76665f8aaf024767ac18a8e9b3c7ab00/artifacts
+end_time: 1757510857528
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 76665f8aaf024767ac18a8e9b3c7ab00
+run_name: chill-owl-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510845510
+status: 3
+tags: []
+user_id: root

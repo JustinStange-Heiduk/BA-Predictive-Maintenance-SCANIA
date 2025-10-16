@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4383d8e3821e4ff286c3298083416048/artifacts
+end_time: 1757512202634
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4383d8e3821e4ff286c3298083416048
+run_name: powerful-carp-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512191899
+status: 3
+tags: []
+user_id: root

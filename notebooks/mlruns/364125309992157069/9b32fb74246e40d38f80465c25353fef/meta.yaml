@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/9b32fb74246e40d38f80465c25353fef/artifacts
+end_time: 1757508963526
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 9b32fb74246e40d38f80465c25353fef
+run_name: gentle-hog-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508954506
+status: 3
+tags: []
+user_id: root

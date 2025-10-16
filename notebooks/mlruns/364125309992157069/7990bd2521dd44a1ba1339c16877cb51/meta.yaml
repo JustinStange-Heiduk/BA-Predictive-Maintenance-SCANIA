@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7990bd2521dd44a1ba1339c16877cb51/artifacts
+end_time: 1757514335938
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7990bd2521dd44a1ba1339c16877cb51
+run_name: languid-mole-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514321410
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/9fa729bedbe7499aaf429752d18e23b6/artifacts
+end_time: 1757511925422
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 9fa729bedbe7499aaf429752d18e23b6
+run_name: gaudy-cat-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511920599
+status: 3
+tags: []
+user_id: root

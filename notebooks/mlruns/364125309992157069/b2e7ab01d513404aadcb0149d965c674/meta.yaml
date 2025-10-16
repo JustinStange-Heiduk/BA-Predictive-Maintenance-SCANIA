@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b2e7ab01d513404aadcb0149d965c674/artifacts
+end_time: 1757511563141
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b2e7ab01d513404aadcb0149d965c674
+run_name: kindly-ant-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511552552
+status: 3
+tags: []
+user_id: root

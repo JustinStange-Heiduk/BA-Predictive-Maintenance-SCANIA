@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ab009b9fb17d4d6089607e7657dd0418/artifacts
+end_time: 1757510300404
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ab009b9fb17d4d6089607e7657dd0418
+run_name: upset-wasp-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510294644
+status: 3
+tags: []
+user_id: root

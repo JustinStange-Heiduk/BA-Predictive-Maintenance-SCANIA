@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/86ea767ae5fa4bf8a266756166985512/artifacts
+end_time: 1757507193713
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 86ea767ae5fa4bf8a266756166985512
+run_name: sassy-sponge-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507187335
+status: 3
+tags: []
+user_id: root

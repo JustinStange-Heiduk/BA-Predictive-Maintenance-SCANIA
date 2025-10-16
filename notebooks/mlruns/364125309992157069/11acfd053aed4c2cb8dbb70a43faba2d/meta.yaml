@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/11acfd053aed4c2cb8dbb70a43faba2d/artifacts
+end_time: 1757511904141
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 11acfd053aed4c2cb8dbb70a43faba2d
+run_name: traveling-jay-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511845469
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/286a3872e2a042f4ae4277055400ae13/artifacts
+end_time: 1757512872389
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 286a3872e2a042f4ae4277055400ae13
+run_name: crawling-mare-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512866184
+status: 3
+tags: []
+user_id: root

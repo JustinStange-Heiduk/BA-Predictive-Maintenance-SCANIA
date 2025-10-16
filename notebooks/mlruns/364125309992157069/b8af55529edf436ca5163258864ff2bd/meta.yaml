@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b8af55529edf436ca5163258864ff2bd/artifacts
+end_time: 1757503487700
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b8af55529edf436ca5163258864ff2bd
+run_name: silent-panda-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503460659
+status: 3
+tags: []
+user_id: root

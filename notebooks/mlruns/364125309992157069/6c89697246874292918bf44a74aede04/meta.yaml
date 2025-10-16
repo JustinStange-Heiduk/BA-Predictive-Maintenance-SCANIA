@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6c89697246874292918bf44a74aede04/artifacts
+end_time: 1757513106144
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6c89697246874292918bf44a74aede04
+run_name: bold-lamb-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513101769
+status: 3
+tags: []
+user_id: root

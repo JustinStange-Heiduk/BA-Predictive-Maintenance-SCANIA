@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7b66b2bb79ff469788189fc0c6404b93/artifacts
+end_time: 1757510501065
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7b66b2bb79ff469788189fc0c6404b93
+run_name: wise-moose-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510496608
+status: 3
+tags: []
+user_id: root

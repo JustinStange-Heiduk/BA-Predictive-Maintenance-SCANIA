@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5c9e1571282546a08c93a94667fc15b9/artifacts
+end_time: 1757514476376
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5c9e1571282546a08c93a94667fc15b9
+run_name: abundant-bear-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514462581
+status: 3
+tags: []
+user_id: root

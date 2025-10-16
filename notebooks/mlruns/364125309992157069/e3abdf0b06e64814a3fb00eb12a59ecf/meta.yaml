@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e3abdf0b06e64814a3fb00eb12a59ecf/artifacts
+end_time: 1757512577441
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e3abdf0b06e64814a3fb00eb12a59ecf
+run_name: unleashed-fox-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512566966
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2990f3ee8832456283f7a4be10b3b42e/artifacts
+end_time: 1757508943361
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2990f3ee8832456283f7a4be10b3b42e
+run_name: peaceful-grouse-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508940369
+status: 3
+tags: []
+user_id: root

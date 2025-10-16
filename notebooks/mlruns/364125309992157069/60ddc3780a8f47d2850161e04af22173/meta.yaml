@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/60ddc3780a8f47d2850161e04af22173/artifacts
+end_time: 1757506870334
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 60ddc3780a8f47d2850161e04af22173
+run_name: caring-whale-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506865563
+status: 3
+tags: []
+user_id: root

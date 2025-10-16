@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/77447a03eb524e2c9ea342f84f7be510/artifacts
+end_time: 1757506526172
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 77447a03eb524e2c9ea342f84f7be510
+run_name: receptive-stoat-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506523428
+status: 3
+tags: []
+user_id: root

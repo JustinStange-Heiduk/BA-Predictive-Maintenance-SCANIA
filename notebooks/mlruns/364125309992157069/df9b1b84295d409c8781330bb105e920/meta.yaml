@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/df9b1b84295d409c8781330bb105e920/artifacts
+end_time: 1757512975918
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: df9b1b84295d409c8781330bb105e920
+run_name: dashing-kite-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512970753
+status: 3
+tags: []
+user_id: root

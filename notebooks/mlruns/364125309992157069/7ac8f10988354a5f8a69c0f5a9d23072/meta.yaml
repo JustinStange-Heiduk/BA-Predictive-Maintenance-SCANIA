@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7ac8f10988354a5f8a69c0f5a9d23072/artifacts
+end_time: 1757507095790
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7ac8f10988354a5f8a69c0f5a9d23072
+run_name: nimble-elk-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507090675
+status: 3
+tags: []
+user_id: root

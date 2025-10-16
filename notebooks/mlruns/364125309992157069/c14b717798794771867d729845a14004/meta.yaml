@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c14b717798794771867d729845a14004/artifacts
+end_time: 1757508927381
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c14b717798794771867d729845a14004
+run_name: stately-fowl-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508924971
+status: 3
+tags: []
+user_id: root

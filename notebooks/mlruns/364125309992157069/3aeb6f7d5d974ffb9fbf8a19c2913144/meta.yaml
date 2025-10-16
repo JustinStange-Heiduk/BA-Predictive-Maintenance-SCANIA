@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3aeb6f7d5d974ffb9fbf8a19c2913144/artifacts
+end_time: 1757508946542
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3aeb6f7d5d974ffb9fbf8a19c2913144
+run_name: nervous-hen-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508943657
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/58123b5af1d04a518e163a2ec8e4082f/artifacts
+end_time: 1757500827785
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 58123b5af1d04a518e163a2ec8e4082f
+run_name: nimble-dolphin-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757500824464
+status: 3
+tags: []
+user_id: root

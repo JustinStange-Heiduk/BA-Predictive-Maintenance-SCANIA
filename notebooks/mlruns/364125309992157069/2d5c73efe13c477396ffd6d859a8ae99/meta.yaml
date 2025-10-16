@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2d5c73efe13c477396ffd6d859a8ae99/artifacts
+end_time: 1757507317120
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2d5c73efe13c477396ffd6d859a8ae99
+run_name: abrasive-gnat-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507313124
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/404970de29a349f3b8573e3534a82aba/artifacts
+end_time: 1757506903616
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 404970de29a349f3b8573e3534a82aba
+run_name: unique-asp-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506900755
+status: 3
+tags: []
+user_id: root

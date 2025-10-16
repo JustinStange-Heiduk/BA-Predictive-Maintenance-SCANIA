@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b6412123473d458b92529de8da8f4866/artifacts
+end_time: 1757513761557
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b6412123473d458b92529de8da8f4866
+run_name: stately-pig-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513745985
+status: 3
+tags: []
+user_id: root

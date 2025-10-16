@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/be39a4ff603444579e3f6affe47c2a53/artifacts
+end_time: 1757508966450
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: be39a4ff603444579e3f6affe47c2a53
+run_name: thundering-bug-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508964316
+status: 3
+tags: []
+user_id: root

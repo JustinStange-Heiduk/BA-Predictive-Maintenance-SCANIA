@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d363e91981744f31a0a02db94769bfd3/artifacts
+end_time: 1757509367923
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d363e91981744f31a0a02db94769bfd3
+run_name: spiffy-hare-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509365727
+status: 3
+tags: []
+user_id: root

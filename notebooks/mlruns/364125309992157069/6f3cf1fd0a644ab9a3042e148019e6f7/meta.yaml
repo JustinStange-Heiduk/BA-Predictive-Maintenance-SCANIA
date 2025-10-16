@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6f3cf1fd0a644ab9a3042e148019e6f7/artifacts
+end_time: 1757511038984
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6f3cf1fd0a644ab9a3042e148019e6f7
+run_name: rare-hare-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511002839
+status: 3
+tags: []
+user_id: root

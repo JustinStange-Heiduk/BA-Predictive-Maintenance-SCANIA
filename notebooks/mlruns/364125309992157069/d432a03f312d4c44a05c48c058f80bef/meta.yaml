@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d432a03f312d4c44a05c48c058f80bef/artifacts
+end_time: 1757513257375
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d432a03f312d4c44a05c48c058f80bef
+run_name: stylish-horse-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513252504
+status: 3
+tags: []
+user_id: root

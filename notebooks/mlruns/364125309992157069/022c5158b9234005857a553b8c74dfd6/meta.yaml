@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/022c5158b9234005857a553b8c74dfd6/artifacts
+end_time: 1757513063611
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 022c5158b9234005857a553b8c74dfd6
+run_name: resilient-rook-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513058306
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/9464465c154c42d2a94238a1171bc843/artifacts
+end_time: 1757506853573
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 9464465c154c42d2a94238a1171bc843
+run_name: delicate-stoat-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506850468
+status: 3
+tags: []
+user_id: root

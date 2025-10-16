@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c9eb9b81f0f44d058160de27e38d5e8d/artifacts
+end_time: 1757503354905
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c9eb9b81f0f44d058160de27e38d5e8d
+run_name: unequaled-grub-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503319597
+status: 3
+tags: []
+user_id: root

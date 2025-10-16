@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f688a6a13bda41449c4b2f90b49e8efe/artifacts
+end_time: 1757513097034
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f688a6a13bda41449c4b2f90b49e8efe
+run_name: resilient-lark-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513090430
+status: 3
+tags: []
+user_id: root

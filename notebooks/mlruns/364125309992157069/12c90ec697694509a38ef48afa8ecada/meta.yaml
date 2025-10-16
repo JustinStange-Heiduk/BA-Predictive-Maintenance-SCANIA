@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/12c90ec697694509a38ef48afa8ecada/artifacts
+end_time: 1757512483427
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 12c90ec697694509a38ef48afa8ecada
+run_name: merciful-lamb-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512477705
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2816753817294d538db078232018b15e/artifacts
+end_time: 1757509841631
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2816753817294d538db078232018b15e
+run_name: exultant-mole-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509821058
+status: 3
+tags: []
+user_id: root

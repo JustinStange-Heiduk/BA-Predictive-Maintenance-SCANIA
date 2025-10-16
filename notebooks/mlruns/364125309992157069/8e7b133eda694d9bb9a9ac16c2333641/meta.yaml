@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8e7b133eda694d9bb9a9ac16c2333641/artifacts
+end_time: 1757514705045
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8e7b133eda694d9bb9a9ac16c2333641
+run_name: enchanting-duck-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514688732
+status: 3
+tags: []
+user_id: root

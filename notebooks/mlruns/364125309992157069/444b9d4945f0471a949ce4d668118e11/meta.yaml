@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/444b9d4945f0471a949ce4d668118e11/artifacts
+end_time: 1757506810883
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 444b9d4945f0471a949ce4d668118e11
+run_name: puzzled-ox-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506804133
+status: 3
+tags: []
+user_id: root

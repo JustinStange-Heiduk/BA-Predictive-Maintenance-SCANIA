@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cc2a260db330480da41ff6a44ef0ab21/artifacts
+end_time: 1757506327464
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cc2a260db330480da41ff6a44ef0ab21
+run_name: beautiful-cub-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506313748
+status: 3
+tags: []
+user_id: root

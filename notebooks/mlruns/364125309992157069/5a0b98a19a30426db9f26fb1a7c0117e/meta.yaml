@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5a0b98a19a30426db9f26fb1a7c0117e/artifacts
+end_time: 1757512602062
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5a0b98a19a30426db9f26fb1a7c0117e
+run_name: dashing-mouse-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512593726
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ec2133202ae842ec88e1c711ae026998/artifacts
+end_time: 1757509397986
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ec2133202ae842ec88e1c711ae026998
+run_name: aged-zebra-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509373091
+status: 3
+tags: []
+user_id: root

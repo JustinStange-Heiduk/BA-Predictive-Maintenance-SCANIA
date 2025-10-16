@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/922e4367fdf44c51ad85f8f61b15d276/artifacts
+end_time: 1757506873518
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 922e4367fdf44c51ad85f8f61b15d276
+run_name: trusting-gnat-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506870682
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6e42d8f9011848c190e79703ae42f73b/artifacts
+end_time: 1757510400461
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6e42d8f9011848c190e79703ae42f73b
+run_name: thundering-ray-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510387519
+status: 3
+tags: []
+user_id: root

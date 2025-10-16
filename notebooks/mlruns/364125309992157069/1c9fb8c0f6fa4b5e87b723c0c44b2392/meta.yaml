@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1c9fb8c0f6fa4b5e87b723c0c44b2392/artifacts
+end_time: 1757510602601
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1c9fb8c0f6fa4b5e87b723c0c44b2392
+run_name: legendary-perch-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510586903
+status: 3
+tags: []
+user_id: root

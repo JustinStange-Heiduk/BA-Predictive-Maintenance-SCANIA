@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e05ebd7a343c40a39046cff354268ece/artifacts
+end_time: 1757506305886
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e05ebd7a343c40a39046cff354268ece
+run_name: amusing-fawn-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506301205
+status: 3
+tags: []
+user_id: root

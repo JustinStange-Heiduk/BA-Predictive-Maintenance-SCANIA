@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7af754aee10d4b9197e8cb89ed134030/artifacts
+end_time: 1757503405167
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7af754aee10d4b9197e8cb89ed134030
+run_name: indecisive-squid-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503388192
+status: 3
+tags: []
+user_id: root

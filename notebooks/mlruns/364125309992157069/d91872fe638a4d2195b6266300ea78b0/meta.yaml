@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d91872fe638a4d2195b6266300ea78b0/artifacts
+end_time: 1757509539398
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d91872fe638a4d2195b6266300ea78b0
+run_name: useful-stork-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509518121
+status: 3
+tags: []
+user_id: root

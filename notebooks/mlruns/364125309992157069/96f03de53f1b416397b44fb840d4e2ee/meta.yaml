@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/96f03de53f1b416397b44fb840d4e2ee/artifacts
+end_time: 1757507186485
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 96f03de53f1b416397b44fb840d4e2ee
+run_name: bemused-crab-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507179414
+status: 3
+tags: []
+user_id: root

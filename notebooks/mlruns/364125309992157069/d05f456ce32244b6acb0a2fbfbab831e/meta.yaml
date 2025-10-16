@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d05f456ce32244b6acb0a2fbfbab831e/artifacts
+end_time: 1757514595714
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d05f456ce32244b6acb0a2fbfbab831e
+run_name: learned-lamb-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514590481
+status: 3
+tags: []
+user_id: root

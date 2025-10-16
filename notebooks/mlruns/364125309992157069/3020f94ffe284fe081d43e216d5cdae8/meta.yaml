@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3020f94ffe284fe081d43e216d5cdae8/artifacts
+end_time: 1757513917814
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3020f94ffe284fe081d43e216d5cdae8
+run_name: redolent-crow-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513901538
+status: 3
+tags: []
+user_id: root

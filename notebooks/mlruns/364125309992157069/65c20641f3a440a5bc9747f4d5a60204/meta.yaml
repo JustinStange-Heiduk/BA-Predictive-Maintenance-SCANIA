@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/65c20641f3a440a5bc9747f4d5a60204/artifacts
+end_time: 1757507539764
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 65c20641f3a440a5bc9747f4d5a60204
+run_name: nosy-bat-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507536912
+status: 3
+tags: []
+user_id: root

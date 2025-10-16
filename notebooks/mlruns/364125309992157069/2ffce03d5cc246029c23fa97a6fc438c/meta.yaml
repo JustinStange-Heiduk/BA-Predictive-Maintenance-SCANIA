@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2ffce03d5cc246029c23fa97a6fc438c/artifacts
+end_time: 1757510327815
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2ffce03d5cc246029c23fa97a6fc438c
+run_name: upbeat-shrike-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510323597
+status: 3
+tags: []
+user_id: root

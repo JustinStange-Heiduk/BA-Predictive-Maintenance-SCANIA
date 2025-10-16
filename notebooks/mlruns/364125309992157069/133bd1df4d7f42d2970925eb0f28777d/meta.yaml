@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/133bd1df4d7f42d2970925eb0f28777d/artifacts
+end_time: 1757512846527
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 133bd1df4d7f42d2970925eb0f28777d
+run_name: beautiful-squid-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512844080
+status: 3
+tags: []
+user_id: root

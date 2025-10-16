@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7327d5e898e141dfb9609b9799cd3f9c/artifacts
+end_time: 1757507458274
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7327d5e898e141dfb9609b9799cd3f9c
+run_name: defiant-ant-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507450576
+status: 3
+tags: []
+user_id: root

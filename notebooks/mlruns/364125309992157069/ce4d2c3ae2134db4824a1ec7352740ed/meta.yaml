@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ce4d2c3ae2134db4824a1ec7352740ed/artifacts
+end_time: 1757506776041
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ce4d2c3ae2134db4824a1ec7352740ed
+run_name: receptive-mole-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506772545
+status: 3
+tags: []
+user_id: root

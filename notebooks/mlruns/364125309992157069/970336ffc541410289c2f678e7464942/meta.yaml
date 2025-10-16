@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/970336ffc541410289c2f678e7464942/artifacts
+end_time: 1757503681477
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 970336ffc541410289c2f678e7464942
+run_name: mysterious-cow-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503677385
+status: 3
+tags: []
+user_id: root

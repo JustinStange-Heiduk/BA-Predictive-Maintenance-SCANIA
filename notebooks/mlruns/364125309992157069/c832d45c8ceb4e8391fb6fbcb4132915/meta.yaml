@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c832d45c8ceb4e8391fb6fbcb4132915/artifacts
+end_time: 1757507730381
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c832d45c8ceb4e8391fb6fbcb4132915
+run_name: treasured-mouse-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507726098
+status: 3
+tags: []
+user_id: root

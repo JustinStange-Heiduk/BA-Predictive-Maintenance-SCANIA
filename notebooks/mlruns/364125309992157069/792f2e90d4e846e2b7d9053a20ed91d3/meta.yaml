@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/792f2e90d4e846e2b7d9053a20ed91d3/artifacts
+end_time: 1757512680325
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 792f2e90d4e846e2b7d9053a20ed91d3
+run_name: stately-crab-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512670443
+status: 3
+tags: []
+user_id: root

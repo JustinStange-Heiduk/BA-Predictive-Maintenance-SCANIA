@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/dd9b3dfa345242529ef063848c3900c0/artifacts
+end_time: 1757508318245
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: dd9b3dfa345242529ef063848c3900c0
+run_name: colorful-eel-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508299914
+status: 3
+tags: []
+user_id: root

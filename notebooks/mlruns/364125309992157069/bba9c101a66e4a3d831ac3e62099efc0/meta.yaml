@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bba9c101a66e4a3d831ac3e62099efc0/artifacts
+end_time: 1757506156309
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bba9c101a66e4a3d831ac3e62099efc0
+run_name: adaptable-cat-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757505034935
+status: 4
+tags: []
+user_id: root

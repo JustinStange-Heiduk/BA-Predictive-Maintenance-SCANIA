@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4e1b1a64c2a441b2b58a20a0e59097ba/artifacts
+end_time: 1757507576590
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4e1b1a64c2a441b2b58a20a0e59097ba
+run_name: awesome-finch-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507573708
+status: 3
+tags: []
+user_id: root

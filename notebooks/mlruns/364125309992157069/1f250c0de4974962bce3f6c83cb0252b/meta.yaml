@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1f250c0de4974962bce3f6c83cb0252b/artifacts
+end_time: 1757512529115
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1f250c0de4974962bce3f6c83cb0252b
+run_name: entertaining-ox-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512525307
+status: 3
+tags: []
+user_id: root

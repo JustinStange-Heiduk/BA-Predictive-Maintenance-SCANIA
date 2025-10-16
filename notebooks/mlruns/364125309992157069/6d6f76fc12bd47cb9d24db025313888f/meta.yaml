@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6d6f76fc12bd47cb9d24db025313888f/artifacts
+end_time: 1757513645863
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6d6f76fc12bd47cb9d24db025313888f
+run_name: aged-panda-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513636215
+status: 3
+tags: []
+user_id: root

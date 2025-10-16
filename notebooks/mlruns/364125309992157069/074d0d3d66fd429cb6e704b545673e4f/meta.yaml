@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/074d0d3d66fd429cb6e704b545673e4f/artifacts
+end_time: 1757511362940
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 074d0d3d66fd429cb6e704b545673e4f
+run_name: rambunctious-hog-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511350101
+status: 3
+tags: []
+user_id: root

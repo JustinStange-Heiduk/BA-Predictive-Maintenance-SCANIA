@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/845198e1571e4ac795d3e14337bf59f6/artifacts
+end_time: 1757513581033
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 845198e1571e4ac795d3e14337bf59f6
+run_name: bustling-asp-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513480900
+status: 3
+tags: []
+user_id: root

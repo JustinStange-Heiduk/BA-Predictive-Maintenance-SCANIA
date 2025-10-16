@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/18abe00df8154321abd72374c3f1181c/artifacts
+end_time: 1757510823279
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 18abe00df8154321abd72374c3f1181c
+run_name: spiffy-trout-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510817127
+status: 3
+tags: []
+user_id: root

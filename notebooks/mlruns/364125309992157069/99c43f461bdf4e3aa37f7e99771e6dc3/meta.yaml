@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/99c43f461bdf4e3aa37f7e99771e6dc3/artifacts
+end_time: 1757510542191
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 99c43f461bdf4e3aa37f7e99771e6dc3
+run_name: adaptable-croc-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510540171
+status: 3
+tags: []
+user_id: root

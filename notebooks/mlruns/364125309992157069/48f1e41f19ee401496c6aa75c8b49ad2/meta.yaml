@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/48f1e41f19ee401496c6aa75c8b49ad2/artifacts
+end_time: 1757506241138
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 48f1e41f19ee401496c6aa75c8b49ad2
+run_name: gifted-pig-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506238521
+status: 3
+tags: []
+user_id: root

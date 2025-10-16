@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/272a8a8eb27444b98557556f25472052/artifacts
+end_time: 1757507704466
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 272a8a8eb27444b98557556f25472052
+run_name: likeable-lamb-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507693251
+status: 3
+tags: []
+user_id: root

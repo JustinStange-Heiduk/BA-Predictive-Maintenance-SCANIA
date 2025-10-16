@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/42059614ca2846a294eae3990ca0df27/artifacts
+end_time: 1757507772987
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 42059614ca2846a294eae3990ca0df27
+run_name: flawless-lynx-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507767662
+status: 3
+tags: []
+user_id: root

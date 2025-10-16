@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a7d44fb1f3ee4557ac4b4d1cb4b6b175/artifacts
+end_time: 1757506394986
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a7d44fb1f3ee4557ac4b4d1cb4b6b175
+run_name: rumbling-ray-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506391658
+status: 3
+tags: []
+user_id: root

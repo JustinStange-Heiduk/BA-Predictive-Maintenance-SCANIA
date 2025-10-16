@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e5b6551dc83d41538cf05b6637bc93c1/artifacts
+end_time: 1757513112752
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e5b6551dc83d41538cf05b6637bc93c1
+run_name: thundering-grub-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513110143
+status: 3
+tags: []
+user_id: root

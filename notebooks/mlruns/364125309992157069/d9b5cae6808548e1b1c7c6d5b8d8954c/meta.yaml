@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d9b5cae6808548e1b1c7c6d5b8d8954c/artifacts
+end_time: 1757513353393
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d9b5cae6808548e1b1c7c6d5b8d8954c
+run_name: shivering-mink-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513349043
+status: 3
+tags: []
+user_id: root

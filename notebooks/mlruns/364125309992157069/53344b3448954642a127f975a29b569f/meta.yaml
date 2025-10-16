@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/53344b3448954642a127f975a29b569f/artifacts
+end_time: 1757507585038
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 53344b3448954642a127f975a29b569f
+run_name: sincere-moth-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507582443
+status: 3
+tags: []
+user_id: root

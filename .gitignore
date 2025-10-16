@@ -17,3 +17,5 @@ data/08_reporting/*
 !data/06_models/.gitkeep
 !data/07_model_output/.gitkeep
 !data/08_reporting/.gitkeep
+
+!env/.env

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0399daccc1224ed8857ae15044049ae8/artifacts
+end_time: 1757507198485
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0399daccc1224ed8857ae15044049ae8
+run_name: gentle-mole-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507194071
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7aaafb9394d945c19f5aaa6fead5dceb/artifacts
+end_time: 1757512729441
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7aaafb9394d945c19f5aaa6fead5dceb
+run_name: incongruous-koi-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512725916
+status: 3
+tags: []
+user_id: root

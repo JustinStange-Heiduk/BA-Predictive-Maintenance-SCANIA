@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d09beb5fe06d4ae885dc7afac28b0e85/artifacts
+end_time: 1757511461276
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d09beb5fe06d4ae885dc7afac28b0e85
+run_name: hilarious-vole-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511450352
+status: 3
+tags: []
+user_id: root

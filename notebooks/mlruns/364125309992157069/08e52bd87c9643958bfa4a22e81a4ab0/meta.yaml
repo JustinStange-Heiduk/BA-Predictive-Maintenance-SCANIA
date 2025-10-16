@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/08e52bd87c9643958bfa4a22e81a4ab0/artifacts
+end_time: 1757506581879
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 08e52bd87c9643958bfa4a22e81a4ab0
+run_name: resilient-cub-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506574064
+status: 3
+tags: []
+user_id: root

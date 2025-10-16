@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5c289cdce9ff4e64bd59cebe21296ff0/artifacts
+end_time: 1757511315890
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5c289cdce9ff4e64bd59cebe21296ff0
+run_name: redolent-mule-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511305983
+status: 3
+tags: []
+user_id: root

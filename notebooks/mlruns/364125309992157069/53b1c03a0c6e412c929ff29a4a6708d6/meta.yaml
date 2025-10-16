@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/53b1c03a0c6e412c929ff29a4a6708d6/artifacts
+end_time: 1757515277481
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 53b1c03a0c6e412c929ff29a4a6708d6
+run_name: bald-mouse-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515271169
+status: 3
+tags: []
+user_id: root

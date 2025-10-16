@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/330b6c085d584d7f8ff9a1a086d3e3e0/artifacts
+end_time: 1757510806486
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 330b6c085d584d7f8ff9a1a086d3e3e0
+run_name: welcoming-sow-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510803028
+status: 3
+tags: []
+user_id: root

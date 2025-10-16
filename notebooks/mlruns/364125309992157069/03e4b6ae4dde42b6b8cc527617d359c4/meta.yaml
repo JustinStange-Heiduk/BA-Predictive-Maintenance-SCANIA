@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/03e4b6ae4dde42b6b8cc527617d359c4/artifacts
+end_time: 1757507636461
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 03e4b6ae4dde42b6b8cc527617d359c4
+run_name: aged-deer-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507628026
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cba07113000e4541904097595988eea8/artifacts
+end_time: 1757510695722
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cba07113000e4541904097595988eea8
+run_name: hilarious-foal-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510658477
+status: 3
+tags: []
+user_id: root

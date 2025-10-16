@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6b630406e5284192a30387b9c19d0378/artifacts
+end_time: 1757509852291
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6b630406e5284192a30387b9c19d0378
+run_name: silent-horse-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509842229
+status: 3
+tags: []
+user_id: root

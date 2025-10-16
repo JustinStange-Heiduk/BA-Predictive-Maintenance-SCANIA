@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/27066d8063b3415a83e9e1b9bd6ff52f/artifacts
+end_time: 1757507023469
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 27066d8063b3415a83e9e1b9bd6ff52f
+run_name: trusting-auk-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507020454
+status: 3
+tags: []
+user_id: root

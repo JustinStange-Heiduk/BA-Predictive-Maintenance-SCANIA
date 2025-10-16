@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bc2c6764a40f4830be8e65eeb83a8617/artifacts
+end_time: 1757509964690
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bc2c6764a40f4830be8e65eeb83a8617
+run_name: treasured-panda-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509888538
+status: 3
+tags: []
+user_id: root

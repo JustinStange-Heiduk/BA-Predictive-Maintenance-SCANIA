@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ace96b95e3a24f51a292ee1b66fb6735/artifacts
+end_time: 1757503666458
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ace96b95e3a24f51a292ee1b66fb6735
+run_name: welcoming-gull-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503641407
+status: 3
+tags: []
+user_id: root

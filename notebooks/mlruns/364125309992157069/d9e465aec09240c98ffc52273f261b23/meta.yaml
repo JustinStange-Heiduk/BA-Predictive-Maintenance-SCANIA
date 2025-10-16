@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d9e465aec09240c98ffc52273f261b23/artifacts
+end_time: 1757511780990
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d9e465aec09240c98ffc52273f261b23
+run_name: unique-squid-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511771413
+status: 3
+tags: []
+user_id: root

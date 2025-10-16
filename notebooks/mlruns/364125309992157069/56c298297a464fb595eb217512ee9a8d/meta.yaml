@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/56c298297a464fb595eb217512ee9a8d/artifacts
+end_time: 1757503252130
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 56c298297a464fb595eb217512ee9a8d
+run_name: peaceful-sponge-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503235681
+status: 3
+tags: []
+user_id: root

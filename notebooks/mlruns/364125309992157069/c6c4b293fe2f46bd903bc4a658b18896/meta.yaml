@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/c6c4b293fe2f46bd903bc4a658b18896/artifacts
+end_time: 1757513319517
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: c6c4b293fe2f46bd903bc4a658b18896
+run_name: rebellious-loon-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513313521
+status: 3
+tags: []
+user_id: root

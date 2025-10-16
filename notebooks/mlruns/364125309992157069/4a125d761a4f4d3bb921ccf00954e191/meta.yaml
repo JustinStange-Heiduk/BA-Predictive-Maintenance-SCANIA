@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4a125d761a4f4d3bb921ccf00954e191/artifacts
+end_time: 1757507221510
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4a125d761a4f4d3bb921ccf00954e191
+run_name: nosy-kit-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507218978
+status: 3
+tags: []
+user_id: root

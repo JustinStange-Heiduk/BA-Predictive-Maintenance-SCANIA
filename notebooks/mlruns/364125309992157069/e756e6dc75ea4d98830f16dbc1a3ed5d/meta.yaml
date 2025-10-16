@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e756e6dc75ea4d98830f16dbc1a3ed5d/artifacts
+end_time: 1757510448376
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e756e6dc75ea4d98830f16dbc1a3ed5d
+run_name: flawless-boar-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510436788
+status: 3
+tags: []
+user_id: root

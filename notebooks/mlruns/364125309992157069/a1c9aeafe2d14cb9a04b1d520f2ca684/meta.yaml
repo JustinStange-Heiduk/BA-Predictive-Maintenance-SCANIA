@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a1c9aeafe2d14cb9a04b1d520f2ca684/artifacts
+end_time: 1757513732666
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a1c9aeafe2d14cb9a04b1d520f2ca684
+run_name: flawless-midge-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513723908
+status: 3
+tags: []
+user_id: root

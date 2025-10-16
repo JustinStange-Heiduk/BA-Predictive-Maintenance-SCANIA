@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8cb50a099d714cd19c5520f5c1725f52/artifacts
+end_time: 1757512936836
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8cb50a099d714cd19c5520f5c1725f52
+run_name: brawny-donkey-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512925708
+status: 3
+tags: []
+user_id: root

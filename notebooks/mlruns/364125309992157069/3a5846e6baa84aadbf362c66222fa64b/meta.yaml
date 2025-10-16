@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3a5846e6baa84aadbf362c66222fa64b/artifacts
+end_time: 1757510323282
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3a5846e6baa84aadbf362c66222fa64b
+run_name: resilient-bass-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510320455
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/110db5a5b0b7438fa0d571a0752c0046/artifacts
+end_time: 1757506587794
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 110db5a5b0b7438fa0d571a0752c0046
+run_name: judicious-cat-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506582785
+status: 3
+tags: []
+user_id: root

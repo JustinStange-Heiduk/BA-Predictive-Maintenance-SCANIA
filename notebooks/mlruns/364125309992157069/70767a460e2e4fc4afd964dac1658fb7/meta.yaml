@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/70767a460e2e4fc4afd964dac1658fb7/artifacts
+end_time: 1757510068927
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 70767a460e2e4fc4afd964dac1658fb7
+run_name: zealous-fly-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510059930
+status: 3
+tags: []
+user_id: root

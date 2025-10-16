@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e3018b9efbee4b6f8400ada4f2f4a42d/artifacts
+end_time: 1757513745077
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e3018b9efbee4b6f8400ada4f2f4a42d
+run_name: adorable-panda-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513732983
+status: 3
+tags: []
+user_id: root

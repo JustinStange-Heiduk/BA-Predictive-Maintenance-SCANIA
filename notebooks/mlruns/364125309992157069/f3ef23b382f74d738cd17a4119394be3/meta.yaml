@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f3ef23b382f74d738cd17a4119394be3/artifacts
+end_time: 1757512588034
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f3ef23b382f74d738cd17a4119394be3
+run_name: intelligent-stag-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512577751
+status: 3
+tags: []
+user_id: root

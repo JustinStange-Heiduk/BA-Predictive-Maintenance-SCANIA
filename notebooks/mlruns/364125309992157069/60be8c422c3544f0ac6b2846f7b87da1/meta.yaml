@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/60be8c422c3544f0ac6b2846f7b87da1/artifacts
+end_time: 1757507533223
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 60be8c422c3544f0ac6b2846f7b87da1
+run_name: invincible-ray-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507531040
+status: 3
+tags: []
+user_id: root

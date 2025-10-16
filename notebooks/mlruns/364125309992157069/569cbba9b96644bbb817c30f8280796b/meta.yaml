@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/569cbba9b96644bbb817c30f8280796b/artifacts
+end_time: 1757506529331
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 569cbba9b96644bbb817c30f8280796b
+run_name: dapper-snake-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506526503
+status: 3
+tags: []
+user_id: root

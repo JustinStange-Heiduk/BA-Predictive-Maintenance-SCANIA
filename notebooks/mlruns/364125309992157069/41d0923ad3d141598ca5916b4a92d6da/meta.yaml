@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/41d0923ad3d141598ca5916b4a92d6da/artifacts
+end_time: 1757509761360
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 41d0923ad3d141598ca5916b4a92d6da
+run_name: calm-grub-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509757802
+status: 3
+tags: []
+user_id: root

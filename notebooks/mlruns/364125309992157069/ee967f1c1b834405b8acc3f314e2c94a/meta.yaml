@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ee967f1c1b834405b8acc3f314e2c94a/artifacts
+end_time: 1757515072934
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ee967f1c1b834405b8acc3f314e2c94a
+run_name: hilarious-dove-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515056143
+status: 3
+tags: []
+user_id: root

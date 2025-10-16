@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/202076fbebe149bc942925b92eed8f8f/artifacts
+end_time: 1757508186819
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 202076fbebe149bc942925b92eed8f8f
+run_name: rumbling-shrew-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508171895
+status: 3
+tags: []
+user_id: root

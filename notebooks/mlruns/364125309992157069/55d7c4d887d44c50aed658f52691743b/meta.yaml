@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/55d7c4d887d44c50aed658f52691743b/artifacts
+end_time: 1757506628986
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 55d7c4d887d44c50aed658f52691743b
+run_name: burly-deer-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506626381
+status: 3
+tags: []
+user_id: root

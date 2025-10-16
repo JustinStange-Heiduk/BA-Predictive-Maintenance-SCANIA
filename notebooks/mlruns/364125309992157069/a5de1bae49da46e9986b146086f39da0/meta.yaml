@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a5de1bae49da46e9986b146086f39da0/artifacts
+end_time: 1757512965295
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a5de1bae49da46e9986b146086f39da0
+run_name: abrasive-jay-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512960160
+status: 3
+tags: []
+user_id: root

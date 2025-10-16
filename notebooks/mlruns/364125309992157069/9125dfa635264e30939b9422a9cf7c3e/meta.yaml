@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/9125dfa635264e30939b9422a9cf7c3e/artifacts
+end_time: 1757513266625
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 9125dfa635264e30939b9422a9cf7c3e
+run_name: bald-pug-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513257702
+status: 3
+tags: []
+user_id: root

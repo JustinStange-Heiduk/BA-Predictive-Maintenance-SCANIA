@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d06d867269024ad3b9fbb6aa8cad0c90/artifacts
+end_time: 1757514255763
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d06d867269024ad3b9fbb6aa8cad0c90
+run_name: judicious-lynx-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514243441
+status: 3
+tags: []
+user_id: root

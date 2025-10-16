@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5f67615b8cc547d297ee51c266ba6ced/artifacts
+end_time: 1757506890290
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5f67615b8cc547d297ee51c266ba6ced
+run_name: peaceful-swan-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506887290
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/354f5dc0e6f445c3a2e7a4e7f5ba3a5d/artifacts
+end_time: 1757511802456
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 354f5dc0e6f445c3a2e7a4e7f5ba3a5d
+run_name: glamorous-lamb-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511793349
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0af60faf48bd440f8cbf8b085bf17349/artifacts
+end_time: 1757509854754
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0af60faf48bd440f8cbf8b085bf17349
+run_name: merciful-donkey-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509852599
+status: 3
+tags: []
+user_id: root

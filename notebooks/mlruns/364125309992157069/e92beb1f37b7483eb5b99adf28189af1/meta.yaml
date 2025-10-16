@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e92beb1f37b7483eb5b99adf28189af1/artifacts
+end_time: 1757506277820
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e92beb1f37b7483eb5b99adf28189af1
+run_name: rare-sheep-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506274631
+status: 3
+tags: []
+user_id: root

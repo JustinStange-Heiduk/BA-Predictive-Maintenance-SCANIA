@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/71e2b3be40864dbda9b5bf00162c3df9/artifacts
+end_time: 1757506641365
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 71e2b3be40864dbda9b5bf00162c3df9
+run_name: amazing-stork-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506638963
+status: 3
+tags: []
+user_id: root

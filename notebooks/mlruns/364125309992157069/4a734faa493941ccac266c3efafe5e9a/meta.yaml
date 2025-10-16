@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4a734faa493941ccac266c3efafe5e9a/artifacts
+end_time: 1757507264961
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4a734faa493941ccac266c3efafe5e9a
+run_name: painted-trout-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507261098
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ae9d422851d34341a00b5a9f2261d13e/artifacts
+end_time: 1757514856633
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ae9d422851d34341a00b5a9f2261d13e
+run_name: incongruous-owl-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514841134
+status: 3
+tags: []
+user_id: root

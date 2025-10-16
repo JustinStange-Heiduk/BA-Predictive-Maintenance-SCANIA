@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/db43147160a64780b1125c1be90b450e/artifacts
+end_time: 1757512658457
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: db43147160a64780b1125c1be90b450e
+run_name: thundering-lynx-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512655762
+status: 3
+tags: []
+user_id: root

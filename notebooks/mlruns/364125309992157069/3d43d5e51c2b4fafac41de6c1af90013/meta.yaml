@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3d43d5e51c2b4fafac41de6c1af90013/artifacts
+end_time: 1757512946400
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3d43d5e51c2b4fafac41de6c1af90013
+run_name: magnificent-deer-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512943748
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4d7b77a3e6564cd5a528e27d60f15829/artifacts
+end_time: 1757506370507
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4d7b77a3e6564cd5a528e27d60f15829
+run_name: capricious-colt-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506367601
+status: 3
+tags: []
+user_id: root

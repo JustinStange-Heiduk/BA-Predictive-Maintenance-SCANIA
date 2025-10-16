@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ac3423c8406346ddbb41ba344f62b56c/artifacts
+end_time: 1757509426110
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ac3423c8406346ddbb41ba344f62b56c
+run_name: persistent-moose-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509406960
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ea8fd85ef3914ab28a6d6a72f6ae0a90/artifacts
+end_time: 1757511745935
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ea8fd85ef3914ab28a6d6a72f6ae0a90
+run_name: blushing-stag-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511741786
+status: 3
+tags: []
+user_id: root

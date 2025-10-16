@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b09cd1a8d5f24b498bc501554530034d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b09cd1a8d5f24b498bc501554530034d
+run_name: fun-bass-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507799289
+status: 1
+tags: []
+user_id: root

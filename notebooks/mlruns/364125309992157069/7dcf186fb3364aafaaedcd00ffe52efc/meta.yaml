@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7dcf186fb3364aafaaedcd00ffe52efc/artifacts
+end_time: 1757510282188
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7dcf186fb3364aafaaedcd00ffe52efc
+run_name: unequaled-flea-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510266195
+status: 3
+tags: []
+user_id: root

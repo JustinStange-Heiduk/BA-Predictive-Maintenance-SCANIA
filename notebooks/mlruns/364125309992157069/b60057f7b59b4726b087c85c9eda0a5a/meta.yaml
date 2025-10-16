@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b60057f7b59b4726b087c85c9eda0a5a/artifacts
+end_time: 1757510834624
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b60057f7b59b4726b087c85c9eda0a5a
+run_name: wise-ape-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510823598
+status: 3
+tags: []
+user_id: root

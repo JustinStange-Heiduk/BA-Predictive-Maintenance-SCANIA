@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a40bd7f090754c3cbeb8b79bdb1a3e9e/artifacts
+end_time: 1757512283354
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a40bd7f090754c3cbeb8b79bdb1a3e9e
+run_name: entertaining-bee-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512278374
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/03df3675bf224ee890f768049e0bfb0a/artifacts
+end_time: 1757512797068
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 03df3675bf224ee890f768049e0bfb0a
+run_name: stately-panda-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512787582
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/e4541fd734e94ba89897a5d367e6c888/artifacts
+end_time: 1757512026597
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: e4541fd734e94ba89897a5d367e6c888
+run_name: casual-snake-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512020549
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/eb4414c374e9401ab09ff234ad7c413b/artifacts
+end_time: 1757506724669
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: eb4414c374e9401ab09ff234ad7c413b
+run_name: stately-pug-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506715245
+status: 3
+tags: []
+user_id: root

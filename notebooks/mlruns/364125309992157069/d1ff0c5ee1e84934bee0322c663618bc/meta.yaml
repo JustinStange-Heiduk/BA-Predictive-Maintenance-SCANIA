@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d1ff0c5ee1e84934bee0322c663618bc/artifacts
+end_time: 1757510702125
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d1ff0c5ee1e84934bee0322c663618bc
+run_name: redolent-goat-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510695938
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/6057ca63f0ec4cada6a616f664573dc7/artifacts
+end_time: 1757509888230
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 6057ca63f0ec4cada6a616f664573dc7
+run_name: nosy-colt-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509872497
+status: 3
+tags: []
+user_id: root

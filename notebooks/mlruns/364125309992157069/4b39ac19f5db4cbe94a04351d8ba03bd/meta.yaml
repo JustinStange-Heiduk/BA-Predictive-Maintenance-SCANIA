@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4b39ac19f5db4cbe94a04351d8ba03bd/artifacts
+end_time: 1757509467912
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4b39ac19f5db4cbe94a04351d8ba03bd
+run_name: trusting-grouse-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509462912
+status: 3
+tags: []
+user_id: root

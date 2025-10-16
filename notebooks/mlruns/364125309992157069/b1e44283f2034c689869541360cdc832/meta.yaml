@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b1e44283f2034c689869541360cdc832/artifacts
+end_time: 1757506484244
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b1e44283f2034c689869541360cdc832
+run_name: thoughtful-mouse-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506481311
+status: 3
+tags: []
+user_id: root

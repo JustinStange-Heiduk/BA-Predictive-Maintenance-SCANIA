@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/50d3a985d0324762b49f7edf997a9f06/artifacts
+end_time: 1757506308639
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 50d3a985d0324762b49f7edf997a9f06
+run_name: colorful-zebra-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506306193
+status: 3
+tags: []
+user_id: root

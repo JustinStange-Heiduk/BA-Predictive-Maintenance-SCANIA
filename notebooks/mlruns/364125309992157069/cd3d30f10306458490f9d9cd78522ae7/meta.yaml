@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cd3d30f10306458490f9d9cd78522ae7/artifacts
+end_time: 1757503602811
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cd3d30f10306458490f9d9cd78522ae7
+run_name: caring-goat-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757503502606
+status: 3
+tags: []
+user_id: root

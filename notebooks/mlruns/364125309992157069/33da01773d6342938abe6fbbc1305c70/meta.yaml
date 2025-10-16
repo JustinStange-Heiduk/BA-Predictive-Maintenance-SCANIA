@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/33da01773d6342938abe6fbbc1305c70/artifacts
+end_time: 1757507552409
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 33da01773d6342938abe6fbbc1305c70
+run_name: worried-lynx-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507549355
+status: 3
+tags: []
+user_id: root

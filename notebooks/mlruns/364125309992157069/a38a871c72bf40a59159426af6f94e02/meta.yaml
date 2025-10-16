@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a38a871c72bf40a59159426af6f94e02/artifacts
+end_time: 1757515161334
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a38a871c72bf40a59159426af6f94e02
+run_name: redolent-sloth-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515148596
+status: 3
+tags: []
+user_id: root

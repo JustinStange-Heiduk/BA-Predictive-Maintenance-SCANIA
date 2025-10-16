@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cfa79a2177164ed9a1716259ab07d7be/artifacts
+end_time: 1757514219699
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cfa79a2177164ed9a1716259ab07d7be
+run_name: glamorous-flea-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514214471
+status: 3
+tags: []
+user_id: root

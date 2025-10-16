@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/791c9abee399467dbd399a0b98223b87/artifacts
+end_time: 1757514745995
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 791c9abee399467dbd399a0b98223b87
+run_name: flawless-croc-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514735391
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a253fe62901241829dc9750a3d044bf3/artifacts
+end_time: 1757513891967
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a253fe62901241829dc9750a3d044bf3
+run_name: honorable-chimp-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513878197
+status: 3
+tags: []
+user_id: root

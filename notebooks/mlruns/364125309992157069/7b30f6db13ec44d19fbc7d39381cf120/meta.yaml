@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7b30f6db13ec44d19fbc7d39381cf120/artifacts
+end_time: 1757512323318
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7b30f6db13ec44d19fbc7d39381cf120
+run_name: awesome-cod-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512304840
+status: 3
+tags: []
+user_id: root

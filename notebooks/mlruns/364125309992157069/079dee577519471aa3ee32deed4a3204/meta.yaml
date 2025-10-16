@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/079dee577519471aa3ee32deed4a3204/artifacts
+end_time: 1757509862471
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 079dee577519471aa3ee32deed4a3204
+run_name: funny-bat-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509855077
+status: 3
+tags: []
+user_id: root

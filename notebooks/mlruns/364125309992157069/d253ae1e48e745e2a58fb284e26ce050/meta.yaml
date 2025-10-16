@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d253ae1e48e745e2a58fb284e26ce050/artifacts
+end_time: 1757511220554
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d253ae1e48e745e2a58fb284e26ce050
+run_name: agreeable-trout-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511216495
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/65551f85630e4fdebe2bb9334be8a39f/artifacts
+end_time: 1757508921137
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 65551f85630e4fdebe2bb9334be8a39f
+run_name: magnificent-wasp-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508900190
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/89b926500042479cbec1ff5fcb163f8b/artifacts
+end_time: 1757509442141
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 89b926500042479cbec1ff5fcb163f8b
+run_name: blushing-loon-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509426495
+status: 3
+tags: []
+user_id: root

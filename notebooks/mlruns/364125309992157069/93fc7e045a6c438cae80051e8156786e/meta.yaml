@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/93fc7e045a6c438cae80051e8156786e/artifacts
+end_time: 1757507475987
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 93fc7e045a6c438cae80051e8156786e
+run_name: gentle-kite-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507473480
+status: 3
+tags: []
+user_id: root

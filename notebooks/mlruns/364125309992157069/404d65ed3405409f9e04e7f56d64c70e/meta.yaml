@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/404d65ed3405409f9e04e7f56d64c70e/artifacts
+end_time: 1757513427744
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 404d65ed3405409f9e04e7f56d64c70e
+run_name: rogue-steed-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513420756
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/a1d4e18b19714df5b4df1dda7cb9891a/artifacts
+end_time: 1757504093217
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: a1d4e18b19714df5b4df1dda7cb9891a
+run_name: enthused-smelt-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757504080125
+status: 3
+tags: []
+user_id: root

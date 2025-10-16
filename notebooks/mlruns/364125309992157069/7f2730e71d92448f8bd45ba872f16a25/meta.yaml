@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7f2730e71d92448f8bd45ba872f16a25/artifacts
+end_time: 1757511096798
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7f2730e71d92448f8bd45ba872f16a25
+run_name: handsome-cow-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511062232
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ae140b8d08164336a87b29f14aeb6cec/artifacts
+end_time: 1757515081075
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ae140b8d08164336a87b29f14aeb6cec
+run_name: bemused-smelt-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515073905
+status: 3
+tags: []
+user_id: root

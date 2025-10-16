@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/da678c9ccf93412b850bd3ecbe86dda4/artifacts
+end_time: 1757514876504
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: da678c9ccf93412b850bd3ecbe86dda4
+run_name: shivering-frog-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514866818
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/433262ac261a49c39bba960fcab2dcff/artifacts
+end_time: 1757511571281
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 433262ac261a49c39bba960fcab2dcff
+run_name: magnificent-dog-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511563439
+status: 3
+tags: []
+user_id: root

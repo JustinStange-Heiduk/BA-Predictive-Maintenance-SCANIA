@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/ccf883aa8b2f40c8a4b04dfdd481bbed/artifacts
+end_time: 1757514290789
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: ccf883aa8b2f40c8a4b04dfdd481bbed
+run_name: fortunate-sloth-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514281336
+status: 3
+tags: []
+user_id: root

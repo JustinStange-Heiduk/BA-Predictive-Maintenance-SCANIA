@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/82dd7763a8c14e9c88e7a86e31e70726/artifacts
+end_time: 1757511605478
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 82dd7763a8c14e9c88e7a86e31e70726
+run_name: nebulous-mouse-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511593610
+status: 3
+tags: []
+user_id: root

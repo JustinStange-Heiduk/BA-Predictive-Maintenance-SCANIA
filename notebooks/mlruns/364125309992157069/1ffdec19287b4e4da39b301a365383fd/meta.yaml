@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1ffdec19287b4e4da39b301a365383fd/artifacts
+end_time: 1757510320139
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1ffdec19287b4e4da39b301a365383fd
+run_name: adventurous-kite-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510300617
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3b46034db3d4481c8b66373c1735cb5d/artifacts
+end_time: 1757512278144
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3b46034db3d4481c8b66373c1735cb5d
+run_name: efficient-koi-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512270448
+status: 3
+tags: []
+user_id: root

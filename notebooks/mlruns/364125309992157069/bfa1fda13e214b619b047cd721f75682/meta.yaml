@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/bfa1fda13e214b619b047cd721f75682/artifacts
+end_time: 1757513141209
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: bfa1fda13e214b619b047cd721f75682
+run_name: nebulous-duck-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513128536
+status: 3
+tags: []
+user_id: root

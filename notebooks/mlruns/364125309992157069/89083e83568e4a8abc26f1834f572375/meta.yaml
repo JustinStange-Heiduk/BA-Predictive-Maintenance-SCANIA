@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/89083e83568e4a8abc26f1834f572375/artifacts
+end_time: 1757513703303
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 89083e83568e4a8abc26f1834f572375
+run_name: salty-pug-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513695299
+status: 3
+tags: []
+user_id: root

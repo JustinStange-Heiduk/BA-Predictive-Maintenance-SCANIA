@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/8b804f57984946649ad512d7fcabb6b3/artifacts
+end_time: 1757514379082
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 8b804f57984946649ad512d7fcabb6b3
+run_name: worried-squirrel-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514366456
+status: 3
+tags: []
+user_id: root

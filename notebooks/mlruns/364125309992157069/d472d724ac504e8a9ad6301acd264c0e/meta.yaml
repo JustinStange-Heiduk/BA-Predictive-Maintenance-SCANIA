@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/d472d724ac504e8a9ad6301acd264c0e/artifacts
+end_time: 1757511635605
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: d472d724ac504e8a9ad6301acd264c0e
+run_name: omniscient-swan-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511623043
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/cc4544826e8c497093f9af254ed88608/artifacts
+end_time: 1757513366294
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: cc4544826e8c497093f9af254ed88608
+run_name: classy-toad-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513360360
+status: 3
+tags: []
+user_id: root

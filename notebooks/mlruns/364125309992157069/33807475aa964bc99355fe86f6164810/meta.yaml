@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/33807475aa964bc99355fe86f6164810/artifacts
+end_time: 1757514098423
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 33807475aa964bc99355fe86f6164810
+run_name: adorable-pug-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514087388
+status: 3
+tags: []
+user_id: root

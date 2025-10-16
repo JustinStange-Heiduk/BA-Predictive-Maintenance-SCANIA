@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2a7f7bd8065346738e316a6fd718ba7d/artifacts
+end_time: 1757506341770
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2a7f7bd8065346738e316a6fd718ba7d
+run_name: fortunate-panda-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506336649
+status: 3
+tags: []
+user_id: root

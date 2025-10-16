@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/62df24a6207541ed8871c0431ce45710/artifacts
+end_time: 1757511382538
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 62df24a6207541ed8871c0431ce45710
+run_name: receptive-shark-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511377946
+status: 3
+tags: []
+user_id: root

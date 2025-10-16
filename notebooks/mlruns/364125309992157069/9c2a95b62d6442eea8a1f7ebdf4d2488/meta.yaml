@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/9c2a95b62d6442eea8a1f7ebdf4d2488/artifacts
+end_time: 1757506294629
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 9c2a95b62d6442eea8a1f7ebdf4d2488
+run_name: peaceful-lynx-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506291600
+status: 3
+tags: []
+user_id: root

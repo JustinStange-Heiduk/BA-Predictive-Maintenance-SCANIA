@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/1ca90df7bd994362838359fa877e2dd4/artifacts
+end_time: 1757507579316
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 1ca90df7bd994362838359fa877e2dd4
+run_name: grandiose-gnat-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507576875
+status: 3
+tags: []
+user_id: root

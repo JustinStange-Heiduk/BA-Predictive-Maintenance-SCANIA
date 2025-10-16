@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/9a270607b76e40d785ec63bc6b634ec2/artifacts
+end_time: 1757514447350
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 9a270607b76e40d785ec63bc6b634ec2
+run_name: brawny-dove-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514435647
+status: 3
+tags: []
+user_id: root

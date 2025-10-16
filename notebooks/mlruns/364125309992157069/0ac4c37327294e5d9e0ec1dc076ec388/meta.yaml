@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0ac4c37327294e5d9e0ec1dc076ec388/artifacts
+end_time: 1757508074426
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0ac4c37327294e5d9e0ec1dc076ec388
+run_name: fun-grub-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508058100
+status: 3
+tags: []
+user_id: root

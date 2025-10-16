@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/82611ac5a589457d8de38e9848bfe8c1/artifacts
+end_time: 1757512444694
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 82611ac5a589457d8de38e9848bfe8c1
+run_name: casual-gnu-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512433976
+status: 3
+tags: []
+user_id: root

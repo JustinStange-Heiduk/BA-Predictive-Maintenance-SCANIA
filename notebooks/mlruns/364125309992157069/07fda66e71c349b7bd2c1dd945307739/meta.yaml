@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/07fda66e71c349b7bd2c1dd945307739/artifacts
+end_time: 1757513686396
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 07fda66e71c349b7bd2c1dd945307739
+run_name: placid-boar-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513677681
+status: 3
+tags: []
+user_id: root

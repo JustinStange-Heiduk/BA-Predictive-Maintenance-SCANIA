@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f396c95da9734a02b03c8774605d2409/artifacts
+end_time: 1757506756799
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f396c95da9734a02b03c8774605d2409
+run_name: ambitious-koi-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506754241
+status: 3
+tags: []
+user_id: root

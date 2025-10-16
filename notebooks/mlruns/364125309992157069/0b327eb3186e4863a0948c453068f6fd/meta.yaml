@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/0b327eb3186e4863a0948c453068f6fd/artifacts
+end_time: 1757512459775
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 0b327eb3186e4863a0948c453068f6fd
+run_name: abrasive-crane-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512450966
+status: 3
+tags: []
+user_id: root

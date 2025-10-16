@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b0da3d57a95a40fba01a1a5eafd1e794/artifacts
+end_time: 1757510797704
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b0da3d57a95a40fba01a1a5eafd1e794
+run_name: industrious-goat-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510744092
+status: 3
+tags: []
+user_id: root

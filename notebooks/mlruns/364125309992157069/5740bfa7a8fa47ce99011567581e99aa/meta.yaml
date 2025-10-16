@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/5740bfa7a8fa47ce99011567581e99aa/artifacts
+end_time: 1757504079820
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 5740bfa7a8fa47ce99011567581e99aa
+run_name: classy-steed-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757504068653
+status: 3
+tags: []
+user_id: root

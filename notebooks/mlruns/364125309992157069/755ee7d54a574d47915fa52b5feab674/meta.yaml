@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/755ee7d54a574d47915fa52b5feab674/artifacts
+end_time: 1757513179448
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 755ee7d54a574d47915fa52b5feab674
+run_name: abundant-fly-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757513173567
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/f5c337cda2cf47ce8c3beda2f2fec88f/artifacts
+end_time: 1757514489507
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: f5c337cda2cf47ce8c3beda2f2fec88f
+run_name: sassy-eel-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514476712
+status: 3
+tags: []
+user_id: root

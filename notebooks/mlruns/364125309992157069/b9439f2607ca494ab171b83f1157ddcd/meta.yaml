@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/b9439f2607ca494ab171b83f1157ddcd/artifacts
+end_time: 1757511622740
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: b9439f2607ca494ab171b83f1157ddcd
+run_name: invincible-lark-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511614827
+status: 3
+tags: []
+user_id: root

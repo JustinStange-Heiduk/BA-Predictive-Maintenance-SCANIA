@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2925617971b04618bf115cdd934c08c9/artifacts
+end_time: 1757509867333
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2925617971b04618bf115cdd934c08c9
+run_name: rare-kite-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509862799
+status: 3
+tags: []
+user_id: root

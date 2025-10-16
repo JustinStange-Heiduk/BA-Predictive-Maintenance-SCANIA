@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/97919fbc6a084961951ac3d50b68ba4a/artifacts
+end_time: 1757509229351
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 97919fbc6a084961951ac3d50b68ba4a
+run_name: clean-grub-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757509224248
+status: 3
+tags: []
+user_id: root

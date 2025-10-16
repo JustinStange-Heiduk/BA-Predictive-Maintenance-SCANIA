@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/36a6e1f96422419a83a83d763479518f/artifacts
+end_time: 1757510705041
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 36a6e1f96422419a83a83d763479518f
+run_name: legendary-whale-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510702361
+status: 3
+tags: []
+user_id: root

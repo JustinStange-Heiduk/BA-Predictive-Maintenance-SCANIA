@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/7e8554a54307468fa5bd67fcfb4fc1a8/artifacts
+end_time: 1757511377650
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 7e8554a54307468fa5bd67fcfb4fc1a8
+run_name: welcoming-finch-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511373113
+status: 3
+tags: []
+user_id: root

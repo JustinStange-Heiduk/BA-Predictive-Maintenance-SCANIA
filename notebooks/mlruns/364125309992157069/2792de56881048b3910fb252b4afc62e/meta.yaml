@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2792de56881048b3910fb252b4afc62e/artifacts
+end_time: 1757507498816
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2792de56881048b3910fb252b4afc62e
+run_name: serious-hen-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507495587
+status: 3
+tags: []
+user_id: root

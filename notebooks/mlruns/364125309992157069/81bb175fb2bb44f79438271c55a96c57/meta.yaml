@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/81bb175fb2bb44f79438271c55a96c57/artifacts
+end_time: 1757506545899
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 81bb175fb2bb44f79438271c55a96c57
+run_name: adaptable-grub-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757506539915
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/019679a9d4f64714aa12bbb0ca903442/artifacts
+end_time: 1757511592684
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 019679a9d4f64714aa12bbb0ca903442
+run_name: whimsical-foal-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511576589
+status: 3
+tags: []
+user_id: root

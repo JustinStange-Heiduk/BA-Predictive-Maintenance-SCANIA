@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/860988cfc32d4e4c96db5d924b2991e2/artifacts
+end_time: 1757507224798
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 860988cfc32d4e4c96db5d924b2991e2
+run_name: gifted-skunk-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507221813
+status: 3
+tags: []
+user_id: root

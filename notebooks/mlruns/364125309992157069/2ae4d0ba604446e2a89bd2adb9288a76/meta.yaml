@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2ae4d0ba604446e2a89bd2adb9288a76/artifacts
+end_time: 1757514024118
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2ae4d0ba604446e2a89bd2adb9288a76
+run_name: unruly-trout-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757514010766
+status: 3
+tags: []
+user_id: root

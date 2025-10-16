@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/29f23bfcaaab4937ad575426a4a57518/artifacts
+end_time: 1757507608596
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 29f23bfcaaab4937ad575426a4a57518
+run_name: spiffy-eel-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507605607
+status: 3
+tags: []
+user_id: root

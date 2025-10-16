@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/4783c72e75cb47db99007ee93fe1fe9f/artifacts
+end_time: 1757512236712
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 4783c72e75cb47db99007ee93fe1fe9f
+run_name: incongruous-fox-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512219608
+status: 3
+tags: []
+user_id: root

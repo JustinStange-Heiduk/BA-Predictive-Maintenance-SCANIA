@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/3a79088aa0674f7695d479798048aabe/artifacts
+end_time: 1757512738667
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 3a79088aa0674f7695d479798048aabe
+run_name: defiant-colt-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512734743
+status: 3
+tags: []
+user_id: root

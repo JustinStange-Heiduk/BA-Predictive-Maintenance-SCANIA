@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/notebooks/mlruns/364125309992157069/2f1f4e50d59b49f08f6b5b4d7c3cc68e/artifacts
+end_time: 1757508190353
+entry_point_name: ''
+experiment_id: '364125309992157069'
+lifecycle_stage: active
+run_id: 2f1f4e50d59b49f08f6b5b4d7c3cc68e
+run_name: thoughtful-shrew-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508187124
+status: 4
+tags: []
+user_id: root
