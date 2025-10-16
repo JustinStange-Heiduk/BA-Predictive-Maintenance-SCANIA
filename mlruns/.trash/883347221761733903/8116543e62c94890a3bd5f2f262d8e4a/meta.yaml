@@ -1,8 +1,9 @@
 artifact_uri: file:///workspace/notebooks/mlruns/883347221761733903/8116543e62c94890a3bd5f2f262d8e4a/artifacts
+deleted_time: 1758718622639
 end_time: 1757350081795
 entry_point_name: ''
 experiment_id: '883347221761733903'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8116543e62c94890a3bd5f2f262d8e4a
 run_name: RSF_final
 source_name: ''

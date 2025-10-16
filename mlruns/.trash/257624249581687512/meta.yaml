@@ -1,6 +1,7 @@
 artifact_location: file:///workspace/mlruns/257624249581687512
 creation_time: 1757350703058
 experiment_id: '257624249581687512'
-last_update_time: 1757350703058
-lifecycle_stage: active
+last_update_time: 1758718615943
+lifecycle_stage: deleted
 name: AFT_HPO_TOTALCOST
+tags: {}

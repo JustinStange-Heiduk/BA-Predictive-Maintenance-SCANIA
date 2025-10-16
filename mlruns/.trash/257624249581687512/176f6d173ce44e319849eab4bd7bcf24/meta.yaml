@@ -1,8 +1,9 @@
 artifact_uri: file:///workspace/mlruns/257624249581687512/176f6d173ce44e319849eab4bd7bcf24/artifacts
+deleted_time: 1758718615943
 end_time: 1757350706131
 entry_point_name: ''
 experiment_id: '257624249581687512'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 176f6d173ce44e319849eab4bd7bcf24
 run_name: serious-doe-715
 source_name: ''

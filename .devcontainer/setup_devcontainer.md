@@ -42,7 +42,7 @@ Alternativ:
 Die globale Git-Konfiguration wird automatisch beim ersten Start gesetzt – durch diesen Befehl in `.devcontainer/devcontainer.json`:
 
 ```json
-"postCreateCommand": "git config --global user.name 'Justin Stange-Heiduk' && git config --global user.email 'JustinHeiduk_99@web.de' && pip install -r requirements.txt"
+"postCreateCommand": "git config --global user.name '<>' && git config --global user.email '<>' && pip install -r requirements.txt"
 ```
 
 Damit sind dein Name und deine E-Mail für Commits korrekt hinterlegt, und alle Python-Abhängigkeiten aus `requirements.txt` werden installiert.

@@ -19,3 +19,5 @@ data/08_reporting/*
 !data/08_reporting/.gitkeep
 
 !env/.env
+
+!Müll

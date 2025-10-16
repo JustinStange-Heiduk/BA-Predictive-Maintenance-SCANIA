@@ -1,4 +1,4 @@
-# 🚛 SCANIA Component X – Predictive Maintenance Projekt
+# SCANIA Component X – Predictive Maintenance Projekt
 
 ## 1. Überblick
 
@@ -38,8 +38,6 @@ data/01_raw/
 ├── test_operational_readouts.csv
 ├── test_labels.csv
 
-yaml
-Code kopieren
 
 ---
 
@@ -63,7 +61,7 @@ Die Daten werden in mehreren Stufen verarbeitet:
 ## 4. Modellierung
 
 ### Feature Engineering
-- Sliding Windows (Größe: 4, 8, 16, 32, 64)
+- Sliding Windows (Größe: 8)
 - **tsfresh** Feature-Extraktion (MinimalFCParameters)
 - Feature Selection via Kendall’s τ und Pearson-Korrelation
 
@@ -96,14 +94,13 @@ Die Daten werden in mehreren Stufen verarbeitet:
 Alle Trainings- und Evaluierungsläufe werden mit **MLflow** protokolliert.  
 Start der UI:
 
-```bash
 mlflow ui --backend-store-uri ./mlruns --host 0.0.0.0 --port 5000
+
 7. Deployment
 Das Projekt enthält eine interaktive Streamlit-App (src/app.py):
 
-bash
-Code kopieren
 streamlit run /workspace/src/app.py
+
 Features:
 
 CSV-Upload eines einzelnen Readouts
@@ -119,8 +116,7 @@ Entscheidung basierend auf Kostenmatrix oder Argmax
 GPT-gestützte Erklärungen der Modellentscheidung
 
 8. Projektstruktur
-bash
-Code kopieren
+
 .
 ├── data/                 # Datenpipeline (01_raw – 08_reporting)
 ├── notebooks/            # Jupyter Notebooks (EDA, Modeling, Evaluation, Deployment)
@@ -136,12 +132,11 @@ Code kopieren
 ├── docker-compose.yml    # Orchestrierung
 ├── requirements.txt      # Python Dependencies
 └── README.md             # Projektdokumentation
+
 9. Reproduzierbarkeit & Container
 Das gesamte Projekt kann mit Docker ausgeführt werden:
-
-bash
-Code kopieren
 docker-compose up --build
+
 10. Lizenz
 Daten: CC BY 4.0 (SCANIA Component X Dataset, SND)
 

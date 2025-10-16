@@ -1,6 +1,7 @@
 artifact_location: file:///workspace/notebooks/mlruns/883347221761733903
 creation_time: 1757350067540
 experiment_id: '883347221761733903'
-last_update_time: 1757350067540
-lifecycle_stage: active
+last_update_time: 1758718622639
+lifecycle_stage: deleted
 name: RSF_final
+tags: {}

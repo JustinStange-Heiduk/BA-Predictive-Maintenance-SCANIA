@@ -15,6 +15,6 @@
     "mhutchie.git-graph",                // Optional: visuelle Git-Verläufe
     "GitHub.vscode-pull-request-github"  // Für PRs und Repo-Integration
   ],
-  "postCreateCommand": "git config --global user.name 'Justin Stange-Heiduk' && git config --global user.email 'JustinHeiduk_99@web.de' && pip install -r requirements.txt",
+  "postCreateCommand": "pip install -r requirements.txt",
   "remoteUser": "root"
 }
