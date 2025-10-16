@@ -131,8 +131,9 @@ GPT-gestützte Erklärungen der Modellentscheidung
 ├── env/.env              # API Keys (nicht versioniert)
 ├── Dockerfile            # Container-Build
 ├── docker-compose.yml    # Orchestrierung
+├── README.md             # Projektdokumentation
 ├── requirements.txt      # Python Dependencies
-└── README.md             # Projektdokumentation
+└── streamlit_test_data.csv   # Test Data for Streamlit app
 ```
 
 9. Reproduzierbarkeit & Container
